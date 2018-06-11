@@ -5,69 +5,57 @@ from sklearn.svm import SVC
 import pandas
 from keras.models import Sequential
 from keras.layers import Dense
-from keras.wrappers.scikit_learn import KerasClassifier
-from keras.utils import np_utils
-from sklearn.model_selection import cross_val_score
-from sklearn.model_selection import KFold
-from sklearn.preprocessing import LabelEncoder
-
+from keras.utils import to_categorical
 
 # random seed for reproducibility
 seed = 0
 
 
-# define baseline model
-def baseline_model():
-    # create model
-    model = Sequential()
-    model.add(Dense(40, input_dim=100, activation='relu'))
-    model.add(Dense(10, activation='softmax'))
-    # Compile model
-    model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-    return model
-
-
-def svcVersion(X, Y):
+def svcVersion(x, y):
+    msk = np.random.rand(len(x)) < 0.8
+    x_train = x[msk]
+    x_test = x[~msk]
+    y_train = y[msk]
+    y_test = y[~msk]
     classifier = SVC(kernel='linear', verbose=True)
-    classifier.fit(X, Y)
-    dataframe = pandas.read_csv("testset.csv", header=None)
-    dataset = dataframe.values
-    Xtest = dataset[:, 0:100].astype(float)
-    Ytest = dataset[:, 100].astype(int)
-    accuracy = classifier.score(Xtest, Ytest)
+    classifier.fit(x_train, y_train)
+    accuracy = classifier.score(x_test, y_test)
 
     print("W zbiorze testowym {n}% przypadków zostało poprawnie zaklasyfikowanych!".format(
         n=100. * accuracy))
 
 
-def sequentialModelVersion(X, Y):
-    # encode class values as integers
-    encoder = LabelEncoder()
-    encoder.fit(Y)
-    encoded_Y = encoder.transform(Y)
-    # convert integers to dummy variables (i.e. one hot encoded)
-    dummy_y = np_utils.to_categorical(encoded_Y)
-    estimator = KerasClassifier(build_fn=baseline_model, epochs=400, batch_size=10, verbose=0)
-    kfold = KFold(n_splits=10, shuffle=True, random_state=seed)
-    results = cross_val_score(estimator, X, dummy_y, cv=kfold, verbose=1)
-    print("Baseline: %.2f%% (%.2f%%)" % (results.mean() * 100, results.std() * 100))
+def sequentialModelVersion(x, y):
+    y_binary = to_categorical(y)
+    msk = np.random.rand(len(x)) < 0.8
+    x_train = x[msk]
+    x_test = x[~msk]
+    y_train = y_binary[msk]
+    y_test = y_binary[~msk]
+    model = Sequential()
+    model.add(Dense(500, input_dim=100, activation='relu'))
+    model.add(Dense(100, activation='relu'))
+    model.add(Dense(10, activation='softmax'))
+    model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+    model.fit(x_train, y_train, epochs=500, batch_size=10, verbose=2)
+    scores = model.evaluate(x_test, y_test)
+    print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 
 def main():
     np.random.seed(seed)
 
     # load dataset
-    dataframe = pandas.read_csv("learnset.csv", header=None)
+    dataframe = pandas.read_csv("dataSet.csv", header=None)
     dataset = dataframe.values
-    X = dataset[:, 0:100].astype(float)
-    Y = dataset[:, 100]
-    Y2 = dataset[:, 100].astype(int)
+    x = dataset[:, 0:100].astype(float)
+    y = dataset[:, 100]
+    y2 = dataset[:, 100].astype(int)
 
     print('Starting:' + str(datetime.now()))
-    # sequentialModelVersion(X, Y)
-    svcVersion(X, Y2) # acc = 44%
+    sequentialModelVersion(x, y) # 49,50 for 150 epochs
+    # svcVersion(x, y2) # acc = 38,6%
     print('Finished: ', str(datetime.now()))
-
 
 
 if __name__ == '__main__':
