@@ -1,0 +1,88 @@
+Wielki program budownictwa mieszkaniowego z błogosławieństwem państwa i na państwowych gruntach miał być koronnym dowodem na to, że władza Prawa i Sprawiedliwości pokonała powszechny imposybilizm i dokonała cudu w obszarze, w którym zaniedbania sięgały kilkudziesięciu lat. Dziś już wiemy, że program okazał się klęską, barier biurokratycznych pokonać się nie udało, a mieszkania w ramach programu nawet jeśli powstaną to ani nie w obiecywanej ilości, ani nie w obiecywanej cenie. Co gorsza, na jaw wychodzą sztuczki władzy, która jako swój sukces próbuje przedstawiać inwestycje samorządu. Wszystko po to, by pochwalić się czymkolwiek, o czym rządowa TVP będzie mogła trąbić w ramach uprawianej codziennie propagandy sukcesu.Po ostatnich medialnych doniesieniach o oddawanych do użytku mieszkaniach w ramach programu, eksperci zaczęli weryfikować jak to z tymi “mieszkaniami plus” jest. Przypomnijmy, najpierw w ramach Mieszkania Plus, w gminie Jarocin w województwie wielkopolskim, lokalny TBS wybudował pierwsze 96 lokali. Czynszowych, bez możliwości wykupu. Teraz, mieszkania w ramach rządowego programu zostały wybudowane w Białej Podlaskiej.– Oddawane są pierwsze mieszkania budowane przez BGK Nieruchomości, czyli finansowane przez Bank Gospodarstwa Krajowego. Prawdopodobnie są to pieniądze, które jeszcze poprzedni rząd zagospodarował na program mieszkań na wynajem i teraz są one transferowane na budowę nieruchomości w ramach bardzo szeroko rozumianego programu Mieszkanie Plus – wyjaśnił w rozmowie z TOK FM dr Adam Czerniak, ekspert  w dziedzinie funkcjonowania rynku nieruchomości ze Szkoły Głównej Handlowej. – To jest trochę na siłę wpychanie realizowanych już inwestycji mieszkaniowych pod program Mieszkanie Plus, żeby wykazać, że coś w ramach tego programu jest już oddawane do użytku – dodał specjalista.Jak się okazuje, w Białej Podlaskiej mieszkania były przygotowywane jako mieszkania komunalne jeszcze zanim wszedł w życie rządowy program, a w Jarocinie mieszkania czynszowe to flagowy projekt tamtejszego burmistrza. Rząd pokazuje je jako swoje, bo po prostu nie ma się czym pochwalić. Co gorsza, by ratować swój wizerunek i cel w postaci liczby oddanych nowych mieszkań na rok, resort budownictwa forsuje ustawę, którą specjaliści rynku budowlanego ochrzcili już mianem “Lex Deweloper”, bowiem jest ona gigantycznym ukłonem w kierunku deweloperów i otwiera im masę nowych możliwości budowy nowych osiedli wbrew samorządom. Jeśli wejdzie w życie w obecnym kształcie, chaos urbanistyczny jest murowany.Co ciekawe, w przypadku oddawanych do użytku mieszkań, ponoć w programie “Mieszkanie Plus” sam stan mieszkań również różni się od deklarowanego przez rządzących. Mieszkania są w stanie deweloperskim (zamiast “pod klucz”), więc już na początku generują koszty szczęśliwym najemcom. Dodatkowo okazuje się, że mieszkań z opcją wykupu jeszcze nie ma, a Ci którzy “wygrali” mieszkania w Białej Podlaskiej może co najwyżej liczyć na pierwszeństwo w podpisaniu umowy o dochodzeniu do własności. Na jakich to będzie się odbywało warunkach nikt nie jest w stanie dzisiaj powiedzieć. Rząd zrobił nabywców w konia? Na to niestety wygląda.–  Nie wiadomo po jakiej cenie, nie wiadomo w jakim terminie, nie wiadomo w jakim trybie. A te osoby już będą musiały włożyć pieniądze w to, żeby te mieszkania wykończyć – mówił dr Czerniak. Zaznaczył, że niektórzy widząc nowe warunki z możliwości najmu zrezygnowali.Żadną rekompensatą wyeliminowania mieszkań z opcją dochodzenia do własności nie będą też dopłaty do czynszu, bo przecież w tym kierunku ewoluuje rządowy program. Dopłaty będą niskie i tymczasowe. Zupełnie nie tak to miało wyglądać i kompletnie odwrotnie zostanie przedstawione w mediach narodowych. No ale z tym, to już chyba pora się pogodzić.Źródło: TOK FMFot. KPRMPOLUB NAS NA FACEBOOKU
+		if(typeof(jQuery)=="undefined")
+			jQuery=window.parent.jQuery;
+		if(typeof(like_box_animated_element)=="undefined")
+			like_box_animated_element=window.parent.like_box_animated_element;
+		if(typeof(like_box_set_width_cur_element)=="undefined")
+			like_box_set_width_cur_element=window.parent.like_box_animated_element;		
+		jQuery(document).ready(function(){
+			document.getElementById("facbook_like_box_1").style.visibility="visible"
+			like_box_set_width_cur_element("facbook_like_box_1",500)
+			});
+
+
+Facebook Comments
+
+
+
+Tweet
+
+
+
+
+Share
+0
+
+
+
+
+Reddit
+
+
+
+
++1
+
+
+
+
+Pocket
+
+
+
+
+LinkedIn
+0
+
+Czytasz nas? Podobają Ci się zamieszczane przez nas treści?
+Wesprzyj nas swoją wpłatą.
+Wpłacając pomagasz budować Crowd Media - wolne media, które patrzą władzy na ręce.
+
+WPŁAĆ
+Michał Kuczyński - Absolwent Uniwersytetu Wrocławskiego. Z zamiłowania bloger i autor tekstów o charakterze publicystycznym. Interesuje się polityką i ekonomią. Prywatnie miłośnik piłki nożnej, muzyki rockowej i dobrego kina. Niegdyś zapalony wiolonczelista.
+Zapraszam na mojego Twittera - @KuczynskiM
+dwa
+ × 
+
+ = 
+osiemnaście
+
+
+
+
+
+							.hide-if-no-js {
+								display: none !important;
+							}
+						
+
+
+Walimy prosto z mostu. Konkretnie i bez owijania w bawełnę o wydarzeniach w Polsce i na świecie. Każdy może dla nas pisać.
+ -
+                                1 hour ago                            
+
+ -
+                                3 hours ago                            
+Prochy ostatnich przedwojennych właścicieli dóbr żywieckich - Karola Olbrachta Habsburga i żony Alicji Ankarcrony - chcą w stulecie odzyskania niepodległości sprowadzić ze Szwecji do Żywca władze miasta. Lokalne władze szwedzkie się na to jednak nie zgodziły.Habsburgowie wyemigrowali po wojnie do Szwecji i tam po śmierci zostali pochowani.
+Chcielibyśmy, aby na stulecie odzyskania przez Polskę niepodległości prochy ostatnich przedwojennych właścicieli dóbr żywieckich spoczęły w rodzinnej krypcie w naszej konkatedrze. W Szwecji w naszym imieniu występował konsul RP, ale władze regionu sztokholmskiego nie zgodziły się na przeniesienie. Odwołanie nie przyniosło skutku, więc sprawa trafiła do tamtejszego sądu administracyjnego - powiedział w poniedziałek burmistrz Antoni Szlagor. Samorządowiec podkreślił, że miasto nie zamierza rezygnować. Chcemy, aby żywieccy Habsburgowie spoczęli w rodzinnej ziemi, nawet jeśli stanie się to później niż w tym roku, gdy przypada stulecie odzyskania niepodległości oraz 750-lecie Żywca - powiedział Szlagor. Zgodę na przeniesienie prochów rodziców do Polski wyraziło dwoje żyjących dzieci: Renata Maria oraz Karol Stefan.\
+
+Prochy byłyby złożone w rodzinnej krypcie
+
+Prochy Habsburgów po powrocie zostałyby złożone w ich rodzinnej krypcie w żywieckiej konkatedrze. Spoczywają tam już rodzice arcyksiążęcej pary - Karol Stefan i Maria Teresa, a także ich dzieci - Olbracht Maksymilian oraz Maria Krystyna, która wróciła z emigracji i zmarła w Żywcu 2 października 2012 r.
+Żywieccy Habsburgowie są blisko spokrewnieni z domem panującym niegdyś w Wiedniu, w tym z cesarzem Franciszkiem Józefem I. Mają wspólnego przodka, cesarza Leopolda II. Dobra żywieckie trafiły w ręce Habsburgów w 1838 r. Od Wielopolskich odkupił je arcyksiążę Karol Ludwik. W 1895 r. odziedziczył je arcyksiążę Karol Stefan Habsburg, który zapoczątkował żywiecką linię rodu. To oni wybudowali w mieście m.in. browar, współcześnie jeden z największych w Polsce, a także pałac. Ostatnimi przedwojennymi właścicielami dóbr był arcyksiążę Karol Olbracht Habsburg z małżonką szwedzką księżną Alicją Ankarcroną. Oboje byli przywiązani do polskości, finansowali wiele przedsięwzięć kulturalnych, naukowych, towarzystw i organizacji społecznych. Arcyksiążę był pułkownikiem Wojska Polskiego. Po 1939 r. nie podpisał volkslisty, za co był więziony przez Niemców. Księżna złożyła przysięgę AK. Za działalność w konspiracji została uhonorowana Krzyżem Walecznych. Niemcy stosowali wobec Habsburgów z Żywca represje. Zarekwirowali ich majątek.
+
+Emigracja po wojnie
+
+ Po wojnie żywieccy Habsburgowie: rodzice - Karol Olbracht i Alicja, oraz dzieci - Maria Krystyna, Renata Maria i Karol Stefan, wyemigrowali. Władze komunistyczne odebrały im polskie obywatelstwa. W marcu 1993 r. księżna Maria Krystyna ponownie otrzymała paszport Rzeczypospolitej Polskiej. Do kraju na stałe powróciła we wrześniu 2001 r. Zamieszkała w dawnej żywieckiej posiadłości Habsburgów, w niewielkim mieszkaniu, w miejscu, gdzie przed wojną była kręgielnia. Zmarła w wieku 88 lat.
+(ł)
+Habsburgowie wyemigrowali po wojnie do Szwecji i tam po śmierci zostali pochowani.Chcielibyśmy, aby na stulecie odzyskania przez Polskę niepodległości prochy ostatnich przedwojennych właścicieli dóbr żywieckich spoczęły w rodzinnej krypcie w naszej konkatedrze. W Szwecji w naszym imieniu występował konsul RP, ale władze regionu sztokholmskiego nie zgodziły się na przeniesienie. Odwołanie nie przyniosło skutku, więc sprawa trafiła do tamtejszego sądu administracyjnego - powiedział w poniedziałek burmistrz Antoni Szlagor. Samorządowiec podkreślił, że miasto nie zamierza rezygnować. Chcemy, aby żywieccy Habsburgowie spoczęli w rodzinnej ziemi, nawet jeśli stanie się to później niż w tym roku, gdy przypada stulecie odzyskania niepodległości oraz 750-lecie Żywca - powiedział Szlagor. Zgodę na przeniesienie prochów rodziców do Polski wyraziło dwoje żyjących dzieci: Renata Maria oraz Karol Stefan.\Prochy Habsburgów po powrocie zostałyby złożone w ich rodzinnej krypcie w żywieckiej konkatedrze. Spoczywają tam już rodzice arcyksiążęcej pary - Karol Stefan i Maria Teresa, a także ich dzieci - Olbracht Maksymilian oraz Maria Krystyna, która wróciła z emigracji i zmarła w Żywcu 2 października 2012 r.Żywieccy Habsburgowie są blisko spokrewnieni z domem panującym niegdyś w Wiedniu, w tym z cesarzem Franciszkiem Józefem I. Mają wspólnego przodka, cesarza Leopolda II. Dobra żywieckie trafiły w ręce Habsburgów w 1838 r. Od Wielopolskich odkupił je arcyksiążę Karol Ludwik. W 1895 r. odziedziczył je arcyksiążę Karol Stefan Habsburg, który zapoczątkował żywiecką linię rodu. To oni wybudowali w mieście m.in. browar, współcześnie jeden z największych w Polsce, a także pałac. Ostatnimi przedwojennymi właścicielami dóbr był arcyksiążę Karol Olbracht Habsburg z małżonką szwedzką księżną Alicją Ankarcroną. Oboje byli przywiązani do polskości, finansowali wiele przedsięwzięć kulturalnych, naukowych, towarzystw i organizacji społecznych. Arcyksiążę był pułkownikiem Wojska Polskiego. Po 1939 r. nie podpisał volkslisty, za co był więziony przez Niemców. Księżna złożyła przysięgę AK. Za działalność w konspiracji została uhonorowana Krzyżem Walecznych. Niemcy stosowali wobec Habsburgów z Żywca represje. Zarekwirowali ich majątek. Po wojnie żywieccy Habsburgowie: rodzice - Karol Olbracht i Alicja, oraz dzieci - Maria Krystyna, Renata Maria i Karol Stefan, wyemigrowali. Władze komunistyczne odebrały im polskie obywatelstwa. W marcu 1993 r. księżna Maria Krystyna ponownie otrzymała paszport Rzeczypospolitej Polskiej. Do kraju na stałe powróciła we wrześniu 2001 r. Zamieszkała w dawnej żywieckiej posiadłości Habsburgów, w niewielkim mieszkaniu, w miejscu, gdzie przed wojną była kręgielnia. Zmarła w wieku 88 lat.(ł)Nie przegap ważnej informacjiSkorzystaj z naszego bota >>   Korzystanie z portalu oznacza akceptację Regulaminu. Polityka Cookies. Prywatność. Copyright by Radio Muzyka Fakty Grupa RMF sp. z o.o. sp. k. 2009-2018. Wszystkie prawa zastrzeżone.

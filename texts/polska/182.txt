@@ -1,0 +1,65 @@
+279- Zmiany w polityce społecznej, to coś co chcemy podkreślać, co uważamy za nasz największy sukces - powiedział szef Komitetu Stałego Rady Ministrów Jacek Sasin podczas niedzielnego spotkania z mieszkańcami podwarszawskich Łomianek. 
+
+Zdjęcie
+
+
+
+
+Szef komitetu stałego Rady Ministrów Jacek Sasin podczas spotkania z mieszkańcami podwarszawskich Łomianek
+/	Tomasz Gzell   /PAP
+
+
+Sasin podkreślił, że rząd PiS podjął się wielu zmian w zakresie polityki społecznej. "To jest coś, co chcemy szczególnie podkreślać, co uważamy za nasz największy sukces" - dodał.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            } W tym kontekście polityk PiS przypomniał m.in. program Rodzina 500 Plus, który jest - według niego - bardzo ambitnym, ale i kosztownym programem, wynoszącym rocznie ponad 20 mld złotych.
+  Kolejnym programem, który - jak zadeklarował Sasin - rząd chce rozwijać, jest program "Mieszkanie plus". "To jest drugi obszar, który jest wskazywany dzisiaj przez Polaków jako ten obszar, gdzie są wielkie oczekiwania, które niespełnione, jak dotychczas, powodują, że rodziny często nie decydują się na posiadanie większej liczby dzieci, niż jedno, obawiając się braku dachu nad głową" - mówił polityk. 
+  Przypomniał, że niedawno premier Mateusz Morawiecki uczestniczył w uroczystości oddania mieszkań z tego programu w Białej Podlaskiej. "Takich uroczystości będzie oczywiście w najbliższym czasie więcej" - zapowiedział Sasin.
+  Szef Komitet Stałego RM wspomniał też o obniżeniu wieku emerytalnego i uszczelnieniu systemu podatkowego; przyznał jednak, że rządzącym nie udało się w dalszym ciągu zrównoważyć budżetu państwa. Pomimo tego - podkreślił - rząd planuje kolejne działania w wielu obszarach, takie jak projekt 300-złotowej wyprawki dla każdego ucznia oraz działania skierowane do osób niepełnosprawnych.
+  Sasin powiedział, że oprócz spraw społecznych, rząd chce również zająć się sprawą walki o czyste powietrze. "Polska jest jednym z tych krajów, który został wskazany przez instytucje europejskie jako kraj, który posiada najbardziej zanieczyszczone powietrze" - wskazał polityk. Dlatego też - jak dodał - rząd zaproponował wieloletni program termomodernizacji budynków.
+  Kolejną kwestią, poruszoną przez Sasina, był rozwój infrastruktury. "W ostatnich latach poczyniliśmy spore postępy jeśli chodzi o budowę dróg krajowych i autostrad, ale zapomnieliśmy, jako kraj, nieco chyba o potrzebach, jakie pociągają za sobą drogi lokalne, gminne i powiatowe" - zaznaczył.
+ W jego ocenie przerzucanie tego problemu na samorząd nie przyniesie oczekiwanych efektów. "Stąd chcemy tworzyć i utworzymy już jesienią tego roku specjalny fundusz skierowany właśnie do samorządów" - przypomniał polityk Prawa i Sprawiedliwości.
+  Sasin przekonywał też, że rząd cały czas ma na uwadze potrzeby seniorów. "Również ta grupa społeczna oczekuje działań z naszej strony i będziemy chcieli również takie rozwiązania jeszcze przed najbliższymi wyborami parlamentarnymi zaproponować" - zadeklarował.
+  Szef Komitetu Stałego Rady Ministrów mówił też, że rząd chce rozwijać program bezpłatnych leków dla seniorów powyżej 75 roku życia. "Chcemy dokładać do tej listy bezpłatnych leków kolejne medykamenty" - zaznaczył.
+  "Chcemy zmieniać instytucje państwa, będziemy na pewno dyskutować nad administracją, bo myślę, że tutaj mamy jeszcze bardzo wiele do zrobienia" - przekonywał Sasin.
+  Niedzielne spotkanie odbyło się w ramach zapowiedzianego podczas kwietniowej konwencji Zjednoczonej Prawicy przez prezesa PiS Jarosława Kaczyńskiego objazdu po kraju czołowych polityków obozu rządzącego pod hasłem "Polska jest jedna".
+
+Wideo
+
+var xlink251ec34a=document.createElement("script");xlink251ec34a.setAttribute("type","application/javascript"),xlink251ec34a.setAttribute("class","XlinkEmbedScript"),xlink251ec34a.setAttribute("data-url","//get.x-link.pl/277ac718-f18b-e782-028a-1d6f405bbac6,6157f54c-949b-c8f3-a55a-22c89861308f,embed.html"),xlink251ec34a.setAttribute("data-width","575"),xlink251ec34a.setAttribute("data-height","350"),xlink251ec34a.setAttribute("src","//js.iplsc.com/inpl.xnews/1.0.1/xlink-i.js"),xlink251ec34a.setAttribute("async",!0),xlink251ec34a.onload=function(){var a=document.createElement("script");a.src="//js.iplsc.com/inpl.resize-xnews/1.0.0/inpl.resize-xnews.js",document.getElementsByTagName("head")[0].appendChild(a)};document.getElementsByClassName('xlink251ec34a')[0].appendChild(xlink251ec34a); 
+
+
+
+"Prawa strona Sejmu jest czerwona ze wstydu". Parlament przegłosował nowy podatek paliwowy
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ Sasin podkreślił, że rząd PiS podjął się wielu zmian w zakresie polityki społecznej. "To jest coś, co chcemy szczególnie podkreślać, co uważamy za nasz największy sukces" - dodał. W tym kontekście polityk PiS przypomniał m.in. program Rodzina 500 Plus, który jest - według niego - bardzo ambitnym, ale i kosztownym programem, wynoszącym rocznie ponad 20 mld złotych.  Kolejnym programem, który - jak zadeklarował Sasin - rząd chce rozwijać, jest program "Mieszkanie plus". "To jest drugi obszar, który jest wskazywany dzisiaj przez Polaków jako ten obszar, gdzie są wielkie oczekiwania, które niespełnione, jak dotychczas, powodują, że rodziny często nie decydują się na posiadanie większej liczby dzieci, niż jedno, obawiając się braku dachu nad głową" - mówił polityk.   Przypomniał, że niedawno premier Mateusz Morawiecki uczestniczył w uroczystości oddania mieszkań z tego programu w Białej Podlaskiej. "Takich uroczystości będzie oczywiście w najbliższym czasie więcej" - zapowiedział Sasin.  Szef Komitet Stałego RM wspomniał też o obniżeniu wieku emerytalnego i uszczelnieniu systemu podatkowego; przyznał jednak, że rządzącym nie udało się w dalszym ciągu zrównoważyć budżetu państwa. Pomimo tego - podkreślił - rząd planuje kolejne działania w wielu obszarach, takie jak projekt 300-złotowej wyprawki dla każdego ucznia oraz działania skierowane do osób niepełnosprawnych.  Sasin powiedział, że oprócz spraw społecznych, rząd chce również zająć się sprawą walki o czyste powietrze. "Polska jest jednym z tych krajów, który został wskazany przez instytucje europejskie jako kraj, który posiada najbardziej zanieczyszczone powietrze" - wskazał polityk. Dlatego też - jak dodał - rząd zaproponował wieloletni program termomodernizacji budynków.  Kolejną kwestią, poruszoną przez Sasina, był rozwój infrastruktury. "W ostatnich latach poczyniliśmy spore postępy jeśli chodzi o budowę dróg krajowych i autostrad, ale zapomnieliśmy, jako kraj, nieco chyba o potrzebach, jakie pociągają za sobą drogi lokalne, gminne i powiatowe" - zaznaczył. W jego ocenie przerzucanie tego problemu na samorząd nie przyniesie oczekiwanych efektów. "Stąd chcemy tworzyć i utworzymy już jesienią tego roku specjalny fundusz skierowany właśnie do samorządów" - przypomniał polityk Prawa i Sprawiedliwości.  Sasin przekonywał też, że rząd cały czas ma na uwadze potrzeby seniorów. "Również ta grupa społeczna oczekuje działań z naszej strony i będziemy chcieli również takie rozwiązania jeszcze przed najbliższymi wyborami parlamentarnymi zaproponować" - zadeklarował.  Szef Komitetu Stałego Rady Ministrów mówił też, że rząd chce rozwijać program bezpłatnych leków dla seniorów powyżej 75 roku życia. "Chcemy dokładać do tej listy bezpłatnych leków kolejne medykamenty" - zaznaczył.  "Chcemy zmieniać instytucje państwa, będziemy na pewno dyskutować nad administracją, bo myślę, że tutaj mamy jeszcze bardzo wiele do zrobienia" - przekonywał Sasin.  Niedzielne spotkanie odbyło się w ramach zapowiedzianego podczas kwietniowej konwencji Zjednoczonej Prawicy przez prezesa PiS Jarosława Kaczyńskiego objazdu po kraju czołowych polityków obozu rządzącego pod hasłem "Polska jest jedna".Faktywww.rmf24.plFaktypomponik.plwww.rmf24.plFaktyEuroSportwww.rmf24.plFaktyŚwiat serialiEuroSportEuroSportFaktypomponik.plFaktyFakty
+                                                                            Najpiękniejsze książki dla dzieci.                                                                    
+                                                                            Oglądaj Świat przez czyste Okna                                                                    
+                                                                            Najlepsze stoły do ping-ponga tylko w Sport-shop                                                                    
+                                                                            Microsoft Remote desktop services w sklepie centrumxp.                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

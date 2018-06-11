@@ -1,0 +1,33 @@
+Programiści należą w Polsce do grupy najlepiej wynagradzanych specjalistów. Różnice zarobków pomiędzy nimi mogą być jednak ogromne. Zależą zwłaszcza od języków i technologii, w jakich się specjalizują, zatrudniającej firmy oraz miejscowości. Najpopularniejszą obecnie technologią jest Java, ale w najbliższej przyszłości rynek będzie potrzebować przede wszystkim specjalistów od sztucznej inteligencji i uczenia maszynowego. Na polskim rynku wyraźnym trendem są technologie front-endowe. Coraz większe zapotrzebowanie jest również na testerów.– W kategorii back-endowej, czyli pracy stricte programistycznej, bez warstwy wizualnej, najpopularniejsza technologia to Java. Następnie mamy technologię .Net, to drugi świat komplementarny do Javy. Jeśli chodzi o technologie front-endowe, to najpopularniejszy jest JavaScript i wciąż bardzo się rozwija – mówi Tomasz Bujok współzałożyciel firmy No Fluff Jobs.Tempo średniorocznego wzrostu rynku SI na świecie wyniesie 52 proc.W ostatnim czasie jednym z najgorętszych zagadnień w świecie IT jest sztuczna inteligencja. Rynek ten będzie gwałtownie się rozwijał. Eksperci firmy Tractica oceniają, że w 2016 roku przychody z pośredniego i bezpośredniego zastosowania oprogramowania, sprzętu i usług SI wyniosły 1,38 mld dol., a w roku 2025 mają wzrosnąć do 59,75 mld dol. Tempo średniorocznego wzrostu wyniesie 52 proc. Wzrost widać także w pojawiających się w tym zakresie ogłoszeniach o pracę.– Nowe trendy, które coraz bardziej się pojawiają w ogłoszeniach o pracę czy są wymagane przez pracodawców, to właśnie sztuczna inteligencja. Coraz więcej SI widzimy w aplikacjach z USA, które przodują w adaptacji tych technologii do projektów. To na pewno coś, co warto eksplorować. Może jeszcze nie jest tak, że znajdziemy to w co drugiej ofercie pracy, ale widzimy, że ten trend się zwiększa – przekonuje Tomasz Bujok.Drugim z trendów jest uczenie maszynowe. Z tym zagadnieniem studenci informatyki stykają się od lat. Jak zauważa Bujok, dotychczas było ono rzadko wykorzystywane, co przekładało się na małe zapotrzebowanie na specjalistów w tej dziedzinie. Jednak widać wyraźny trend wzrostowy.– Uczenie maszynowe jest znane od wielu lat, aczkolwiek wcześniej w projektach nie było tak często wykorzystywane, teraz widzimy coraz większy trend. Jeżeli ktoś chce być na czasie i za 5 lat być specjalistą w tych technologiach, warto zajrzeć w to teraz, bo to dużo bardziej skomplikowane rzeczy niż języki programowania – przekonuje założyciel No Fluff Jobs.Badanie Central & Eastern Europe Developer Landscape 2017 pokazało, że w naszym regionie pracuje około milion programistów, z czego na Polskę przypada aż 250 tys. To imponująca liczba, jednak specjaliści szacują, że w tej chwili potrzeba w naszym kraju dodatkowych 30–50 tysięcy specjalistów od programowania. Komisja Europejska szacuje bowiem, że w 2020 roku w całej Europie brakować będzie 800 tys. specjalistów IT. W Polsce najbardziej rozwija się segment front-end.– Na polskim rynku przybywa coraz więcej programistów front-endu. Wynika to z tego, że jest dużo prościej nauczyć się samego front-endu, niż zostać programistą full stack czy programistą back-end w sześć czy dwanaście miesięcy. Jest mnóstwo kursów, mnóstwo szkół programowania, nie tylko uniwersytetów, które kładą główny nacisk na front-end, bo jest to coś, co szybko można opanować i wnieść dużą wartość dodaną do projektu – tłumaczy Tomasz Bujok.Według raportu Sedlak & Sedlak starsi programiści, czyli osoby mające duże umiejętności oraz minimum trzyletnie doświadczenie zawodowe, zarabiają na umowie o pracę od 9,5 do 12,2 tys. złotych brutto, o ile specjalizują się w językach programowania Java, JEE i J2EE. Osoby na tym samym stanowisku, ale wyspecjalizowane w technologii C/C++, mogą liczyć na zarobki maksymalnie 11,6 tys. zł. Przeciętny starszy programista .NET/C# zarabia od 8,3 do 11,3 tys. zł, a programista PHP od 7,7 do 11,4 tys. zł.Drugim trendem na polskim rynku jest napływ testerów. Zarobki w tym segmencie kształtują się podobnie jak w przypadku młodszych programistów. Rozpoczynający pracę juniorzy zarobią od 4 do 7 tys. zł brutto.– Żeby zostać testerem wymagana jest skrupulatność, myślenie abstrakcyjne, umiejętności matematyczne, ale nie jest to rocket science, żeby się tego nauczyć wystarczy trochę poczytać, popróbować. Dalej bardzo trudno znaleźć testera, takie osoby są w cenie. Jeżeli ktoś jest chętny nauczenia się testowania i posiedzi po godzinach, to w od trzech do sześciu miesięcy jest w stanie nauczyć się testowania – twierdzi ekspert.Newseria
+            CCNEWS.pl to jedyny specjalistyczny newsowo-publicystyczny wortal internetowy w Polsce w całości poświęcony zagadnieniom związanym z obsługą klienta, customer services, omnichannel, customer experience i technologiom wykorzystywanym przez centra obsługi klienta. Informuje, edukuje i komentuje aktualne trendy i wydarzenia na Polskim rynku CC.
+
+Od 11 lat dostarcza wartościową wiedzę o polskim rynku CC i BPO.
+
+Zdaniem niezależnych instytutów badawczych: Instytut Monitorowania Mediów oraz Press Service Monitoring Mediów jesteśmy najchętniej czytanym i najbardziej angażującym swoich czytelników portalem branżowym (branży customer care) w Polsce.        Unified Factory i BlueSoft podpisały list intencyjny w sprawie możliwości nawiązania współpracy. Zgodnie z podpisanym dokumentem spółki rozpocznął rozmowy i...Idealny sprzedawca to taki, który potrafi „wejść w skórę” swojego klienta, rozpozna jego potrzeby, umiejętnie prowadzi rozmowę, wie, co skłoni...Motywacja pracowników w branży bankowej stanowić może wyzwanie dla wielu menedżerów. W końcu to właśnie pracownicy (np. Contact Center) i...Wydawca serwisu:
+BELOCAL Polska Sp. z o.o.
+ul. W. H. LINDLEYA 16, IIIp., 02-013 Warszawa
+	tel. +48 790 759 066 (pon-pt: 9:00 - 17:00)
+
+KRS: 0000565170, NIP: 7010493628
+Redakcja nie udziela informacji na temat  numerów infolinii, świadczonych przez outsourcingowe CC usługach i obsługiwanych klientach, cenach usług telemarketingowych.Nie przyjmujemy też reklamacji dot. sprzedawanych kanałem telefonicznym produktów i usług. Copyright © 2007 - 2018 by: BELOCAL POLSKA Sp. z o.o.Copyright © 2007 - 2018 by: BELOCAL POLSKA Sp. z o.o.Zaloguj się do konta
+
+
+
+
+
+
+
+Uzupełnij poniższe pola aby się zarejestrować
+
+
+
+
+
+
+
+Wpisz swój login lub adres e-mail aby odzyskać hasło.
+
+
+
+
+

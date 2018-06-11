@@ -1,0 +1,68 @@
+(fot. youtube.com)Irytujesz się, gdy sprzęt psuje się tuż po utracie gwarancji, a twój nowy gadżet zbudowano tak, żeby uniemożliwić jego naprawę? W Stanach
+Zjednoczonych działa firma, która postanowiła nieco namieszać w biznesie
+gigantów elektroniki i udostępnia internautom materiały, dzięki którym
+samodzielnie wymienią rozbity wyświetlacz lub naprawią mikrofalówkę.Wszystko zaczęło się od wspólnego naprawienia starego iBooka
+przez dwóch studentów z San Luis Obisbo w 2003 r. – nie było wtedy żadnych
+instrukcji. Po czasochłonnym dłubaniu, kilku złamanych zaczepach i zgubionych
+śrubkach operacja została w końcu zakończona sukcesem. Dziś do własnego
+majsterkowania zachęcają internautów, a wszystko to na złość firmom z branży
+technologicznej.iFixit.com to serwis, który obecnie udostępnia 18 809
+darmowych instrukcji urządzeń i 70 441 rozwiązań pozwalających poradzić
+sobie z najczęstszymi usterkami 4901 produktów. Nie na tym jednak firma zarabia
+– poradniki są darmowe i tworzone przez użytkowników serwisu, a przedsiębiorstwo
+zapewnia sobie dochód ze sprzedaży zestawów do naprawy i części zamiennych
+potrzebnych przy reperowaniu konkretnych urządzeń. Zadałem członkom zespołu iFixit.com kilka
+pytań o to, jak oceniają praktyki producentów w zakresie napraw i czy czołowe
+marki nie próbują sabotować ich biznesu.
+
+
+
+
+sas.cmd.push(function() {
+sas.render('44836');  // Format : m.Navibox_2 0x0
+});
+
+
+
+
+
+Mateusz Gawin, Bankier.pl:
+Bazując na swoich doświadczeniach, jak oceniacie wytrzymałość nowych urządzeń
+elektronicznych i mechanicznych? Zgadzacie się ze stwierdzeniem, że producenci
+celowo skracają długość cyklu życia produktu dla własnej korzyści?Kay-Kay Clapp, Community Manager z iFixit: Naprawa to ogromny biznes dla producentów
+elektroniki, ale jeszcze większym jest sprzedaż nowych urządzeń zamiast naprawiania ich. Dlatego większość z nich nie zapewnia klientom odpowiedniej
+dokumentacji lub nie udostępnia części, które mogą być do naprawy potrzebne.Aktualnie obserwujemy trend wprowadzania na rynek coraz
+większej liczby produktów ze zintegrowanymi bateriami – tak jest w przypadku
+m.in. nowych klawiatur i myszek komputerowych od Apple. To sprawia, że
+urządzenia stają się bezużyteczne, jeśli bateria zakończy swój żywot. Te „przełomowe
+rozwiązania” wymuszają na klientach kupowanie nowych urządzeń, bez dawania im
+szansy i możliwości na naprawienie starych.Nadążacie za częstymi zmianami rozwiązań stosowanych przez producentów?Ciągle zmieniamy nasze produkty, by odpowiadały potrzebom
+rynku i umożliwiły samodzielne naprawy. Po wprowadzeniu na rynek Apple Watcha
+wyprodukowaliśmy specjalnie nowe trójskrzydłowe śrubokręty, które umożliwiły
+jego otwarcie. W zeszłym miesiącu dodaliśmy do oferty także nowy zestaw ogólny
+z większą liczbą narzędzi do napraw. Nasze zestawy opieramy na tysiącach
+poradników, które pojawiają się w naszym serwisie.Na linii naprawiający - producenci trwa więc otwarta wojna?Obserwując rynek, dostrzegamy wielu producentów, którzy
+mocno pracują nad zamykaniem niezależnych biznesów związanych z naprawą ich
+urządzeń. Polega to na odmowie sprzedawania im części. Kilka lat temu Nikon
+przestał udostępniać swoje części serwisowe i spowodował tym zniknięcie z rynku
+kilkuset punktów naprawy aparatów. Kiedy producenci ograniczają naprawy do
+„polecanych” punktów lub do oficjalnych serwisów, to nie wróży dobrze
+przyszłości samodzielnych napraw. Im więcej takich barier, tym więcej urządzeń
+będzie wyrzucanych. Pomijając takie
+praktyki, wielu użytkowników i tak boi się ingerować w swoje urządzenia. Czy
+takie obawy są zasadne?Większość z nas boi się tego, że naprawa elektroniki wybiega
+poza nasze umiejętności. To uczucie jest głęboko zakorzenione w społeczeństwie, w którym istnieje przeświadczenie, że lepiej (i łatwiej) jest
+wyrzucić niż naprawić. Głównym powodem tego, że naprawa naszych urządzeń wydaje
+się zbyt trudna, jest polityka producentów, którzy nawet nie udostępniają
+powszechnej informacji o tym, jak naprawić urządzenie. Dlatego potencjalni
+naprawiający nawet nie wiedzą, od czego zacząć.W tej sprawie, zdaje
+się, współpracowaliście nawet z Parlamentem Europejskim?Nasze działania w
+Parlamencie Europejskim skupiały się na przecieraniu szlaków ku „gospodarce
+cyrkulacyjnej”. Cieszymy się, że Europa rozważa podjęcie kroków legislacyjnych,
+które umożliwią ograniczenie marnotrawstwa – również tego elektronicznego.Zdarzały się
+przypadki użytkowników, którym naprawa się nie udała i mieli do Was pretensje?Cała nasza strona działa na zasadzie Wikipedii, więc jeśli
+ktoś znajdzie błąd w poradniku lub ma szybszy sposób na daną naprawę, ma
+możliwość zmiany instrukcji bezpośrednio na stronie. Większość z nich jest stworzona przez naszą społeczność – z tego powodu nie otrzymujemy żadnych roszczeniowych wiadomości.Czyli idea jest warta
+zachodu?Chcemy pokazać światu, jak naprawić każde urządzenie. Im
+będzie to łatwiejsze, tym więcej osób tego spróbuje. Chcemy sprawić, że będzie
+to dostępne dla każdego.Mateusz GawinCopyright © Bankier.pl

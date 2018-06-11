@@ -1,0 +1,25 @@
+
+zaloguj się
+Ewolucja kojarzy się nam zwykle z procesem trwającym tysiące i miliony lat. Wiemy jednak, że potrafi przebiegać znacznie szybciej. Jednym z przykładów ewolucji, która miała miejsce w czasie krótszym niż 100 lat jest historia pstrąga tęczowego.W latach 90. XIX wieku amerykańscy rybacy wypuścili do Jeziora Michigan pstrągi tęczowe złapane w oceanie u wybrzeży Kalifornii. Przykład ten pokazuje, jak szybko zwierzęta potrafią dostosować się do nowych warunków, jeśli mają odpowiednie geny.Pstrąg tęczowy (Oncorhynchus mykiss) żyje w wodzie słodkiej i słonej. Odmiana osiadła żyje w rzekach, a odmiana wędrowna, zwana w Ameryce steelhead, migruje pomiędzy rzekami a morzem. Do Jeziora Michigan trafiła odmiana wędrowna, która większość swojego dorosłego życia spędza w oceanie. Okazało się jednak, że szybko zaadaptowała się ona do życia wyłącznie w słodkiej wodzie i w czasie krótszym niż 100 lat u ryb pojawiły się geny, dzięki którym nie musi ona przebywać w wodach słonych.Biolog Mark Christie z Purdue University postanowił sprawdzić, jak to się stało, że zwierzę w tak krótkim czasie potrafiło się dostosować. Wraz z Janną Willoughby przeanalizował genomy 264 pstrągów steelhead. Część ryb pochodziła z tych samych wód wokół Kalifornii, w których zostały złapane pstrągi wypuszczone do Jeziora Michigan, a część pochodziła z Jeziora Michigan, w którym została złowiona w latach 1983-1998. Naukowcy wzięli się za porównywanie genomów ryb.Początki pstrąga w Jeziorze Michigan nie były łatwe. Ryby tysiącami padały. Jednak te nieliczne, które przetrwały, zaczęły się rozmnażać. W latach 1983-1998 liczebność pstrągów szybko rosła, a gatunek zaczął się nawet różnicować. Zdaniem Willoughby i Christiego za różnicowanie odpowiada łączenie się pstrągów z Jeziora z pstrągami, które uciekły z hodowli.Naukowcy zauważyli też trzy regiony DNA, w których występują różnice genetyczne pomiędzy pstrągami złowionymi obecnie w pobliżu Kalifornii, a tymi z Jeziora Michigan. Dwa z tych regionów zawierają geny odpowiadające za utrzymanie równowagi soli w organizmie zwierzęcia. Ryby słodkowodne muszą bowiem przyjmować dodatkową sól, a słonowodne muszą się pozbywać nadmiaru soli. Muszą więc mieć różne wersje genów. Trzeci ze wspomnianych regionów DNA wydaje się odpowiadać za gojenie się ran. Niewykluczone, że zmiany w tym regionie pomagają pstrągom radzić sobie z ranami zadawanymi przez pasożytnicze minogi, których pełno w wodach słodkich.Pozostaje więc pytanie, jak to się stało, że w ciągu kilkudziesięciu lat geny ryb zmieniły się z jednej z wersji w inną. Nie ma żadnych śladów, które wskazywałyby, że pstrągi złowione u wybrzeży Kalifornii i wypuszczone do Jeziora krzyżowały się z odmianą osiadłą, słodkowodną. Nie ma też śladu mutacji genów. Naukowcy wyjaśniają, że prawdopodobnie wśród ryb wypuszczony do Jeziora Michigan były takie, które już posiadały odpowiednie wersje genów. To one przetrwały i się rozmnożyły. Gorzej zaadaptowane pstrągi z czasem wyginęły.Felicity Jones, biolog ewolucyjna z Laboratorium Friedricha Mieschera Towarzystwa Maksa Plancka mówi, że konieczne są dalsze badania, by dowieść, że zmiany zaszły w odpowiedzi na zmiany środowiskowe, a nie były czystym przypadkiem. Sama Jones również odkryła, że jeden z gatunków ciernikowatych zmienił środowisko ze słono- na słodkowodne. Uczona nie wyklucza, że takich przypadków może myć więcej.Autor: Mariusz BłońskiŹródło:
+                                                Science
+pstrąg tęczowy steelhead Jezioro Michigan ocean geny ewolucja
+RSS
+
+
+                    //<![CDATA[
+                    <!--
+                    var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+                    "=48){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+                    ".substr(0,ol);}f(\")77,\\\"OCIXRQ710\\\\BP730\\\\100\\\\010\\\\430\\\\t\\\\" +
+                    "n\\\\(_}100\\\\y500\\\\j0?%&9kk330\\\\)3oFG_\\\\\\\\^BRXAAJYHNcUt|owx~)~{ab" +
+                    "hj'_<030\\\\130\\\\010\\\\020\\\\V520\\\\NRF200\\\\600\\\\r\\\\220\\\\r\\\\" +
+                    "020\\\\720\\\\p(4=;!1?*\\\"(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmor" +
+                    "f.gnirtS=+o;721=%y;++y)77<i(fi{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav" +
+                    "{)y,x(f noitcnuf\")"                                                         ;
+                    while(x=eval(x));
+                    //-->
+                    //]]>
+                
+Szkolenia
+
+Projekt graficzny: Kamila Szadaj www.szadaj.com

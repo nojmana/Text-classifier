@@ -1,0 +1,157 @@
+
+Biznes
+
+Wczoraj, 10 czerwca (05:50)
+Tonąca w długach Ameryka zatopi najpierw Polskę (zdj. ilustracyjne) /©123RF/PICSELKoszty finansowania większego zadłużenia Stanów Zjednoczonych poniosą kraje, które do rozwoju potrzebują zagranicznego kapitału, czyli m.in. Polska. Dlaczego? Przede wszystkim dlatego, że USA będą zasysać kapitał do obsługi zadłużenia z całego świata oraz z rodzimych przedsiębiorstw i gospodarstw domowych (40 proc. długu USA jest przetrzymywane przez zagranicę). Będzie więc mniej pieniędzy dla innych państw.
+Stany Zjednoczone skuszą odsetkami i wysoką wiarygodnością
+
+Reklama
+
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("m_rectangle", null, null);
+        }
+    
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+ 
+//<![CDATA[
+
+Inpl.Ad.onAd('m_rectangle',function(is,elem){
+if(is){
+document.getElementById('m_rectangle1').style.display='';
+}else{
+document.getElementById('m_rectangle1').style.display='none';
+}
+});
+//]]>To zasysanie pogłębi jeszcze fakt rosnących stóp procentowych. Szacunki OECD pokazują, że pod koniec przyszłego roku stopy procentowe w USA osiągną poziom 3,5 proc., a rentowności 10-letnich obligacji skarbowych sięgną 4,5 proc.
+Inwestorzy mogą być nieco zaniepokojeni szalejącym zadłużeniem w Stanach Zjednoczonych, ale - zestawiając ogólną wiarygodność kredytową z innymi państwami - Ameryka, nawet przy tak wysokim deficycie, nadal gwarantuje spłatę swoich zobowiązań. Wysokie odsetki od tego zadłużenia przyciągną natomiast kapitał do dolara ze względu na brak lepszych alternatyw gdzie indziej.
+Mieszkańców USA ucieszy więc względnie szybki wzrost gospodarczy, napływający kapitał finansujący dług i silny dolar. Wyższe stopy procentowe będą pewnym problemem, ale rozpędzona i mocno stymulowana gospodarka nie powinna się przez to zatrzymać.
+Polska wśród najbardziej poszkodowanych
+Negatywne skutki przepływu kapitału do USA i odczujemy najpierw poprzez silniejszego dolara. Podrożeje także ropa naftowa wyrażona w złotym. Mniej chętnie będzie również napływać kapitał portfelowy do Polski, gdyż mając alternatywę w postaci Stanów Zjednoczonych, wybierze destynację po drugiej stronie Atlantyku.
+W przypadku Polski znaczne potrzeby finansowe (deficyt strukturalny w 2019 r. będzie wg OECD na poziomie 2,7 proc. - jeden z najwyższych w UE) nie stanowią zachęty dla kapitału zagranicznego, chociażby ze względu na ryzyko walutowe oraz znacznie niższą wiarygodność kredytową niż w przypadku USA. Przy niezmienionych stopach procentowych w Polsce i uzależnieniu od słabnącej koniunktury w strefie euro kapitał zagraniczny może żądać wyższej premii za ryzyko w postaci chociażby słabszego złotego.
+Paradoksalnie więc to kraje Ameryki Łacińskiej, państwa rozwijające się w Azji czy właśnie Polska mogą być ofiarami szaleństw fiskalnych Stanów Zjednoczonych. Te szkody oczywiście będą tym większe, im grosza będzie koniunktura w naszym kraju i im więcej będziemy musieli pożyczać w kolejnych latach.
+Jak Ameryka dobije do 117 proc.?
+Oficjalne dane Biura Zarządzania Budżetem (OMB) pokazują, że na koniec 2017 r. zadłużenie do PKB w USA wynosiło 103,7 proc. Przez kilka lat dług był mniej więcej na stałym poziomie, ale ostatnie obniżki podatków znacznie zmieniają trajektorię deficytu i długu.
+Według najnowszych, opublikowanych pod koniec maja, szacunków OECD deficyt sektora finansów publicznych w USA ma wynieść w przyszłym roku 6,1 proc. PKB, czyli grubo ponad bilion dolarów. Bardzo podobne szacunki przedstawia również MFW - 5,9 proc. Fundusz dodatkowo ocenia, że przez najbliższe 5 lat deficyt każdego roku będzie przekraczać 5 proc. PKB, a całkowity dług do PKB sięgnie wartości 116,9 proc. w 2023 r.
+
+
+
+
+
+
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("banner_app", null, null);
+        }
+    
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+
+Koszty finansowania większego zadłużenia Stanów Zjednoczonych poniosą kraje, które do rozwoju potrzebują zagranicznego kapitału, czyli m.in. Polska. Dlaczego? Przede wszystkim dlatego, że USA będą zasysać kapitał do obsługi zadłużenia z całego świata oraz z rodzimych przedsiębiorstw i gospodarstw domowych (40 proc. długu USA jest przetrzymywane przez zagranicę). Będzie więc mniej pieniędzy dla innych państw.Stany Zjednoczone skuszą odsetkami i wysoką wiarygodnościąTo zasysanie pogłębi jeszcze fakt rosnących stóp procentowych. Szacunki OECD pokazują, że pod koniec przyszłego roku stopy procentowe w USA osiągną poziom 3,5 proc., a rentowności 10-letnich obligacji skarbowych sięgną 4,5 proc.Inwestorzy mogą być nieco zaniepokojeni szalejącym zadłużeniem w Stanach Zjednoczonych, ale - zestawiając ogólną wiarygodność kredytową z innymi państwami - Ameryka, nawet przy tak wysokim deficycie, nadal gwarantuje spłatę swoich zobowiązań. Wysokie odsetki od tego zadłużenia przyciągną natomiast kapitał do dolara ze względu na brak lepszych alternatyw gdzie indziej.Mieszkańców USA ucieszy więc względnie szybki wzrost gospodarczy, napływający kapitał finansujący dług i silny dolar. Wyższe stopy procentowe będą pewnym problemem, ale rozpędzona i mocno stymulowana gospodarka nie powinna się przez to zatrzymać.Polska wśród najbardziej poszkodowanychNegatywne skutki przepływu kapitału do USA i odczujemy najpierw poprzez silniejszego dolara. Podrożeje także ropa naftowa wyrażona w złotym. Mniej chętnie będzie również napływać kapitał portfelowy do Polski, gdyż mając alternatywę w postaci Stanów Zjednoczonych, wybierze destynację po drugiej stronie Atlantyku.W przypadku Polski znaczne potrzeby finansowe (deficyt strukturalny w 2019 r. będzie wg OECD na poziomie 2,7 proc. - jeden z najwyższych w UE) nie stanowią zachęty dla kapitału zagranicznego, chociażby ze względu na ryzyko walutowe oraz znacznie niższą wiarygodność kredytową niż w przypadku USA. Przy niezmienionych stopach procentowych w Polsce i uzależnieniu od słabnącej koniunktury w strefie euro kapitał zagraniczny może żądać wyższej premii za ryzyko w postaci chociażby słabszego złotego.Paradoksalnie więc to kraje Ameryki Łacińskiej, państwa rozwijające się w Azji czy właśnie Polska mogą być ofiarami szaleństw fiskalnych Stanów Zjednoczonych. Te szkody oczywiście będą tym większe, im grosza będzie koniunktura w naszym kraju i im więcej będziemy musieli pożyczać w kolejnych latach.Jak Ameryka dobije do 117 proc.?Oficjalne dane Biura Zarządzania Budżetem (OMB) pokazują, że na koniec 2017 r. zadłużenie do PKB w USA wynosiło 103,7 proc. Przez kilka lat dług był mniej więcej na stałym poziomie, ale ostatnie obniżki podatków znacznie zmieniają trajektorię deficytu i długu.Według najnowszych, opublikowanych pod koniec maja, szacunków OECD deficyt sektora finansów publicznych w USA ma wynieść w przyszłym roku 6,1 proc. PKB, czyli grubo ponad bilion dolarów. Bardzo podobne szacunki przedstawia również MFW - 5,9 proc. Fundusz dodatkowo ocenia, że przez najbliższe 5 lat deficyt każdego roku będzie przekraczać 5 proc. PKB, a całkowity dług do PKB sięgnie wartości 116,9 proc. w 2023 r.
+
+
+
+
+~mom                             - Wczoraj (06:34)
+Strasznie dużo teraz ekspertów, którzy swoje mądrości wypisują tylko w internecie zarabiając na tym jakieś grosze. Jak ktoś jest ekspertem finansowym i wszystko potrafi tak dokładnie przewidzieć to inwestuje na giełdzie cały swój majątek i bogaci się. A nie pisze dyrdymały w internecie nie wiadomo dla kogo i po co?
+~mazguła.                             - Wczoraj (08:10)
+STYROPIANOWI LIBERAŁOWIE I LEKTOR PZPR BALCEROWICZ RZĄDZILI GORZEJ OD KOMUNISTÓW A NAWET OD SANACJI.NIE MIELI ŻADNEGO POMYSŁU NA POLSKĘ.ZLIKWIDOWALI PRZEMYSŁ I ZADŁUŻYLI NASZ KRAJ NA BILION DOLARÓW.ICH POLITYKĘ CHCĄ KONTYNUOWAĆ PO,KOD I NOWOCZESNA PUSZCZAJĄC POLAKÓW Z TORBAMI.
+~?                             - Wczoraj (07:22)
+A nasi rządzący, żeby ratować upadające USA kupują od nich gaz po cenie 3-krotnie wyższej niż z Rosji. Podobnie jest z ropą, bo dywersyfikacja oznacza kupowanie droższych paliw z innych krajów niż z Rosji, w myśl rozkazów z USA. Za gorliwe wykonywanie rozkazów z Waszyngtonu przez nasz rząd płacimy wysokie ceny za surowce energetyczne. Ciekawy jest, że jakoś Niemcy nie wykonują rozkazów USA i budują NrdStream2, dzięki czemu mają najtańszy gaz w Europie, powstaje więc pytanie czy dla naszego? rządu ważniejsze jest wykonywanie rozkazów z USA czy interes gospodarczy Polski?
+~znavca                             - Wczoraj (10:43)
+Polska ma dług rządowy (300 mld USD) dwa razy taki jak pływająca na ropie Wenezuela (150 mld USD), którą już uznano za bankruta tylko sama nie chce tego ogłosić. Nieoficjalnie dług Polski wraz z tym ukrytym w samorządach, ZUS, funduszach celowych itd. to jeden bilion dolarów (USA tak potężne ma ok. 16 bln USD). Zamroczony suweren tego nie wie i nie chce wiedzieć. Kiedy już się dowie, to bogoojczyźnianych szczurów nie będzie już na tonącym okręcie jak w dniu 18 września 1939 roku kiedy Rydz-Śmigły był już w Rumunii. Baw się szlachto, rozbiory już niedługo i nie pomogą tu modły smoleńskie: wy oprócz montowni, obcych marketów i dotowanych fabryk przetwórstwa rolnego utrzymującego się z eksportu do Unii NIC nie macie, nawet w głowach
+Polskę po wojnie odbudowywali ludzie "z żelaza", unowocześniali i rozbudowywali ludzie "z marmuru", a roztrwonili majątek narodowy ludzie ze ... styropianu.
+Polska ma nawet PKB zbliżone do Wenezueli, a biorąc pod uwagę emigrację z Polski podobną liczbę ludności i zbliżony procent katolików. Rządzą tam też od lat podobni do PiS narodowi socjaliści. Też mieli podobne do PiS wielkie programy społeczne z rozdawaniem nierobom darmowego jedzenia i ubrań. Mnie zastanawia jeszcze tylko kto i po co Polskę i Polaków wkręca w dalsze zadłużenie, czy jest to po prostu pazerność i głupota warchołów przy władzy, czy celowe działanie? Żadnych reform podatkowych jak w Rumunii - nic tylko dobijanie uczciwie pracujących na korzyść patologicznych leni.
+~Doktor Żywagoo                             - Wczoraj (06:18)
+Ale co inwestować? wirtualne pieniądze bez pokrycia? Ha ha ha. Tak USA jest zadłużone po uszy. Tak za chwilę zbankrutują. Zbankrutują szybciej jak Chiny przestawią rozliczenia na Juana. Tak dlatego USA chce wywołać III Wojnę Światową.Piszesz jako Gość
+
+                    Strona główna                
+
+
+                    Fakty                
+
+
+                    Biznes                
+
+
+                    Sport                
+
+
+                    Z karnego                
+
+
+                    Forum                
+
+
+                    Motoryzacja                
+
+
+                    Magazynauto                
+
+
+                    Raport drogowy                
+
+
+                    Poboczem                
+
+
+                    Nowe technologie                
+
+
+                    Interia.TV                
+
+
+                    Mobtech                
+
+
+                    Gry                
+
+
+                    Graj on-line                
+
+
+                    Esporter                
+
+
+                    Muzyka                
+
+
+                    Film                
+
+
+                    Świat Seriali                
+
+
+                    Kobieta                
+
+
+                    Styl                
+
+
+                    Mam dziecko                
+
+
+                    Nowa historia                
+
+
+                    Dziki kraj                
+
+
+                    Pomponik                
+
+
+                    Innowacje                
+
+
+                    Polska2041                
+
+
+                    MenWay                
+
+Prywatność
+Polityka Cookies
+Regulamin
+Copyright © 1999-2018 INTERIA.PL

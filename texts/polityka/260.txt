@@ -1,0 +1,59 @@
+Hodowca maszyn wirtualnych i psów, poza tym stary linuksiarz, bonvivant i śmieszek. W 2012 roku napisał na DP o algorytmie haszowania Keccak i wciąż pamięta, jak on działa.Ogólne rozporządzenie o ochronie danych osobowych (GDPR, czy też
+po polsku RODO) już dziś przynosi nam konsekwencje, których
+autorzy implementowanego właśnie w państwach Unii Europejskiej
+prawa chyba się nie spodziewali. Wśród amerykańskich firm
+internetowych furorę robi nowa usługa o nazwie GDPR Shield, dzięki
+której będą one mogły uniknąć wszelkiego ryzyka prawnego związanego z naruszeniem RODO. Wystarczy kilka linijek kodu w
+JavaScripcie.Założenia były dobre – ostatnia afera z Facebookiem dobrze
+pokazuje, jak bardzo firmy internetowe „troszczą” się o ochronę
+wrażliwych danych użytkowników. Realizacja jest jednak koszmarem
+dla biznesu, oznaczając przede wszystkim ogromne koszty dostosowania
+systemów informatycznych do wymogów rozporządzenia, jak również
+ryzyko prawne i finansowe: naruszenie zapisów RODO grozi grzywną w
+wysokości do 20 milionów euro lub 4 proc. rocznych przychodów (zależy
+co wyższe).Co zaś najbardziej dotkliwe, RODO obejmuje nie tylko podmioty
+oficjalnie działające na terenie Unii Europejskiej, ale wszystkie
+podmioty, które przetwarzają dane choćby jednego obywatela państw
+członkowskich UE, nawet jeśli ich zarządy nie mają pojęcia,
+gdzie jest Bruksela. 
+Internauta z Unii Europejskiej staje się w ten sposób
+niepożądanym klientem. Jeśli operator przyjmie jego dane, będzie
+musiał wyznaczyć specjalnego pracownika do ochrony danych
+osobowych, wprowadzić reżim ujawniania wszystkich wycieków w ciągu
+72 godzin, informować użytkownika o zebranych danych, oferować
+możliwość przeglądania tych danych, a nawet ich usunięcia.Czy użytkownik z Unii Europejskiej wart jest tych kłopotów? Dla
+wielu amerykańskich firm, szczególnie tych mniejszych, zdecydowanie
+nie. Niektóre liczą, że nikt nie zauważy ich naruszeń. Inne już
+uciekają z europejskiego rynku, odmawiając rejestracji kont
+mieszkańcom unijnych państw wykorzystując w tym celu blokowanie
+europejskich adresów IP.Jednak dla tych najmniejszych startupów samodzielne zarządzanie
+blokadą może być zbyt dużym wyzwaniem. Z pomocą im przychodzi
+nowa usługa GDPR-Shield.io,
+która pozwala już za 9 dolarów miesięcznie zablokować cały ruch
+z Unii Europejskiej. Jej twórcy otwarcie mówią, że nie ma sensu
+wydawać tysięcy dolarów na konsultacje prawne tylko po to, by
+uczynić witrynę internetową zgodną z wymogami RODO. Jeśli nie
+prowadzi się biznesu skupionego na Europie, lepiej po prostu odciąć
+się od Starego Kontynentu. W tym celu wystarczy wkleić kilka
+linijek kodu w JavaScripcie do swojej strony internetowej.Nie jest to pierwszy raz, gdy unijny pomysł zwiększa
+niedogodności korzystania z Internetu. Pamiętamy wszyscy "genialną" dyrektywę z 2011 roku, która zaśmieciła sieć bezużytecznymi
+komunikatami o korzystaniu z ciasteczek – wszystkie witryny
+skierowane do obywateli UE muszą dziś wyświetlać komunikat
+pozwalający odmówić bycia śledzonym. Komunikaty irytują
+koniecznością dodatkowego kliknięcia, które zwykle nic nie
+zmienia. 
+Tym razem jednak będzie gorzej – by skorzystać z wielu
+interesujących usług internetowych, prowadzonych przez firmy spoza
+UE, będziemy po prostu musieli korzystać z VPN-ów, które przecież
+nie są za darmo. Plus może taki, że wzrośnie w ten sposób
+anonimowość użytkowników, którzy będą mogli teraz bardziej
+śmiało korzystać z zasobów Sieci, bez obaw, że ujawnione to
+zostanie stronom trzecim.Jutro w Unii Europejskiej zaczynają obowiązywać nowe przepisy, zgodnie z którymi Internauci muszą mieć łatwiejszy dostęp do gromadzonych o nich danych w Sieci. Czytelne narzędzia dla swoich… Literówka, błąd lub inny problem z treścią publikacji? Będziemy wdzięczni za przesłanie informacji za pośrednictwem poniższego formularza:
+Aktualności
+Blog czytelników
+Sprzęt
+Gry
+Wszystkie publikacje
+Programy dla Windows (wersje stabilne)
+Programy dla Windows (wersje rozwojowe)
+Ostatnie tematy na forum

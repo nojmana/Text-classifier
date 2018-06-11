@@ -1,0 +1,30 @@
+Nie tak dawno nadarzyła się okazja kilkudniowej wycieczki do Gruzji. Celem było Batumi nad Morzem Czarnym oraz Kutaisi, które oddalone jest od tego poprzedniego o 130 km na wschód. Gruzja nie jest może dość popularnym wśród Polaków kierunkiem na wypoczynek, ale ze względu na piękno i zróżnicowanie geograficzne(i nie tylko) tego kraju warto go odwiedzić. Jednym z atutów są pozostałości po przynależności tego kraju do ZSRR, co widać spacerując ulicami miast.
+
+
+
+
+
+Dla nas ten specyficzny wygląd jest ciekawostką turystyczną, ale nie mam pewności czy dla mieszkańców Gruzji również jest to atrakcyjne. Mam na myśli głównie poziom życia, bo średnia krajowa jest u nich dużo niższa niż u nas i mimo znacznej odległości obu krajów opłaca im się przybywać do Polski w poszukiwaniu pracy. Ten stan rzeczy wynika również z zawirowań politycznych sprzed kilku lat. Jadąc wzdłuż wybrzeża można spotkać wiele opuszczonych kurortów wypoczynkowych. Zdarzają się też budynki nieukończone i porzucone. Te samotne budynki są dla mnie jednym z powodów by tam wrócić.Głównym argumentem by odwiedzić ten kraj była motoryzacja. Podróżując zarówno w ruchu ulicznym jak i między miastami możemy się natknąć się na Wołgi, Zaporożce, ciężarówki GAZ lub Ził. Najczęściej spotykanym jednak pojazdem z tzw. Demoludów jest Żiguli czy jak kto woli Łada, których w czasie 3-godzinnej podróży międzymiastowej naliczyłem ponad 40 sztuk. Spotkaliśmy chyba wszystkie produkowane odmiany tego samochodu.Większość niestety jeżdżących tam starych samochodów nosi oznaki swojego wieku, ale mimo wszystko jeżdżą. Właściciele dbają o nie jak mogą lub jak pozwala na to budżet. Zdarza się, że pojazd jest „łatany”, ale bliski oryginałowi, lecz są też różne kombinacje z „zamiennikami” z innych marek. Częstym widokiem, co dotyczy pojazdów starych jak i nowych, jest brak zderzaka. Przy trasie mijaliśmy nawet warsztat specjalizujący się w naprawie Łady. Cała posesja była zastawiona bardziej lub mniej kompletnymi sztukami. Odniosłem wrażenie, że wielu mechaników specjalizuje się w składaniu pojazdów z kawałków.Po Gruzji najlepiej podróżuje się ze zwykłymi ludźmi tzw. marszrutkami czyli kilkunastoosobowymi busami, które są kierowane przez nieustraszonych kierowców. Jest to szybki i tani sposób przemieszczania się a prowadzący zatrzyma się każdemu, kto na niego machnie.Gruzini są bardzo otwarci i przyjacielsko nastawieni. Barierą jest przede wszystkim język, ale ze starszymi można się dogadać po rosyjsku a z młodszymi po angielsku.Galeria ciekawostek motoryzacyjnych z gruzińskich ulic pozwoli zobrazować na co można liczyć podczas wizyty.Pozdrawiam Czytelnikow KlassikAuto.pl
+Paweł ZawółOd red.: opiszcie swój wakacyjny pobyt w innym kraju pod kątem motoryzacji, a wyślemy Wam upominek.Zobacz ogłoszeniaDodaj ogłoszenie(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone'; /*
+ * Translated default messages for the $ validation plugin.
+ * Locale: PL
+ */
+$.extend($.validator.messages, {
+	required: "To pole jest wymagane.",
+	remote: "Proszę o wypełnienie tego pola.",
+	email: "Proszę o podanie prawidłowego adresu email.",
+	url: "Proszę o podanie prawidłowego URL.",
+	date: "Proszę o podanie prawidłowej daty.",
+	dateISO: "Proszę o podanie prawidłowej daty (ISO).",
+	number: "Proszę o podanie prawidłowej liczby.",
+	digits: "Proszę o podanie samych cyfr.",
+	creditcard: "Proszę o podanie prawidłowej karty kredytowej.",
+	equalTo: "Proszę o podanie tej samej wartości ponownie.",
+	accept: "Proszę o podanie wartości z prawidłowym rozszerzeniem.",
+	maxlength: $.validator.format("Proszę o podanie nie więcej niż {0} znaków."),
+	minlength: $.validator.format("Proszę o podanie przynajmniej {0} znaków."),
+	rangelength: $.validator.format("Proszę o podanie wartości o długości od {0} do {1} znaków."),
+	range: $.validator.format("Proszę o podanie wartości z przedziału od {0} do {1}."),
+	max: $.validator.format("Proszę o podanie wartości mniejszej bądź równej {0}."),
+	min: $.validator.format("Proszę o podanie wartości większej bądź równej {0}.")
+});}(jQuery));var $mcj = jQuery.noConflict(true);

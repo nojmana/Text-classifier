@@ -1,0 +1,47 @@
+Dwugłowy wąż to coś oryginalnego nawet jak na niezwykły świat przyrody. Gumbo i Filo to dwie głowy w jednym ciele węża smugowego. Opiekunką nietypowego gada jest Tanee Janusz z Luizjany. 
+
+Zdjęcie
+
+
+
+
+Dwugłowy wąż - Gumbo i Filo /Fot. Tanee Janusz
+/materiały prasowe
+
+
+Kobiecie zaproponowano opiekę nad zwierzęciem, po tym jak zostało ono znalezione na wolności. Janusz zgodziła się od razu, błyskawicznie nazywając głowy Gumbo i Filo.Naukowcy donoszą, że takie bliźniaki syjamskie mogą mieć jeden ogon, ale wykazują duże trudności z kontrolowaniem kierunku przemieszczania się ich wspólnego ciała. Gumbo jest zdecydowanie bardziej dominującym z bliźniaków.- Opieka nad nimi nie różni się znacznie od opieki nad zwykłym wężem. Jedyna różnica to konieczność posiadania niezbyt głębokiej miski, ponieważ dominująca głowa mogłaby wciągnąć tę drugą pod wodę - powiedziała Tanee Janusz.W momencie znalezienia dwugłowego węża, miał on prawdopodobnie niecały rok, gdyż ząb jajowy wciąż był nietknięty na jednej głowie. Ząb jajowi to spiczaste narzędzie na nosie węża, które służy do przebicia się przez skorupkę jaja, ale zaraz po urodzeniu zostaje odrzucone.Deformacja dwugłowa w świecie węży nie jest aż taką rzadkością - zdarza się raz na 10 000 porodów. Janusz twierdzi, że pomimo swojej wady, Gumbo i Filo mogą spodziewać się stosunkowo normalnego życia i przeżyć 20-25 lat w niewoli. 
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Nauka BEZ fikcji: Jadowite zwierzęta
+Video Brothers
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2185310-6477020');
+                var $embed = jQuery('#player2185310-6477020').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Kobiecie zaproponowano opiekę nad zwierzęciem, po tym jak zostało ono znalezione na wolności. Janusz zgodziła się od razu, błyskawicznie nazywając głowy Gumbo i Filo.Naukowcy donoszą, że takie bliźniaki syjamskie mogą mieć jeden ogon, ale wykazują duże trudności z kontrolowaniem kierunku przemieszczania się ich wspólnego ciała. Gumbo jest zdecydowanie bardziej dominującym z bliźniaków.- Opieka nad nimi nie różni się znacznie od opieki nad zwykłym wężem. Jedyna różnica to konieczność posiadania niezbyt głębokiej miski, ponieważ dominująca głowa mogłaby wciągnąć tę drugą pod wodę - powiedziała Tanee Janusz.W momencie znalezienia dwugłowego węża, miał on prawdopodobnie niecały rok, gdyż ząb jajowy wciąż był nietknięty na jednej głowie. Ząb jajowi to spiczaste narzędzie na nosie węża, które służy do przebicia się przez skorupkę jaja, ale zaraz po urodzeniu zostaje odrzucone.Deformacja dwugłowa w świecie węży nie jest aż taką rzadkością - zdarza się raz na 10 000 porodów. Janusz twierdzi, że pomimo swojej wady, Gumbo i Filo mogą spodziewać się stosunkowo normalnego życia i przeżyć 20-25 lat w niewoli. Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

@@ -1,0 +1,42 @@
+Arab Israeli ConflictMiddle EastIsrael NewsHi Tech NewsTRENDING STORIESDiasporaPremiumBlogsInternational newsArab Israeli ConflictMiddle EastIsrael NewsHi Tech NewsTRENDING STORIESDiasporaPremiumBlogsInternational news
+                Miki Zohar.
+                 (photo credit: MARC ISRAEL SELLEM)
+            
+            A bill proposed by Likud MK Miki Zohar seeks to make it illegal for the media to report on investigations of elected officials without the permission of the attorney-general, Channel 2 News reported Sunday.The legislation is one in a series of proposals by Likud lawmakers that could be helpful to Prime Minister Benjamin Netanyahu as he undergoes multiple investigations into alleged corruption. Among them is a bill that would outlaw investigations of a sitting prime minister and one that would stop the police from announcing its recommendations on whether to indict elected officials.
+
+Be the first to know -  Join our Facebook page. 
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=163414806897";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+
+
+Zohar argued that without his bill, the media can “sully a politician’s good name without proof of guilt.”Meanwhile, state witness Nir Hefetz told police investigators that Netanyahu acted under pressure from his wife, Sara, and son Yair in placing metal detectors at the Temple Mount last year, according to a report by Yediot Aharonot on Sunday.According to the report, investigators asked Hefetz – a former media adviser to Netanyahu who has already testified in Cases 1000, 2000 and 4000 – about his familiarity with the decision to place metal detectors at entry points to the al-Aqsa Mosque compound. The magnetometers were installed after two police officers were fatally shot on July 14, triggering deadly clashes between Israelis and Palestinians. The placement of the metal detectors at the holy site sparked widespread outrage across the Muslim world.According to Yediot Aharonot, investigators also questioned Hefetz about his knowledge of the half-year-long crisis between Israel and Jordan after two Jordanians were killed at the Israeli Embassy compound in Amman in July 2017.Hefetz reportedly claimed that the prime minister acted on these issues under the pressure of his wife and son, and contrary to the position of security officials. Hefetz also said it was these incidents that led him to leave his job at the Prime Minister’s Office.
+
+
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:10834723912266086,size:[0, 0],id:"ld-9628-9059"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+The office said in response to the report: “This never happened. Contrary to this strange claim, the prime minister is the only one who makes a decision on matters of state and not his family.”Police are set to question Netanyahu on June 12 for the 10th time in Case 4000, also known as the “Bezeq Affair,” after Hefetz provided new information regarding that investigation. 
+
+By HERB KEINON
+                            By TAMARA ZIEVE
+                        
+                            Sponsored Content
+                        
+                            By LAHAV HARKOV
+                        
+                            Sponsored Content
+                        
+                            By MAAYAN HOFFMAN
+                        
+                            Sponsored Content
+                        
+                            By AMY SPIRO
+                        
+                            Sponsored Content
+                        Please insert a valid email address

@@ -1,0 +1,74 @@
+Patrol z bydgoskiej „drogówki” zatrzymał kierowcę Forda, który popełnił trzy wykroczenia. Samo postępowanie policjantów w tej sytuacji budzi jednak pewne wątpliwości.  
+
+Zdjęcie
+
+
+
+
+
+/Policja
+
+
+
+
+
+
+
+
+
+
+
+ Policjanci zatrzymali piratów drogowych. Ale czy sami zachowali się prawidłowo?
+ 
+ 
+
+
+29 maja nad ranem policjanci patrolujący Bydgoszcz  nieoznakowanym radiowozem zwrócili  uwagę na jadącego ulicą Akademicką Forda Focusa,  który zaczął wyprzedzać inny pojazd na linii podwójnej ciągłej.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }  Później okazało się, że to nie jedyne jego wykroczenie, bo kierowca tego  pojazdu wyraźnie się spieszył. Policjanci jadąc ulicą Jasiniecką  zarejestrowali jak ten sam kierowca nie stosuje się do znaku "STOP", a następnie na ulicy Fordońskiej, gdzie obowiązuje ograniczenie prędkości  do 50 km/h, kierowca jechał 93 km/h.
+  Mundurowi zatrzymali pojazd do kontroli. Za popełnione wykroczenia  funkcjonariusze nałożyli na kierującego Fordem mandat w wysokości 700 zł  oraz przypisali mu 15 punktów karnych za naruszenie przepisów ruchu  drogowego.
+Od redakcji
+Kierowca Focusa faktycznie nie popisał się wzorową jazdą, choć warto zauważyć, że manewr wyprzedzania rozpoczął tuż przed końcem linii ciągłej, trudno to więc traktować na równi z wyprzedzaniem w miejscu, gdzie na całym odcinku obowiązuje zakaz. Formalnie jednak stanowi to już podstawę do wystawienia mandatu, czego jednak policjanci nie zrobili. Choć mają taki obowiązek. Zamiast tego woleli pojechać za kierowcą w nadziei na kumulację wykroczeń. Niezatrzymanie się przed znakiem STOP (ponownie trudno tu mówić o ryzykownym zachowaniu - jadący Fordem poruszał się kilka kilometrów na godzinę i miał bardzo dobrą widoczność), a więc drugie wykroczenie, również nie było dla funkcjonariuszy wystarczające. Dopiero niemal dwukrotne przekroczenie prędkości przez kierowcę Focusa, tworzące realne zagrożenie w ruchu drogowym, uznali za odpowiedni moment (na który wyraźnie czekali), aby zatrzymać go.
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Policjanci w nieoznakowanym radiowozie czekali na kumulację
+Policja
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2529684-167072');
+                var $embed = jQuery('#player2529684-167072').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Nie bronimy bynajmniej osoby jadącej Fordem - faktycznie popełniła wszystkie trzy wykroczenia i została adekwatnie ukarana. Mamy jednak wrażenie, że funkcjonariusze w tej sytuacji nieco rozminęli się ze swoją misją. Po zarejestrowaniu pierwszego wykroczenia powinni byli oni zatrzymać kierowcę Focusa, nie tylko w celu wlepienia mu mandatu, ale także w ramach działań prewencyjnych. Widząc bowiem kierującego łamiącego przepisy policja ma obowiązek jak najszybciej go zatrzymać, ponieważ będzie to miało działanie "dyscyplinujące" i sprawi, że dalszą część drogi pokona już znacznie spokojniej i rozważniej. Zauważenie kierowcy łamiącego przepisy i podążanie za nim w nadziei, że zrobi coś naprawdę niebezpiecznego nie ma w sobie nic z poprawiania bezpieczeństwa na drogach. Dobrze natomiast wygląda w statystykach, ale chyba nie taka powinna być rola policji. 29 maja nad ranem policjanci patrolujący Bydgoszcz  nieoznakowanym radiowozem zwrócili  uwagę na jadącego ulicą Akademicką Forda Focusa,  który zaczął wyprzedzać inny pojazd na linii podwójnej ciągłej.  Później okazało się, że to nie jedyne jego wykroczenie, bo kierowca tego  pojazdu wyraźnie się spieszył. Policjanci jadąc ulicą Jasiniecką  zarejestrowali jak ten sam kierowca nie stosuje się do znaku "STOP", a następnie na ulicy Fordońskiej, gdzie obowiązuje ograniczenie prędkości  do 50 km/h, kierowca jechał 93 km/h.  Mundurowi zatrzymali pojazd do kontroli. Za popełnione wykroczenia  funkcjonariusze nałożyli na kierującego Fordem mandat w wysokości 700 zł  oraz przypisali mu 15 punktów karnych za naruszenie przepisów ruchu  drogowego.Od redakcjiKierowca Focusa faktycznie nie popisał się wzorową jazdą, choć warto zauważyć, że manewr wyprzedzania rozpoczął tuż przed końcem linii ciągłej, trudno to więc traktować na równi z wyprzedzaniem w miejscu, gdzie na całym odcinku obowiązuje zakaz. Formalnie jednak stanowi to już podstawę do wystawienia mandatu, czego jednak policjanci nie zrobili. Choć mają taki obowiązek. Zamiast tego woleli pojechać za kierowcą w nadziei na kumulację wykroczeń. Niezatrzymanie się przed znakiem STOP (ponownie trudno tu mówić o ryzykownym zachowaniu - jadący Fordem poruszał się kilka kilometrów na godzinę i miał bardzo dobrą widoczność), a więc drugie wykroczenie, również nie było dla funkcjonariuszy wystarczające. Dopiero niemal dwukrotne przekroczenie prędkości przez kierowcę Focusa, tworzące realne zagrożenie w ruchu drogowym, uznali za odpowiedni moment (na który wyraźnie czekali), aby zatrzymać go.Nie bronimy bynajmniej osoby jadącej Fordem - faktycznie popełniła wszystkie trzy wykroczenia i została adekwatnie ukarana. Mamy jednak wrażenie, że funkcjonariusze w tej sytuacji nieco rozminęli się ze swoją misją. Po zarejestrowaniu pierwszego wykroczenia powinni byli oni zatrzymać kierowcę Focusa, nie tylko w celu wlepienia mu mandatu, ale także w ramach działań prewencyjnych. Widząc bowiem kierującego łamiącego przepisy policja ma obowiązek jak najszybciej go zatrzymać, ponieważ będzie to miało działanie "dyscyplinujące" i sprawi, że dalszą część drogi pokona już znacznie spokojniej i rozważniej. Zauważenie kierowcy łamiącego przepisy i podążanie za nim w nadziei, że zrobi coś naprawdę niebezpiecznego nie ma w sobie nic z poprawiania bezpieczeństwa na drogach. Dobrze natomiast wygląda w statystykach, ale chyba nie taka powinna być rola policji.KobietaKobietawww.rmf24.plEuroSportwww.rmf24.plŚwiat serialiMotoryzacjaEuroSportMotoryzacjastylEuroSportKobietaFilmFilmpomponik.plstyl
+                                                                            Inspiracje dla kobiet                                                                    
+                                                                            Sportowe emocje zawsze na najwyższym poziomie.                                                                    
+                                                                            Twoja wiedza na temat Formuły 1 sprowadza się jedynie do znajomości Roberta Kubicy? Sprawdź nasz...                                                                    
+                                                                            Nie daj się zaskoczyć pogodzie! U nas sprawdzić kiedy ubrać kalosze, a kiedy będziesz potrzebować...                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

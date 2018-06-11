@@ -1,0 +1,18 @@
+nastawiacz.plPraktyczne podejście do przetwórstwa tworzyw sztucznychPróby udarowe to próby dynamiczne, które określają zdolność materiału do przenoszenia gwałtownych obciążeń typu uderzeniowego.
+Badając udarność, sprawdzamy odporność materiału na pękanie przy obciążeniu dynamicznym.W celu wykonania pomiaru udarności, Georges Augustin Albert Charpy (Rysunek 1) skonstruował młot wahadłowy (Rysunek 2).Młot Charpy’ego to urządzenie, dzięki któremu można dokonać pomiaru udarności przygotowanych wcześniej próbek z m.in. tworzyw sztucznych.Wynik badania to iloraz pracy potrzebnej na złamanie próbki i pola przekroju poprzecznego w miejscu złamania próbki, który wyraża się
+w kJ/m².Udarność materiałów kruchych jest mała, a ciągliwych duża.Próbki do badania udarności mają określone rozmiary i ewentualnie nacięte karby, które determinuje norma ISO 179-1.
+Zgodnie z określonym standardem próbki mogą być poddane działaniu siły po stronie krawędzi z naciętym karbem lub po stronie ścianki (Rysunek 3).Poza wymiarem próbki oraz głębokości karbu, znormalizowany jest promień nacięcia. Zgodnie z normą istnieją 3 rodzaje, które przedstawia Rysunek 4.Projektując wyroby z tworzyw sztucznych, możemy dobrać materiał
+w zależności od wymaganej udarności. Informację taką możemy znaleźć m.in. w bazie tworzyw sztucznych CAMPUS.
+Dystrybutorzy tworzyw podają również wyniki badań udarności na kartach technicznych (Rysunek 5).Zawsze z wynikami podawana jest norma wg której odbył się pomiar.
+Rysunek 6 pokazuje jak czytać rozszerzenia podane przy numerze normy.Poniżej przedstawiam krótki film prezentujący opisywane przeze mnie badanie.Twój adres email nie zostanie opublikowany. Pola, których wypełnienie jest wymagane, są oznaczone symbolem *Komentarz Podpis * Email * Witryna internetowa Pamiętaj moje dane w tej przeglądarce podczas pisania kolejnych komentarzy. 
+
+Currently you have JavaScript disabled. In order to post comments, please make sure JavaScript and Cookies are enabled, and reload the page. Click here for instructions on how to enable JavaScript in your browser. Powiadom mnie o kolejnych komentarzach przez email. Powiadom mnie o nowych wpisach przez email.Wprowadź swój adres email aby zaprenumerować ten blog i otrzymywać powiadomienia o nowych wpisach przez email.
+
+							Adres e-mail						
+
+
+
+
+
+
+

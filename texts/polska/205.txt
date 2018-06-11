@@ -1,0 +1,25 @@
+    
+// <![CDATA[
+teksty = new Array(
+
+"<embed src='/banery/komet_baner_24-04-18.swf' width='750' height='100'  type='application/x-shockwave-flash'></embed>&nbsp;&nbsp;",
+"<embed src='/banery/galeria_usmiechu_baner_15-06-15.swf' width='750' height='100'  type='application/x-shockwave-flash'></embed>&nbsp;&nbsp;"
+);
+ 
+function pokaz() {
+  txt = teksty[Math.round(Math.random()*(teksty.length-1))];
+  document.getElementById("okienko").innerHTML = txt;
+//document.getElementsByClassName("rotacja").innerHTML = txt;
+
+  setTimeout("pokaz()", 20000);
+}
+pokaz();
+ 
+// ]]>
+// ]]>
+
+
+Byłeś świadkiem wydarzenia?Napisz do nas na listy@lokalna24.pl. Czekamy na informacje, zdjęcia, filmiki!Zgłoś imprezęZapraszamy organizatorów imprez z terenu powiatu kędzierzyńsko-kozielskiego do przesyłania plakatów.Porozmawiaj z dziennikarzemZadzwoń pod nr. 77 483 40 49 lub 77 483 46 59. Interwencje dziennikarskie przyjmujemy od poniedziałku do piątku w godz. 8.00-16.00.Portal Lokalna24.plWydawca: Lokalna Sp. z o.o.Adres redakcji:Kędzierzyn-Koźleul. Grunwaldzka 76/3tel. 77 483 40 49tel./fax 77 483 46 59e-mail: listy@lokalna24.plZapraszamy od poniedziałkudo piątku w godz. 8.00 - 16.00 W piątek 8 czerwca chwilę po godzinie 22 służby ratunkowe zostały zadysponowane do jednego z domków przy ulicy Parkowej w Kędzierzynie-Koźlu. Rodzice poinformowali, że ich córka chce popełnić samobójstwo. Trzynastolatka zamknęła się w pokoju i wyszła na balkon. Zagroziła, że skoczy, jeśli rodzicie nie oddadzą jej telefonu. Do mieszkania weszli policjanci i strażacy, który powstrzymali nastolatkę. Na miejsce zadysponowano także karetkę pogotowia ratunkowego. Dziewczynie na szczęście nic się nie stało. R E K L A M A    
+
+
+     Nasi partnerzy: KOMET - URPOL BorsodChem Petrochemia-Blachownia S.A. Grupa Azoty Zakłady Azotowe Kędzierzyn S.A.  A. Berger Polska Sp. z o.o. Lokalna24.pl | Lokalna Sp. z o.o. All Rights Reserved.Zapoznaj się z REGULAMINEM KORZYSTANIA Z SERWISU oraz  POLITYKĄ W SPRAWIE COOKIES   

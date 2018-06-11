@@ -1,0 +1,33 @@
+Amerykańska Agencja Ochrony Środowiska EPA wydała oficjalne oświadczenie, w którym przyznaje, że jest niezadowolona z postępów prac przy dieselgate. Historia dieselgate się jeszcze nie skończyła ani dla Volkswagena ani dla nas, powiedział Chrisopher Grundler, dyrektor Biura Transportu i Jakości Powietrza EPA. Tuż po wybuchu skandalu związanego z oszustwem niemiecki producent zobowiązał się zreformować swoją zamkniętą kulturę korporacyjną, postrzeganą przez ekspertów jako czynnik ułatwiający oszukiwanie. Volkswagen miał stać się bardziej przejrzystym przedsiębiorstwem. Okazało się jednak, że wprowadzanie zmian jest trudniejsze, niż przewidywano. Większość menadżerów stawiła opór zmianom.  „Dla EPA liczy się szanowanie prawa a nie tylko tekst prawa. Chcielibyśmy usłyszeć od Volkswagena jak wyglądają ich starania, chcemy usłyszeć, że do podobnego oszustwa firma już nigdy nie dopuści” – powiedział Grundler. Media przytaczają również wypowiedź Larry’ego Thompsona, wyznaczonego do monitorowania porozumienia. „Nie jestem zadowolony z postępów Volkswagena” – przyznał Thompson. Tymczasem zarząd Volkswagena przyznaje, że część pracowników przeciwstawia się dążeniu do otwartości. Wygląda więc na to, że deklaracje Volkswagena były wyłącznie powierzchowną próbą zrzucenia się z siebie odpowiedzialności. Temu twierdzeniu zdają się sprzyjać ujawniane co jakiś czas kolejne przypadki oszustwa, tak jak ostatnio w Porsche, gdzie zakwestionowano 60 tysięcy samochodów, które okazały się być wyposażone w oprogramowanie oszukujące testy spalin.
+
+
+			#gallery-2 {
+				margin: auto;
+			}
+			#gallery-2 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-2 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-2 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+30 maja 2018
+Stowarzyszenie Osób Poszkodowanych
+przez Spółki Grupy Volkswagen AG
+ul. Bagatela 11/3, 00-585 Warszawa
+tel. +48 794 222 410 (pn.-pt. w godz. 9:00–17:00)
+KRS: 0000602320

@@ -1,0 +1,46 @@
+Ujawniono dane dotyczące incydentu z 2004 r. o obserwacji niezidentyfikowanego obiektu przez armię amerykańską u wybrzeży Kalifornii.  
+
+Zdjęcie
+
+
+
+
+Nie wiadomo czym jest zaobserwowany obiekt
+/YouTube
+
+
+Incydent "Tic Tac" - nazwany dla określenia białego, szybko poruszającego się obiektu w kształcie słynnej miętowej drażetki - wywołał falę kontrowersji, gdy został ujawniony w ubiegłym roku. Przez dwa tygodnie w 2004 r. obserwowano anomalny pojazd powietrzny (AAV) o długości 13,7 m opisany jako "aerodynamiczny" z "brakiem widocznego napędu"."AAV zmienił wysokość z ok. 18 300 m do 15 m w ciągu kilku sekund" - czytamy w raporcie, który zawiera relacje pilotów i operatorów radarów o incydencie.Tajemniczy obiekt prawdopodobnie szukał czegoś w wodzie. Po tym jak USS Princeton nie był w stanie namierzyć AAV, wezwał samoloty F-18 do przechwycenia obiektu. Raport opisuje moment, w którym pilot zauważył zakłócenia pod powierzchnią wody przypominające "ledwo zanurzoną rafę lub wyspę". Następnie woda na powierzchni została zakłócona "spienionymi falami i pianą" przypominającymi "wrzącą" wodę. Niezidentyfikowany obiekt latający "Tic Tac" prawdopodobnie komunikował się z obiektem pod wodą.Na początku bieżącego roku Departament Obrony USA udostępnił trzy materiały wideo pokazujące spotkanie między myśliwcem marynarki wojennej i nieznanym obiektem. Ostatnio udostępnione informacje wskazują, że AAV nie jest ani tajną bronią, ani czymkolwiek należącym do Amerykanów i innych narodów, które znamy. Obiekty tego typu zawierają systemy pozwalające stać się im "niewidzialnymi" dla radarów i ludzkiego wzroku.Tajemnica incydentu "Tic Tac" wciąż pozostaje nierozwiązana.
+
+Wideo
+
+ 
+
+
+
+Piloci zauważyli UFO
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Incydent "Tic Tac" - nazwany dla określenia białego, szybko poruszającego się obiektu w kształcie słynnej miętowej drażetki - wywołał falę kontrowersji, gdy został ujawniony w ubiegłym roku. Przez dwa tygodnie w 2004 r. obserwowano anomalny pojazd powietrzny (AAV) o długości 13,7 m opisany jako "aerodynamiczny" z "brakiem widocznego napędu"."AAV zmienił wysokość z ok. 18 300 m do 15 m w ciągu kilku sekund" - czytamy w raporcie, który zawiera relacje pilotów i operatorów radarów o incydencie.Tajemniczy obiekt prawdopodobnie szukał czegoś w wodzie. Po tym jak USS Princeton nie był w stanie namierzyć AAV, wezwał samoloty F-18 do przechwycenia obiektu. Raport opisuje moment, w którym pilot zauważył zakłócenia pod powierzchnią wody przypominające "ledwo zanurzoną rafę lub wyspę". Następnie woda na powierzchni została zakłócona "spienionymi falami i pianą" przypominającymi "wrzącą" wodę. Niezidentyfikowany obiekt latający "Tic Tac" prawdopodobnie komunikował się z obiektem pod wodą.Na początku bieżącego roku Departament Obrony USA udostępnił trzy materiały wideo pokazujące spotkanie między myśliwcem marynarki wojennej i nieznanym obiektem. Ostatnio udostępnione informacje wskazują, że AAV nie jest ani tajną bronią, ani czymkolwiek należącym do Amerykanów i innych narodów, które znamy. Obiekty tego typu zawierają systemy pozwalające stać się im "niewidzialnymi" dla radarów i ludzkiego wzroku.Tajemnica incydentu "Tic Tac" wciąż pozostaje nierozwiązana.Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

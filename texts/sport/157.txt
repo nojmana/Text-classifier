@@ -1,0 +1,32 @@
+Maj 13, 2018, 21:47W opublikowanym dzisiaj oświadczeniu, ogłoszono że decyzja ta ma na celu wyrażenie wdzięczności prezydentowi USA za przeniesienie ambasady do Jerozolimy.– Przez 70 lat Jerozolima czekała na międzynarodowe uznanie, aż prezydent Donald Trump w odważnym ruchu, uznał ją za wieczną stolicę Izraela. Prezydent Trump okazał odwagę i prawdziwą miłość fo obywateli Izraela i ich stolicy, a obecnie inne kraje idą jego tropem, aby dać Jerozolimie swoje poparcie – głosi uzasadnienie. – Prezes klubu, właściciel Eli Tabib i dyrektor wykonawczy Eli Ochana zdecydowali się dodać do nazwy klubu nazwisko amerykańskiego prezydenta, który stworzył historię, Od tej pory będzie się on nazywał Beitar Trump Jerozolima.Historia klubu siega 1936 r., kiedy dwóch mieszkańców Jerozolimy – Dawid Horn oraz Szemuel Kirschstein postanowiło założyć lokalną drużynę piłki nożnej. Horn był działaczem prawicowego, młodzieżowego ruchu syjonistycznego Bejtar – „młodzieżówki” Partii Rewizjonistów (liberalni nacjonaliści). Do dziś fani Beitaru sympatyzują z partiami prawej strony sceny politycznej m.in. ugrupowaniem Likud. Kadra Beitaru w początkowej fazie istnienia klubu składała się w całości z członków Bejtaru włączając w to Chaima Corfu (który w przyszłości został ministrem prawicowego rządu).Bejtar współpracował w Polsce w latach 30-tych XX w. z organizacjami narodowo-radykalnymi, m.in. z RNR Falanga i rozbijał pochody socjalistycznego Bundu.
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6918582494067064",
+          enable_page_level_ads: true
+     });
+
+
+
+
+
+
+
+
+
+
+
+  var __nc_widgets = __nc_widgets || [];
+  var __nc_j = __nc_j || null;
+
+  __nc_widgets.push(['88F6-7C87-7DBF-DB1D-1esrNl', 'dzienniknarodowy.pl', 'recommendation', 1, 1]);
+
+  (function() {
+    var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';
+    __nc.src = '//nextclick.pl/widget/widget.recommendation.1.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);
+  })();
+
+

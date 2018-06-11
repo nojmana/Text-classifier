@@ -1,0 +1,89 @@
+1873Victor Orban zaapelował o rewizję polityki NATO wobec Kijowa. – Na Ukrainie zrodził się niebezpieczny poziom niestabilności, zagrażający sąsiadom – ocenia węgierski premier i wnioskuje o przeanalizowanie pomocy niesionej Kijowowi. 
+
+Zdjęcie
+
+
+
+
+Premier Węgier Viktor Orban
+/Attila Kisbenedek /AFP
+
+
+Sekretarz Generalny Sojuszu Północnoatlantyckiego Jens Stoltenberg otrzymał z Budapesztu formalną notę w sprawie polityki NATO wobec Ukrainy. Dokument nosi tytuł "Memorandum: Inicjatywa mająca na celu ustalenie nowej polityki NATO wobec Ukrainy" i trafił do rządów państw będących członkami Sojuszu.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }  Nota zawiera ostrą ocenę działań ukraińskich władz, z winy których "reformy na Ukrainie upadły". Konkluzja - należy zaprzestać pomocy dla Ukrainy, bowiem środki przekazywane Kijowowi są co najmniej marnotrawione.
+  "Rząd ukraiński osłabił się do takiego poziomu, że obecnie nie jest w stanie wypełniać podstawowych obowiązków, w tym ochrony praworządności czy wdrażania skutecznej kontroli ekonomicznej, socjalnej i politycznej" - czytamy w węgierskiej nocie. W efekcie Ukraina "nie jest w stanie spełnić swoich zobowiązań wobec różnych organizacji międzynarodowych".
+  "Memorandum" wskazuje również, że Kijów - pomimo "bezprecedensowej, niespotykanej wcześniej pomocy finansowej i politycznego wsparcia" - nie jest w stanie osiągnąć spodziewanego sukcesu.
+  Najmocniejszy zarzut ze strony Budapesztu to jednak stwierdzenie, że Ukraina "jest niebezpieczna dla sąsiadów". "W celu zapewnienia stabilności w regionie na wschodniej flance Sojuszu, NATO powinno dostosować politykę wobec Ukrainy do nowych okoliczności" - czytamy.
+  Skąd tak nagły atak Budapesztu na Kijów? Więcej światła na sprawę rzuca ten fragment noty: "Brak reform, połączony z ustawicznymi atakami na prawa mniejszości (...) skutkują niebezpiecznym poziomem niestabilności (...). Kijów kroczy drogę, która prowadzi do naruszenia istniejących praw mniejszości". Przypomnijmy, że relacje węgiersko-ukraińskie są napięte z powodu polityki Kijowa wobec mniejszości węgierskiej zamieszkującej ukraińskie Zakarpacie. Ukraiński parlament uchwalił ustawę, która znacząco ogranicza możliwość nauki języków przez mniejszości narodowe. Dodatkowo, na Zakarpaciu doszło do kilku antywęgierskich incydentów. Tymczasem Orban prowadzi aktywną politykę wspierania węgierskiej diaspory w państwach sąsiednich. 
+Czy powyższy dokument jest próbą wywarcia nacisku na Kijów? Polityka Węgier wobec Ukrainy różni się na przykład od tej prowadzonej przez Polskę. O ile Warszawa uznaje Kijów za ważny element hamowania wpływów Rosji na wschodzie Europy, to Budapeszt w tej kwestii ma zupełnie odmienne spojrzenie. Zwłaszcza, że Victor Orban nie traktuje Władimira Putina jako przeciwnika. Wręcz odwrotnie. Stawia to Polskę - najbliższego współpracownika Węgier w ramach Unii Europejskiej - w kłopotliwej sytuacji.
+ArWr
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Stoltenberg: NATO popiera i będzie popierać Ukrainę
+AFP
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2349033-9753481');
+                var $embed = jQuery('#player2349033-9753481').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ Sekretarz Generalny Sojuszu Północnoatlantyckiego Jens Stoltenberg otrzymał z Budapesztu formalną notę w sprawie polityki NATO wobec Ukrainy. Dokument nosi tytuł "Memorandum: Inicjatywa mająca na celu ustalenie nowej polityki NATO wobec Ukrainy" i trafił do rządów państw będących członkami Sojuszu.  Nota zawiera ostrą ocenę działań ukraińskich władz, z winy których "reformy na Ukrainie upadły". Konkluzja - należy zaprzestać pomocy dla Ukrainy, bowiem środki przekazywane Kijowowi są co najmniej marnotrawione.  "Rząd ukraiński osłabił się do takiego poziomu, że obecnie nie jest w stanie wypełniać podstawowych obowiązków, w tym ochrony praworządności czy wdrażania skutecznej kontroli ekonomicznej, socjalnej i politycznej" - czytamy w węgierskiej nocie. W efekcie Ukraina "nie jest w stanie spełnić swoich zobowiązań wobec różnych organizacji międzynarodowych".  "Memorandum" wskazuje również, że Kijów - pomimo "bezprecedensowej, niespotykanej wcześniej pomocy finansowej i politycznego wsparcia" - nie jest w stanie osiągnąć spodziewanego sukcesu.  Najmocniejszy zarzut ze strony Budapesztu to jednak stwierdzenie, że Ukraina "jest niebezpieczna dla sąsiadów". "W celu zapewnienia stabilności w regionie na wschodniej flance Sojuszu, NATO powinno dostosować politykę wobec Ukrainy do nowych okoliczności" - czytamy.  Skąd tak nagły atak Budapesztu na Kijów? Więcej światła na sprawę rzuca ten fragment noty: "Brak reform, połączony z ustawicznymi atakami na prawa mniejszości (...) skutkują niebezpiecznym poziomem niestabilności (...). Kijów kroczy drogę, która prowadzi do naruszenia istniejących praw mniejszości". Przypomnijmy, że relacje węgiersko-ukraińskie są napięte z powodu polityki Kijowa wobec mniejszości węgierskiej zamieszkującej ukraińskie Zakarpacie. Ukraiński parlament uchwalił ustawę, która znacząco ogranicza możliwość nauki języków przez mniejszości narodowe. Dodatkowo, na Zakarpaciu doszło do kilku antywęgierskich incydentów. Tymczasem Orban prowadzi aktywną politykę wspierania węgierskiej diaspory w państwach sąsiednich. Czy powyższy dokument jest próbą wywarcia nacisku na Kijów? Polityka Węgier wobec Ukrainy różni się na przykład od tej prowadzonej przez Polskę. O ile Warszawa uznaje Kijów za ważny element hamowania wpływów Rosji na wschodzie Europy, to Budapeszt w tej kwestii ma zupełnie odmienne spojrzenie. Zwłaszcza, że Victor Orban nie traktuje Władimira Putina jako przeciwnika. Wręcz odwrotnie. Stawia to Polskę - najbliższego współpracownika Węgier w ramach Unii Europejskiej - w kłopotliwej sytuacji.ArWrFaktyEuroSportwww.rmf24.plEuroSportFaktywww.rmf24.plFaktywww.rmf24.plwww.rmf24.plFaktyEuroSportFaktyFaktywww.rmf24.plFaktyFakty
+                                                                            Ciekawe przepisy kulinarne                                                                    
+                                                                            Przepisy na karpia                                                                    
+                                                                            Najpiękniejsze książki dla dzieci.                                                                    
+                                                                            Oglądaj Świat przez czyste Okna                                                                    
+                                                                            Najlepsze stoły do ping-ponga tylko w Sport-shop                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.O godz. 11:45 na masywie Monte Cassino zatknięto Polską flagę. Znany amerykański komentator radiowy Raymond Graham Swing po bitwie powiedział o żołnierzach II Korpusu Polskiego:
+
+"Najlepsi żołnierze jakich wydała ta wojna" "...Runęli przez ogień ,straceńcy
+niejeden z nich dostał i padł
+jak ci z Somosierry szaleńcy
+Jak ci spod Racławic sprzed lat
+Runęli impetem szalonym
+I doszli . I udał się szturm
+I sztandar swój biało czerwony
+Zatknęli na gruzach wśród chmurCzerwone maki na Monte Cassino..."          We wcześniejszych natarciach nie udało się to Amerykanom, Brytyjczykom, Francuzom, Kanadyjczykom, Hindusom, Nowozelandczykom.
+Polacy walczyli o zwycięstwo tam, gdzie inni nie zdołali.
+Walczyli dla Ojczyzny i dla Europy          Na miejscowym cmentarzu widnieje napis:
+„Przechodniu powiedz Polsce, żeśmy polegli wierni w jej służbie”Chwała Bohaterom spod Monte Cassino!         "...Czerwone maki na Monte Cassino
+Zamiast rosy piły polską krew.
+Po tych makach szedł żołnierz i ginął,
+Lecz od śmierci silniejszy był gniew.
+Przejdą lata i wieki przeminą.
+Pozostaną ślady dawnych dni
+I tylko maki na Monte Cassino
+Czerwieńsze będą, bo z polskiej wzrosną krwi..."             Cześć i chwała bohaterom!   
+
+										Większość Szwajcarów posłuchała obaw ekonomistów, odrzucając w referendum ideę wprowadzenia tzw. pieniądza suwerennego. Ponad 75 proc. głosujących było przeciwko. Na "nie" były wszystkie kantony. 				czytaj więcej
+
+						"Polska rodziną silna!” - pod tym hasłem po raz trzynasty przeszedł w niedzielę ulicami W-wy Marsz dla Życia i Rodziny. Podczas manifestacji postulowano między innymi o "jak najszybsze uchwalenie przepisów chroniących prawa dzieci nienarodzonych". 				czytaj więcej
+
+
+										Tam, gdzie kończy się cywilizacja jako uporządkowany zbiór zasad, w której odróżniamy dobro od zła, a dewiacje od normalnych zachowań- tam zaczyna się chaos i barbarzyństwo 				czytaj więcej

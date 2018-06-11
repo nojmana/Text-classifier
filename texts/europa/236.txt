@@ -1,0 +1,79 @@
+2783Premier Włoch Giuseppe Conte oświadczył w niedzielę, że Malta odmówiła udzielenia pomocy humanitarnej statkowi z ponad 600 migrantami, o którego przyjęcie w jej porcie zwróciło się włoskie MSW. Wcześniej strona włoska odmówiła wpuszczenia jednostki do swego portu. 
+
+Zdjęcie
+
+
+
+
+Statek "Aquarius"
+/LOUISA GOULIAMAKI /AFP
+
+
+Na pokładzie statku "Aquarius" organizacji "SOS Mediterranee" z personelem "Lekarzy bez Granic" jest 629 migrantów, uratowanych w czasie 6 operacji na Morzu Śródziemnym. Wśród nich jest 123 nieletnich, 11 dzieci i 7 kobiet w ciąży.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }Wicepremier i minister spraw wewnętrznych Włoch Matteo Salvini ogłosił w niedzielę, że jego rząd "zaczyna mówić 'nie' przemytowi" migrantów. Tak uzasadnił swą decyzję o odmowie przyjęcia statku organizacji pozarządowej z 629 migrantami.    
+ Następnie oświadczenie wydał premier Giuseppe Conte. Podkreślił w nim, że zwrócił się do szefa rządu Malty Josepha Muscata z prośbą o to, by "wziął na siebie przynajmniej udzielenie pomocy humanitarnej" osobom potrzebującym ze statku "Aquarius".     
+
+
+
+
+
+
+
+
+
+Kryzys migracyjny w Europie
+ "Ta decyzja nie ma precedensu". Włosi nie wpuścili statku z migrantami
+ 
+ 
+
+
+"Muscat, choć rozumie sytuację, nie zapewnił żadnej operacji, nawet humanitarnej. Po raz kolejny potwierdza się brak gotowości Malty , a zatem Europy, do interwencji i wzięcia na siebie odpowiedzialności w obliczu kryzysowej sytuacji"- stwierdził szef włoskiego rządu.    
+  Poinformował, że w kierunku statku z migrantami strona włoska wysłała dwie łodzie patrolowe z lekarzami gotowymi udzielić pomocy tym, którzy jej potrzebują.    
+Premier Conte dodał, że "Włochy są całkowicie osamotnione" wobec kryzysu migracyjnego.    
+  "Problem ten przedstawiłem także podczas szczytu G7 wszystkim partnerom europejskim" - powiedział. Conte podkreślił, że wskazywał ,iż należy wspólnie reagować na fale migracyjne podejmując także inicjatywy mające na celu ich zapobieganiu.    
+"Rozporządzenie z Dublina musi zostać radykalnie zmienione"- oświadczył premier odnosząc się do konwencji dotyczącej warunków przyznawania azylu.     
+Sprawa statku "Aquarius" było tematem posiedzenia rządu włoskiego w niedzielę wieczorem. Nadal nie wiadomo, do którego portu zawinie ta jednostka.       
+Z Rzymu Sylwia Wysocka
+
+Wideo
+
+var xlinkf4d7ae5f=document.createElement("script");xlinkf4d7ae5f.setAttribute("type","application/javascript"),xlinkf4d7ae5f.setAttribute("class","XlinkEmbedScript"),xlinkf4d7ae5f.setAttribute("data-url","//get.x-link.pl/df9c3933-da35-c908-7e7f-06e7a11b741f,d91817a5-a8d7-a979-d608-a46d16fd1556,embed.html"),xlinkf4d7ae5f.setAttribute("data-width","575"),xlinkf4d7ae5f.setAttribute("data-height","350"),xlinkf4d7ae5f.setAttribute("src","//js.iplsc.com/inpl.xnews/1.0.1/xlink-i.js"),xlinkf4d7ae5f.setAttribute("async",!0),xlinkf4d7ae5f.onload=function(){var a=document.createElement("script");a.src="//js.iplsc.com/inpl.resize-xnews/1.0.0/inpl.resize-xnews.js",document.getElementsByTagName("head")[0].appendChild(a)};document.getElementsByClassName('xlinkf4d7ae5f')[0].appendChild(xlinkf4d7ae5f); 
+
+
+
+Imigrant-spiderman otrzymał prawo stałego pobytu we Francji. Pierwszy krok do obywatelstwa za uratowanie dziecka z gzymsu
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ Na pokładzie statku "Aquarius" organizacji "SOS Mediterranee" z personelem "Lekarzy bez Granic" jest 629 migrantów, uratowanych w czasie 6 operacji na Morzu Śródziemnym. Wśród nich jest 123 nieletnich, 11 dzieci i 7 kobiet w ciąży.Wicepremier i minister spraw wewnętrznych Włoch Matteo Salvini ogłosił w niedzielę, że jego rząd "zaczyna mówić 'nie' przemytowi" migrantów. Tak uzasadnił swą decyzję o odmowie przyjęcia statku organizacji pozarządowej z 629 migrantami.     Następnie oświadczenie wydał premier Giuseppe Conte. Podkreślił w nim, że zwrócił się do szefa rządu Malty Josepha Muscata z prośbą o to, by "wziął na siebie przynajmniej udzielenie pomocy humanitarnej" osobom potrzebującym ze statku "Aquarius".     "Muscat, choć rozumie sytuację, nie zapewnił żadnej operacji, nawet humanitarnej. Po raz kolejny potwierdza się brak gotowości Malty , a zatem Europy, do interwencji i wzięcia na siebie odpowiedzialności w obliczu kryzysowej sytuacji"- stwierdził szef włoskiego rządu.      Poinformował, że w kierunku statku z migrantami strona włoska wysłała dwie łodzie patrolowe z lekarzami gotowymi udzielić pomocy tym, którzy jej potrzebują.    Premier Conte dodał, że "Włochy są całkowicie osamotnione" wobec kryzysu migracyjnego.      "Problem ten przedstawiłem także podczas szczytu G7 wszystkim partnerom europejskim" - powiedział. Conte podkreślił, że wskazywał ,iż należy wspólnie reagować na fale migracyjne podejmując także inicjatywy mające na celu ich zapobieganiu.    "Rozporządzenie z Dublina musi zostać radykalnie zmienione"- oświadczył premier odnosząc się do konwencji dotyczącej warunków przyznawania azylu.     Sprawa statku "Aquarius" było tematem posiedzenia rządu włoskiego w niedzielę wieczorem. Nadal nie wiadomo, do którego portu zawinie ta jednostka.       Z Rzymu Sylwia WysockaFaktyEuroSportFaktywww.rmf24.plwww.rmf24.plFaktywww.rmf24.plFaktyFaktyŚwiat serialiwww.rmf24.plmenwayEuroSportEuroSportFaktywww.rmf24.pl
+                                                                            Poznaj zwycięzce!                                                                    
+                                                                            Znajdziesz tu teksty wszystkich piosenek, tych najnowszych, a nawet już dawno zapomnianych.                                                                    
+                                                                            Przebrnij z nami egzamin na prawko i ciesz się jazdą do woli.                                                                    
+                                                                            Tu znajdziesz najświeższe, nowe wyniki losowania lotto i dużego lotka.                                                                    
+                                                                            Salon Toyota - Kraków - Sprawdź nas!                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

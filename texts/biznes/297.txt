@@ -1,0 +1,38 @@
+
+fot. pixabay.com
+
+
+
+
+          Data dodania:          
+            19.03.2016, 05:00
+          
+
+
+            Ostatnia aktualizacja:            
+              19.03.2016, 12:45
+            
+
+W Sejmie jest już projekt ustawy w tej sprawie, który daje możliwość zakazu handlu w godzinach 22-6 rano. - Samorządy będą mogły wprowadzić nocną prohibicję - mówił w programie #dziejesienazywo Leszek Wiwała ze Związku Pracodawców Polski Przemysł Spirytusowy. - Wszystko będzie zależeć od konkretnego miasta. Są jednak samorządy, które już teraz chcą ograniczeń w handlu alkoholem. To na przykład Toruń, w którym przypada najmniej sklepów alkoholowych na mieszkańca w kraju. W Polsce średnio jest jeden na 300 osób, a w Toruniu jeden na 1600. Wzrost kwoty wolnej od podatku będzie rozłożony w czasie
+
+Źródło: Money.pl
+         PPAds.queue.push(function () {         var slot = PPAds.app.getSlot('srodek1');                            slot.appendResolution(300, 250);                                         });              Płaca minimalna znów wzrośnie. Wiemy ile więcej zaproponuje rząd!        Zakupy w niedzielę 10 czerwca. Gdzie zrobisz zakupy w ten weekend        Znamy już wskaźnik waloryzacji składek emerytalnych za 2017 rok!    
+       var csRekomendacje = new ListaContentStream({         selector: {           boks: '.recomendations',           reklamy: '.recomendations li.cs'         },         szablon: '<a href="#href" title="#title">' +         '<figure class="image-box" >' +         '<img src="#src" alt="#title">' +         '</figure>' +         '<div class="title-cs">' +         '<h3 class="title">#title</h3>' +         '#add' +         '</div>' +         '</a>',         szablonReklama: '<span class="mark">sponsorowane</span>',         ile: 1       });     
+          {           'onsuccessFunctionName' : 'csRekomendacje.emisjaSukces',           'onerrorFunctionName' : 'csRekomendacje.emisjaBlad'         }        
+Źródło: Money.plRozpowszechnianie niniejszego artykułu możliwe jest tylko i wyłącznie
+                  zgodnie z postanowieniami „Regulaminu
+                  korzystania z artykułów prasowych” i po wcześniejszym uiszczeniu należności, zgodnie
+                  z cennikiem.
+                Polacy tłumnie ruszyli po obligacje skarbowe, które pozwalają wygrać nawet 10 tys. złotych. Papiery premiowe to nowy sposób Państwa żeby nakłonić Polaków do zakupu papierów dłużnych. Jeśli komuś uda się wylosować premię, to w praktyce oprocentowanie jego obligacji zamiast 1,5% może wzrosnąć do ponad 13%, 120%, 1200%, czy nawet bajońskich 12000% w skali roku – wynika z wyliczeń Open Finance.Urząd Ochrony Konkurencji i Konsumentów otrzymuje wiele skarg i zapytań w sprawie Profi Credit Polska. Z informacji od konsumentów wynika, że pożyczkodawca pobierał opłaty przewyższające pożyczoną kwotę oraz bez wiedzy konsumentów wypłacał kolejne pożyczki.  To jest już obowiązujące prawo. Polskie rodziny oprócz pieniędzy z programu Rodzina 500 plus dostaną wkrótce po 300 złotych na każde uczące się dziecko. 300 złotych – tyle wynosi świadczenie „Dobry Start” dla każdego uczącego się dziecka. Rząd ustanowił program, na podstawie, którego rodziny otrzymają raz w roku 300 zł na każde dziecko uczące się w szkole – bez względu na dochody.  Po raz pierwszy świadczenie trafi do rodzin w tym roku....
+        tel.: (52) 32-63-186
+agnieszka.domka@pomorska.pl
+
+                      tel.: 52 32 63 281
+dzial.reklamy@pomorska.pl
+Gazeta Pomorska jest częścią:
+
+Polska Press Sp. z o.o.
+            informuje, że wszystkie treści ukazujące się w serwisie Gazeta Pomorska podlegają ochronie.
+      Dowiedz się więcej.
+      Jesteś zainteresowany kupnem treści? Dowiedz się więcej.
+    © 2000 - 2018 Polska Press Sp. z o.o.

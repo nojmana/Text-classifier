@@ -1,0 +1,138 @@
+ 10/08/2015(02/12/2014)Osoba, która opłaca składki ZUS z tytułu działalności gospodarczej i zamyka tę działalność przed upływem 3 lat, nie ma prawa do zasiłku dla bezrobotnych. Nawet w przypadku, gdy składki te opłacała przez poprzednie 30 lat również z innych tytułów.
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+ 
+
+<!--
+var $jqspu = jQuery.noConflict();
+var addText = '';
+
+
+-->
+
+
+<!--
+jQuery(document).ready(function() {
+	var fshowMsg = true;
+	var autodim = 1;
+	
+		
+	if (fshowMsg) {
+		$jqspu.fancybox(
+			''+addText,
+			{
+				'autoDimensions'	: autodim,
+				'width'         	: '380',
+				'height'        	: 'auto',
+				'transitionIn'		: 'elastic',
+				'transitionOut'		: 'elastic',
+				'resizeOnWindowResize'	: true,
+				'centerOnScroll'	: true
+			}
+		);
+	}
+	
+	
+		
+});
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+addText = document.getElementById('spuSimplePoPup').innerHTML;
+-->
+
+
+Zasiłek dla bezrobotnych przysługuje osobom, które pozostają bez zatrudnienia i zarejestrują się w Urzędzie Pracy. Teoretycznie więc zasiłek taki wypłacany jest zarówno osobom, które tracą pracę na etacie, jak i osobom, które zamykają własną działalność gospodarczą. Uzyskanie prawa do zasiłku uzależnione jest jednak od spełnienia dodatkowego warunku. Ustawa określa bowiem, iż w ciągu ostatnich 18 miesięcy poprzedzających rejestrację w Urzędzie Pracy, osoba taka musiała opłacać składkę na Fundusz Pracy za okres co najmniej 365 dni. W praktyce więc, zasiłek dla bezrobotnych otrzymają te osoby, które w ostatnim czasie pracowały przez co najmniej jeden pełny rok. Okazało się jednak, iż zasada ta nie dotyczy pracy wykonywanej w ramach działalności gospodarczej. W tym przypadku bowiem, praca powinna być wykonywana przez co najmniej... 3 lata. 
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+Skąd wynika to nierówne traktowanie pracowników etatowych i przedsiębiorców? Przyczyna tkwi w wadliwie skonstruowanych przepisach ustawy o promocji zatrudnienia i instytucjach rynku pracy. Jak wspomnieliśmy powyżej, zasiłek dla bezrobotnych przysługuje tym osobom, które przez co najmniej jeden rok (w ciągu ostatnich 18 miesięcy) opłacały składkę na Fundusz Pracy. Zgodnie z ustawą jednak, składkę na Fundusz Pracy opłaca się jedynie wtedy, gdy jej podstawa wymiaru jest wyższa od kwoty minimalnego wynagrodzenia za pracę. I tu zaczyna się problem. Osoby prowadzące działalność gospodarczą, przez pierwsze dwa lata prowadzenia tej działalności, opłacają preferencyjne składki ZUS. Podstawę wymiaru tych składek stanowi zaś 30% kwoty minimalnego wynagrodzenia. Początkujący przedsiębiorcy nie opłacają więc składki na Fundusz Pracy przez pierwsze 2 lata prowadzenia firmy. Przykładowo, w roku 2015, minimalne wynagrodzenie za pracę wynosiło 1750 zł. Składki na Fundusz Pracy opłacane są wiec jedynie w tych przypadkach, gdy podstawa wymiaru przekracza tę kwotę. W przypadku zaś początkujących przedsiębiorców, podstawa wymiaru wynosi... 525 zł. Od takiej podstawy przedsiębiorca nie może więc opłacić składki na Fundusz Pracy. Należy przy tym podkreślić, iż brak składki na Fundusz Pracy od niższej podstawy wymiaru nie jest prawem, z którego można skorzystać lub nie, ale jest bezwzględnym przymusem. W ten sposób, osoby które obowiązuje niższa podstawa wymiaru, opłacają od tej podstawy wszystkie pozostałe składki ZUS. Nie mogą jednak opłacić składki na Fundusz Pracy, wobec czego nie nabędą w przyszłości prawa do zasiłku dla bezrobotnych. Przepisy skonstruowane są przy tym w taki sposób, iż prawo do zasiłku tracą również te osoby, które opłacały składki na Fundusz Pracy jeszcze bezpośrednio przed założeniem działalności. Daninę tę mogły więc opłacać regularnie i nieprzerwanie przez 30 lat, a zasiłku i tak nie dostaną. Gazeta Prawna przytacza przykład 58-letniego mężczyzny, który przez 29 lat nieprzerwanie opłacał składki na Fundusz Pracy, pracując w tym czasie na etacie. Po rozwiązaniu umowy o pracę, założył działalność gospodarczą, opłacając przez pierwsze dwa lata składki preferencyjne (w związku z czym nie miał możliwości opłacania składki na Fundusz Pracy). Po upływie 2 lat zaczął opłacać składki ZUS w normalnej wysokości, w tym również składkę na Fundusz Pracy. Niestety, przed upływem trzeciego roku zmuszony został do zamknięcia działalności. Zarejestrował się więc w Urzędzie Pracy, licząc na zasiłek dla bezrobotnych. Wtedy dowiedział się od urzędnika, że żaden zasiłek mu nie przysługuje, gdyż... w ciągu ostatnich 18 miesięcy, składki na Fundusz Pracy opłacone były za okres krótszy niż 365 dni... Zgodnie zaś z przepisami, na prawo do zasiłku nie mają wpływu składki płacone przez poprzednich 29 lat... Absurdalność obowiązujących przepisów wydaje się zatem oczywista. Co na to Ministerstwo Pracy odpowiedzialne za kształtowanie tych przepisów? Cytowany przez GP wiceminister nie widzi problemu, ani potrzeby żadnych zmian. Według ministra, początkujący przedsiębiorcy mogą w prosty sposób rozwiązać ten problem, gdyż: "Osoba ubezpieczona może sama kształtować wysokość podstawy wymiaru składki na ubezpieczenie społeczne. (...) W okresie preferencyjnego oskładkowania zainteresowany może dowolnie zmieniać wysokość podstawy" 
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+Co zatem sugeruje ministerstwo początkującym przedsiębiorcom, którzy nie chcą w przyszłości stracić prawa do zasiłku? Przedsiębiorcy mogą dobrowolnie podwyższyć podstawę wymiaru składek do takiej wysokości, która rodziłaby obowiązek zapłaty również składki na Fundusz Pracy. Powinni więc podwyższyć podstawę do kwoty... 1750 zł. Problem w tym, że ta podstawa wymiaru jest wspólna dla wszystkich składek. Podwyższając ją, podwyższamy nie tylko składkę na Fundusz Pracy, ale również wszystkie pozostałe składki ZUS. Idąc za radami resortu pracy, początkujący przedsiębiorca powinien zatem dobrowolnie podwyższyć swoją podstawę wymiaru z obecnych 525 zł do 1750 zł (a więc ponad 3-krotnie!), tym samym rezygnując z przysługujących mu preferencji. W ten sposób podwyższa on podstawę dla wszystkich składek ZUS (emerytalnej, rentowej, wypadkowej, chorobowej oraz FP) w wyniku czego łączna wysokość składek wzrasta z obecnych 446,20 zł do... 878,27 zł. A to już jest kwota niewiele różniąca się od pełnych (niepreferencyjnych) składek ZUS. Z jednej strony więc ministerstwo szumnie ogłasza tworzenie przyjaznego prawa sprzyjającego rozwojowi przedsiębiorczości (preferencje składkowe), z drugiej zaś, to samo ministerstwo mówi polskim przedsiębiorcom (ale już cichaczem), że jeśli chcą mieć jakieś prawa, to niech z tych "pro-rozwojowych" preferencji dobrowolnie zrezygnują...  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+
+
+
+
+Chcesz otrzymywać bieżące informacje na ten temat?
+
+Zamów nasz biuletyn: 
+ function SprawdzFormularz(f) { if (f.email.value=='') { alert('Nie podałeś/aś adresu e-mail.'); return false; } if ( ((f.email.value.indexOf('@',1))==-1)||(f.email.value.indexOf('.',1))==-1 ) { alert('Podałeś/aś błędny adres e-mail'); return false; } else { return true; } } 
+
+
+
+
+
+
+E-mail:
+
+
+
+
+
+Zamów nasz biuletyn: 
+ function SprawdzFormularz(f) { if (f.email.value=='') { alert('Nie podałeś/aś adresu e-mail.'); return false; } if ( ((f.email.value.indexOf('@',1))==-1)||(f.email.value.indexOf('.',1))==-1 ) { alert('Podałeś/aś błędny adres e-mail'); return false; } else { return true; } } 
+
+E-mail:
+
+
+
+
+
+   Chcesz być na bieżąco    w tym temacie? Zamów nasz biuletyn:  E-mail: 
+Szukaj w serwisie:
+
+Copyright ©
+2006. Składki ZUS. Wszystkie prawa zastrzeżone.
+
+
+Polityka cookies    
+Polityka
+Prywatności
+Polityka cookies    
+Polityka
+Prywatności

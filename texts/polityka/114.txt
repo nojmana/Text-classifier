@@ -1,0 +1,68 @@
+By
+
+Julian Robinson for MailOnline
+
+Published:
+  11:14 BST, 16 May 2018
+
+ | 
+Updated:
+  13:42 BST, 16 May 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+e-mail
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '5735165',
+                    'title': 'Man, 22, has eyes gouged out by family for wanting to marry girlfriend',
+                    'url': 'http://www.dailymail.co.uk/news/article-5735165/Man-22-eyes-gouged-spoon-family-wanting-marry-girlfriend.html',
+                    'eTwitterStatus': ' https://dailym.ai/2IkO2jA via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+
+
+            
+
+
+
+8.2k
+shares
+
+ 
+         307
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+
+
+    
+
+         307View  commentsA man had his eyes gouged out with a spoon in a horrific attack by his father and brothers - because he wanted to marry a girl of his choice.Abdul Baqi, 22, from Nasirabad village in Pakistan's Balochistan province, had asked his family to take an engagement proposal to his girlfriend.But the request enraged his 70-year-old father Dost Muhammmad and four brothers - Abdul Ghani, Abdul Sattar, Abdul Rehman and Abdul Karim - who then held him in a room and gouged his eyes of their sockets. Horrifying: Abdul Baqi, 22, had told his family he intended to marry his girlfriend, but this enraged his father and brothers who attacked him and gouged his eyes out They locked his mother in another room so she could not intervene and then used a spoon and a knife to carry out the horrific punishment. Mr Baqi, who is currently admitted in Jinnah Post Graduate Medical Centre in Karachi, said: 'I requested my father and brothers that I want to marry a girl I have been in relationship with.'My father agreed first. But, three hours later I was taken to a room by my father and four brothers where they tied me to a bed and started taking out my eyes.'I kept shouting at them what were they doing? But they didn't listen to my pleas.'Narrating the tragic incident, Baqi said: 'My father used the back of a spoon to take out my first eye. I saw my eye dangling out of the socket. He then used a knife to cut the veins.Before: The 22-year-old is pictured before the horrendous attack by his brothers and fatherShocking: Mr Baqi was held down by his brothers, who had locked their mother in a separate room so she could not help him, while their father gouged his eyes out with a spoon'When they removed my first eye, I requested them to leave me now. But they didn't listen to me at all and removed the other one as well.'After they finished, I pleaded to them to please kill me now but they replied they want me be an example for other boys in the village.'Neighbours informed some of Mr Baqi's other siblings of the incident, who rushed him to hospital. After being transferred to a specialist hospital in Karachi, doctors confirmed he will never  be able to see again.His brother Abdul Gaffar, 24, who did not take part in the attack, said: 'I was not at home when the incident happened. I received a call from my neighbour that something is wrong at your home.Devastating: Despite initial hopes that one of his eyes might be saved, doctors have told Mr Baqi that he will be blind for life'I immediately rushed home and I was shocked to see my brother crying in pain.'We had no money at home. Some friends and neighbours helped us with 35,000 rupee (£224).'We took him to a hospital in Quetta where doctors told us that if we immediately take him to Karachi, may be his one eye can be saved. But doctors at Jinnah Hospital in Karachi told us he won't be able to see again.'The incident has been reported to police, and his father and two of the brothers have been arrested.Two remaining brothers are still on the run, local news reports. 
+	    Share what you think
+          The comments below have been moderated in advance.
+      The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.
+    We are no longer accepting comments on this article.Published by Associated Newspapers LtdPart of the Daily Mail, The Mail on Sunday & Metro Media Group

@@ -1,0 +1,245 @@
+
+        Oddajemy do Państwa dyspozycji możliwość personalizacji układu strony głównej portalu polska-zbrojna.pl.
+        Dostosowanie układu polega na ustawieniu kolejności działów, poprzez ich przeciąganie w odpowiednie miejsce listy.
+    
+działy tematyczne:
+
+
+
+
+                            Armia
+                             
+                             dział otwarty
+                        
+
+                            Poligon
+                             
+                             dział otwarty
+                        
+
+                            Sprzęt
+                             
+                             dział otwarty
+                        
+
+                            Misje
+                             
+                             dział otwarty
+                        
+
+                            Polityka
+                             
+                             dział otwarty
+                        
+
+                            Prawo
+                             
+                             dział otwarty
+                        
+
+                            Świat
+                             
+                             dział otwarty
+                        
+
+                            Społeczność
+                             
+                             dział otwarty
+                        
+
+                            Sport
+                             
+                             dział otwarty
+                        
+
+                            Historia
+                             
+                             dział otwarty
+                        
+
+
+pozostałe moduły:
+
+
+
+
+                            z jednostek + kadry
+                        
+
+                            wideo
+                        
+
+                            galerie
+                        
+
+                            pasek z pozycjami
+                        
+
+                            polecamy
+                        
+
+
+Dział "Moja Polska Zbrojna" - jeżeli życzą sobie Państwo treści przefiltrowane według Państwa zainteresowań, prosimy o wybranie odpowiednich tagów:
+
+ Historia,
+                    
+                         Inwestycje,
+                    
+                         Jaskier,
+                    
+                         Logistyka,
+                    
+                         Marynarka wojenna,
+                    
+                         Militaria,
+                    
+                         Misje zagraniczne,
+                    
+                         Modernizacja techniczna,
+                    
+                         Narodowe siły rezerwowe,
+                    
+                         NATO,
+                    
+                         Nauka i medycyna,
+                    
+                         Obrona terytorialna,
+                    
+                         Organizacje proobronne,
+                    
+                         Pacast,
+                    
+                         Poligon,
+                    
+                         Polityka,
+                    
+                         Prawo,
+                    
+                         Rekonstrukcje historyczne,
+                    
+                         Relacje z imprez,
+                    
+                         Siły powietrzne,
+                    
+                         Sport,
+                    
+                         Sprawy międzynarodowe,
+                    
+                         Sprzęt,
+                    
+                         szkolnictwo,
+                    
+                         Szkolnictwo wojskowe,
+                    
+                         Śnieżnik,
+                    
+                         Weterani,
+                    
+                         Wojska lądowe,
+                    
+                         Wojska specjalne,
+                    
+                         Wrocław,
+                    
+                         Zapowiedzi wydarzeń,
+                    
+                         Żandarmeria wojskowa,
+                    
+        
+1372056840
+
+
+A
+A
+A
+
+
+    function contentToNormalFontSize() {
+        $(".tinyMce *").css("font-size", "13px");
+    }
+    function contentToBigFontSize() {
+        $(".tinyMce *").css("font-size", "15px");
+    }
+    function contentToBiggerFontSize() {
+        $(".tinyMce *").css("font-size", "17px");
+    }
+
+
+Polscy naukowcy zbudowali detektor min, który odnajduje je po zapachu. Urządzenie nazywane „sztucznym nosem” jest w stanie wykryć ładunek 15 cm pod ziemią, a potem go zdetonować. Konstrukcja, opracowana przez zespół z Politechniki Warszawskiej, ma służyć głównie do niszczenia min niemetalowych.
+
+
+
+– Na całym świecie miliony min są ukryte w ziemi. Zagrażają cywilom i żołnierzom, zwłaszcza na misjach, dlatego chcieliśmy opracować urządzenie, które pomoże je wykrywać – mówi dr Robert Głębocki, dyrektor Centrum Badawczego Obronności i Bezpieczeństwa Politechniki Warszawskiej.Zespół pod jego kierownictwem skonstruował mobilny system wykrywania i niszczenia min niemetalowych. Razem z naukowcami z Politechniki pracowali nad nim eksperci z Przemysłowego Instytutu Automatyki i Pomiarów.Ich wynalazek jest szczególnie cenny. Kiedyś bowiem do wykrycia min wystarczał detektor metalu, dziś terroryści budują ładunki z tworzyw sztucznych lub ceramiki, niewykrywalnych tradycyjnymi urządzeniami. Jak dotąd nikt na świecie nie zbudował produkowanego na szeroką skalę urządzenia wykrywającego takie ładunki. Doktor Głębocki liczy, że ich wynalazek będzie pierwszy.– Nasze urządzenie opiera się na nowatorskiej analizie zapachu – podkreśla naukowiec. Chodzi o specjalny czujnik zapachowy nazwany sztucznym nosem, który rozpoznaje kompozycję określonych związków w powietrzu. – Można go nauczyć rozpoznawania dowolnych zapachów. W naszym wypadku maszyna nie szuka środków wybuchowych, ale związków chemicznych znajdujących się w ich obudowach, np. chloru w PCV – opisuje naukowiec. Sztuczny nos jest o wiele czulszy od ludzkiego i wywącha minę nawet na głębokości 15 cm.Inżynierowie zamontowali go na niewielkim, zdalnie sterowanym robocie pirotechnicznym, dzięki czemu saper w czasie operacji może stać z dala od zagrożenia. Ponadmetrowej długości sześciokołowy pojazd jest zasilany elektrycznie, ma też agregat spalinowy.Robot jadąc sonduje ziemię za pomocą ultradźwięków. Jeśli znajdzie przedmiot o kształcie zbliżonym do miny, uruchamia czujnik zapachowy. Może też, po zlokalizowaniu zagrożenia, zostawić na nim specjalny ładunek, który spali minę, lub zdetonować ją strzelając w jej kierunku piaskiem lub żelem. Pojazd nie może co prawda badać dużych obszarów, ale może np. oczyścić z ładunków drogę.Może też zostać tak zaprogramowany, aby sam bez sterowania przez operatora przemierzył i sprawdził określony teren. – Nie spotkałem się dotąd z urządzeniami wykrywającymi miny po zapachu – przyznaje płk Jarosław Rusiński, zastępca szefa Inżynierii Wojskowej. Dodaje, że obecnie wojsko, poszukując min niemetalowych, m.in. skanuje teren za pomocą echosondy i używa psów wykrywających zapach materiałów wybuchowych. – Taki robot przydałby się zwłaszcza na Bałkanach, gdzie w ziemi pozostało po konflikcie mnóstwo min – mówi Marek Kowalewski, były wojskowy saper i uczestnik misji.Na razie pojazd jest udoskonalany. Wojsko zainteresowane jest głównie systemem nawigacji bez udziału człowieka. Z kolei z zastosowanych w budowie robota technologii korzystają już niektóre służby, np. sztucznego nosa używają celnicy do wykrywania przemycanych przedmiotów. Jednak kiedy urządzenie mogłoby trafić do produkcji, na razie nie wiadomo.* * * * *Według danych Polskiego Czerwonego Krzyża, miny przeciwpiechotne znajdują się na terenie 70 państw. Używają ich też chętnie rebelianci m.in. w Afganistanie, Birmie, Iraku czy Libanie. Miny są też jednym z największych zagrożeń dla polskich żołnierzy na misjach. W Afganistanie od 2010 roku od wybuchu min pułapek zginęło 16 wojskowych. Także w Polsce po II wojnie ponad 80 proc. obszaru kraju było zanieczyszczone minami i niewybuchami. Do dziś usunięto ich ponad 80 milionów. Jednak nadal co roku znajduje się kilkaset min i niewybuchów. Ginie od nich lub zostaje rannych kilkanaście osób rocznie.
+
+Nasi partnerzyMuzeum Wojska PolskiegoMuzeum Oręża PolskiegoMuzeum Broni PancernejCentrum Weterana
+Wydawnictwa WIWPrenumerata redakcyjna czasopism WIWWydawnictwa specjalistycznePublikacjeRegulamin przekazywania materiałów do WIW
+Na skrótyOferta reklamowaBuzdygany - regulamin(obowiązuje od 14.12.2017)LinkiRedakcjaO WIWPatronaty medialneZamówienia publiczneMapa strony
+KontaktWojskowy Instytut WydawniczyAl. Jerozolimskie 9700-909 Warszawa+48 261 845 365NIP: 701-02-67-116sekretariat@zbrojni.pl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Ministerstwo Obrony Narodowej
+            
+
+                Sztab Generalny Wojska Polskiego
+            
+
+                Dowództwo Generalne Rodzajów Sił Zbrojnych
+            
+
+                Dowództwo Operacyjne Rodzajów Sił Zbrojnych
+            
+
+                Wielonarodowy KorpusPółnocno-Wschodni
+            
+
+                CentrumSzkolenia Sił PołączonychNATO (JFTC)
+            
+
+                Żandarmeria Wojskowa
+            
+
+                Inspektorat Uzbrojenia
+            
+
+                Inspektorat ImplementacjiInnowacyjnych Technologii Obronnych
+            
+
+                Dowództwo Garnizonu Warszawa
+            
+
+

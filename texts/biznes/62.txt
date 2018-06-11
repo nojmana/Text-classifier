@@ -1,0 +1,311 @@
+Leasing to dość młoda forma finansowania, której grono
+zwolenników powiększa się z roku na rok. W 2017 r. branża odnotowała 15,7-proc.
+wzrost w stosunku do 2016 r. W związku z rosnącym zainteresowaniem leasingiem,
+głownie w sektorze MŚP, sprawdziliśmy oferty firm leasingowych dla najchętniej
+wybieranego przedmiotu zawieranych umów – samochodu osobowego.Redakcja Bankier.pl poprosiła banki oraz firmy działające na
+rynku leasingu samochodów o kalkulację kosztów środka transportu o wartości 100
+tys. zł netto na 60 miesięcy. Założyliśmy, że przedmiot
+leasingu jest nowy, z rocznika 2017, silnik – benzyna 2.0. Klientem
+jest przedsiębiorca z sektora MŚP, który posiada zdolność leasingową. Poglądowe oferty otrzymaliśmy od Alior
+Leasing, Grupy Masterlease, EFL, Idea Getin Leasing, ING Lease, mLeasing oraz
+Banku Pekao. Sprawdziliśmy, jakie są miesięczne koszty transakcji oraz na
+jakie usługi klient może liczyć w pakiecie.2017 r. był kolejnym rokiem, w którym przedsiębiorcy
+najchętniej sięgali po leasing pojazdów osobowych (dynamika wzrostu w stosunku
+do roku 2016 wynosiła 21,9 proc.). – Zapotrzebowanie sektora MŚP na środki
+transportu koncertuje się na zaspokojeniu trzech głównych potrzeb: są to
+samochody pełniące szeroko rozumiane cele reprezentacyjne, samochody dla
+handlowców oraz samochody dostawcze/ciężarowe. W zależności od tego, czy mamy
+do czynienia z mikro, małymi czy średnimi przedsiębiorstwami, struktura potrzeb
+się zmienia. Oczywiście, im mniejsza firma, tym jeden pojazd pełni więcej funkcji.
+Ponadto sektor MŚP już nie traktuje leasingu jedynie jako alternatywną formę
+zakupu, ale jako formę użytkowania przedmiotu z opcją stania się jego
+właścicielem (bez konieczności wykupu) – wyjaśnia Maciej Czapski dyrektor
+Zarządzający Obszarem Ryzyka i Należności Idea Getin Leasing S.A. Przedsiębiorcy sięgający po leasing głównie kierują się
+możliwością ograniczenia miesięcznego obciążenia wynikającego z umowy. Dlatego
+wybierając ofertę leasingową, należy zwrócić uwagę na okres finansowania, warunki
+spłaty, wysokość opłaty początkowej, wysokość wykupu sprzętu oraz koszty
+ubezpieczenia przedmiotu leasingu.
+
+
+
+
+
+sas.render('42713');  // Format : Navibox_3 300x250
+
+
+
+
+
+W związku z tym, że w najpopularniejszej opcji leasingu
+operacyjnego przedsiębiorca ma możliwość wykupu samochodu, poniżej zostały zaprezentowane dwie kalkulacje. Pierwsza z nich uwzględnia wykup w wysokości 1 proc. wartości przedmiotu umowy. Druga
+natomiast – wykup 30 proc. Przy czym każda z opcji zakłada wniesienie wkładu
+własnego w wysokości 10 proc. Oczywiście w praktyce przedsiębiorca nie
+musi z niego korzystać, co oznacza, że auto pozostaje własnością leasingodawcy.
+Jeśli natomiast zdecyduje się na wykupienie przedmiotu leasingu, ma możliwość nabycia samochodu po
+cenie niższej niż początkowa i ustalanej indywidualnie z leasingodawcą.Okazuje się, że przedsiębiorca rozważający zaciągniecie
+leasingu nie musi obawiać się dodatkowych kosztów w postaci prowizji czy opłaty
+za opracowanie wniosku. Wyłącznie EFL pobiera prowizję w wysokości 0,5 proc.,
+przy czym firmy, które skorzystają z cross-sellingu, zostaną zwolnione z tej opłaty.
+Natomiast wysokość raty może kształtować się od 1487
+(mLeasing) do 1707,05 zł netto (EFL) w opcji z indywidualnym ubezpieczeniem
+oraz wykupem 1 proc. W sytuacji, gdy przedsiębiorca zawrze umowę na OC/AC za
+pośrednictwem firmy leasingującej, co oznacza, że składka zostanie doliczona do
+raty, wówczas miesięczny koszt finansowania kształtuje się w przedziale 1757-2174
+zł netto. Warunki
+  uzyskania leasingu samochodu osobowego o wartości 100 tys. zł netto - wykup 1
+  proc.WarunkiAlior LeasingEFLIdea
+  Getin LeasingING Lease (1)Grupa
+  MasterleasemLeasingBank
+  PekaoProwizja za
+  udzielenie leasingubrak0,5%
+  (1)brakbrakbrakbrakbrakOpłata za
+  opracowanie wnioskubrakbrakbrakbrakbrakbrakbrakMiesięczna
+  rata leasingowa (z ubezp.)1
+  798,99 zł2173,80
+  zł (2)n/d
+  (4)1919,37 zł (3) 1757,04 zł (5) 1
+  842 zł2
+  054,89 złMiesięczna
+  rata leasingowa (bez ubezp.)1
+  495,94 zł1
+  707,05 zł1
+  612,33 zł1644,04 zł1
+  532,04 zł1
+  487 zł1
+  693,85 złŁączny
+  koszt leasingu w wariancie z ubezp. (8)114,10%139,76%n/d112,94% (6)   115,57%
+  (7)131,81%131,33%Łączny
+  koszt leasingu w wariancie bez ubezp. (8)113,80%112,21%107,74%109,64% (6)113,14%108,54%110,93%(1)
+  0 zł prowizji w przypadku cross-sellingu,
+  (2) rata uwzględnia ubezpieczenie OC/AC wieloletnie na okres 60 miesięcy, 
+  (3) wyliczenie raty miesięcznej: 1 644,04 zł + 275,33 zł (składka
+  ubezpieczeniowa na pierwszy rok 3 304 zł),
+  (4) koszt ubezpieczenia zależy od szkodliwości klienta i siedziby firmy,
+  (5) wyliczenie raty miesięcznej: 1532,04 netto = 1884,41 zł brutto + 225 zł
+  =  2109,41 zł,
+  (6) na bazie WIBOR 1M z dnia 15.03.2018 w wys. 1,64%,
+  (7) przypadku zawarcia ubezpieczenia na okres 12 miesięcy,
+  (8) za łączny koszt leasingu uważa się sumę rat leasingowych, wpłatę
+  początkową, koszt ubezpieczenia (jeśli dotyczy), prowizję, kwotę wykupu.
+  Źródło: Bankier.pl, na podstawie informacji od instytucji leasingujących,
+  stan na 27.03.2018 r.Podwyższenie wykupu do 30 proc. wpłynie na obniżenie
+wysokości miesięcznej raty leasingowej. Wówczas kształtować się ona będzie w
+przedziale 1084-1298 zł netto bez ubezpieczenia. Natomiast z opcją z
+ubezpieczeniem – od 1373 do 1770,70 zł netto.Warunki
+  uzyskania leasingu samochodu osobowego o wartości 100 tys. zł netto - wykup
+  30 proc.WarunkiAlior
+  LeasingEFLIdea
+  Getin LeasingING Lease (1)Grupa
+  MasterleasemLeasingBank
+  PekaoProwizja za
+  udzielenie leasingubrak0,5%
+  (2)brakbrakbrakbrakbrakOpłata za
+  opracowanie wnioskubrakbrakbrakbrakbrakbrakbrakMiesięczna
+  rata leasingowa (z ubezp.)1
+  407,06 zł1770,70
+  zł (3)n/d
+  (5)1557,74 zł (4) 1373 zł (6) 1
+  439 zł1
+  616,35 złMiesięczna
+  rata leasingowa (bez ubezp.)1
+  107,03 zł1
+  298,30 zł1
+  165,32 zł1282,41 zł1
+  148 zł1
+  084 zł1
+  255,31 złŁączny
+  koszt leasingu w wariancie z ubezp. (9)111,03%144,97%n/d115,24% (7)118,96%
+  (8)134,37%126,36%Łączny
+  koszt leasingu w wariancie bez ubezp. (9)110,73%117,10%109,92%111,94% (7)116,53%111,10%114,06%(1)
+  brak możliwości wykupu po 60 miesiącach w wysokości 30 proc., maksymalna
+  wartość to 25%,
+  (2) 0 zł prowizji w przypadku cross-sellingu,
+  (3) rata uwzględnia ubezpieczenie OC/AC wieloletnie na okres 60 miesięcy,
+  (4) 1282,41 zł + 275,33 zł (składka ubezpieczeniowa
+  na pierwszy rok 3304 zł),
+  (5) koszt ubezpieczenia zależy od szkodliwości klienta i siedziby
+  firmy, 
+  (6) wyliczenie składki: 1148 netto = 1412 zł brutto + 225 zł = 1637 zł,
+  (7) na bazie WIBOR 1M z dnia 15.03.2018 w wys. 1,64%,
+  (8) w przypadku zawarcia ubezpieczenia na okres 12 miesięcy,(9) za łączny
+  koszt leasingu uważa się sumę rat leasingowych, wpłatę początkową, koszt
+  ubezpieczenia (jeśli dotyczy), prowizję, kwota wykupu.
+  Źródło: Bankier.pl, na podstawie informacji od instytucji leasingujących,
+  stan na 27.03.2018 r.Warto zaznaczyć, że nie wszystkie firmy leasingowe
+umożliwiają wykupienie przedmiotu leasingu w wysokości 30 proc. ING Lease przy
+okresie leasingowania wynoszącym 60 miesięcy, stosuje maksymalną wartość wykupu
+25 proc.Wszystkie instytucje finansowe, które przedstawiły swoją
+ofertę leasingową, umożliwiają przedsiębiorcy odstąpienie od umowy
+ubezpieczeniowej proponowanej w ramach kontraktu leasingowego, a tym samym
+zawarcie indywidualnego ubezpieczenia. Przy czym stawiają ściśle określone warunki,
+jakie powinny znaleźć się w polisie, m.in.:Warunki
+  ubezpieczenia przedmiotu leasingu Instytucja
+  LeasingującaCzy
+  leasingobiorca może ubezpieczyć przedmiot leasingu indywidualnie?Jakie
+  warunki musi spełniać indywidualne ubezpieczenie OC/AC?Alior Leasingtak- rekomendowane
+  towarzystwa ubezpieczeniowe: TU PZU, Stu Ergo HESTIA, TU Allianz
+  Polska, TU Compensa, TUiR Warta,
+  - ubezpieczenie OC/AC, NNW,
+  - składka płatna jednorazowo,
+  - zniesione udziały własne w szkodach,
+  - brak konsumpcji sumy ubezpieczenia (suma ubezpieczenia nie ulega
+  pomniejszeniu po wypłaconym odszkodowaniu),
+  - rozliczenie kosztów naprawy pojazdu w oparciu o wariant „serwis”,
+  - uwzględniona zwyżka za pojazd w leasingu,
+  - okres ochrony OC/AC/NNW - 12 miesięcyEFLtak-
+  ubezpieczenie powinno obejmować pełny zakres, w tym także ryzyko kradzieży, 
+  - udział własny w szkodach (także potrącenia amortyzacyjne) nie mogą mieć
+  zastosowania,
+  - wypłata odszkodowania nie może pomniejszać sumy ubezpieczenia (brak konsumpcji
+  sumy ubezpieczenia)
+
+ING
+  Leasetak -
+  OC/AC/NNW, -
+  pokryte wszystkie ryzyka, -
+  franczyza integralna 500 zł, -
+  brak udziału własnego w szkodzie, -
+  brak redukcji sumy ubezpieczenia po szkodzie, -
+  naprawa w ASO Idea
+  Getin Leasingtakubezpieczenie
+  musi opiewać na wartość netto pojazduGrupa
+  Masterleasetak-
+  ubezpieczenie powinno mieć pełen zakres, tj. OC/AC/NNW,
+  - składka za ubezpieczenie powinna być opłacona jednorazowo i z góry,
+  najpóźniej w dniu zawarcia polisy,
+  - zniesienie wszystkich udziałów własnych, w tym również udziałów własnych
+  dla kierującego poniżej 26. roku życia (dopuszczalna franszyza integralna 500
+  zł), 
+  - zniesiona powinna być amortyzacja części nieeksploatacyjnych,
+  - zniesiona powinna być konsumpcja sumy ubezpieczenia z polisy AC po wypłacie
+  odszkodowania za szkodę częściową,
+  - ubezpieczenie AC powinno obowiązywać na terenie całej Europy,
+  - rozliczenie kosztów naprawy pojazdu winno się odbywać na podstawie
+  uprzednio uzgodnionych z TU kosztów i sposobu naprawy przez warsztat
+  wykonujący naprawę tj. według wariantu "warsztat"mLeasingtak-
+  ubezpieczenie AC w pełnym zakresie obejmującym: ryzyko kradzieży i rabunku
+  pojazdu, brak konsumpcji sumy ubezpieczenia po szkodzie częściowej, bezgotówkowy
+  - serwisowy wariant naprawy szkód, brak udziału własnego w szkodach,
+  - ubezpieczenie OC - zgodnie z ustawą o obowiązkowym OC p.p.m. Bank
+  Pekaotak-
+  brak konsumpcji sumy ubezpieczeniowej, -
+  brak udziału własnego, -
+  brak amortyzacji części, -
+  wartość fakturowa do 6 miesięcy w przypadku nowego pojazdu w przypadku szkody
+  całkowitejŹródło: Bankier.pl, na podstawie
+  informacji od instytucji leasingujących, stan na 27.03.2018 r.W tym miejscu należy jako ciekawostkę dodać, że instytucje stosują opłatę za wydanie zgody na zawarcie indywidualnej
+polisy ubezpieczeniowej. W związku z tym przedsiębiorcy muszą liczyć się z koniecznością poniesienia dodatkowego kosztu, który zazwyczaj oscyluje w granicach 200 zł. Przykładowo w ING Lease klienci,
+którzy chcą odstąpić od ubezpieczenia zawieranego w ramach umowy leasingowej,
+muszą ponieść opłatę w wysokości 200 zł, w Alior Leasing - 249 zł, Idea
+  Getin Leasing - 200 zł.– Leasing, w opinii przedsiębiorców, jest atrakcyjnym
+źródłem finansowania inwestycji, m.in. dzięki ograniczonej liczbie formalności
+czy uproszczonym, elastycznym procedurom. Oferty leasingu szyte są na miarę
+oczekiwań klientów, którzy mogą dopasować produkt finansowy oraz pakiet usług
+dodatkowych do swoich indywidualnych potrzeb – mówi Maciej Czapski dyrektor
+Zarządzający Obszarem Ryzyka i Należności Idea Getin Leasing S.A. Patrząc jednak na ofert instytucji finansujących, trudno
+dostrzec pakiety usług dodatkowych, które stanowiłyby darmową usługę w ramach
+zawartej umowy leasingowej. Przedsiębiorcy nie mogą liczyć na bezpłatny serwis
+czy wymianę opon. Natomiast darmowe usługi, które miałby zachęcić klientów do
+tej formy finansowania, przeważnie opierają się na dostępie do "portalu klienta", gdzie możliwa jest obsługa umów przez internet oraz e-faktury.Usługi
+  dodatkowe w ramach zawartej umowy leasingowej Instytucja
+  leasingującaUsługi
+  dodatkowe w ramach zawartej umowy leasinguCzy
+  umowa leasingowa obejmuje usługi serwisowe?Czy
+  umowa leasingowa obejmuje usługę wymiany opon?Czy
+  stosowany jest cross-selling, który umożliwia obniżenie kosztów leasingu? Alior Leasingfinansowanie
+  pojazdu oraz ubezpieczenia (pakiet OC/AC/NNW oraz fakultatywnie - ochrona
+  prawna, GAP) bez usług dodatkowychnienietak,
+  w przypadku posiadania rachunku w Alior BankuEFL-
+  Portal KlientEFL - obsługa umów leasingu przez internet, 
+  - Leasing swobodny - forma umowy leasingu, która umożliwia klientom
+  samodzielną zmianę wysokości rat po zawarciu umowy leasingowej, 
+  - karta paliwowa - sposób na bezgotówkowe tankowanie do wysokości przyznanego
+  limitunienietak,
+  możliwość obniżenia prowizji do 0% ING
+  Lease-
+  Portal Klienta - informacja o umowie leasingu w bankowości internetowej i
+  mobilnej Moje ING, 
+  - polecenie zapłaty - forma płatności za raty leasingowe e- faktura,   
+  - bezpłatna usługa ING Likwidacja Szkód - samochód zastępczy, pomoc w razie
+  szkody, pokrycie VAT od napraw itp.nienietak,
+  niższy koszt w przypadku wyboru ubezpieczenia komunikacyjnego lub GAP ING
+  Lease lub gdy klient korzysta z innych produktów kredytowych ING Idea
+  Getin Leasingnieodpłatna
+  karta Travel Card - umożliwiająca korzystanie z nieodpłatnych noclegów przez
+  365 dni w ponad 1200 hotelach w całej Europie (dla dwóch osób, w cenie
+  jedynie posiłków)nie
+  (ale jest opcja leasingu mobilnego z serwisem)nie
+  (ale jest opcja leasingu mobilnego z serwisem i oponami)nieGrupa
+  Masterleasekoordynacja
+  likwidacji szkód (w cenie raty)nienieniemLeasing-
+  efaktura,
+  - dostęp do Portalu Klientanie
+  (ale umowa leasingu może być rozszerzona o tą usługę)nie
+  (ale mowa leasingu może być rozszerzona o tą usługę)tak,
+  klient może obniżyć łączne  koszty
+  otwierając rachunek  firmowy w mBanku Bank
+  Pekao-
+  karta paliwowa, -
+  ubezpieczenie GAP i LifenienienieŹródło:
+  Bankier.pl, na podstawie informacji od instytucji leasingujących, stan na
+  27.03.2018 r.EFL klientom, którzy zawrą umowę, proponuje kartę paliwową do
+wysokości przyznanego limitu, ING Lease – bezpłatną usługę Likwidacja Szkód, w
+ramach której leasingobiorca może liczyć na samochód zastępczy czy pomoc w
+razie szkody. Inną formą zachęty jest karta Travel Card od Idea Getin Leasing,
+która umożliwia korzystanie z noclegów dla dwóch osób w ponad 1200 hotelach w
+całej Europie, w cenie jedynie posiłków.Oczywiście leasingobiorca może rozszerzyć umowę leasingową o
+dodatkowe opcje, jednak zazwyczaj osobno płatne. Co więcej, może liczyć również
+na obniżenie kosztów leasingu pod warunkiem skorzystania z cross-sellingu, co
+wiąże się przeważnie z koniecznością otwarcia rachunku firmowego czy
+posiadaniem innych produktów oferowanych
+przez leasingodawcę. Samochód, mechanik i wymiana opon w ramach umowy abonamentowej? Choć jeszcze dużo nam brakuje do trendów panujących w Europie Zachodniej, Polacy coraz chętniej decydują się na wynajem samochodu zamiast jego zakup. Wbrew pozorom, tego typu finansowanie nie jest dostępne tylko dla firm – mogą z niego skorzystać także klienci indywidualni.Każda forma finansowania posiada swoje zalety i wady. W
+przypadku leasingu przedsiębiorcy doceniają ograniczoną papierologię czy szybki
+czas wydawania decyzji o przyznaniu finansowania. Jednak podobnie jak w
+przypadku starania się o kredyt, mogą napotkać barierę minimalnego okresu
+prowadzenia działalności. I tak, EFL oraz Bank Pekao wymagają, aby firma była
+prowadzona przez co najmniej 6 miesięcy, natomiast ING Lease – przez 12 miesięcy,
+a dodatkowo nowe podmioty muszą posiadać wkład własny w wysokości 20 proc. Start-upy
+mogą liczyć na leasing w Alior Leasing, mLeasing czy Idea Getin Leasing. – W
+procesie uzyskiwania finansowania może wystąpić kilka przeszkód. Jedną z nich
+jest finansowanie nowo powstałych
+podmiotów, które z punktu widzenia firmy leasingowej są obarczone wyższym
+ryzykiem niespłacalności. Oznacza to, że część instytucji finansowych
+będzie dość wstrzemięźliwa w angażowanie się w transakcję, gdy po leasing
+zgłasza się nowy podmiot, prowadzony przez osobę bez stosownego
+doświadczenia zawodowego czy z brakiem środków na wpłatę własną – wyjaśnia Maciej
+Czapski dyrektor Zarządzający Obszarem Ryzyka i Należności Idea Getin Leasing
+S.A.Jednocześnie Maciej Czapski wskazuje, że starając się o leasing jako nowy
+podmiot, warto przekazać jak największą liczbę informacji o swojej dotychczasowej
+działalności i doświadczeniu biznesowym. Dodatkowo można upoważnić
+leasingodawcę do weryfikacji prywatnej historii w BIK, przedstawić kopię
+kontraktów, listów intencyjnych, referencji od wiarygodnych partnerów lub
+wyciąg z rachunku firmy potwierdzający współpracę z takim partnerem czy też
+uwiarygodnić się posiadanym majątkiem prywatnym. O ile formalności oraz podpisanie umowy nie stanowią
+większego problemu, ponieważ całą procedurę można załatwić w krótkim czasie, o
+tyle może on się pojawić w postaci opóźnienia
+wydania sprzętu. Jak wskazuje Maciej Czapski, aby uniknąć takiej sytuacji, trzeba uważać na
+okazje cenowe, jak również dostawców, którzy nie są w stanie potwierdzić
+regularnej współpracy z firmami leasingowymi.
+
+
+
+
+
+sas.render('42700');  // Format : Banner_645x80 645x80
+
+
+
+
+
+Jak pokazują statystyki Związku Polskiego Leasingu,
+samochody są najczęstszym przedmiotem umów leasingowych. Mimo że auto nie
+stanowi składniku majątku leasingobiorcy na mocy podpisanej umowy, leasing jest
+chętnie wybieranym sposobem finansowania w związku z możliwością kwalifikowania
+miesięcznych rat w koszty uzyskania przychodu. Zobaczmy jednak, czy taka
+tendencja się utrzyma w związku ze zmianami, które czekają przedsiębiorców od
+2019 r. Znika wówczas koncepcja leasingu operacyjnego, co oznacza, że każdy
+leasing będzie musiał zostać ujęty w bilansie spółki jako zobowiązania finansowe.
+Na
+szczęście zmiany dotyczyć mają przede wszystkim firm giełdowych bądź firm
+zależnych od firm giełdowych. Katarzyna RostkowskaNie taka młoda ta forma finansowania ;-) Przykładowo EFL działa od 1991 r, czyli 27 lat!Pisanie o tym, że "leasing to dość młoda forma finansowania" to jakiś marazm. Z tego co pamiętam EFL rozpoczął działalność z początkiem lat 90 więc ten tego...Moja teza: zysk podatkowy po 5 latach leasingu = utrata wartości auta po tym czasie. Czyli wyjazd z salonu nowym i mityczna utrata wartości nie jest do końca prawdą.Przestrzegam przed WBK Leasing. Jeśli nie wybierzesz ich drogiego ubezpieczenia to każą za to dodatkowym obciążeniem 200 pln.Niestety tzw doradca nie uprzedza o tym swojej ofiary, jak było u mnie.Zaufanie kosztuje trochę więcej.Dlaczego opłata wstępna jest kosztem leasingu ?Moim zdaniem cały koszt leasingu to jest suma rat i ostatnia rata.Ta cena dotyczy finansowania tylko 90% wartości samochodu, ponieważ 10% wpłacam na starcie.Firmy wszystkie naciągają i podają zaniżony koszt leasingu, ale dlaczego Pani Kasia 
+    manipuluje?Opłatę manipulacyjną za własne ubezpieczenie znajdziemy w każdej instytucji leasingowej. Wynosi ona od 100-200 zł co roku, jest związana z administracją obcej polisy dla leasingodawcy.@janusz_cebula Dlaczego z punktu podatkowego nie? Przecież auto wrzucam sobie w koszta. Odsetki od kredytu wrzucam w koszta. Wszelkie naprawy, przeglądy wrzucam sobie w koszta. Po co mi leasing?Spytaj księgowej to Ci wytłumaczy różnicę w odliczeniu podatkowym raty leasingowej, a amortyzacji zakupu za gotówkę.Chodzi o to ile możesz sobie wrzucić w koszty z całkowitych kosztów finansowania samochodu w leasingu, a ile w przypadku zakupu gotówkowego.Moim zdaniem jest to forma uzależnienia się od instytucji. Nie lepiej kupić samochód wprost od dilera w promocyjnym pakiecie zakupowym? Samochód mam wtedy na siebie i nikt nie będzie mi narzucał co mogę a czego nie.Termin przekazania sprawozdania do systemu INTRASTAT, za poprzedni miesiąc kalendarzowy, gdy realizowano transakcje wewnątrzwspólnotowe podlegające obciążeniu podatkiem od towarów i usług (VAT).Termin płatności składek oraz złożenia deklaracji przez pracodawców zatrudniających pracowników.Termin zapłaty raty podatku leśnego przez osoby prawne oraz jednostki organizacyjne nie posiadające osobowości prawnej.Termin zapłaty miesięcznej kwoty podatku od nieruchomości przez osoby prawne i jednostki organizacyjne nie posiadające osobowości prawnej.Termin płatności składek oraz złożenia deklaracji przez pracodawców zatrudniających pracowników.Zapłata zryczałtowanego podatku dochodowego od przychodów ewidencjonowanych.Termin zapłaty zaliczki na podatek dochodowy przez osoby prawne.Oblicz wysokość pensji netto, należne składki oraz podatek.Korzystanie z portalu oznacza akceptację regulaminu.  Polityka cookies   |   Polityka prywatności 

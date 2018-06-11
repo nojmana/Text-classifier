@@ -1,0 +1,11 @@
+Ostatnio:
+14.05.2018
+Wczoraj skończyłem pisać projekt na uczelnię. Zachęcony komentarzami na mikroblogu wrzucam na Wykop ;) Jest to skrypt który automatycznie pobiera tytuły i opisy wykopów z głównej i analizując ich treść stwierdza jakie tematy kiedy były na topie. Efekty działania zaznaczone na osi czasu można obejrzeć tutaj:Wykop Zeitgeist Dla wygody dodałem też pod każdą frazą odnośnik do googla, żeby można było zobaczyć wykopy z danego okresu odpowiadające danej frazie. Dla ciekawych kod źródłowy udostępniam na licencji MIT na githubie: https://github.com/yakxxx/memekSkrypt napisany w Pythonie 2.7 i przy użyciu biblioteki NLTKMiłej zabawyBezczelnie zapraszam również do obadania mojego weekendowego projektu: śmieszne filmiki - snipclip
+Ta strona powstała 19.01.2013.
+Wizyt: 430.
+
+Korzystanie z serwisu oznacza akceptację
+Regulaminu.
+Prywatność.
+Copyright – 1999-2018 INTERIA.PL,
+wszystkie prawa zastrzeżone.

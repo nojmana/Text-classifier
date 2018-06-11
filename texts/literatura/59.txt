@@ -1,0 +1,30 @@
+                                                     Wpis powróci po małym retuszu\\MichałWprowadź swoje dane lub kliknij jedną z tych ikon, aby się zalogować:
+
+			Komentujesz korzystając z konta WordPress.com.			
+				( Wyloguj / 
+				Zmień )
+			
+
+
+
+			Komentujesz korzystając z konta Google+.			
+				( Wyloguj / 
+				Zmień )
+			
+
+
+
+			Komentujesz korzystając z konta Twitter.			
+				( Wyloguj / 
+				Zmień )
+			
+
+
+
+			Komentujesz korzystając z konta Facebook.			
+				( Wyloguj / 
+				Zmień )
+			
+
+Connecting to %s Powiadamiaj mnie o nowych komentarzach poprzez e-mail. 
+

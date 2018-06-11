@@ -1,0 +1,66 @@
+Przyszłość Roberta Lewandowskiego nie schodzi z czołówek gazet. Kolejne informacje na temat polskiego napastnika przynosi niemiecki "Sport Bild", który dotarł do informacji, jakoby ceną minimalną za chcącego opuścić szeregi Bayernu Monachium gwiazdora była kwota ponad 200 milionów euro.
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Arłamów. Lewandowski komentuje rozmowy o transferze do nowego klubu. Wideo
+INTERIA.TV
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2526193-7560314');
+                var $embed = jQuery('#player2526193-7560314').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+
+
+
+
+
+
+
+
+
+Bundesliga 
+ Robert Lewandowski pierwszy na "liście życzeń" Realu, bo ma stosunkowo niską cenę
+ 
+ 
+
+
+Niemcy pospieszyli z prędką ripostą na wczorajsze rewelacje madryckiego dziennika ABC, który ogłosił, że Lewandowski jest na szczycie listy marzeń Realu Madryt.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }  Hiszpanie poinformowali we wtorek, że "Lewy" zajmuje pierwsze miejsce na transferowej "liście życzeń" władz Realu, a najważniejsze atuty Polaka zawarto w trzech słowach "3xB": "bueno, bonito, barato", czyli "dobry, piękny i tani". 
+ Z prędką odpowiedzią, na kontrze do dziennika ABC, pospieszył niemiecki "Sport Bild", słynący z dobrych źródeł informacji. - Bayern Monachium gra w "twardą piłkę". Działacze nie będą odbierać telefonu od agenta Piniego Zahaviego, chyba że oferta będzie opiewała na ponad 200 mln euro - piszą dziennikarze zza zachodniej granicy, a wiadomość na Twitterze podchwycił korespondent telewizji ESPN Mark Lovell, który zawodowo zajmuje się Bayernem.
+  Od dawna wiadomo, że dla "Lewego" wymarzonym klubem, do którego chciałby odejść z Monachium, jest właśnie ekipa "Królewskich". Król strzelców Bundesligi podobno pozostaje "nieprzekonany", jeśli chodzi o ewentualną przeprowadzkę do Paris-Saint Germain, Chelsea Londyn lub Manchesteru United.
+  Jeśli w grę istotnie wchodzi tak potężna suma, to kwota może okazać się zaporowa za 30-letniego piłkarza. "Sport Bild" słusznie peroruje, że bardzo wątpliwe, czy znajdzie się klub, gotowy wyłożyć taką górę pieniędzy.
+  Polak może okazywać niezadowolenie, ale najważniejsze karty są po stronie mistrza Niemiec. Kontrakt Lewandowskiego z Bayernem obowiązuje do 30 czerwca 2021 roku.
+AG Niemcy pospieszyli z prędką ripostą na wczorajsze rewelacje madryckiego dziennika ABC, który ogłosił, że Lewandowski jest na szczycie listy marzeń Realu Madryt.  Hiszpanie poinformowali we wtorek, że "Lewy" zajmuje pierwsze miejsce na transferowej "liście życzeń" władz Realu, a najważniejsze atuty Polaka zawarto w trzech słowach "3xB": "bueno, bonito, barato", czyli "dobry, piękny i tani".  Z prędką odpowiedzią, na kontrze do dziennika ABC, pospieszył niemiecki "Sport Bild", słynący z dobrych źródeł informacji. - Bayern Monachium gra w "twardą piłkę". Działacze nie będą odbierać telefonu od agenta Piniego Zahaviego, chyba że oferta będzie opiewała na ponad 200 mln euro - piszą dziennikarze zza zachodniej granicy, a wiadomość na Twitterze podchwycił korespondent telewizji ESPN Mark Lovell, który zawodowo zajmuje się Bayernem.  Od dawna wiadomo, że dla "Lewego" wymarzonym klubem, do którego chciałby odejść z Monachium, jest właśnie ekipa "Królewskich". Król strzelców Bundesligi podobno pozostaje "nieprzekonany", jeśli chodzi o ewentualną przeprowadzkę do Paris-Saint Germain, Chelsea Londyn lub Manchesteru United.  Jeśli w grę istotnie wchodzi tak potężna suma, to kwota może okazać się zaporowa za 30-letniego piłkarza. "Sport Bild" słusznie peroruje, że bardzo wątpliwe, czy znajdzie się klub, gotowy wyłożyć taką górę pieniędzy.  Polak może okazywać niezadowolenie, ale najważniejsze karty są po stronie mistrza Niemiec. Kontrakt Lewandowskiego z Bayernem obowiązuje do 30 czerwca 2021 roku.AGKobietawww.rmf24.plKobietapomponik.plwww.rmf24.plEuroSportwww.rmf24.plŚwiat serialiEuroSportstylEuroSportEuroSportKobietapomponik.plstylEuroSport
+                                                                            Największe muzyczne hity lat 60. Słuchaj non stop w internetowym radiu RMF 60's!                                                                    
+                                                                            Z nami wszystkie drogi prowadzą do Warszawy! Nie zgub się w stolicy.                                                                    
+                                                                            Spraw by Twój dom wyglądał magicznie. Zobacz ręcznie robione ozdoby świąteczne.                                                                    
+                                                                            Kochasz oglądać filmy? Nasza strona to prawdziwa uczta dla każdego kinomaniaka!                                                                    
+                                                                            Nie zapomnij o swoim facecie w Dniu Mężczyzny! Złóż mu niecodzienne życzenia.                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

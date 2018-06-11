@@ -1,0 +1,83 @@
+Kolejna porcja cierpkich słów i ocen pod adresem Roberta Lewandowskiego padła z ust poważanego w Monachium byłego pomocnika Bayernu i reprezentacji Niemiec Dietmara Hamanna. - Z jakiegoś powodu Robert okazuje niezadowolenie. Jestem zdezorientowany tym, co robi. Wszystko to ma ogromny potencjał na konflikt - stwierdził ekspiłkarz.
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Robert Lewandowski w kropce. Wideo
+Eurosport
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2514716-8127785');
+                var $embed = jQuery('#player2514716-8127785').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Za Lewandowskim kolejny, świetny sezon w Bundeslidze okraszony "workiem bramek", ale wszystko to przyćmił daleki od wymarzonego występ napastnika w dwumeczu z Realem Madryt w półfinale Ligi Mistrzów. Gwiazdor reprezentacji Polski, zdaniem wielu, nie był tak pazerny na gole, jak powinien w boju o finał i został uznany za współwinnego odpadnięcia Bawarczyków z Champions League. Pikanterii sprawie dodaje fakt, że "Lewy" od dawna jest łączony z klubem z Madrytu, dlatego nie brak teorii spiskowych.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }  As Bayernu, bodaj po raz pierwszy przytłoczony aż tak wielką lawiną krytyki, nie pomógł sobie także niesubordynacją w trakcie ostatniego meczu ligowego z FC Koeln (3-1). Trener Jupp Heynckes zmienił Polaka w 78. min, a ten nie podał ręki szkoleniowcowi Bayernu.
+  Czy takie zachowanie "Lewego" jest policzone chęcią, by Bayern wreszcie ugiął się i dał mu zielone światło na transfer? - Nie oskarżę go o to, ale z jakiegoś powodu okazuje niezadowolenie - uważa Hamann, były piłkarz Bayernu w latach 1993-98, a obecnie ekspert telewizji Sky w wywiadzie na łamach "Abendzeitung". - To nie sprzyja ani jemu, ani zespołowi. Jestem zdezorientowany tym, co robi - dodał.
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Lewandowski z dwiema bramkami. Bayer - Bayern 2-6. Wideo
+© 2018 Associated Press
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2505164-8137062');
+                var $embed = jQuery('#player2505164-8137062').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Hamann powtórzył to, co stwierdził już kilka dni temu, że Lewandowski był jedynym zawodnikiem Bayernu w dwumeczu z Realem, który zawiódł, a na jego tle "Bawarczycy sprzedali się świetnie".
+  - Mats Hummels skarżył się kiedyś na trening Lewandowskiego, ostatnio pojawiły się doniesienia o braku zaangażowania, ale tego bym nie przejaskrawiał. Bardziej problematyczne były wydarzenia z zeszłego roku, gdy oskarżył zespół, że nie wspiera go wystarczająco. Lewandowski twierdzi, że zajmuje szczególną pozycję. Może tak uważać - ale musi kimś takim być, ilekroć zespół go potrzebuje - podkreślił Hamann, dodając, że to z poprzednikiem Polaka na pozycji napastnika Mario Mandżukiciem zespół awansował do finału Ligi Mistrzów. Z "Lewym" na szpicy ta sztuka jeszcze się nie udała.
+ W dodatku ekspert z niepokojem analizuje sytuację na Allianz Arena w przyszłym sezonie, gdy miejsce Heynckesa na ławce trenerskiej zajmie Niko Kovacz, zakładając pozostanie Lewandowskiego w Bayernie. - Wszystko to ma ogromny potencjał na konflikt - twierdzi Hamann i nie wyklucza scenariusza, że mimo deklaracji Karla-Heinza Rummenigge, który na łamach "Kickera" chciał iść o zakład, że Polak pozostanie w zespole, szefostwo klubu jednak zmieni zdanie.
+  - Te słowa padły przed dwumeczem z Realem, być może teraz Karl-Heinz Rummenigge wypowiedziałby się inaczej. Brak uścisku dłoni, krytyka ze strony Hummelsa, czy mowa ciała - to dzieje się teraz z niespotykaną wcześniej częstotliwością. Dlatego musisz sobie zadać pytanie, co Lewandowski wniesienie w przyszłym sezonie. Lato będzie ekscytujące. Jestem sobie w stanie wyobrazić, że jego sprzedaż będzie przedmiotem debaty. Zwłaszcza w Anglii, gdzie kilka najlepszych klubów potrzebuje bramkostrzelnego napastnika - uważa Hamann.
+  AG Za Lewandowskim kolejny, świetny sezon w Bundeslidze okraszony "workiem bramek", ale wszystko to przyćmił daleki od wymarzonego występ napastnika w dwumeczu z Realem Madryt w półfinale Ligi Mistrzów. Gwiazdor reprezentacji Polski, zdaniem wielu, nie był tak pazerny na gole, jak powinien w boju o finał i został uznany za współwinnego odpadnięcia Bawarczyków z Champions League. Pikanterii sprawie dodaje fakt, że "Lewy" od dawna jest łączony z klubem z Madrytu, dlatego nie brak teorii spiskowych.  As Bayernu, bodaj po raz pierwszy przytłoczony aż tak wielką lawiną krytyki, nie pomógł sobie także niesubordynacją w trakcie ostatniego meczu ligowego z FC Koeln (3-1). Trener Jupp Heynckes zmienił Polaka w 78. min, a ten nie podał ręki szkoleniowcowi Bayernu.  Czy takie zachowanie "Lewego" jest policzone chęcią, by Bayern wreszcie ugiął się i dał mu zielone światło na transfer? - Nie oskarżę go o to, ale z jakiegoś powodu okazuje niezadowolenie - uważa Hamann, były piłkarz Bayernu w latach 1993-98, a obecnie ekspert telewizji Sky w wywiadzie na łamach "Abendzeitung". - To nie sprzyja ani jemu, ani zespołowi. Jestem zdezorientowany tym, co robi - dodał.Hamann powtórzył to, co stwierdził już kilka dni temu, że Lewandowski był jedynym zawodnikiem Bayernu w dwumeczu z Realem, który zawiódł, a na jego tle "Bawarczycy sprzedali się świetnie".  - Mats Hummels skarżył się kiedyś na trening Lewandowskiego, ostatnio pojawiły się doniesienia o braku zaangażowania, ale tego bym nie przejaskrawiał. Bardziej problematyczne były wydarzenia z zeszłego roku, gdy oskarżył zespół, że nie wspiera go wystarczająco. Lewandowski twierdzi, że zajmuje szczególną pozycję. Może tak uważać - ale musi kimś takim być, ilekroć zespół go potrzebuje - podkreślił Hamann, dodając, że to z poprzednikiem Polaka na pozycji napastnika Mario Mandżukiciem zespół awansował do finału Ligi Mistrzów. Z "Lewym" na szpicy ta sztuka jeszcze się nie udała. W dodatku ekspert z niepokojem analizuje sytuację na Allianz Arena w przyszłym sezonie, gdy miejsce Heynckesa na ławce trenerskiej zajmie Niko Kovacz, zakładając pozostanie Lewandowskiego w Bayernie. - Wszystko to ma ogromny potencjał na konflikt - twierdzi Hamann i nie wyklucza scenariusza, że mimo deklaracji Karla-Heinza Rummenigge, który na łamach "Kickera" chciał iść o zakład, że Polak pozostanie w zespole, szefostwo klubu jednak zmieni zdanie.  - Te słowa padły przed dwumeczem z Realem, być może teraz Karl-Heinz Rummenigge wypowiedziałby się inaczej. Brak uścisku dłoni, krytyka ze strony Hummelsa, czy mowa ciała - to dzieje się teraz z niespotykaną wcześniej częstotliwością. Dlatego musisz sobie zadać pytanie, co Lewandowski wniesienie w przyszłym sezonie. Lato będzie ekscytujące. Jestem sobie w stanie wyobrazić, że jego sprzedaż będzie przedmiotem debaty. Zwłaszcza w Anglii, gdzie kilka najlepszych klubów potrzebuje bramkostrzelnego napastnika - uważa Hamann.  AGKobietaEuroSportKobietaEuroSportwww.rmf24.plwww.rmf24.plwww.rmf24.plKobietaŚwiat serialiwww.rmf24.plmenwayKobietaEuroSportKobietaKobietaEuroSport
+                                                                            Nie wiesz kiedy zaplanować urlop? Nasza pogoda długoterminowa pomoże Ci podjąć decyzję!                                                                    
+                                                                            Dyktanda z podstawówki nadal śnią Ci się po nocach?  Z naszym słownikiem zapomnisz o błędach raz...                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

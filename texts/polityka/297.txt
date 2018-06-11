@@ -1,0 +1,56 @@
+662Sąd Unii Europejskiej w Luksemburgu unieważnił w czwartek decyzję Prezydium Parlamentu Europejskiego nakładającą sankcje na byłego europosła Janusza Korwin-Mikkego z powodu jego wypowiedzi na sali obrad. 
+
+Zdjęcie
+
+
+
+
+Janusz Korwin-Mikke w europarlamencie
+/PATRICK HERTZOG /AFP
+
+
+Korwin-Mikke był karany za słowa, jakie wygłaszał podczas debat dotyczących migracji oraz nierówności w zarobkach kobiet i mężczyzn. Prezydium europarlamentu w 2016 i 2017 r. podtrzymało kary nałożone na polskiego eurodeputowanego przez ówczesnego przewodniczącego tej instytucji Martina Schulza.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }  Sankcje nałożone na Korwin-Mikkego obejmowały utratę prawa do otrzymywania dziennej diety na utrzymanie przez okres 10 i 30 dni oraz czasowe zawieszenie uczestnictwa we wszystkich pracach PE na 5 i 10 dni. W czerwcu 2017 r. Korwin-Mikke wniósł skargę na te dwie decyzje.
+ W czwartkowych wyrokach sąd UE stwierdził, że wolności słowa parlamentarzystów należy przyznać zwiększoną ochronę ze względu na fundamentalne znaczenie, jakie w społeczeństwie demokratycznym odgrywa parlament. Sędziowie uznali, że ani z decyzji Prezydium PE, ani z pism procesowych stron nie wynika, że wypowiedzi Korwin-Mikkego w jakikolwiek sposób zakłóciły obrady, a tylko to mogłoby być podstawą do wymierzenia kary.
+
+Wideo
+
+var xlink16fbcc33=document.createElement("script");xlink16fbcc33.setAttribute("type","application/javascript"),xlink16fbcc33.setAttribute("class","XlinkEmbedScript"),xlink16fbcc33.setAttribute("data-url","//get.x-link.pl/9b544489-6a5e-ef52-9623-8106d69bd864,17eed033-2e7b-c6f1-d5d7-eca6b81ff717,embed.html"),xlink16fbcc33.setAttribute("data-width","575"),xlink16fbcc33.setAttribute("data-height","350"),xlink16fbcc33.setAttribute("src","//js.iplsc.com/inpl.xnews/1.0.1/xlink-i.js"),xlink16fbcc33.setAttribute("async",!0),xlink16fbcc33.onload=function(){var a=document.createElement("script");a.src="//js.iplsc.com/inpl.resize-xnews/1.0.0/inpl.resize-xnews.js",document.getElementsByTagName("head")[0].appendChild(a)};document.getElementsByClassName('xlink16fbcc33')[0].appendChild(xlink16fbcc33); 
+
+
+
+Komisarz UE: Pomimo brexitu zachowaliśmy realistyczny budżet, z polityką spójności jako najsilniejszym instrumentem inwestycyjnym
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ Korwin-Mikke był karany za słowa, jakie wygłaszał podczas debat dotyczących migracji oraz nierówności w zarobkach kobiet i mężczyzn. Prezydium europarlamentu w 2016 i 2017 r. podtrzymało kary nałożone na polskiego eurodeputowanego przez ówczesnego przewodniczącego tej instytucji Martina Schulza.  Sankcje nałożone na Korwin-Mikkego obejmowały utratę prawa do otrzymywania dziennej diety na utrzymanie przez okres 10 i 30 dni oraz czasowe zawieszenie uczestnictwa we wszystkich pracach PE na 5 i 10 dni. W czerwcu 2017 r. Korwin-Mikke wniósł skargę na te dwie decyzje. W czwartkowych wyrokach sąd UE stwierdził, że wolności słowa parlamentarzystów należy przyznać zwiększoną ochronę ze względu na fundamentalne znaczenie, jakie w społeczeństwie demokratycznym odgrywa parlament. Sędziowie uznali, że ani z decyzji Prezydium PE, ani z pism procesowych stron nie wynika, że wypowiedzi Korwin-Mikkego w jakikolwiek sposób zakłóciły obrady, a tylko to mogłoby być podstawą do wymierzenia kary.EuroSportFaktyFaktyFaktyEuroSportEuroSportwww.rmf24.plEuroSportFaktywww.rmf24.plFaktyEuroSportwww.rmf24.plwww.rmf24.plFaktyEuroSport
+                                                                            Warto skorzystać z darmowego programu PIT                                                                    
+                                                                            Z nami będziesz zawsze na bieżąco! Najświeższe informacje z kraju i ze świata właśnie dla Ciebie!                                                                    
+                                                                            Najnowsze wiadomości z kraju i świata. Szybko, wnikliwie, rzetelnie.                                                                    
+                                                                            Autoryzowany dealer Volvo w małopolsce                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

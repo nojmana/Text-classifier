@@ -1,0 +1,69 @@
+ 
+
+Sklep
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109959438-1');
+
+
+Załóż konto
+
+
+Zaloguj się
+      
+
+
+
+
+Logowanie
+
+
+
+
+Przypomnij hasło...
+
+Wyślij
+
+
+
+
+
+Sklep
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109959438-1');
+
+
+Załóż konto
+
+
+Zaloguj się
+      
+
+
+
+
+Logowanie
+
+
+
+
+Przypomnij hasło...
+
+Wyślij
+
+
+
+Ronaldinho jeszcze przed skończeniem czterdziestki postanowił się ustatkować i wziąć ślub. Co ciekawe Brazylijczyk oświadczył się dwóm kobietom na raz.Pomysł 38- latka nie spodobał się jego siostrze, która zapowiedziała że nie zjawi się na weselu. Ronaldinho dobrze czuje się jednak w miłosnym trójkącie zarówno jak i dwie panie, które do niego dołączyły. Były zawodnik FC Barcelony cieszy się ze wspólnego życia z  Priscillą Coelho oraz Beatriz Souzą. Obie panie mieszkają w jego posiadłości w Rio de Janeiro.Tagi:

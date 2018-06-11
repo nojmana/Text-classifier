@@ -1,0 +1,155 @@
+
+Biznes
+
+Niedziela, 20 maja (05:59)
+Zapotrzebowanie na prąd z roku na rok rośnie /©123RF/PICSELStrata po drodze
+7 procent - tyle z wytworzonej energii ginie w czasie jej przesyłu. Powodem jest zły stan linii energetycznych oraz przestarzałe rozwiązania technologiczne. To spora strata, która realnie przekłada się na pieniądze, bo jak wynika z szacunków Biura Bezpieczeństwa Narodowego, chodzi o aż 2 mld zł rocznie. Gdyby chcieć sieć zmodernizować, w tym okablować ją pod ziemią zamiast utrzymywać kable wiszące na słupach, należałoby wyłożyć ponad 40 mld złotych.
+
+Reklama
+
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("m_rectangle", null, null);
+        }
+    
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+ 
+//<![CDATA[
+
+Inpl.Ad.onAd('m_rectangle',function(is,elem){
+if(is){
+document.getElementById('m_rectangle1').style.display='';
+}else{
+document.getElementById('m_rectangle1').style.display='none';
+}
+});
+//]]>Ale dziur jest więcej. Realne straty notowane są także na etapie produkcji - około jednej czwartej mocy wytwórczych w Polsce pochodzi z bloków starszych niż 40 lat, a 60 proc. ma więcej niż 30 lat. W przypadku bloków węglowych (tych mamy najwięcej) stare jednostki mają katastrofalną wręcz sprawność - ok. 33 proc. To znaczy, że ze 100 proc. węgla są w stanie wycisnąć jedynie 33 proc. Dla porównania jednostki gazowe pracują z ponad 60 proc. efektywnością, a najnowsze bloki węglowe, jak ten oddany ostatnio w Kozienicach przez Eneę czy budowany w Jaworznie przez Tauron oraz w Opolu przez PGE dochodzą do 46 proc.
+Ubytki podczas przesyłu są również wynikiem dużego rozproszenia sieci - elektrownie są rozmieszczone nierównomiernie, a odbiorcy prądu znajdują się w dużych odległościach od nich.
+Polska sieć przesyłowa i dystrybucyjna energii elektrycznej ma długość ponad 14 tys. km. Przeważają w niej linie o napięciu 220 kV. Do tego doliczyć trzeba rozbudowaną sieć niskiego napięcia, która dostarcza energię elektryczną do odbiorców indywidualnych. To właśnie linie niskiego napięcia w dużej mierze odpowiadają za generowanie strat. 
+Inwestycje w modernizację oraz rozbudowę polskiej sieci przesyłowej i dystrybucyjnej wydają się więc nieuniknione, pomimo iż będą wiązały się one z koniecznością poniesienia znacznych nakładów inwestycyjnych. Taki scenariusz jest tym bardziej realny, że do zapobiegania stratom przesyłowym i poprawy efektywności energetycznej zobowiązują nas m.in. unijne przepisy.
+Operatorzy polskich elektrowni i elektrociepłowni, aby spełnić wymagania w zakresie ograniczenia emisji, będą zmuszeni wydać znaczne środki na modernizację swoich obiektów, np. przy użyciu miedzi. - Szacuje się, że wykorzystując doskonałą przewodność elektryczną miedzi, w ciągu następnych 10-20 lat w Europie będzie można zmniejszyć emisję CO2 o 100 milionów ton rocznie - mówił Michał Ramczykowski, prezes Europejskiego Instytutu Miedzi, który zorganizował na Europejskim Kongresie Gospodarczym w Katowicach wystawę poświęconą zrównoważonej energii.
+Energia ze sztormu. I atomu?
+W ocenie ekspertów od miedzi, w polskich warunkach rozwiązaniem problemu modernizacji i zwiększenia bezpieczeństwa systemu energetycznego może być rozwój morskiej energetyki wiatrowej. Według szacunków jej potencjał produkcyjny wynosi od 8 do 10 GW. Pierwsze elektrownie morskie mogą być podłączone do krajowej sieci już w 2025 r., a do 2035 mogłyby osiągnąć moc 8 GW, zaspakajając ok. 20 proc. zapotrzebowania na energię elektryczną w Polsce.
+Ale minister energii Krzysztof Tchórzewski podczas Europejskiego Kongresu Gospodarczego powiedział wyraźnie, że nie wyobraża sobie zgody na budowę morskich farm wiatrowych bez jednoczesnej zgody na budowę elektrowni atomowej. A tej wciąż brak, przynajmniej w jasnej i jednoznacznej formie. Tchórzewski przypomniał też, że elektrownie atomowe mają być przystosowane do pracy nawet przez 80-100 lat. I choć ważną sprawą jest pozyskanie finansowania na ok. 75 mld zł, a inwestycja zwraca się długo, to jest to "nasza szansa gospodarcza i cywilizacyjna".
+Węgiel nie da o sobie zapomnieć
+Zdaniem prelegentów, którzy na EKG w Katowicach dyskutowali w czasie spotkań poświęconych energii, wiele wskazuje jednak na to, że nawoływania do odejścia od węgla były przedwczesne. - Gospodarka niskoemisyjna to nie gospodarka zdekarbonizowana. To nadużycie semantyczne, bloki węglowe są coraz bardziej efektywne - przekonywał jednak Filip Grzegorczyk, prezes Taurona. I jako przykład tego, jak zmienia się sytuacja, podał należącą do Kompanii Węglowej kopalnię Brzeszcze. - To była jedna z najgorszych kopalń. Zarzucano nam, że jej przejęcie to decyzja polityczna, ale ta narracja nie wytrzymuje konfrontacji z rzeczywistością. To dziś dobra kopalnia - przekonywał. Ale nie widać tego w wynikach za I kw. 2018 r. Tauronu. Produkcja węgla handlowego w jego kopalniach (oprócz Brzeszcz to Janina i Sobieski) spadła o 6 proc. do 1,42 mln ton w porównaniu do I kw. 2017 r. A sprzedaż węgla handlowego spadła o 20 proc. do 1,43 mln ton. A w ubiegłym roku, gdy ceny węgla były bardzo wysokie, a górnictwo notowało rekordowe zyski Tauron Wydobycie skończył rok pod kreską. Jednak jakość węgla z Brzeszcz jest dobra, a trzecia kopalnia pozwala Tauronowi na zwiększenie pokrycia zapotrzebowania na węgiel we własnych elektrowniach swoim surowcem.
+Inna kwestia, na którą zwracano uwagę, to nasze przygotowanie do rzeczonej dekarbonizacji. A to wciąż jest niewystarczające. - Klient oczekuje energii stale. A to energetyka konwencjonalna stabilizuje rynek. Nie mamy jeszcze magazynów, by energię z OZE przechowywać - zwracał uwagę Mirosław Kowalik, prezes Enei.
+- Kilka lat temu przekaz był taki, że węgla trzeba mniej, żeby zmniejszać możliwości produkcyjne, że będą inne źródła energii. W 2017 r. import węgla do Europy wyniósł 172 mln ton. Co nam to pokazuje? Że w ujęciu europejskim planowanie wychodzi nam średnio. 172 mln ton to jakieś 40 kopalń, pół miliona miejsc pracy, które istnieją poza UE, ale skutki spalania węgla i obciążenia środowiskowe mamy w UE. Zdolności produkcyjne zostały ograniczone o 10 mln ton, a rynek potrzebuje nagle 6 mln ton paliwa - przekonywał z kolei Tomasz Rogala, prezes Polskiej Grupy Górniczej.
+Karolina Baca-Pogorzelska
+18 maja 2018
+GazetaPrawna.pl / Dziennik Gazeta Prawna
+
+												Dziennik Gazeta Prawna										
+
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("banner_app", null, null);
+        }
+    
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+
+Strata po drodze7 procent - tyle z wytworzonej energii ginie w czasie jej przesyłu. Powodem jest zły stan linii energetycznych oraz przestarzałe rozwiązania technologiczne. To spora strata, która realnie przekłada się na pieniądze, bo jak wynika z szacunków Biura Bezpieczeństwa Narodowego, chodzi o aż 2 mld zł rocznie. Gdyby chcieć sieć zmodernizować, w tym okablować ją pod ziemią zamiast utrzymywać kable wiszące na słupach, należałoby wyłożyć ponad 40 mld złotych.Ale dziur jest więcej. Realne straty notowane są także na etapie produkcji - około jednej czwartej mocy wytwórczych w Polsce pochodzi z bloków starszych niż 40 lat, a 60 proc. ma więcej niż 30 lat. W przypadku bloków węglowych (tych mamy najwięcej) stare jednostki mają katastrofalną wręcz sprawność - ok. 33 proc. To znaczy, że ze 100 proc. węgla są w stanie wycisnąć jedynie 33 proc. Dla porównania jednostki gazowe pracują z ponad 60 proc. efektywnością, a najnowsze bloki węglowe, jak ten oddany ostatnio w Kozienicach przez Eneę czy budowany w Jaworznie przez Tauron oraz w Opolu przez PGE dochodzą do 46 proc.Ubytki podczas przesyłu są również wynikiem dużego rozproszenia sieci - elektrownie są rozmieszczone nierównomiernie, a odbiorcy prądu znajdują się w dużych odległościach od nich.Polska sieć przesyłowa i dystrybucyjna energii elektrycznej ma długość ponad 14 tys. km. Przeważają w niej linie o napięciu 220 kV. Do tego doliczyć trzeba rozbudowaną sieć niskiego napięcia, która dostarcza energię elektryczną do odbiorców indywidualnych. To właśnie linie niskiego napięcia w dużej mierze odpowiadają za generowanie strat. Inwestycje w modernizację oraz rozbudowę polskiej sieci przesyłowej i dystrybucyjnej wydają się więc nieuniknione, pomimo iż będą wiązały się one z koniecznością poniesienia znacznych nakładów inwestycyjnych. Taki scenariusz jest tym bardziej realny, że do zapobiegania stratom przesyłowym i poprawy efektywności energetycznej zobowiązują nas m.in. unijne przepisy.Operatorzy polskich elektrowni i elektrociepłowni, aby spełnić wymagania w zakresie ograniczenia emisji, będą zmuszeni wydać znaczne środki na modernizację swoich obiektów, np. przy użyciu miedzi. - Szacuje się, że wykorzystując doskonałą przewodność elektryczną miedzi, w ciągu następnych 10-20 lat w Europie będzie można zmniejszyć emisję CO2 o 100 milionów ton rocznie - mówił Michał Ramczykowski, prezes Europejskiego Instytutu Miedzi, który zorganizował na Europejskim Kongresie Gospodarczym w Katowicach wystawę poświęconą zrównoważonej energii.Energia ze sztormu. I atomu?W ocenie ekspertów od miedzi, w polskich warunkach rozwiązaniem problemu modernizacji i zwiększenia bezpieczeństwa systemu energetycznego może być rozwój morskiej energetyki wiatrowej. Według szacunków jej potencjał produkcyjny wynosi od 8 do 10 GW. Pierwsze elektrownie morskie mogą być podłączone do krajowej sieci już w 2025 r., a do 2035 mogłyby osiągnąć moc 8 GW, zaspakajając ok. 20 proc. zapotrzebowania na energię elektryczną w Polsce.Ale minister energii Krzysztof Tchórzewski podczas Europejskiego Kongresu Gospodarczego powiedział wyraźnie, że nie wyobraża sobie zgody na budowę morskich farm wiatrowych bez jednoczesnej zgody na budowę elektrowni atomowej. A tej wciąż brak, przynajmniej w jasnej i jednoznacznej formie. Tchórzewski przypomniał też, że elektrownie atomowe mają być przystosowane do pracy nawet przez 80-100 lat. I choć ważną sprawą jest pozyskanie finansowania na ok. 75 mld zł, a inwestycja zwraca się długo, to jest to "nasza szansa gospodarcza i cywilizacyjna".Węgiel nie da o sobie zapomniećZdaniem prelegentów, którzy na EKG w Katowicach dyskutowali w czasie spotkań poświęconych energii, wiele wskazuje jednak na to, że nawoływania do odejścia od węgla były przedwczesne. - Gospodarka niskoemisyjna to nie gospodarka zdekarbonizowana. To nadużycie semantyczne, bloki węglowe są coraz bardziej efektywne - przekonywał jednak Filip Grzegorczyk, prezes Taurona. I jako przykład tego, jak zmienia się sytuacja, podał należącą do Kompanii Węglowej kopalnię Brzeszcze. - To była jedna z najgorszych kopalń. Zarzucano nam, że jej przejęcie to decyzja polityczna, ale ta narracja nie wytrzymuje konfrontacji z rzeczywistością. To dziś dobra kopalnia - przekonywał. Ale nie widać tego w wynikach za I kw. 2018 r. Tauronu. Produkcja węgla handlowego w jego kopalniach (oprócz Brzeszcz to Janina i Sobieski) spadła o 6 proc. do 1,42 mln ton w porównaniu do I kw. 2017 r. A sprzedaż węgla handlowego spadła o 20 proc. do 1,43 mln ton. A w ubiegłym roku, gdy ceny węgla były bardzo wysokie, a górnictwo notowało rekordowe zyski Tauron Wydobycie skończył rok pod kreską. Jednak jakość węgla z Brzeszcz jest dobra, a trzecia kopalnia pozwala Tauronowi na zwiększenie pokrycia zapotrzebowania na węgiel we własnych elektrowniach swoim surowcem.Inna kwestia, na którą zwracano uwagę, to nasze przygotowanie do rzeczonej dekarbonizacji. A to wciąż jest niewystarczające. - Klient oczekuje energii stale. A to energetyka konwencjonalna stabilizuje rynek. Nie mamy jeszcze magazynów, by energię z OZE przechowywać - zwracał uwagę Mirosław Kowalik, prezes Enei.- Kilka lat temu przekaz był taki, że węgla trzeba mniej, żeby zmniejszać możliwości produkcyjne, że będą inne źródła energii. W 2017 r. import węgla do Europy wyniósł 172 mln ton. Co nam to pokazuje? Że w ujęciu europejskim planowanie wychodzi nam średnio. 172 mln ton to jakieś 40 kopalń, pół miliona miejsc pracy, które istnieją poza UE, ale skutki spalania węgla i obciążenia środowiskowe mamy w UE. Zdolności produkcyjne zostały ograniczone o 10 mln ton, a rynek potrzebuje nagle 6 mln ton paliwa - przekonywał z kolei Tomasz Rogala, prezes Polskiej Grupy Górniczej.Karolina Baca-Pogorzelska18 maja 2018GazetaPrawna.pl / Dziennik Gazeta Prawna
+												Dziennik Gazeta Prawna										
+~Maniek                              - 20.05 (07:13)
+Hmmm... Gdzieniegdzie w Polsce dofinansowywuje się fotowoltaikę - tak jakby w tym kraju słońce świeciło min.350 dni w roku i to całą dobę... Natomiast NIE WOLNO budować ludziom małych elektrowni wodnych... Nie mówię o braku dopłat do budowy,  mówię o zakazie ze względu na prawo wodne... Czysta energia 365 dni w roku bez względu na porę dnia... O co chodzi??? 
+Dofinansowuje się zakupy kotłów na olej opałowy - najdroższe źródło ciepła,  ale nie dofinansowywuje się zakupu pomp ciepła... Hmmm.. Można dostać " preferencyjny kredyt " - czyli pieniądze dostanie bank - a nie inwestor... Czy nie można wprowadzić stałych kwot dopłat??  I to inwestor będzie decydował czy chce te pieniądze przeznaczyć bezpośrednio na zakup czy na odsetki od kredytu??? Coś tu nie gra... 
+~mpo                             - 20.05 (06:26)
+... ale przeciez budujemy od wielu juz lat elektrownie jadrowa. Zarzad pobiera spore pensje.
+~Błędny Rybak                             - 20.05 (06:26)
+Mam wrażenie że pisała to jakaś dzierlatka po studiach w wyższej szkole marketingu zarządzania ekologii i turystyki. 1) Ple ple o kopalni Brzeszcze która najpierw była zła a teraz jest dobra. Bo co się stało, Tauron wpompował tam pieniądze na wieczne nieoddanie, czyli kupił jeszcze nie wydobyty węgiel gdy kopalnia zbankrutowała? 2) Eksperci od miedzi dyskutują o energetyce wiatrowej i atomowej. Co tak nieśmiało, zapomnieli o zimnej fuzji? 3) Jeśli linie NN generują największe straty, to może dostarczać do domów prąd o napięciu 220 kV? Od razu będziemy do przodu ale i tu dzierlatce zabrakło odwagi żeby sformułować zalecenie. 4) Jak można porównywać stare bloki energetyczne na węgiel z nowymi albo i z gazowymi? Powinna dzierlatka napisać jeszcze, że nawet w domach mieszkalnych są kotły gazowe które mają sprawność 106%. 5) "wykorzystując doskonałą przewodność elektryczną miedzi" - zwracam uwagę, że srebro ma jeszcze większą przewodność więc może zacząć stosować przewody elektryczne z żyłami ze srebra? Na początek na liniach WN bo tam nikt ich nie ukradnie, w pobożnej i bogobojnej Polsce.
+~gość 2                             - 20.05 (11:47)
+Wywalić na bruk urzędników jest ich ponoć 800 tys. a w PRL-u było tylko 150 tys. i nie mieli komputerów  które marnotrawią prąd . Urzędnik to szkodnik  nic nie produkuje   i jest zbędny i kosztowny w utrzymaniu
+~normalny                             - 20.05 (08:51)
+...Dalej się kłóćcie z Rosją, zrywajcie z nią umowy o dostarczanie taniego gazu, stawiajcie na drogi prąd, marzcie od elektrowniach atomowych za 30 - 40 lat i drogim gazie amerykańskim..........To wtedy Polska będzie silna i dostatnia a ludzie będą ogrzewać mieszkania lampami Łukasiewicza.Tanimi. Ej, wy głupcy, głupcy. WOT wam potrzebny, silna armia dla Amerykanów, bo przecież Rosja  nie zagraża, chyba tylko w gupich łbach naszych, niektórych doradców i amerykańskich generałów. U niektórych zresztą polskich, także......Piszesz jako Gość
+
+                    Strona główna                
+
+
+                    Fakty                
+
+
+                    Biznes                
+
+
+                    Sport                
+
+
+                    Z karnego                
+
+
+                    Forum                
+
+
+                    Motoryzacja                
+
+
+                    Magazynauto                
+
+
+                    Raport drogowy                
+
+
+                    Poboczem                
+
+
+                    Nowe technologie                
+
+
+                    Interia.TV                
+
+
+                    Mobtech                
+
+
+                    Gry                
+
+
+                    Graj on-line                
+
+
+                    Esporter                
+
+
+                    Muzyka                
+
+
+                    Film                
+
+
+                    Świat Seriali                
+
+
+                    Kobieta                
+
+
+                    Styl                
+
+
+                    Mam dziecko                
+
+
+                    Nowa historia                
+
+
+                    Dziki kraj                
+
+
+                    Pomponik                
+
+
+                    Innowacje                
+
+
+                    Polska2041                
+
+
+                    MenWay                
+
+Prywatność
+Polityka Cookies
+Regulamin
+Copyright © 1999-2018 INTERIA.PL

@@ -1,0 +1,33 @@
+Kwi 16, 2018, 17:16Dwóch z motocyklistów zostało rannych: jeden w rękę, a drugi w ramię. Obaj zostali hospitalizowani. Jednak rozwścieczony tłum ruszył na samochód i przy pomocy kasków oraz pochwyconych naprędce kamieni zaczął niszczyć samochód. Kierowca wraz z pasażerami zdołali jednak wyrwać się i uniknąć linczu. Policja dotarła do krewkiego muzułmanina następnego ranka. Podczas aresztowania policja stwierdziła, że ​​jeden z pasażerów w samochodzie został ranny i był operowany w niedzielę rano.za: francesoir.fr
+voxnews.info
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6918582494067064",
+          enable_page_level_ads: true
+     });
+
+
+
+
+
+
+
+
+
+
+
+  var __nc_widgets = __nc_widgets || [];
+  var __nc_j = __nc_j || null;
+
+  __nc_widgets.push(['88F6-7C87-7DBF-DB1D-1esrNl', 'dzienniknarodowy.pl', 'recommendation', 1, 1]);
+
+  (function() {
+    var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';
+    __nc.src = '//nextclick.pl/widget/widget.recommendation.1.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);
+  })();
+
+

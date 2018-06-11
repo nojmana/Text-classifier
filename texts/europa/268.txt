@@ -1,0 +1,619 @@
+
+KOMISJA EUROPEJSKABruksela, dnia 14.9.2016COM(2016) 593 final2016/0280(COD)WniosekDYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADYw sprawie praw autorskich na jednolitym rynku cyfrowym(Tekst mający znaczenie dla EOG){SWD(2016) 301 final}{SWD(2016) 302 final}
+UZASADNIENIE
+
+1.KONTEKST WNIOSKU
+
+•Przyczyny i cele wniosku
+
+Rozwój technologii cyfrowych zmienił sposób, w jaki tworzy się, produkuje, dystrybuuje i eksploatuje utwory i inne przedmioty objęte ochroną. Pojawiły się zarówno nowe sposoby korzystania, jak i nowe podmioty i nowe modele biznesowe. W otoczeniu cyfrowym coraz częściej mamy do czynienia z korzystaniem transgranicznym, a konsumenci mają nowe możliwości dostępu do treści chronionych prawem autorskim. Mimo że cele i zasady określone w ramowych unijnych przepisach dotyczących prawa autorskiego są nadal aktualne, istnieje potrzeba ich dostosowania do nowych realiów. Interwencja na szczeblu UE jest także konieczna, aby uniknąć rozdrobnienia rynku wewnętrznego. W tym kontekście w przyjętej w maju 2015 r. strategii jednolitego rynku cyfrowego
+1
+ stwierdzono, że istnieje potrzeba „zmniejszenia różnic między krajowymi systemami prawa autorskiego oraz umożliwienia użytkownikom w całej UE szerszego dostępu do utworów”. W komunikacie podkreślono znaczenie poprawienia transgranicznego dostępu do usług dotyczących treści chronionych prawem autorskim, ułatwienia nowych zastosowań w dziedzinie badań naukowych i edukacji i wyjaśnienia roli usług online w rozpowszechnianiu utworów oraz innych przedmiotów objętych ochroną. W grudniu 2015 r. Komisja opublikowała komunikat zatytułowany „W kierunku nowoczesnych, bardziej europejskich ram prawa autorskiego”
+2
+. Przedstawiono w nim ukierunkowane działania i długofalową wizję modernizacji unijnych przepisów dotyczących praw autorskich. Niniejszy wniosek jest jednym ze środków służących rozwiązaniu konkretnych problemów zidentyfikowanych w tym komunikacie.
+
+Wyjątki i ograniczenia dotyczące praw autorskich i praw pokrewnych są zharmonizowane na szczeblu europejskim. Niektóre z tych wyjątków służą osiągnięciu celów polityki publicznej, takich jak badania naukowe czy edukacja. Ponieważ jednak niedawno pojawiły się nowe sposoby korzystania, nie jest pewne, czy odstępstwa te są nadal odpowiednie, aby osiągnąć właściwą równowagę między prawami i interesami autorów i innych podmiotów praw a prawami i interesami użytkowników. Ponadto wyjątki te obejmują tylko szczebel krajowy, a pewność prawa dotycząca korzystania transgranicznego nie jest zagwarantowana. W tym kontekście Komisja zidentyfikowała trzy obszary interwencji: cyfrowe i transgraniczne sposoby korzystania w dziedzinie edukacji, eksploracja tekstów i danych w dziedzinie badań naukowych oraz zachowanie dziedzictwa kulturowego. Celem jest zagwarantowanie legalności niektórych sposobów korzystania w tych dziedzinach, w tym także w sytuacjach transgranicznych. Dzięki unowocześnieniu ramowych zasad dotyczących wyjątków i ograniczeń, naukowcy odniosą korzyści z bardziej przejrzystej przestrzeni prawnej umożliwiającej stosowanie innowacyjnych narzędzi badawczych do eksploracji tekstów i danych, nauczyciele i uczniowie będą mogli w pełni korzystać z technologii cyfrowych na wszystkich poziomach kształcenia, a instytucje odpowiedzialne za dziedzictwo kulturowe (tzn. ogólnodostępne biblioteki, muzea, archiwa oraz instytucje odpowiedzialne za dziedzictwo filmowe lub dźwiękowe) będą wspierane w swoich staraniach na rzecz zachowania dziedzictwa kulturowego, co w ostatecznym rozrachunku przyniesie korzyści obywatelom UE.
+
+Pomimo że technologie cyfrowe powinny ułatwiać transgraniczny dostęp do utworów i innych przedmiotów objętych ochroną, nadal istnieją przeszkody, w szczególności w przypadkach, w których weryfikacja praw autorskich do zastosowań i utworów jest problematyczna. Ma to miejsce w przypadku instytucji dziedzictwa kulturowego, które chcą zapewnić dostęp online, w tym także dostęp transgraniczny, do utworów niedostępnych w obrocie handlowym, które mają w swoich zbiorach. W wyniku tych przeszkód europejscy obywatele tracą pewne możliwości dostępu do dziedzictwa kulturowego. Wniosek ma na celu rozwiązanie tych problemów poprzez wprowadzenie szczególnego mechanizmu mającego ułatwić udzielanie licencji na upowszechnianie utworów niedostępnych w obrocie handlowym przez instytucje dziedzictwa kulturowego. W odniesieniu do utworów audiowizualnych, pomimo rosnącego znaczenia platform wideo na żądanie (VOD), utwory audiowizualne UE stanowią zaledwie jedną trzecią utworów dostępnych dla konsumentów na tych platformach. Również w tym przypadku wspomniany brak dostępności częściowo wynika ze złożonego procesu weryfikacji. W niniejszym wniosku przewidziano środki mające na celu ułatwienie procesu udzielania licencji i weryfikacji praw. Ich wprowadzenie ułatwiłoby konsumentom transgraniczny dostęp do treści chronionych prawem autorskim.
+
+W wyniku rozwoju technologii cyfrowych pojawiły się nowe modele biznesowe, zwiększyła się też rola internetu jako głównego rynku rozpowszechniania i dostępu do treści chronionych prawem autorskim. W tych nowych warunkach podmioty praw, które chcą udzielić licencji na korzystanie ze swoich praw i otrzymać wynagrodzenie z tytułu rozpowszechniania swoich utworów w internecie, napotykają trudności. Może to postawić pod znakiem zapytania rozwój kreatywności i produkcję kreatywnych treści w Europie. Należy zatem zagwarantować, aby autorzy i podmioty praw otrzymywali należną część wartości generowanej poprzez korzystanie z ich utworów i innych przedmiotów objętych ochroną. W tym kontekście wniosek przewiduje środki mające poprawić pozycję podmiotów praw w zakresie negocjowania i uzyskiwania wynagrodzenia za eksploatację należących do nich treści w ramach internetowych usług udostępniania treści zamieszczanych przez użytkowników. Sprawiedliwy podział wartości jest również niezbędny, aby zapewnić stabilność sektora prasowego. Wydawcy prasowi mają trudności z udzielaniem licencji na swoje publikacje w internecie i z uzyskiwaniem należnego udziału w generowanej przez siebie wartości. W ostatecznym rozrachunku może to wpłynąć na dostęp obywateli do informacji. W niniejszym wniosku przewidziano nowe prawo dotyczące wydawców prasowych, które ma im ułatwić udzielanie licencji na publikacje w internecie, odzyskiwanie inwestycji i egzekwowanie praw. We wniosku odniesiono się także do kwestii niepewności prawa jeśli chodzi o możliwość uzyskania przez wszystkich wydawców udziału w rekompensacie za korzystanie z utworów w ramach wyjątku. W momencie udzielania licencji na przysługujące im prawa autorzy i wykonawcy mają często słabą pozycję negocjacyjną w stosunkach umownych. Ponadto przejrzystość w zakresie dochodów uzyskiwanych z tytułu korzystania z ich utworów lub wykonań jest często ograniczona. Fakt ten ma wpływ na wynagrodzenie autorów i wykonawców. Celem niniejszego wniosku jest zwiększenie przejrzystości i zapewnienie bardziej zrównoważonych stosunków umownych między autorami i wykonawcami a podmiotami, którym udzielają praw. Ogólnie rzecz biorąc oczekuje się, że środki proponowane w tytule IV wniosku, których celem jest zapewnienie prawidłowego funkcjonowania rynku w zakresie praw autorskich, w perspektywie średnioterminowej będą miały pozytywny wpływ na produkcję i dostępność treści oraz na pluralizm mediów, co w ostatecznym rozrachunku przyniesie korzyści konsumentom.
+
+•Spójność z przepisami obowiązującymi w tej dziedzinie polityki
+
+W ramach strategii jednolitego rynku cyfrowego sformułowano szereg inicjatyw mających na celu stworzenie wewnętrznego rynku treści i usług cyfrowych. Pierwszy krok w tym kierunku zrobiono w grudniu 2015 r. wraz z przyjęciem przez Komisję wniosku dotyczącego rozporządzenia Parlamentu Europejskiego i Rady w sprawie zapewnienia możliwości transgranicznego przenoszenia na rynku wewnętrznym usług online w zakresie treści
+3
+.
+
+Niniejszy wniosek ma na celu przeprowadzenie kilku z ukierunkowanych działań określonych w komunikacie „W kierunku nowoczesnych, bardziej europejskich ram prawa autorskiego”. Inne działania wymienione w tym komunikacie zostały ujęte w następujących dokumentach: „Wniosek dotyczący rozporządzenia Parlamentu Europejskiego i Rady ustanawiającego zasady dotyczące wykonywania praw autorskich i praw pokrewnych mające zastosowanie do niektórych nadawców transmisji i retransmisji programów telewizyjnych i radiowych”
+4
+, „Wniosek dotyczący rozporządzenia Parlamentu Europejskiego i Rady w sprawie transgranicznej wymiany między Unią a państwami trzecimi kopii utworów w formacie umożliwiającym dostęp do określonych utworów i innych przedmiotów chronionych prawem autorskim i prawami pokrewnymi na korzyść osób niewidomych, niedowidzących lub cierpiących na inne zaburzenia odczytu druku”
+5
+ oraz „Wniosek dotyczący dyrektywy Parlamentu Europejskiego i Rady w sprawie niektórych dozwolonych sposobów korzystania z utworów i innych przedmiotów chronionych prawem autorskim i prawami pokrewnymi na korzyść osób niewidomych, niedowidzących lub cierpiących na inne zaburzenia odczytu druku i zmieniającej dyrektywę 2001/29/WE w sprawie harmonizacji niektórych aspektów praw autorskich i pokrewnych w społeczeństwie informacyjnym”
+6
+, przyjętych w tym samym dniu co niniejszy wniosek dotyczący dyrektywy.
+
+Niniejszy wniosek jest spójny z istniejącymi ramami prawnymi UE w zakresie prawa autorskiego. Niniejszy wniosek opiera się na zasadach określonych w następujących dyrektywach: dyrektywa 96/9/WE
+7
+, dyrektywa 2001/29/WE
+8
+, dyrektywa 2006/115/WE
+9
+, dyrektywa 2009/24/WE
+10
+, dyrektywa 2012/28/UE
+11
+ oraz dyrektywa 2014/26/UE
+12
+ oraz stanowi uzupełnienie tych zasad. Dyrektywy te, jak również niniejszy wniosek, przyczyniają się do lepszego funkcjonowania rynku wewnętrznego, zagwarantowania wysokiego poziomu ochrony podmiotów praw i ułatwienia weryfikacji praw.
+
+Niniejszy wniosek uzupełnia dyrektywę 2010/13/UE
+13
+ oraz wniosek
+14
+ dotyczący jej zmiany.
+
+•Spójność z innymi politykami Unii
+
+Wniosek ten ułatwi edukację i badania, usprawni upowszechnianie kultur europejskich i będzie miał pozytywny wpływ na różnorodność kulturową. Niniejsza dyrektywa jest zatem zgodna z art. 165, 167 i 179 Traktatu o funkcjonowaniu Unii Europejskiej (TFUE). Ponadto niniejszy wniosek przyczynia się do promowania interesów konsumentów, zgodnie z polityką UE w dziedzinie ochrony konsumentów oraz z art. 169 TFUE, poprzez umożliwienie szerszego dostępu do treści chronionych prawem autorskim.
+
+2.PODSTAWA PRAWNA, POMOCNICZOŚĆ I PROPORCJONALNOŚĆ
+
+•Podstawa prawna
+
+Podstawę prawną wniosku stanowi art. 114 TFUE. W artykule tym nadano UE uprawnienia do przyjmowania środków, które mają na celu ustanowienie i funkcjonowanie rynku wewnętrznego.
+
+•Pomocniczość (w przypadku kompetencji niewyłącznych) 
+
+Ponieważ wyjątki i ograniczenia dotyczące praw autorskich i praw pokrewnych są zharmonizowane na szczeblu europejskim, margines swobody państw członkowskich w ich tworzeniu lub dostosowywaniu jest ograniczony. Ponadto interwencja na szczeblu krajowym nie byłaby wystarczająca z uwagi na transgraniczny charakter wskazanych problemów. Zatem aby osiągnąć całkowitą pewność prawa w odniesieniu do transgranicznych zastosowań w dziedzinie badań, edukacji oraz dziedzictwa kulturowego, interwencja na szczeblu UE jest niezbędna.
+
+Z myślą o ułatwieniu upowszechniania utworów niedostępnych w obrocie handlowym i dostępu do nich opracowano już pewną liczbę inicjatyw krajowych. Inicjatywy te funkcjonują jednak tylko w niektórych państwach członkowskich i mają zastosowanie wyłącznie na terytorium danego kraju. Interwencja na szczeblu UE jest zatem niezbędna, aby zapewnić wprowadzenie mechanizmów udzielania licencji w odniesieniu do dostępu i upowszechniania utworów niedostępnych w obrocie handlowym we wszystkich państwach członkowskich oraz aby zagwarantować ich transgraniczny charakter. W odniesieniu do eksploatacji utworów audiowizualnych w internecie, wspieranie dostępności europejskich utworów na platformach wideo na żądanie w UE wymaga ułatwienia negocjowania umów licencyjnych we wszystkich państwach członkowskich.
+
+Rozpowszechnianie treści chronionych prawem autorskim w internecie ma ze swej natury charakter transgraniczny. Tylko mechanizmy przyjęte na szczeblu europejskim mogą zapewnić prawidłowe funkcjonowanie rynku rozpowszechniania utworów i innych przedmiotów objętych ochroną oraz zagwarantować stabilność sektora wydawniczego w obliczu wyzwań stawianych przez otoczenie cyfrowe. Ponadto autorzy i wykonawcy we wszystkich państwach członkowskich powinni korzystać z wysokiego poziomu ochrony ustanowionego w prawodawstwie UE. Aby osiągnąć ten cel i zapobiec rozbieżnościom w poszczególnych państwach członkowskich, konieczne jest ustanowienie wspólnego podejścia UE do wymogów w zakresie przejrzystości oraz do mechanizmów umożliwiających w niektórych przypadkach dostosowanie umów i mechanizmów rozwiązywania sporów.
+
+•Proporcjonalność
+
+We wniosku określono obowiązkowe wyjątki, które muszą zostać wprowadzone w państwach członkowskich. Wyjątki te dotyczą kluczowych celów polityki publicznej oraz sposobów korzystania o charakterze transgranicznym. Wyjątki obejmują również warunki zapewniające zachowanie funkcjonujących rynków, ochronę interesów podmiotów praw oraz zachęty do tworzenia i inwestowania. W stosownych przypadkach i przy jednoczesnym zagwarantowaniu spełnienia celów dyrektywy, pozostawiono margines swobody umożliwiający podejmowanie decyzji na szczeblu krajowym.
+
+Wniosek nakłada na państwa członkowskie wymóg ustanowienia mechanizmów ułatwiających weryfikację praw autorskich i praw pokrewnych w odniesieniu do utworów niedostępnych w obrocie handlowym i internetowej eksploatacji utworów audiowizualnych. Celem wniosku jest zapewnienie szerszego dostępu do treści i ich skuteczniejszego upowszechniania, przy poszanowaniu praw autorów i innych podmiotów praw. W tym celu wprowadzono szereg zabezpieczeń (np. możliwość odstąpienia od stosowania, zachowanie możliwości udzielania licencji, udział w forum negocjacji na zasadzie dobrowolności). Wniosek nie wykracza poza to, co jest konieczne do osiągnięcia zamierzonego celu, pozostawiając jednocześnie państwom członkowskim wystarczającą swobodę w podejmowaniu decyzji w odniesieniu do szczegółów tych mechanizmów, a także nie nakłada nieproporcjonalnych kosztów.
+
+We wniosku ustanawia się obowiązki dotyczące niektórych usług społeczeństwa informacyjnego. Obowiązki te są jednak rozsądne w świetle charakteru tych usług, ich znaczącego wpływu na rynek treści online oraz dużych ilości treści chronionych prawem autorskim przechowywanych w ramach tych usług. Wprowadzenie prawa pokrewnego dotyczącego wydawców prasowych zwiększy pewność prawa i ich pozycję negocjacyjną, co jest zamierzonym celem działań. Wniosek jest zgodny z zasadą proporcjonalności, gdyż obejmuje tylko publikacje prasowe i cyfrowe sposoby korzystania. Ponadto wniosek nie narusza z mocą wsteczną żadnych działań podjętych przed datą transpozycji ani praw nabytych przed tą datą. Wymóg przejrzystości zawarty we wniosku ma na celu jedynie przywrócenie równowagi stosunków umownych pomiędzy twórcami a ich kontrahentami, przy jednoczesnym poszanowaniu swobody zawierania umów.
+
+•Wybór instrumentu
+
+Wniosek jest powiązany z obowiązującymi dyrektywami, a w niektórych przypadkach wprowadza w nich zmiany. Pozostawiono w nim także, w stosownych przypadkach i uwzględniając zakładany cel, margines swobody dla państw członkowskich, zapewniając równocześnie spełnienie celu dotyczącego funkcjonowania rynku wewnętrznego. Wybór dyrektywy jest zatem odpowiedni.
+
+3.WYNIKI OCEN EX POST, KONSULTACJI Z ZAINTERESOWANYMI STRONAMI I OCEN SKUTKÓW
+
+•Oceny ex post/kontrole sprawności obowiązującego prawodawstwa
+
+W latach 2013–2016 Komisja przeprowadziła przegląd istniejących przepisów dotyczących praw autorskich, aby „prawa autorskie i pokrewne prawu autorskiemu praktyki dobrze służyły tym nowym cyfrowym treściom”
+15
+. Pomimo że przegląd ten rozpoczęto przed przyjęciem przez Komisję w maju 2015 r. Programu lepszego stanowienia prawa 
+16
+, to przeprowadzono go zgodnie z wytycznymi dotyczącymi lepszego stanowienia prawa. W wyniku procesu przeglądu stwierdzono zwłaszcza problemy związane z wdrażaniem pewnych wyjątków i brakiem transgranicznego wpływu tych wyjątków
+17
+; wskazano też pewne trudności w korzystaniu z treści chronionych prawem autorskim, które pojawiły się w ostatnich latach, zwłaszcza w kontekście cyfrowym i transgranicznym.
+
+•Konsultacje z zainteresowanymi stronami
+
+Komisja przeprowadziła szereg konsultacji społecznych. W wyniku konsultacji w sprawie przeglądu przepisów UE dotyczących praw autorskich przeprowadzonych w okresie od 5 grudnia 2013 r. do 5 marca 2014 r.
+18
+ Komisja otrzymała szereg opinii zainteresowanych stron na temat przeglądu przepisów UE dotyczących praw autorskich, w tym wyjątków i ograniczeń, oraz na temat wynagrodzenia autorów i wykonawców. Konsultacje społeczne prowadzone od 24 września 2015 r. do 6 stycznia 2016 r. w sprawie otoczenia regulacyjnego platform, pośredników internetowych, przetwarzania danych i przetwarzania w chmurze oraz współkonsumpcji
+19
+ zgromadziły dowody i opinie wszystkich zainteresowanych stron na temat roli pośredników w rozpowszechnianiu utworów i innych przedmiotów objętych ochroną w internecie. Wreszcie od 23 marca 2016 r. do 15 czerwca 2016 r. odbyły się konsultacje społeczne na temat roli wydawców w łańcuchu wartości praw autorskich oraz na temat wyjątku określanego jako „wolność panoramy”. Konsultacje te umożliwiły przede wszystkim zapoznanie się z poglądami na temat ewentualnego wprowadzenia w prawie UE nowego prawa pokrewnego dotyczącego wydawców.
+
+Ponadto w latach 2014–2016 Komisja przeprowadziła rozmowy z zainteresowanymi stronami na temat różnych kwestii poruszonych we wniosku.
+
+•Gromadzenie i wykorzystanie wiedzy eksperckiej
+
+Przeprowadzono analizy prawne
+20
+ i gospodarcze
+21
+ dotyczące stosowania dyrektywy 2001/29/WE, gospodarczych skutków dostosowania pewnych wyjątków i ograniczeń, ram prawnych dotyczących eksplorowania tekstów i danych oraz na temat wynagrodzenia autorów i wykonawców.
+
+•Ocena skutków
+
+Przeprowadzono ocenę skutków niniejszego wniosku
+22
+. W dniu 22 lipca 2016 r. Rada ds. Kontroli Regulacyjnej wydała pozytywną opinię z zastrzeżeniem, że ocenę skutków należy jeszcze poprawić
+23
+. Wersja ostateczna oceny skutków uwzględnia uwagi zawarte w tej opinii.
+
+W ocenie skutków rozważono scenariusze odniesienia oraz warianty strategiczne i ich skutki w odniesieniu do ośmiu tematów podzielonych na trzy następujące rozdziały: (i) zapewnienie szerszego dostępu do treści, (ii) dostosowanie wyjątków do otoczenia cyfrowego i transgranicznego oraz (iii) zapewnienie prawidłowego funkcjonowania rynku w zakresie praw autorskich. W ramach każdego wariantu strategicznego dokonano analizy jego wpływu na różne zainteresowane strony; w szczególności ze względu na przewagę MŚP w sektorze kreatywnym z analizy wynika, że wprowadzenie specjalnego systemu nie byłoby właściwe, ponieważ byłoby sprzeczne z celem interwencji. Poniżej krótko przedstawiono warianty strategiczne dla każdego tematu. 
+
+Dostęp do utworów audiowizualnych na platformach wideo na żądanie oraz dostępność tych utworów: nie przyjęto wariantu nielegislacyjnego (wariant 1), polegającego na organizacji dialogu zainteresowanych stron dotyczącego kwestii licencjonowania, , ponieważ uznano, że nie wystarcza do rozwiązania indywidualnych przypadków blokad. Wybrany wariant (wariant 2) łączy organizowanie dialogu zainteresowanych stron z nałożonym na państwa członkowskie obowiązkiem wprowadzenia mechanizmu negocjacji.
+
+Utwory niedostępne w obrocie handlowym: wariant 1 wymaga, aby państwa członkowskie wprowadziły mechanizmy prawne o zasięgu transgranicznym, aby ułatwić zawieranie umów licencyjnych dotyczących książek i czasopism naukowych niedostępnych w obrocie handlowym i organizowały dialog zainteresowanych stron na poziomie krajowym w celu ułatwienia wdrażania tego mechanizmu. Wariant 2 jest bardziej zaawansowany, ponieważ ma zastosowanie do wszystkich rodzajów utworów niedostępnych w obrocie handlowym.  To poszerzenie zakresu uznano za niezbędne, aby rozwiązać problem licencjonowania utworów niedostępnych w obrocie handlowym we wszystkich sektorach. W związku z tym wybrano wariant 2.
+
+Korzystanie z utworów i innych przedmiotów objętych ochroną w cyfrowej i transgranicznej działalności dydaktycznej: wariant 1 polega na dostarczeniu państwom członkowskim wskazówek dotyczących stosowania istniejącego wyjątku do celów dydaktycznych w otoczeniu cyfrowym oraz na organizacji dialogu między zainteresowanymi stronami. Uznano, że nie wystarcza to do uzyskania pewności prawnej, w szczególności w odniesieniu do transgranicznych sposobów korzystania. Wariant 2 wymaga wprowadzenia obowiązkowego wyjątku mającego skutek transgraniczny obejmujący zastosowania cyfrowe. Wariant 3 jest podobny do wariantu 2, lecz pozostawia pewną swobodę państwom członkowskim, które mogą zdecydować się na zastosowanie wyjątku w zależności od dostępności licencji. Wariant ten uznano za najbardziej proporcjonalny.
+
+Eksploracja tekstów i danych: wariant 1 obejmuje inicjatywy na rzecz samoregulacji branży. Inne warianty polegają na wprowadzeniu obowiązkowego wyjątku dotyczącego eksploracji tekstów i danych. W wariancie 2 wyjątek obejmuje korzystanie wyłącznie do celów niekomercyjnych badań naukowych. Wariant 3 umożliwiłby korzystanie do celów komercyjnych badań naukowych, ale ograniczyłby korzyści z wyjątku do niektórych beneficjentów. Wariant 4 jest bardziej zaawansowany, ponieważ nie ogranicza beneficjentów. Za najbardziej proporcjonalny uznano wariant 3.
+
+Zachowanie dziedzictwa kulturowego: wariant 1 polegał na dostarczeniu państwom członkowskim wytycznych w sprawie wdrażania wyjątku dotyczącego określonych czynności zwielokrotniania do celów zachowania. Wariant ten odrzucono, ponieważ uznano go za niewystarczający, aby osiągnąć pewność prawa w tej dziedzinie. Wybrano wariant 2 polegający na wprowadzeniu obowiązkowego wyjątku do celów zachowania przez instytucje dziedzictwa kulturowego.
+
+Korzystanie z treści chronionych prawami autorskimi przez dostawców usług społeczeństwa informacyjnego, które to usługi polegają na przechowywaniu i zapewnianiu publicznego dostępu do dużej liczby utworów i innych przedmiotów objętych ochroną zamieszczanych przez użytkowników: wariant 1 polega na organizacji dialogu między zainteresowanymi stronami. Podejście to odrzucono ponieważ miałoby ograniczony wpływ na możliwości podmiotów praw do określania warunków korzystania z ich utworów oraz innych przedmiotów objętych ochroną. Wybrany wariant (wariant 2) jest bardziej zaawansowany, ponieważ nakłada na niektórych usługodawców obowiązek wdrożenia odpowiednich technologii i wspiera zawieranie umów z podmiotami praw.
+
+Prawa w publikacjach: wariant 1 obejmuje organizację dialogu z zainteresowanymi stronami w celu znalezienia rozwiązań dotyczących upowszechniania treści należących do wydawców prasowych. Wariant ten uznano za niewystarczający, aby osiągnąć pewność prawa w tej dziedzinie w całej UE. Wariant 2 obejmuje wprowadzenie prawa pokrewnego dotyczącego cyfrowych sposobów korzystania z publikacji prasowych. Ponadto w wariancie 3 państwa członkowskie otrzymują możliwość zapewnienia wydawcom, na których przeniesiono prawa lub którym udzielono licencji, możliwości żądania udziału w rekompensacie za korzystanie w ramach wyjątku. Wybrano ten ostatni wariant, ponieważ rozwiązywał on wszystkie istotne problemy.
+
+Godziwe wynagrodzenie autorów i wykonawców określane w umowach:  wariant 1 polega na wydaniu zalecenia dla państw członkowskich i zorganizowaniu dialogu zainteresowanych stron. Wariant ten odrzucono, ponieważ nie byłby wystarczająco skuteczny. Wariant 2 przewiduje nałożenie obowiązków w zakresie przejrzystości na kontrahentów twórców. Dodatkowo w wariancie 3 zaproponowano wprowadzenie mechanizmu dostosowania wynagrodzeń i mechanizmu rozstrzygania sporów. Wariant ten został przyjęty, ponieważ wariant 2 nie zapewniłby twórcom środków egzekwowania wspierających wykonywanie obowiązku przejrzystości.
+
+•Sprawność regulacyjna i uproszczenie
+
+W odniesieniu do sposobów korzystania objętych wyjątkami, wniosek umożliwi obniżenie kosztów transakcji placówkom edukacyjnym, instytucjom badawczym i instytucjom dziedzictwa kulturowego. To obniżenie kosztów transakcji niekoniecznie oznacza utratę dochodów lub przychodów z licencji przez podmioty praw: zakres i warunki wyjątku gwarantują, że szkoda ponoszona przez podmioty praw jest minimalna. Wpływ na MŚP w tych dziedzinach (w szczególności na wydawnictwa naukowe i edukacyjne) oraz na ich modele biznesowe powinien być zatem ograniczony.
+
+Mechanizmy służące poprawie praktyk licencyjnych mogą obniżyć koszty transakcji i zwiększyć przychody podmiotów praw uzyskiwane z licencjonowania. Wpływ na MŚP w sektorach (producenci, dystrybutorzy, wydawcy itd.) byłby pozytywny. Wniosek miałby pozytywny wpływ także na inne zainteresowane strony, takie jak platformy VoD. Wniosek zawiera również pewną liczbę środków (obowiązek w zakresie przejrzystości dotyczący kontrahentów podmiotów praw, wprowadzenie nowego prawa dla wydawców prasowych i obowiązek dotyczący niektórych usług internetowych), które mogłyby poprawić pozycję negocjacyjną podmiotów praw i sprawowaną przez nich kontrolę nad korzystaniem z ich utworów i innych przedmiotów objętych ochroną. Oczekuje się, że będzie to miało pozytywny wpływ na przychody podmiotów praw.
+
+Wniosek nakłada nowe obowiązki na niektóre usługi online oraz na podmioty, na które autorzy i wykonawcy przenoszą swoje prawa. Obowiązki te mogą wiązać się z dodatkowymi kosztami. Wniosek gwarantuje jednak proporcjonalność tych kosztów oraz, w razie potrzeby, zwolnienie niektórych podmiotów z tych obowiązków. Np. obowiązek przejrzystości nie ma zastosowania, jeśli koszty jego wykonania byłyby niewspółmierne w stosunku do dochodów. Jeżeli zaś chodzi o obowiązek dotyczący usług internetowych, ma on zastosowanie wyłącznie do usług społeczeństwa informacyjnego polegających na przechowywaniu i zapewnianiu publicznego dostępu do dużych ilości treści chronionych prawem autorskim zamieszczanych przez użytkowników.
+
+Wniosek przewiduje zobowiązanie państw członkowskich do wdrożenia mechanizmów negocjacji i rozstrzygania sporów. Oznacza to, że państwa członkowskie poniosą koszty związane z przestrzeganiem przepisów. Jednak w większości przypadków mogą one skorzystać z istniejących struktur, co ograniczy koszty. Wyjątek dotyczący nauczania może również oznaczać pewne koszty dla państw członkowskich, powiązane ze środkami zapewniania dostępności i widoczności licencji dla placówek edukacyjnych.
+
+Dokładnej analizie poddano nowe rozwiązania technologiczne. Wniosek zawiera kilka wyjątków, które mają ułatwić korzystanie z treści chronionych prawem autorskim za pośrednictwem nowych technologii. Niniejszy wniosek obejmuje również środki ułatwiające dostęp do treści, w tym za pośrednictwem sieci cyfrowych. Ponadto zapewnia on wyrównaną pozycję negocjacyjną wszystkich podmiotów w środowisku cyfrowym.
+
+•Prawa podstawowe
+
+Dzięki poprawieniu pozycji negocjacyjnej autorów i wykonawców oraz umożliwieniu podmiotom praw sprawowania kontroli nad korzystaniem z treści chronionych prawem autorskim wniosek będzie miał pozytywny wpływ na prawo autorskie jako prawo własności, chronione na podstawie art. 17 Karty praw podstawowych Unii Europejskiej (zwanej dalej „kartą”). Ten pozytywny wpływ zostanie wzmocniony przez środki zmierzające do ulepszenia praktyk licencyjnych, a co za tym idzie – dochodów uzyskiwanych przez podmioty praw. Nowe wyjątki, które w pewnym stopniu ograniczają monopol podmiotów praw, są uzasadnione innymi celami zgodnymi z interesem publicznym. Wyjątki te powinny mieć pozytywny wpływ na prawo do nauki oraz na różnorodność kulturową. Ponadto dyrektywa ma ograniczony wpływ na wolność prowadzenia działalności gospodarczej oraz wolność słowa i informacji, zapisane w art. 16 i 11 karty, ze względu na wprowadzenie środków łagodzących i zrównoważone podejście do obowiązków nałożonych na zainteresowane strony.
+
+4.WPŁYW NA BUDŻET
+
+Wniosek nie ma wpływu na budżet Unii Europejskiej.
+
+5.ELEMENTY FAKULTATYWNE
+
+•Plany wdrożenia i monitorowanie, ocena i sprawozdania
+
+Zgodnie z art. 22 Komisja dokona przeglądu dyrektywy nie wcześniej niż po upływie [pięciu] lat od dnia [data transpozycji].
+
+•Dokumenty wyjaśniające
+
+Zgodnie z motywem 48 wniosku, państwa członkowskie powiadomią Komisję o swoich środkach transpozycji, przedkładając dokumenty wyjaśniające. Jest to niezbędne z uwagi na złożoność zasad określonych we wniosku oraz znaczenie zachowania zharmonizowanego podejścia do zasad mających zastosowanie do otoczenia cyfrowego i transgranicznego.
+
+•Szczegółowe objaśnienia poszczególnych przepisów wniosku
+
+Tytuł pierwszy zawiera ogólne przepisy, które (i) określają przedmiot i zakres stosowania dyrektywy oraz (ii) wprowadzają definicje, które należy interpretować w jednolity sposób w całej Unii.
+
+Tytuł drugi dotyczy środków dostosowujących wyjątki i ograniczenia do otoczenia cyfrowego i transgranicznego. Tytuł ten zawiera trzy artykuły, które zobowiązują państwa członkowskie do przewidzenia obowiązkowych wyjątków lub ograniczeń umożliwiających: (i) eksplorację tekstów i danych przez instytucje badawcze do celów badań naukowych (art. 3); (ii) cyfrowe korzystanie z utworów i innych przedmiotów objętych ochroną w wyłącznym celu zilustrowania nauczania (art. 4) oraz (iii) wykonywanie przez instytucje dziedzictwa kulturowego kopii utworów lub innych przedmiotów objętych ochroną, które znajdują się na stałe w ich zbiorach, w zakresie niezbędnym do ich zachowania (art. 5). W art. 6 przewidziano przepisy wspólne dla tytułu dotyczącego wyjątków i ograniczeń.
+
+Tytuł trzeci dotyczy środków mających na celu ulepszenie praktyk licencyjnych i zapewnienie szerszego dostępu do treści. Art. 7 wymaga, aby państwa członkowskie wprowadziły prawny mechanizm ułatwiający zawieranie umów licencyjnych dotyczących utworów niedostępnych w obrocie handlowym i innych przedmiotów objętych ochroną. W art. 8 gwarantuje się transgraniczny skutek takich umów licencyjnych. W art. 9 zobowiązuje się państwa członkowskie do ustanowienia dialogu zainteresowanych stron na temat kwestii odnoszących się do art. 7 i 8. W art. 10 nakłada się na państwa członkowskie obowiązek wprowadzenia mechanizmu negocjacji, aby ułatwić negocjacje dotyczące korzystania z utworów audiowizualnych w internecie.
+
+Tytuł czwarty dotyczy środków mających na celu zapewnienie prawidłowego funkcjonowania rynku w zakresie praw autorskich. Art. 11 i 12 (i) rozszerzają prawa przewidziane w art. 2 i art. 3 ust. 2 dyrektywy 2001/29/WE na wydawców publikacji prasowych do celów cyfrowego korzystania z ich publikacji oraz (ii) przewidują opcję wprowadzenia przez państwa członkowskie możliwości żądania przez wszystkich wydawców udziału w rekompensacie za korzystanie na podstawie wyjątku. Art. 13 nakłada na dostawców usług społeczeństwa informacyjnego polegających na przechowywaniu i zapewnianiu publicznego dostępu do dużej liczby utworów i innych przedmiotów objętych ochroną zamieszczanych przez użytkowników obowiązek podjęcia odpowiednich i proporcjonalnych środków, aby zapewnić funkcjonowanie umów zawieranych z podmiotami praw i zapobiec dostępności w serwisach treści zidentyfikowanych przez podmioty praw we współpracy z usługodawcami. W art. 14 zobowiązano państwa członkowskie do uwzględnienia wymogów w zakresie przejrzystości korzystnych dla autorów i wykonawców. W art. 15 zobowiązano państwa członkowskie do ustanowienia mechanizmu dostosowania umów, który stanowi wsparcie obowiązku przewidzianego w art. 14. Art. 16 wymaga od państw członkowskich ustanowienia mechanizmu rozstrzygania sporów dotyczących kwestii wynikających ze stosowania art. 14 i 15.
+
+Tytuł piąty zawiera przepisy końcowe dotyczące zmian wprowadzanych w innych dyrektywach i stosowania w czasie, a także przepisy przejściowe i przepisy dotyczące ochrony danych osobowych, transpozycji, przeglądu i wejścia w życie.
+
+2016/0280 (COD)
+
+Wniosek
+
+DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY
+
+w sprawie praw autorskich na jednolitym rynku cyfrowym
+
+(Tekst mający znaczenie dla EOG)
+
+PARLAMENT EUROPEJSKI I RADA UNII EUROPEJSKIEJ,
+
+uwzględniając Traktat o funkcjonowaniu Unii Europejskiej, w szczególności jego art. 114,
+
+uwzględniając wniosek Komisji Europejskiej,
+
+po przekazaniu projektu aktu ustawodawczego parlamentom narodowym,
+
+uwzględniając opinię Europejskiego Komitetu Ekonomiczno-Społecznego
+24
+,
+
+uwzględniając opinię Komitetu Regionów
+25
+,
+
+stanowiąc zgodnie ze zwykłą procedurą ustawodawczą,
+
+a także mając na uwadze, co następuje:
+
+(1)Traktat przewiduje ustanowienie rynku wewnętrznego i instytucji systemu zapewniającego niezakłóconą konkurencję na rynku wewnętrznym. Do realizacji tych celów powinna przyczynić się harmonizacja ustawodawstw państw członkowskich w zakresie praw autorskich i praw pokrewnych.
+
+(2)Dyrektywy przyjęte w dziedzinie praw autorskich i praw pokrewnych zapewniają wysoki poziom ochrony podmiotów praw i tworzą ramy, w których może odbywać się eksploatacja utworów lub innych przedmiotów objętych ochroną. Takie zharmonizowane ramy prawne przyczyniają się do dobrego funkcjonowania rynku wewnętrznego; pobudzają innowacyjność, kreatywność, inwestycje i produkcję nowych treści, także w otoczeniu cyfrowym. Poziom ochrony zapewniany przez te ramy prawne przyczynia się również do realizacji celu Unii, jakim jest poszanowanie i wspieranie różnorodności kulturowej, równocześnie uwydatniając znaczenie wspólnego europejskiego dziedzictwa kulturowego. Art. 167 ust. 4 Traktatu o funkcjonowaniu Unii Europejskiej zobowiązuje Unię do uwzględniania w swoim działaniu aspektów kulturalnych.
+
+(3)Szybki rozwój technologii cyfrowych zmienia sposób, w jaki tworzy się, produkuje, rozpowszechnia i eksploatuje utwory i inne przedmioty objęte ochroną. Wciąż pojawiają się nowe modele biznesowe i nowe podmioty. Cele i zasady określone w unijnych ramach prawa autorskiego są solidne. Nadal jednak brakuje pewności prawnej, zarówno jeśli chodzi o podmioty praw, jak i użytkowników, w odniesieniu do niektórych sposobów korzystania, w tym transgranicznych sposobów korzystania z utworów i innych przedmiotów objętych ochroną w otoczeniu cyfrowym. Jak wskazano w komunikacie Komisji zatytułowanym „W kierunku nowoczesnych, bardziej europejskich ram prawa autorskiego”
+26
+, w niektórych obszarach konieczne jest dostosowanie obecnych unijnych ram prawa autorskiego oraz ich uzupełnienie. Niniejsza dyrektywa ustanawia zasady dotyczące dostosowania niektórych wyjątków i ograniczeń do otoczenia cyfrowego i transgranicznego, jak również środki ułatwiające niektóre praktyki licencyjne dotyczące rozpowszechniania utworów niedostępnych w obrocie handlowym oraz udostępniania w internecie utworów audiowizualnych na platformach wideo na żądanie w celu zapewnienia szerszego dostępu do treści. Aby zapewnić prawidłowe funkcjonowanie rynku praw autorskich, należy również wprowadzić zasady dotyczące praw w publikacjach i korzystania z utworów i innych przedmiotów objętych ochroną przez dostawców usług internetowych polegających na przechowywaniu i zapewnianiu dostępu do treści zamieszczanych przez użytkowników oraz zasady dotyczące przejrzystości umów zawieranych przez autorów i wykonawców.
+
+(4)Niniejsza dyrektywa opiera się na zasadach określonych w dyrektywach obowiązujących obecnie w tej dziedzinie, a także uzupełnia te dyrektywy; są to w szczególności: dyrektywa 96/9/WE Parlamentu Europejskiego i Rady
+27
+, dyrektywa 2001/29/WE Parlamentu Europejskiego i Rady
+28
+, dyrektywa 2006/115/WE Parlamentu Europejskiego i Rady
+29
+, dyrektywa Parlamentu Europejskiego i Rady 2009/24/WE
+30
+, dyrektywa Parlamentu Europejskiego i Rady 2012/28/UE
+31
+ oraz dyrektywa Parlamentu Europejskiego i Rady 2014/26/UE
+32
+.
+
+(5)W dziedzinie badań, edukacji i zachowania dziedzictwa kulturowego technologie cyfrowe umożliwiają nowe sposoby korzystania, które nie są uregulowane wprost w obecnych unijnych przepisach dotyczących wyjątków i ograniczeń. Ponadto fakultatywny charakter wyjątków i ograniczeń przewidzianych w dyrektywach 2001/29/WE, 96/9/WE i 2009/24/WE w tych dziedzinach może mieć negatywny wpływ na funkcjonowanie rynku wewnętrznego. Jest to szczególnie istotne w odniesieniu do korzystania transgranicznego, którego znaczenie w otoczeniu cyfrowym jest coraz większe. W związku z tym obecne wyjątki i ograniczenia w prawie Unii, które są istotne z punktu widzenia badań naukowych, nauczania i zachowania dziedzictwa kulturowego, należy poddać ponownej ocenie w świetle tych nowych sposobów korzystania. Należy wprowadzić obowiązkowe wyjątki lub ograniczenia w odniesieniu do korzystania z technologii eksploracji tekstów i danych w odniesieniu do badań naukowych, zilustrowania nauczania w otoczeniu cyfrowym oraz do celów zachowania dziedzictwa kulturowego. Do sposobów korzystania, które nie są objęte zakresem wyjątków lub ograniczeń przewidzianych w niniejszej dyrektywie, zastosowanie powinny mieć nadal wyjątki i ograniczenia obowiązujące w prawie Unii. Należy dostosować dyrektywy 96/9/WE oraz 2001/29/WE.
+
+(6)Celem wyjątków i ograniczeń określonych w niniejszej dyrektywie jest osiągnięcie właściwej równowagi między prawami i interesami autorów i innych podmiotów praw a prawami i interesami użytkowników. Mają one zastosowanie jedynie w niektórych szczególnych przypadkach, które nie kolidują z normalną eksploatacją utworów lub innych przedmiotów objętych ochroną ani nie powodują nadmiernego uszczerbku uzasadnionych interesów podmiotów praw.
+
+(7)Ochrona środków technologicznych ustanowionych w dyrektywie 2001/29/WE jest niezbędna, aby zapewnić ochronę i skuteczne wykonywanie praw przyznanych autorom i innym podmiotom praw na podstawie prawa Unii. Ochronę tę należy utrzymać, zapewniając jednocześnie, aby korzystanie ze środków technologicznych nie uniemożliwiało korzystania z wyjątków i ograniczeń ustanowionych w niniejszej dyrektywie, ponieważ są one szczególnie istotne w otoczeniu internetowym. Podmioty praw powinny mieć możliwość zagwarantowania powyższego przy pomocy środków dobrowolnych. Powinny one mieć swobodę wyboru formy i metod, aby dać beneficjentom wyjątków i ograniczeń ustanowionych w niniejszej dyrektywie środki umożliwiające korzystanie z nich, pod warunkiem że takie środki są odpowiednie. W przypadku braku środków dobrowolnych państwa członkowskie powinny podjąć odpowiednie środki zgodnie z art. 6 ust. 4 akapit pierwszy dyrektywy 2001/29/WE.
+
+(8)Nowe technologie umożliwiają automatyczną matematyczną analizę informacji w formie cyfrowej, takich jak teksty, dźwięki, obrazy lub dane, ogólnie znaną jako eksploracja tekstów i danych. Technologie te umożliwiają naukowcom przetwarzanie dużych ilości informacji w celu uzyskania nowej wiedzy i odkrycia nowych tendencji. Chociaż techniki eksploracji tekstów i danych są powszechne w całej gospodarce cyfrowej, powszechnie uważa się, że eksploracja tekstów i danych może przynieść szczególne korzyści badaczom, a tym samym wspierać innowacje. Instytucje badawcze w Unii, takie jak uniwersytety i instytuty naukowe, stają wobec problemu niepewności prawnej dotyczącej stopnia, w jakim mogą dokonywać analizy treści poprzez eksplorację tekstów i danych. W niektórych przypadkach eksploracja tekstów i danych może obejmować czynności chronione prawem autorskim lub prawem do bazy danych sui generis, w szczególności zwielokrotnianie utworów lub innych przedmiotów objętych ochroną lub pobieranie treści z bazy danych. W przypadku braku obowiązującego wyjątku lub ograniczenia, konieczne byłoby uzyskanie zezwolenia na prowadzenie takich działań od podmiotów praw autorskich. Eksploracja tekstów i danych może być również prowadzona w odniesieniu do samych faktów lub danych, które nie są chronione prawami autorskimi, i w takich przypadkach zezwolenie nie byłoby wymagane.
+
+(9)Prawo Unii przewiduje już pewne wyjątki i ograniczenia dotyczące korzystania do celów badań naukowych, które mogą mieć zastosowanie do czynności eksploracji tekstów i danych. Wspomniane wyjątki i ograniczenia mają jednak charakter fakultatywny i nie są w pełni dostosowane do zastosowania technologii w badaniach naukowych. Ponadto w przypadku gdy naukowcy mają legalny dostęp do treści, np. poprzez abonamenty na publikacje lub licencje otwartego dostępu, warunki licencji mogą wykluczać eksplorację tekstów i danych. Ponieważ badania są coraz częściej prowadzone przy pomocy technologii cyfrowych, istnieje ryzyko, że jeżeli nie zostaną podjęte działania mające na celu rozwiązanie problemu niepewności prawa w odniesieniu do eksploracji tekstów i danych, to konkurencyjność Unii jako przestrzeni badawczej zmniejszy się.
+
+(10)Wspomnianą niepewność prawa należy usunąć poprzez wprowadzenie obowiązkowego wyjątku od prawa do zwielokrotniania oraz od prawa do ochrony przed pobieraniem danych z bazy danych. Nowy wyjątek nie powinien naruszać istniejącego obowiązkowego wyjątku dotyczącego tymczasowych czynności zwielokrotniania określonego w art. 5 ust. 1 dyrektywy 2001/29, który nadal powinien być stosowany do technik eksploracji tekstów i danych nie polegających na sporządzaniu kopii wykraczającym poza zakres tego wyjątku. Instytucje badawcze powinny również korzystać z tego wyjątku w sytuacji, gdy biorą udział w partnerstwach publiczno-prywatnych.
+
+(11)Instytucje badawcze w całej Unii obejmują wiele różnych podmiotów, których głównym celem jest prowadzenie badań naukowych lub prowadzenie badań i świadczenie usług edukacyjnych. Ze względu na zróżnicowanie takich podmiotów, istotne jest wspólne rozumienie, kto jest beneficjentem tego wyjątku. Mimo różnej formy prawnej i struktury, cechą wspólną instytucji badawczych w państwach członkowskich jest na ogół to, że działają w sposób nienastawiony na zysk lub w ramach uznanej przez dane państwo misji realizowania interesu publicznego. Taka misja realizowania interesu publicznego może znajdować odzwierciedlenie w finansowaniu ze środków publicznych, prawie krajowym lub zamówieniach publicznych. Jednocześnie instytucje, na które decydujący wpływ mają podmioty komercyjne, i wpływ ten umożliwia im sprawowanie kontroli z powodów strukturalnych, takich jak charakter ich akcjonariuszy lub wspólników, co może skutkować preferencyjnym dostępem do wyników badań, nie mogą zostać uznane za instytucje badawcze do celów niniejszej dyrektywy.
+
+(12)Ze względu na potencjalnie dużą liczbę wniosków o dostęp i pobrań utworów lub innych przedmiotów objętych ochroną, w przypadku gdy zagrożone jest bezpieczeństwo i integralność systemu lub baz danych, w których utwory lub inne przedmioty objęte ochroną są przechowywane, podmioty praw powinny mieć możliwość stosowania odpowiednich środków. Środki te nie powinny wykraczać poza to, co jest niezbędne do realizacji celu polegającego na zapewnieniu bezpieczeństwa i integralności systemu i nie powinny utrudniać skutecznego stosowania tego wyjątku.
+
+(13)Rekompensaty dla podmiotów praw w odniesieniu do korzystania w ramach wyjątku dotyczącego eksploracji tekstów i danych wprowadzonego na podstawie niniejszej dyrektywy nie są konieczne, ponieważ ze względu na charakter i zakres wyjątku szkody powinny być minimalne.
+
+(14)Art. 5 ust. 3 lit. a) dyrektywy 2001/29/WE upoważnia państwa członkowskie do wprowadzenia wyjątku lub ograniczenia w odniesieniu do prawa do zwielokrotniania, publicznego udostępniania i podawania do wiadomości wyłącznie w celach, m.in., zilustrowania nauczania. Ponadto w art. 6 ust. 2 lit. b i art. 9 lit. b dyrektywy 96/9/WE zezwala się na korzystanie z baz danych oraz pobieranie lub wtórne wykorzystanie istotnej części w celu zilustrowania nauczania. Zakres tych wyjątków lub ograniczeń w odniesieniu do cyfrowych sposobów korzystania jest niejasny. Ponadto brakuje jasności co do tego, czy te wyjątki lub ograniczenia mają zastosowanie, gdy nauczanie ma miejsce w internecie, a zatem odbywa się na odległość. Ponadto w obecnych ramach prawnych nie przewidziano skutku transgranicznego. Taka sytuacja może utrudniać rozwój działalności dydaktycznej wykorzystującej materiały cyfrowe i nauczania na odległość. W związku z tym, aby placówki edukacyjne mogły odnieść korzyści z całkowitej pewności prawa, korzystając z utworów lub innych przedmiotów objętych ochroną w cyfrowej działalności dydaktycznej, w tym w internecie i ponad granicami, konieczne jest wprowadzenie nowego obowiązkowego wyjątku lub ograniczenia.
+
+(15)Programy nauczania na odległość i kształcenia transgranicznego funkcjonują przede wszystkim na poziomie szkolnictwa wyższego, jednak cyfrowe narzędzia i zasoby są coraz częściej wykorzystywane na wszystkich poziomach kształcenia, w szczególności w celu poprawienia i wzbogacenia procesu uczenia się. Wyjątek lub ograniczenie przewidziane w niniejszej dyrektywie powinny zatem przynieść korzyści wszystkim placówkom edukacyjnym na poziomie kształcenia podstawowego, średniego, zawodowego i wyższego, w zakresie, w jakim prowadzą one działalność edukacyjną w celach niehandlowych. Struktura organizacyjna i środki finansowania danej placówki edukacyjnej nie są decydującymi czynnikami przy określaniu niehandlowego charakteru działalności.
+
+(16)Wyjątek lub ograniczenie powinny obejmować cyfrowe sposoby korzystania z utworów lub innych przedmiotów objętych ochroną, takich jak korzystanie z części lub fragmentów utworów w celu wspierania, wzbogacenia lub uzupełnienia nauczania, włączając w to powiązane działania w zakresie uczenia się. Korzystanie z utworów lub innych przedmiotów objętych ochroną na podstawie wyjątku lub ograniczenia powinno odbywać się jedynie w kontekście działań w zakresie nauczania i uczenia się przeprowadzanych na odpowiedzialność placówek edukacyjnych, w tym podczas egzaminów, i ograniczać się do tego, co jest konieczne do celów takich działań. Wyjątek lub ograniczenie powinno obejmować zarówno korzystanie za pomocą narzędzi cyfrowych w klasie, jak i korzystanie online poprzez bezpieczną sieć elektroniczną danej placówki edukacyjnej, do której dostęp powinien być chroniony, w szczególności przez procedury uwierzytelniania. Wyjątek lub ograniczenie powinny być rozumiane w taki sposób, że w kontekście ilustrowania nauczania obejmują szczególne potrzeby osób niepełnosprawnych w zakresie dostępności.
+
+(17)W niektórych państwach członkowskich, w oparciu o wyjątek przewidziany w dyrektywie 2001/29/WE lub o umowy licencyjne dotyczące dalszych zastosowań, w celu ułatwienia korzystania z utworów i innych przedmiotów objętych ochroną w celach edukacyjnych wprowadzono inne rozwiązania. Rozwiązania te zazwyczaj opracowywano w taki sposób, aby uwzględnić potrzeby placówek edukacyjnych i różnych poziomów kształcenia. Choć harmonizacja zakresu nowego obowiązkowego wyjątku lub ograniczenia w odniesieniu do cyfrowych sposobów korzystania oraz transgranicznej działalności dydaktycznej jest niezbędna, to sposoby wdrożenia mogą różnić się w poszczególnych państwach członkowskich w stopniu, który nie utrudniałby skutecznego stosowania wyjątku, ograniczenia lub korzystania transgranicznego. Takie podejście powinno umożliwić państwom członkowskim korzystanie z dotychczasowych rozwiązań wprowadzonych na szczeblu krajowym. W szczególności państwa członkowskie mogą podjąć decyzję o uzależnieniu stosowania wyjątku lub ograniczenia, całkowicie lub częściowo, od dostępności odpowiednich licencji obejmujących co najmniej te same sposoby korzystania, na które zezwala wyjątek. Taki mechanizm umożliwiłby np. przyznanie pierwszeństwa licencjom na materiały przeznaczone przede wszystkim na rynek edukacyjny. Aby uniknąć sytuacji, w której taki mechanizm prowadzi do niepewności prawa lub obciążeń administracyjnych dla placówek edukacyjnych, państwa członkowskie stosujące to podejście powinny podjąć konkretne środki, aby zapewnić łatwy dostęp do systemów licencjonowania umożliwiających cyfrowe sposoby korzystania z utworów lub innych przedmiotów objętych ochroną w celu zilustrowania nauczania oraz zagwarantować, że placówki edukacyjne są świadome istnienia takich systemów licencjonowania.
+
+(18)Czynność zachowania może wymagać zwielokrotnienia utworu lub innego przedmiotu objętego ochroną znajdującego się w zbiorach instytucji dziedzictwa kulturowego i w związku z tym – uzyskania zezwolenia od właściwych podmiotów praw. Instytucje dziedzictwa kulturowego działają na rzecz zachowania swoich zbiorów dla przyszłych pokoleń. Technologie cyfrowe oferują nowe sposoby zachowania dziedzictwa znajdującego się w ich zbiorach, stawiają jednak również nowe wyzwania. W związku z tymi nowymi wyzwaniami, aby umożliwić czynności zachowywania, konieczne jest dostosowanie obecnych ram prawnych poprzez wprowadzenie obowiązkowego wyjątku od prawa do zwielokrotniania.
+
+(19)Różne podejścia państw członkowskich do czynności zachowywania przez instytucje dziedzictwa kulturowego utrudniają współpracę transgraniczną i dzielenie się środkami zachowywania przez instytucje dziedzictwa kulturowego w ramach rynku wewnętrznego, co prowadzi do nieefektywnego wykorzystania zasobów.
+
+(20)W związku z tym państwa członkowskie powinny przewidzieć wyjątek umożliwiający instytucjom dziedzictwa kulturowego zwielokrotnianie utworów i innych przedmiotów objętych ochroną znajdujących się na stałe w ich zbiorach w celu zachowania, np. aby zaradzić problemowi utraty przydatności technicznej lub degradacji pierwotnego formatu. Taki wyjątek powinien umożliwiać sporządzanie kopii przy pomocy właściwego narzędzia, środków lub technologii zachowywania, w odpowiedniej ilości i w dowolnym momencie istnienia utworu lub innego przedmiotu objętego ochroną, w takim zakresie, w jakim jest to konieczne do sporządzenia kopii wyłącznie w celu zachowania.
+
+(21)Do celów niniejszej dyrektywy należy uznać, że utwory i inne przedmioty objęte ochroną znajdują się na stałe w zbiorach instytucji dziedzictwa kulturowego, jeżeli kopie są własnością instytucji dziedzictwa kulturowego lub znajdują się trwale w jej posiadaniu, np. w wyniku przeniesienia własności lub umów licencyjnych.
+
+(22)Instytucje dziedzictwa kulturowego powinny odnosić korzyści z jasnych ram dotyczących digitalizacji i rozpowszechniania, w tym transgranicznego, utworów lub innych przedmiotów objętych ochroną niedostępnych w obrocie handlowym. Jednak szczególne cechy zbiorów utworów niedostępnych w obrocie handlowym powodują, że uzyskanie uprzedniej zgody poszczególnych podmiotów praw może być bardzo trudne. Może to wynikać z wieku utworów lub innych przedmiotów objętych ochroną, ich ograniczonej wartości handlowej lub z faktu, że nigdy nie były one przeznaczone do celów handlowych. Dlatego należy przewidzieć środki ułatwiające udzielanie licencji na prawa do utworów niedostępnych w obrocie handlowym znajdujących się w zbiorach instytucji dziedzictwa kulturowego, a co za tym idzie – umożliwić zawieranie umów o zasięgu transgranicznym na rynku wewnętrznym.
+
+(23)Państwa członkowskie powinny, w ramach przewidzianych w niniejszej dyrektywie, mieć swobodę wyboru konkretnego rodzaju mechanizmu umożliwiającego objęcie licencjami na utwory niedostępne w obrocie handlowym podmiotów praw, które nie są reprezentowane przez organizację zbiorowego zarządzania, w zależności od swoich tradycji prawnych, praktyk lub okoliczności. Mechanizmy te mogą obejmować rozszerzone licencje zbiorowe i domniemania reprezentacji.
+
+(24)Do celów tych mechanizmów licencjonowania ważny jest precyzyjny i sprawnie funkcjonujący system zbiorowego zarządzania. System ten obejmuje w szczególności zasady dobrego zarządzania, przejrzystości i sprawozdawczości, jak również regularny, rzetelny i dokładny podział i wypłatę kwot należnych poszczególnym podmiotom praw, zgodnie z dyrektywą 2014/26/UE. Wszystkie podmioty praw powinny mieć dostęp do odpowiednich dodatkowych zabezpieczeń oraz powinny one mieć możliwość odstąpienia od stosowania takich mechanizmów do swoich utworów lub innych przedmiotów objętych ochroną. Warunki dotyczące tych mechanizmów nie powinny mieć wpływu na ich przydatność w praktyce dla instytucji dziedzictwa kulturowego.
+
+(25)Biorąc pod uwagę różnorodność utworów oraz innych przedmiotów objętych ochroną w zbiorach instytucji dziedzictwa kulturowego, ważne jest, aby mechanizmy licencyjne wprowadzane niniejszą dyrektywą były dostępne i mogły być stosowane w praktyce do różnych typów utworów i innych przedmiotów objętych ochroną, w tym do zdjęć, nagrań dźwiękowych i utworów audiowizualnych. Aby odzwierciedlić specyfikę różnych kategorii utworów lub przedmiotów objętych ochroną w zakresie sposobów publikowania i rozpowszechniania oraz ułatwić korzystanie z tych mechanizmów i procedur, konieczne może się okazać wprowadzenie przez państwa członkowskie szczególnych wymogów w zakresie praktycznego stosowania tych mechanizmów licencyjnych. Państwa członkowskie powinny konsultować się w tej sprawie z podmiotami praw autorskich, użytkownikami i organizacjami zbiorowego zarządzania.
+
+(26)Z uwagi na wzajemne poszanowanie praw na szczeblu międzynarodowym, mechanizmy udzielania licencji na digitalizację i upowszechnianie utworów niedostępnych w obrocie handlowym przewidziane w niniejszej dyrektywie nie powinny mieć zastosowania do utworów lub innych przedmiotów objętych ochroną, które opublikowano po raz pierwszy lub – w razie braku publikacji – po raz pierwszy nadano na terytorium państwa trzeciego lub, w przypadku utworów filmowych lub audiowizualnych, do utworów, których producent ma siedzibę lub miejsce stałego pobytu w kraju trzecim. Mechanizmy te nie powinny również mieć zastosowania do utworów lub innych przedmiotów objętych ochroną należących do obywateli państw trzecich, chyba że zostały one po raz pierwszy opublikowane lub – w przypadku braku publikacji – po raz pierwszy nadane na terytorium państwa członkowskiego, lub – w przypadku utworów filmowych lub audiowizualnych – do utworów, których producent ma siedzibę lub miejsce stałego pobytu w państwie członkowskim.
+
+(27)Projekty masowej cyfryzacji mogą oznaczać konieczność zainwestowania przez instytucje dziedzictwa kulturowego poważnych środków, dlatego wszelkie licencje przyznawane na podstawie mechanizmów przewidzianych w niniejszej dyrektywie nie powinny uniemożliwiać tym instytucjom czerpania rozsądnych przychodów w celu pokrycia kosztów licencji oraz kosztów digitalizacji i upowszechniania utworów i innych przedmiotów objętych ochroną.
+
+(28)Informacje dotyczące korzystania obecnie i w przyszłości z utworów niedostępnych w obrocie handlowym i innych przedmiotów objętych ochroną przez instytucje dziedzictwa kulturowego na podstawie mechanizmów licencjonowania przewidzianych w niniejszej dyrektywie oraz rozwiązania skierowane do wszystkich podmiotów praw dotyczące odstąpienia od stosowania licencji do własnych utworów lub innych przedmiotów objętych ochroną należy odpowiednio nagłośnić. Jest to szczególnie ważne, jeśli chodzi o korzystanie w kontekście transgranicznym na rynku wewnętrznym. Należy zatem przewidzieć utworzenie jednego publicznie dostępnego portalu internetowego dla Unii w celu udostępniania takich informacji ogółowi odbiorców w rozsądnym terminie przed rozpoczęciem korzystania transgranicznego. Zgodnie z rozporządzeniem (UE) nr 386/2012 Parlamentu Europejskiego i Rady
+33
+ Urzędowi Harmonizacji Rynku Wewnętrznego („urząd”) powierzono pewne zadania i działania finansowane z jego własnych środków budżetowych mające na celu ułatwienie i wspieranie działań organów krajowych, sektora prywatnego i instytucji unijnych w zakresie walki z naruszaniem praw własności intelektualnej oraz zapobiegania takim naruszeniom. Należy zatem powierzyć temu urzędowi obowiązek ustanowienia i prowadzenia europejskiego portalu udostępniającego takie informacje.
+
+(29)Decydującą rolę w upowszechnianiu utworów europejskich w całej Unii Europejskiej mogą odegrać usługi na żądanie. Jednak zawieranie umów dotyczących eksploatacji internetowej takich utworów jest często utrudnione ze względu na kłopoty z udzielaniem licencji na prawa. Mogą one pojawić się np. wtedy, gdy podmiot praw na danym terytorium nie jest zainteresowany eksploatacją utworu w internecie lub jeśli zaistnieją problemy związane z polami eksploatacji.
+
+(30)Aby ułatwić udzielanie licencji na prawa do utworów audiowizualnych na platformach wideo na żądanie, niniejsza dyrektywa wymaga od państw członkowskich ustanowienia mechanizmu negocjacji, umożliwiającego stronom, które chcą zawrzeć umowę, skorzystanie z pomocy bezstronnego organu. Organ ten powinien spotkać się ze stronami i pomóc w negocjacjach, zapewniając profesjonalne i niezależne doradztwo. W tym kontekście państwa członkowskie powinny podjąć decyzję w sprawie warunków funkcjonowania mechanizmu negocjacji, w tym ustalić terminy i czas trwania pomocy w negocjacjach oraz kwestię ponoszenia kosztów. Państwa członkowskie powinny dopilnować, aby obciążenia administracyjne i finansowe były odpowiednie do zagwarantowania skuteczności forum negocjacyjnego.
+
+(31)Wolna i pluralistyczna prasa jest niezbędna do zapewnienia wysokiej jakości dziennikarstwa i dostępu obywateli do informacji. Wnosi ona zasadniczy wkład w debatę publiczną i prawidłowe funkcjonowanie demokratycznego społeczeństwa. W fazie przechodzenia od druku do publikacji cyfrowych wydawcy publikacji prasowych mają trudności z udzielaniem licencji na internetowe korzystanie ze swoich publikacji oraz z osiągnięciem zwrotu z inwestycji. W przypadku gdy wydawców publikacji prasowych nie uznaje się za podmioty praw, udzielanie licencji i egzekwowania praw autorskich w otoczeniu cyfrowym jest często skomplikowane i nieefektywne.
+
+(32)Należy uznać organizacyjny i finansowy wkład, jaki wnoszą w produkcję publikacji prasowych wydawcy, i stworzyć dla nich zachęty, aby zapewnić stabilność branży wydawniczej. Należy zatem przewidzieć na poziomie unijnym zharmonizowaną ochronę prawną publikacji prasowych w odniesieniu do korzystania cyfrowego. Taką ochronę należy skutecznie zagwarantować poprzez wprowadzenie w prawie Unii praw pokrewnych do praw autorskich, dotyczących zwielokrotniania i podawania do publicznej wiadomości publikacji prasowych w zakresie korzystania cyfrowego.
+
+(33)Do celów niniejszej dyrektywy należy zdefiniować pojęcie publikacji prasowej w taki sposób, aby obejmowało ono wyłącznie publikacje dziennikarskie publikowane przez usługodawcę, okresowo lub regularnie aktualizowane na wszelkich nośnikach, w celu informowania lub dostarczenia rozrywki. Publikacje takie mogą obejmować np. gazety codzienne, tygodniki i miesięczniki o tematyce ogólnej lub specjalistycznej oraz internetowe serwisy informacyjne. Publikacje periodyczne, które są publikowane do celów naukowych lub akademickich, takie jak czasopisma naukowe, nie powinny być objęte ochroną udzielaną publikacjom prasowym zgodnie z niniejszą dyrektywą. Ochrona ta nie obejmuje czynności linkowania, która nie stanowi publicznego udostępnienia.
+
+(34)Prawa przyznane wydawcom publikacji prasowych zgodnie z niniejszą dyrektywą powinny mieć ten sam zakres co prawa do zwielokrotniania i publicznego udostępniania, o których mowa w dyrektywie 2001/29/WE, w zakresie, w jakim dotyczy to korzystania cyfrowego. Wydawcy powinni również podlegać tym samym przepisom dotyczącym wyjątków i ograniczeń, które mają zastosowanie do praw przewidzianych w dyrektywie 2001/29/WE, w tym przepisom dotyczącym wyjątku obejmującego cytowanie do celów takich jak słowa krytyki lub recenzji przewidzianym w art. 5 ust. 3 lit. d) tej dyrektywy.
+
+(35)Ochrona przyznana wydawcom publikacji prasowych na podstawie niniejszej dyrektywy nie powinna naruszać praw autorów i innych podmiotów praw do utworów i innych przedmiotów objętych ochroną, w tym w odniesieniu do zakresu, w jakim mogą eksploatować swoje utwory lub inne przedmioty objęte ochroną niezależnie od publikacji prasowej, w skład której wchodzą te utwory lub przedmioty. W związku z tym wydawcy publikacji prasowych nie powinni mieć możliwości powoływania się na przyznaną im ochronę wobec autorów i innych podmiotów praw. Pozostaje to bez uszczerbku dla ustaleń umownych zawartych między wydawcami publikacji prasowych a autorami i innymi podmiotami praw.
+
+(36)Wydawcy, w tym wydawcy publikacji prasowych, książek lub publikacji naukowych, często działają w oparciu o przeniesienie praw autorskich w drodze umowy lub przepisów ustawowych. W tym kontekście wydawcy dokonują inwestycji w celu eksploatacji utworów znajdujących się w swoich publikacjach i w niektórych przypadkach mogą zostać pozbawieni przychodów, jeżeli korzystanie z takich utworów odbywa się na podstawie wyjątków lub ograniczeń, np. dotyczących kopiowania na użytek prywatny i opłat reprograficznych. W wielu państwach członkowskich rekompensata za korzystanie w ramach tych wyjątków jest dzielona między autorów a wydawców. W celu uwzględnienia tej sytuacji i zwiększenia pewności prawa dla wszystkich zainteresowanych stron, państwa członkowskie powinny mieć możliwość określenia, że jeżeli autor przekazuje swoje prawa lub udziela na nie licencji lub w inny sposób wnosi wkład w postaci swoich utworów do publikacji oraz istnieją systemy służące do zrekompensowania szkód spowodowanych przez wyjątek lub ograniczenie, to wydawcy są uprawnieni do żądania udziału w takiej rekompensacie, a obciążenie wynikające z obowiązku uzasadnienia tego żądania przez wydawcę nie powinno wykraczać poza to, co jest wymagane w ramach obowiązującego systemu.
+
+(37)W ostatnich latach funkcjonowanie rynku treści online stało się bardziej złożone. Internetowe usługi zapewniania dostępu do treści chronionych prawem autorskim zamieszczanych przez użytkowników bez udziału podmiotów praw rozwinęły się i stały się głównym źródłem dostępu do treści online. Ma to wpływ na możliwości ustalenia przez podmioty praw, czy ktoś korzysta z ich utworów i innych przedmiotów objętych ochroną, a jeśli tak, to na jakich warunkach, a także na możliwości uzyskania przez nich odpowiedniego wynagrodzenia.
+
+(38)Jeżeli dostawcy usług społeczeństwa informacyjnego przechowują i udostępniają społeczeństwu utwory chronione prawem autorskim lub inne przedmioty objęte ochroną zamieszczane przez swoich użytkowników, wykraczając tym samym poza zwykłe dostarczenie urządzeń oraz dokonując czynności publicznego udostępniania utworu, są one zobowiązane do zawierania umów licencyjnych z podmiotami praw autorskich, chyba że kwalifikują się one do zwolnienia od odpowiedzialności, o którym mowa w art. 14 dyrektywy Parlamentu Europejskiego i Rady 2000/31/WE
+34
+.
+
+W odniesieniu do art. 14 należy sprawdzić, czy dostawca usług odgrywa aktywną rolę, w tym przez zoptymalizowanie sposobu prezentacji zamieszczonych utworów lub innych przedmiotów objętych ochroną lub przez ich promowanie, bez względu na rodzaj środków wykorzystanych do tego celu.
+
+Aby zapewnić funkcjonowanie każdej umowy licencyjnej, dostawcy usług społeczeństwa informacyjnego polegających na przechowywaniu i zapewnianiu publicznego dostępu do dużej liczby utworów i innych przedmiotów objętych ochroną zamieszczanych przez użytkowników powinni przyjąć odpowiednie i proporcjonalne środki zapewniające ochronę utworów lub innych przedmiotów objętych ochroną, takie jak stosowanie skutecznych technologii. Obowiązek ten powinien mieć także zastosowanie w przypadku, gdy dostawcy usług społeczeństwa informacyjnego kwalifikują się do zwolnienia od odpowiedzialności przewidzianego w art. 14 dyrektywy 2000/31/WE.
+
+(39)Funkcjonowanie technologii, takich jak technologie rozpoznawania treści, wymaga współpracy między dostawcami usług społeczeństwa informacyjnego, polegających na przechowywaniu i zapewnianiu publicznego dostępu do dużej liczby utworów i innych przedmiotów objętych ochroną zamieszczanych przez użytkowników, a podmiotami praw. W takim przypadku podmioty praw powinny zapewnić niezbędne dane umożliwiające identyfikację ich treści, a usługi powinny zapewniać podmiotom praw przejrzystość w odniesieniu do stosowanych technologii, aby umożliwić ocenę ich adekwatności. Usługi powinny w szczególności zapewniać podmiotom praw informacje o rodzaju stosowanych technologii, sposobie ich stosowania i wskaźniku skuteczności w zakresie rozpoznawania treści należących do podmiotów praw. Technologie te powinny również umożliwić podmiotom praw uzyskiwanie od podmiotów świadczących usługi społeczeństwa informacyjnego danych na temat korzystania z treści objętych umową.
+
+(40)Niektórym podmiotom praw, takim jak autorzy i wykonawcy, potrzebne są informacje umożliwiające ocenę wartości rynkowej należących do nich praw, które są zharmonizowane na podstawie prawa Unii. Jest to szczególnie ważne w momencie, gdy podmioty praw udzielają licencji lub przenoszą prawa w zamian za wynagrodzenie. Ponieważ wynikająca z umów pozycja twórców i wykonawców udzielających licencji lub przenoszących swoje prawa jest zazwyczaj słabsza, potrzebują oni informacji do stałej oceny wartości rynkowej swoich praw w stosunku do wynagrodzenia otrzymywanego z licencji lub przeniesienia praw, jednak często stykają się z brakiem przejrzystości. W związku z tym wymiana stosownych informacji przez ich kontrahentów lub ich następców prawnych jest ważna dla przejrzystości i równowagi w systemie, który reguluje wynagrodzenie autorów i wykonawców.
+
+(41)Przy wdrażaniu wymogów w zakresie przejrzystości należy wziąć pod uwagę specyfikę treści i praw autorów i wykonawców w poszczególnych sektorach. Państwa członkowskie powinny konsultować się ze wszystkimi stosownymi zainteresowanymi stronami, co pozwoli na określenie wymogów dla poszczególnych sektorów. W celu osiągnięcia porozumienia między zainteresowanymi stronami w zakresie przejrzystości należy również wziąć pod uwagę możliwość zastosowania negocjacji zbiorowych. Aby umożliwić dostosowanie obecnych praktyk w zakresie sprawozdawczości do wymogów przejrzystości, należy przewidzieć okres przejściowy. Wymogi dotyczące przejrzystości nie muszą mieć zastosowania do umów zawartych z organizacjami zbiorowego zarządzania, które podlegają już wymogom przejrzystości na podstawie dyrektywy 2014/26/UE.
+
+(42)Niektóre zharmonizowane na poziomie Unii umowy o eksploatację praw są zawierane na długie okresy i oferują autorom i wykonawcom niewiele możliwości ich renegocjowania z kontrahentami lub ich następcami prawnymi. W związku z tym, bez uszczerbku dla przepisów mających zastosowanie do umów zawieranych w państwach członkowskich, należy wprowadzić mechanizm dostosowania wynagrodzeń w przypadkach, gdy wynagrodzenie pierwotnie uzgodnione na podstawie licencji lub przeniesienia praw jest nieproporcjonalnie niskie w stosunku do dochodów oraz korzyści płynących z korzystania z utworu lub utrwalenia wykonania, również w świetle wymogu przejrzystości wprowadzanego w niniejszej dyrektywie. Ocena sytuacji powinna uwzględniać szczególne okoliczności każdego przypadku, jak również specyfikę i praktyki stosowane w różnych sektorach w zależności od treści. W przypadku gdy strony nie osiągną porozumienia w sprawie dostosowania wynagrodzenia, autor lub wykonawca powinien mieć prawo wystąpienia z roszczeniem do sądu lub innego właściwego organu.
+
+(43)Autorzy i wykonawcy często niechętnie dochodzą swoich praw wobec kontrahentów na drodze sądowej. Państwa członkowskie powinny zatem ustanowić procedurę alternatywnego rozwiązywania sporów dotyczących roszczeń związanych z obowiązkami w zakresie przejrzystości i mechanizmu dostosowania umów.
+
+(44)Cele niniejszej dyrektywy, a mianowicie modernizacja niektórych aspektów unijnych ram prawa autorskiego w celu uwzględnienia postępu technologicznego i nowych kanałów rozpowszechniania treści chronionych w ramach rynku wewnętrznego, nie mogą zostać osiągnięte w sposób wystarczający przez państwa członkowskie, natomiast ze względu na ich skalę, skutki i wymiar międzynarodowy, mogą być lepiej zrealizowane na szczeblu Unii. W związku z powyższym Unia może przyjąć środki zgodnie z zasadą pomocniczości określoną w art. 5 Traktatu o Unii Europejskiej. Zgodnie z zasadą proporcjonalności określoną w tym artykule niniejsza dyrektywa nie wykracza poza to, co jest konieczne do osiągnięcia tych celów.
+
+(45)Niniejsza dyrektywa nie narusza praw podstawowych i jest zgodna z zasadami uznanymi w szczególności w Karcie praw podstawowych Unii Europejskiej. W związku z tym niniejsza dyrektywa powinna być interpretowana i stosowana zgodnie z tymi prawami i zasadami.
+
+(46)Wszelkie przetwarzanie danych osobowych na podstawie niniejszej dyrektywy powinno odbywać się z poszanowaniem praw podstawowych, zwłaszcza prawa do poszanowania życia prywatnego i rodzinnego oraz prawa do ochrony danych osobowych zgodnie z art. 7 i 8 Karty praw podstawowych Unii Europejskiej oraz musi być zgodne z dyrektywą 95/46/WE Parlamentu Europejskiego i Rady
+35
+ oraz z dyrektywą 2002/58/WE Parlamentu Europejskiego i Rady
+36
+.
+
+(47)Zgodnie ze wspólną deklaracją polityczną państw członkowskich i Komisji z dnia 28 września 2011 r. dotyczącą dokumentów wyjaśniających
+37
+, państwa członkowskie zobowiązały się do złożenia, w uzasadnionych przypadkach, wraz z powiadomieniem o środkach transpozycji, jednego lub więcej dokumentów wyjaśniających związki między elementami dyrektywy a odpowiadającymi im częściami krajowych instrumentów transpozycyjnych. W odniesieniu do niniejszej dyrektywy ustawodawca uznaje, że przekazanie takich dokumentów jest uzasadnione.
+
+PRZYJMUJĄ NINIEJSZĄ DYREKTYWĘ:
+
+TYTUŁ I
+PRZEPISY OGÓLNE
+
+Artykuł 1 
+Przedmiot i zakres stosowania
+
+1.Niniejsza dyrektywa określa zasady, których celem jest dalsza harmonizacja przepisów Unii mających zastosowanie do praw autorskich i praw pokrewnych w ramach rynku wewnętrznego, ze szczególnym uwzględnieniem cyfrowych i transgranicznych sposobów korzystania z treści chronionych. Określa ona także zasady dotyczące wyjątków i ograniczeń, ułatwiania udzielania licencji, jak również zasady mające na celu zapewnienie prawidłowego funkcjonowania rynku w zakresie eksploatacji utworów i innych przedmiotów objętych ochroną.
+
+2.Z wyjątkiem przypadków, o których mowa w art. 6, niniejsza dyrektywa nie narusza zasad ustanowionych w dyrektywach obowiązujących obecnie w tym obszarze, w szczególności w dyrektywach 96/9/WE, 2001/29/WE, 2006/115/WE, 2009/24/WE, 2012/28/UE i 2014/26/UE, i nie ma na te zasady żadnego wpływu.
+
+Artykuł 2
+Definicje
+
+Do celów niniejszej dyrektywy stosuje się następujące definicje:
+
+(1)„instytucja badawcza” oznacza uniwersytet, instytut badawczy lub każdą inną organizację, której głównym celem jest prowadzenie badań naukowych lub prowadzenie badań naukowych i świadczenie usług edukacyjnych:
+
+(a)na zasadach niekomercyjnych lub poprzez ponowne inwestowanie całości zysków w swoje badania naukowe; lub
+
+(b)zgodnie z uznaną przez dane państwo członkowskie misją realizowania interesu publicznego;
+
+   w taki sposób, że z dostępu do wyników otrzymanych z badań naukowych nie może korzystać na preferencyjnych warunkach przedsiębiorstwo mające decydujący wpływ na taką organizację;
+
+(2)„eksploracja tekstów i danych” oznacza każdą technikę zautomatyzowanej analizy służącą do analizowania tekstów i danych w postaci cyfrowej w celu wygenerowania informacji takich jak wzorce, tendencje i korelacje;
+
+(3)„instytucja dziedzictwa kulturowego” oznacza ogólnodostępną bibliotekę lub muzeum, archiwum lub instytucję dziedzictwa filmowego lub instytucję dziedzictwa dźwiękowego;
+
+(4)„publikacja prasowa” oznacza utrwalenie zbioru utworów literackich o charakterze dziennikarskim, które może także obejmować inne utwory lub przedmioty objęte ochroną, i które stanowi odrębną całość w ramach periodycznej lub regularnie aktualizowanej pod jednym tytułem publikacji, takiej jak gazeta lub czasopismo o tematyce ogólnej lub specjalistycznej, w celu dostarczenia informacji dotyczących wiadomości lub innej tematyki i publikowane w dowolnym medium z inicjatywy dostawcy usług, na jego odpowiedzialność i pod jego kontrolą.
+
+TYTUŁ II
+ŚRODKI DOSTOSOWUJĄCE WYJĄTKI I OGRANICZENIA DO OTOCZENIA CYFROWEGO I TRANSGRANICZNEGO
+
+Artykuł 3
+Eksploracja tekstów i danych
+
+1.Państwa członkowskie przewidują wyjątek od praw przewidzianych w art. 2 dyrektywy 2001/29/WE, w art. 5 lit. a) i art. 7 ust. 1 dyrektywy 96/9/WE oraz w art. 11 ust. 1 niniejszej dyrektywy w odniesieniu do zwielokrotnień i pobrań dokonywanych przez instytucje badawcze w celu przeprowadzenia eksploracji tekstów i danych na utworach lub innych przedmiotach objętych ochroną, do których mają legalny dostęp, do celów badań naukowych.
+
+2.Każde postanowienie umowne sprzeczne z wyjątkiem przewidzianym w ust. 1 jest bezskuteczne.
+
+3.Podmioty praw mają prawo stosować środki zapewniające bezpieczeństwo i integralność sieci i baz danych, w których utwory lub inne przedmioty objęte ochroną są przechowywane. Środki te nie wykraczają poza to, co jest konieczne do osiągnięcia tego celu.
+
+4.Państwa członkowskie zachęcają podmioty praw i instytucje badawcze do zdefiniowania wspólnie uzgodnionych najlepszych praktyk dotyczących stosowania środków, o których mowa w ust. 3.
+
+Artykuł 4
+Korzystanie z utworów i innych przedmiotów objętych ochroną w cyfrowej i transgranicznej działalności dydaktycznej
+
+1.Państwa członkowskie przewidują wyjątek lub ograniczenie dotyczące praw przewidzianych w art. 2 i 3 dyrektywy 2001/29/WE, art. 5 lit. a) i art. 7 ust. 1 dyrektywy 96/9/WE, art. 4 ust. 1 dyrektywy 2009/24/WE oraz art. 11 ust. 1 niniejszej dyrektywy, aby umożliwić cyfrowe korzystanie z utworów i innych przedmiotów objętych ochroną wyłącznie w celu zilustrowania nauczania, w zakresie uzasadnionym przez niekomercyjny cel, który ma zostać osiągnięty, pod warunkiem że korzystanie to:
+
+(a)odbywa się na terenie placówki edukacyjnej lub za pośrednictwem bezpiecznej sieci elektronicznej dostępnej wyłącznie dla uczniów lub studentów i pracowników dydaktycznych danej placówki edukacyjnej;
+
+(b)jest opatrzone informacją dotyczącą źródła, łącznie z nazwiskiem autora, chyba że okaże się to niemożliwe.
+
+2.Państwa członkowskie mogą przewidzieć, że wyjątek przyjęty na podstawie ust. 1 nie ma zastosowania ogólnie lub w odniesieniu do szczególnych rodzajów utworów lub innych przedmiotów objętych ochroną, w zakresie, w jakim odpowiednie licencje uprawniające do czynności określonych w ust. 1 są łatwo dostępne na rynku.
+
+Państwa członkowskie korzystające z przepisu zawartego w akapicie pierwszym podejmują środki niezbędne do tego, aby zapewnić odpowiednią dostępność i widoczność licencji uprawniających do czynności określonych w ust. 1 dla placówek edukacyjnych.
+
+3.Uznaje się, że korzystanie z utworów i innych przedmiotów objętych ochroną wyłącznie w celu zilustrowania nauczania za pośrednictwem bezpiecznych sieci elektronicznych, podejmowane zgodnie z przepisami prawa krajowego przyjętymi zgodnie z niniejszym artykułem, ma miejsce wyłącznie w państwie członkowskim, w którym dana placówka edukacyjna ma swoją siedzibę.
+
+4.Państwa członkowskie mogą przewidzieć godziwą rekompensatę za szkodę poniesioną przez podmioty praw z tytułu korzystania na podstawie ust. 1 z ich utworów lub innych przedmiotów objętych ochroną.
+
+Artykuł 5
+Zachowanie dziedzictwa kulturowego
+
+Państwa członkowskie przewidują wyjątek od praw przewidzianych w art. 2 dyrektywy 2001/29/WE, art. 5 lit. a) oraz art. 7 ust. 1 dyrektywy 96/9/WE, art. 4 ust. 1 lit. a) dyrektywy 2009/24/WE i art. 11 ust. 1 niniejszej dyrektywy, zezwalający instytucjom dziedzictwa kulturowego na wykonywanie kopii wszelkich utworów lub innych przedmiotów objętych ochroną, które znajdują się na stałe w ich zbiorach, niezależnie od formatu lub nośnika, w wyłącznym celu zachowania takich utworów lub innych przedmiotów objętych ochroną i w zakresie potrzebnym do tego zachowania.
+
+Artykuł 6
+Przepisy wspólne
+
+Do wyjątków i ograniczeń przewidzianych w niniejszym tytule zastosowanie ma art. 5 ust. 5 oraz art. 6 ust. 4 akapit pierwszy, trzeci i piąty dyrektywy 2001/29/WE.
+
+TYTUŁ III
+ŚRODKI MAJĄCE NA CELU POPRAWIENIE PRAKTYK LICENCYJNYCH I ZAPEWNIENIE SZERSZEGO DOSTĘPU DO TREŚCI
+
+ROZDZIAŁ 1
+Utwory niedostępne w obrocie handlowym
+
+Artykuł 7
+Korzystanie z utworów niedostępnych w obrocie handlowym przez instytucje dziedzictwa kulturowego
+
+1.Państwa członkowskie przewidują, że w przypadku gdy organizacja zbiorowego zarządzania w imieniu swoich członków udziela niewyłącznej licencji do celów niehandlowych instytucji dziedzictwa kulturowego w celu digitalizacji, rozpowszechniania, publicznego udostępniania lub podawania do wiadomości utworów niedostępnych w obrocie handlowym lub innych przedmiotów objętych ochroną znajdujących się na stałe w zbiorach danej instytucji, to taką niewyłączną licencję można rozszerzyć na podmioty praw należące do tej samej kategorii co podmioty objęte licencją, które nie są reprezentowane przez organizację zbiorowego zarządzania lub można uznać, że taka licencja ma do nich zastosowanie, pod warunkiem że:
+
+(a)organizacja zbiorowego zarządzania, na podstawie mandatów udzielonych przez podmioty praw, szeroko reprezentuje podmioty praw w danej kategorii utworów lub innych przedmiotów objętych ochroną oraz prawa, które są przedmiotem licencji;
+
+(b)zagwarantowane jest równe traktowanie wszystkich podmiotów praw w odniesieniu do warunków licencji;
+
+(c)wszystkie podmioty praw mogą w dowolnym momencie sprzeciwić się uznaniu swoich utworów lub innych przedmiotów objętych ochroną za niedostępne w obrocie handlowym oraz mogą odstąpić od stosowania licencji do swoich utworów lub innych przedmiotów objętych ochroną.
+
+2.Utwór lub inny przedmiot objęty ochroną uznaje się za niedostępny w obrocie handlowym, jeżeli cały utwór lub inny przedmiot objęty ochroną, we wszystkich tłumaczeniach, wersjach i postaciach, nie jest dostępny publicznie za pośrednictwem zwykłych kanałów handlowych i nie można racjonalnie oczekiwać, że stanie się dostępny. 
+
+Państwa członkowskie, w porozumieniu z podmiotami praw, organizacjami zbiorowego zarządzania i instytucjami dziedzictwa kulturowego, zapewniają, aby wymogi stosowane do określania, czy utwory i inne przedmioty objęte ochroną można objąć licencją zgodnie z ust. 1, nie wykraczały poza to, co jest konieczne i rozsądne, i nie wykluczały możliwości uznania całości zbiorów za niedostępne w obrocie handlowym, jeżeli można rozsądnie przyjąć, że wszystkie utwory lub inne przedmioty objęte ochroną znajdujące się w zbiorach są niedostępne w obrocie handlowym.
+
+3.Państwa członkowskie przewidują podjęcie odpowiednich środków upubliczniania informacji w odniesieniu do:
+
+(a)uznania utworów lub innych przedmiotów objętych ochroną za niedostępne w obrocie handlowym;
+
+(b)licencji, a w szczególności jej stosowania do niereprezentowanych podmiotów praw;
+
+(c)możliwości wniesienia sprzeciwu, o którym mowa w ust. 1 lit. c), przez podmioty praw;
+
+w tym w rozsądnym okresie zanim utwory lub inne przedmioty objęte ochroną zostaną zdigitalizowane, rozpowszechnione, udostępnione lub podane do wiadomości publicznej.
+
+4.Państwa członkowskie zapewniają, aby licencje, o których mowa w ust. 1, były uzyskiwane od organizacji zbiorowego zarządzania, która jest reprezentatywna dla danego państwa członkowskiego, w którym:
+
+(a)po raz pierwszy opublikowano utwory lub fonogramy lub, w razie braku publikacji, po raz pierwszy je nadano, z wyjątkiem utworów kinematograficznych i audiowizualnych;
+
+(b)w przypadku utworów kinematograficznych i audiowizualnych – swoją siedzibę główną lub miejsce zwykłego pobytu mają producenci utworów; lub
+
+(c)swoją siedzibę ma instytucja dziedzictwa kulturowego, jeżeli pomimo podjęcia rozsądnych starań nie można było określić państwa członkowskiego lub kraju trzeciego zgodnie z lit. a) i b).
+
+5.Ust. 1, 2 i 3 nie mają zastosowania do utworów lub innych przedmiotów objętych ochroną należących do obywateli państw trzecich z wyjątkiem przypadków, w których zastosowanie ma ust. 4 lit. a) i b).
+
+Artykuł 8
+Transgraniczne sposoby korzystania
+
+1.Instytucje dziedzictwa kulturowego mogą korzystać z utworów lub innych przedmiotów objętych licencją udzieloną zgodnie z art. 7 zgodnie z warunkami licencji we wszystkich państwach członkowskich.
+
+2.Państwa członkowskie zapewniają, aby informacje pozwalające na identyfikację utworów lub innych przedmiotów objętych licencją udzieloną zgodnie z art. 7 oraz informacje o możliwości zgłoszenia sprzeciwu przez podmioty praw, o której mowa w art. 7 ust. 1 lit. c), zostały podane do publicznej wiadomości na jednym portalu internetowym na co najmniej sześć miesięcy przed digitalizacją utworów lub innych przedmiotów objętych ochroną, ich rozpowszechnianiem, publicznym udostępnianiem lub podaniem do wiadomości w państwach członkowskich innych niż państwo, w którym udziela się licencji, i aby informacje te były dostępne przez cały czas obowiązywania licencji.
+
+3.Portal, o którym mowa w ust. 2, tworzy i zarządza nim Urząd Unii Europejskiej ds. Własności Intelektualnej zgodnie z rozporządzeniem (UE) nr 386/2012.
+
+Artykuł 9
+Dialog z zainteresowanymi stronami
+
+Państwa członkowskie zapewniają regularny dialog między przedstawicielskimi organizacjami użytkowników i podmiotów praw a wszelkimi innymi stosownymi organizacjami zainteresowanych stron, aby, w zależności od specyfiki poszczególnych sektorów, zwiększyć adekwatność i przydatność mechanizmów licencyjnych, o których mowa w art. 7 ust. 1, zapewnić podmiotom praw skuteczność zabezpieczeń, o których mowa w niniejszym rozdziale, w szczególności w odniesieniu do środków upubliczniania informacji, oraz, w stosownych przypadkach, pomóc we wprowadzaniu wymogów, o których mowa w art. 7 ust. 2 akapit drugi.
+
+ROZDZIAŁ 2
+Dostęp do utworów audiowizualnych na platformach wideo na żądanie oraz dostępność tych utworów
+
+Artykuł 10
+Mechanizm negocjacyjny
+
+Państwa członkowskie zapewniają, aby strony, które zamierzają zawrzeć umowę w celu podania do wiadomości utworów audiowizualnych na platformach wideo na żądanie i napotykają trudności związane z udzielaniem licencji na prawa, mogły zwrócić się o pomoc do bezstronnego organu posiadającego stosowne doświadczenie. Organ ten udziela pomocy w negocjacjach i pomaga w osiągnięciu porozumienia.
+
+Nie później niż [data, o której mowa w art. 21 ust. 1] państwa członkowskie powiadamiają Komisję o organie, o którym mowa w ust. 1.
+
+TYTUŁ IV
+ŚRODKI MAJĄCE NA CELU ZAPEWNIENIE PRAWIDŁOWEGO FUNKCJONOWANIA RYNKU W ZAKRESIE PRAW AUTORSKICH
+
+ROZDZIAŁ 1
+Prawa w publikacjach
+
+Artykuł 11
+Ochrona publikacji prasowych w zakresie cyfrowych sposobów korzystania
+
+1.Państwa członkowskie zapewniają wydawcom publikacji prasowych prawa przewidziane w art. 2 i art. 3 ust. 2 dyrektywy 2001/29/WE w zakresie cyfrowych sposobów korzystania z ich publikacji prasowych.
+
+2.Prawa, o których mowa w ust. 1, nie naruszają jakichkolwiek przewidzianych w prawie Unii praw autorów i innych podmiotów praw w odniesieniu do utworów i innych przedmiotów objętych ochroną zawartych w publikacji prasowej, i nie mają na te prawa żadnego wpływu. Na prawa te nie można się powoływać przeciwko autorom i innym podmiotom praw, a w szczególności na ich podstawie nie można pozbawiać autorów i innych podmiotów praw ich prawa do eksploatacji swoich utworów i innych przedmiotów objętych ochroną niezależnie od publikacji prasowej, w skład której wchodzą te utwory lub przedmioty.
+
+3.W odniesieniu do praw określonych w ust. 1 stosuje się odpowiednio art. 5–8 dyrektywy 2001/29/WE i dyrektywy 2012/28/UE.
+
+4.Prawa, o których mowa w ust. 1, wygasają 20 lat po opublikowaniu danej publikacji prasowej. Termin ten liczy się od dnia pierwszego stycznia roku następującego po dacie opublikowania.
+
+Artykuł 12
+Roszczenia o godziwą rekompensatę
+
+Państwa członkowskie mogą przewidzieć, że jeżeli autor przenosi prawo na wydawcę lub udziela wydawcy licencji na dane prawo, to takie przeniesienie lub licencja stanowią wystarczającą podstawę prawną dla wydawcy do roszczenia o udział w rekompensacie za korzystanie z utworu, które miało miejsce na podstawie wyjątku od prawa podlegającego przeniesieniu lub objętego licencją lub na podstawie ograniczenia tego prawa.
+
+ROZDZIAŁ 2
+Niektóre sposoby korzystania z treści chronionych przez serwisy internetowe
+
+Artykuł 13
+Korzystanie z treści chronionych przez dostawców usług społeczeństwa informacyjnego polegających na przechowywaniu i zapewnianiu publicznego dostępu do dużej liczby utworów i innych przedmiotów objętych ochroną zamieszczanych przez użytkowników 
+
+1.Dostawcy usług społeczeństwa informacyjnego, którzy przechowują i zapewniają publiczny dostęp do dużej liczby utworów lub innych przedmiotów objętych ochroną zamieszczanych przez swoich użytkowników, we współpracy z podmiotami praw podejmują środki w celu zapewnienia funkcjonowania umów zawieranych z podmiotami praw o korzystanie z ich utworów lub innych przedmiotów objętych ochroną bądź w celu zapobiegania dostępności w swoich serwisach utworów lub innych przedmiotów objętych ochroną zidentyfikowanych przez podmioty praw w toku współpracy z dostawcami usług. Środki te, takie jak stosowanie skutecznych technologii rozpoznawania treści, muszą być odpowiednie i proporcjonalne. Dostawcy usług przekazują podmiotom praw adekwatne informacje na temat funkcjonowania i wdrażania środków, a także, w stosownych przypadkach, adekwatne sprawozdania na temat rozpoznawania utworów i innych przedmiotów objętych ochroną oraz korzystania z nich.
+
+2.Państwa członkowskie zapewniają wdrożenie przez dostawców usług, o których mowa w ust. 1, mechanizmów składania skarg i dochodzenia roszczeń, które są dostępne dla użytkowników w przypadku sporów dotyczących stosowania środków, o których mowa w ust. 1.
+
+3.W stosownych przypadkach państwa członkowskie ułatwiają współpracę między dostawcami usług społeczeństwa informacyjnego a podmiotami praw poprzez dialog zainteresowanych stron w celu określenia najlepszych praktyk, takich jak odpowiednie i proporcjonalne technologie rozpoznawania treści, biorąc pod uwagę m.in. charakter usług, dostępność technologii i ich skuteczność w świetle rozwoju technologii.
+
+ROZDZIAŁ 3
+Godziwe wynagrodzenie autorów i wykonawców 
+
+Artykuł 14
+Obowiązek przejrzystości
+
+1.Państwa członkowskie zapewniają, aby autorzy i wykonawcy otrzymywali regularnie i z uwzględnieniem specyfiki każdego sektora, aktualne, adekwatne i wystarczające informacje na temat eksploatacji swoich utworów i wykonań od podmiotów, którym udzielili licencji lub na które przenieśli swoje prawa, zwłaszcza w odniesieniu do sposobu eksploatacji, uzyskanych dochodów i należnego wynagrodzenia.
+
+2.Obowiązek określony w ust. 1 musi być proporcjonalny i skuteczny oraz zapewniać odpowiedni poziom przejrzystości w każdym sektorze. Jednak w tych przypadkach, w których obciążenie administracyjne wynikające z powyższego obowiązku byłoby nieproporcjonalne w świetle dochodów uzyskanych z eksploatacji utworu lub wykonania, państwa członkowskie mogą dostosować obowiązek określony w ust. 1, pod warunkiem, że pozostanie on skuteczny i zapewni odpowiedni poziom przejrzystości.
+
+3.Państwa członkowskie mogą zdecydować, że obowiązek określony w ust. 1 nie ma zastosowania, jeżeli wkład autora lub wykonawcy nie jest znaczący w stosunku do całego utworu lub wykonania.
+
+4.Ust. 1 nie ma zastosowania do podmiotów podlegających wymogom przejrzystości ustanowionych w dyrektywie 2014/26/UE.
+
+Artykuł 15
+Mechanizm dostosowania umów
+
+Państwa członkowskie zapewniają, aby autorzy i wykonawcy mieli prawo zażądać dodatkowego odpowiedniego wynagrodzenia od strony, z którą zawarli umowę o eksploatację praw, jeżeli pierwotnie uzgodnione wynagrodzenie jest niewspółmiernie niskie w porównaniu do późniejszych właściwych dochodów i korzyści uzyskiwanych z eksploatacji utworów lub wykonań.
+
+Artykuł 16
+Mechanizm rozstrzygania sporów
+
+Państwa członkowskie przewidują możliwość rozstrzygania sporów dotyczących obowiązku przejrzystości na podstawie art. 14 oraz mechanizmu dostosowania umów na podstawie art. 15 w drodze dobrowolnej, alternatywnej procedury rozstrzygania sporów.
+
+TYTUŁ V
+PRZEPISY KOŃCOWE
+
+Artykuł 17
+Zmiany innych dyrektyw
+
+1.W dyrektywie 96/9/WE wprowadza się następujące zmiany:
+
+(a)art. 6 ust. 2 lit. b) otrzymuje brzmienie:
+
+„b) korzystania z baz danych wyłącznie w charakterze ilustracji w celach dydaktycznych lub badawczych, o ile wskazane jest źródło oraz w zakresie uzasadnionym przez niekomercyjny cel, który ma być osiągnięty, bez uszczerbku dla wyjątków i ograniczeń przewidzianych w dyrektywie [niniejsza dyrektywa];”;
+
+(b)art. 9 lit. b) otrzymuje brzmienie:
+
+„b) w przypadku pobierania w charakterze ilustracji w celach dydaktycznych lub badawczych, o ile wskazane jest źródło oraz w zakresie uzasadnionym przez niekomercyjny cel, który ma być osiągnięty, bez uszczerbku dla wyjątków i ograniczeń przewidzianych w dyrektywie [niniejsza dyrektywa];”.
+
+2.W dyrektywie 2001/29/WE wprowadza się następujące zmiany:
+
+(a)art. 5 ust. 2 lit. c) otrzymuje brzmienie:
+
+„c) w odniesieniu do szczególnych czynności zwielokrotniania dokonywanych przez ogólnodostępne biblioteki, instytucje edukacyjne lub muzea, lub przez archiwa, których celem nie jest osiągnięcie bezpośredniej lub pośredniej korzyści gospodarczej lub handlowej, bez uszczerbku dla wyjątków i ograniczeń przewidzianych w dyrektywie [niniejsza dyrektywa];”;
+
+(b)art. 5 ust. 3 lit. a) otrzymuje brzmienie:
+
+„a) korzystania wyłącznie w celach zilustrowania w ramach nauczania lub badań naukowych, o ile wskazane jest źródło, łącznie z nazwiskiem autora, chyba że okaże się to niemożliwe, i w stopniu uzasadnionym przez niekomercyjny cel, który ma być osiągnięty, bez uszczerbku dla wyjątków i ograniczeń przewidzianych w dyrektywie [niniejsza dyrektywa];”;
+
+(c)w art. 12 ust. 4 dodaje się litery w brzmieniu:
+
+„e) badanie wpływu transpozycji dyrektywy [niniejsza dyrektywa] na funkcjonowanie rynku wewnętrznego i sygnalizowanie ewentualnych trudności związanych z transpozycją;
+
+f) ułatwianie wymiany informacji o istotnych zmianach zachodzących w ustawodawstwie i orzecznictwie, jak również o praktycznym zastosowaniu środków podjętych przez państwa członkowskie w celu wdrożenia dyrektywy [niniejsza dyrektywa];
+
+g) omawianie wszelkich innych kwestii wynikających ze stosowania dyrektywy [niniejsza dyrektywa].”.
+
+Artykuł 18
+Stosowanie w czasie
+
+1.Niniejsza dyrektywa ma zastosowanie do wszystkich utworów i innych przedmiotów objętych ochroną, które są chronione przepisami z dziedziny prawa autorskiego państw członkowskich w dniu [data wymieniona w art. 21 ust. 1] lub po tej dacie .
+
+2.Przepisy art. 11 mają zastosowanie również do publikacji prasowych opublikowanych przed [data wymieniona w art. 21 ust. 1].
+
+3.Niniejszą dyrektywę stosuje się bez uszczerbku dla umów zawartych i praw uzyskanych przed [data wymieniona w art. 21 ust. 1].
+
+Artykuł 19
+Przepis przejściowy
+
+Umowy dotyczące licencji lub przeniesienia praw autorów i wykonawców podlegają obowiązkowi przejrzystości określonemu w art. 14 od dnia [rok od daty wymienionej w art. 21 ust. 1].
+
+Artykuł 20
+Ochrona danych osobowych
+
+Przetwarzanie danych osobowych prowadzone w ramach niniejszej dyrektywy odbywa się zgodnie z dyrektywami 95/46/WE i 2002/58/WE.
+
+Artykuł 21
+Transpozycja
+
+1.Państwa członkowskie wprowadzają w życie przepisy ustawowe, wykonawcze i administracyjne niezbędne do wykonania niniejszej dyrektywy najpóźniej do dnia [12 miesięcy po jej wejściu w życie] r. Niezwłocznie przekazują Komisji tekst tych przepisów.
+
+Przepisy przyjęte przez państwa członkowskie zawierają odniesienie do niniejszej dyrektywy lub odniesienie takie towarzyszy ich urzędowej publikacji. Metody dokonywania takiego odniesienia określane są przez państwa członkowskie.
+
+2.Państwa członkowskie przekazują Komisji tekst podstawowych przepisów prawa krajowego, przyjętych w dziedzinie objętej niniejszą dyrektywą.
+
+Artykuł 22
+Przegląd
+
+1.Nie wcześniej niż dnia [pięć lat po dacie wymienionej w art. 21 ust. 1] Komisja dokonuje przeglądu niniejszej dyrektywy i przedstawia sprawozdanie na temat jego najistotniejszych wyników Parlamentowi Europejskiemu, Radzie i Europejskiemu Komitetowi Ekonomiczno-Społecznemu.
+
+2.Państwa członkowskie dostarczają Komisji informacji niezbędnych do sporządzenia sprawozdania, o którym mowa w ust. 1.
+
+Artykuł 23
+Wejście w życie 
+
+Niniejsza dyrektywa wchodzi w życie dwudziestego dnia po jej opublikowaniu w Dzienniku Urzędowym Unii Europejskiej.
+
+Artykuł 24
+Adresaci
+
+Niniejsza dyrektywa skierowana jest do państw członkowskich.
+
+Sporządzono w Brukseli dnia […] r.
+
+W imieniu Parlamentu Europejskiego
+   W imieniu Rady
+
+Przewodniczący
+   Przewodniczący
+
+   Dyrektywa Parlamentu Europejskiego i Rady 2014/26/UE z dnia 26 lutego 2014 r. w sprawie zbiorowego zarządzania prawami autorskimi i prawami pokrewnymi oraz udzielania licencji wieloterytorialnych dotyczących praw do utworów muzycznych do korzystania online na rynku wewnętrznym (Dz.U. L 84 z 20.3.2014, s. 72–98).
+
+   Dyrektywa Parlamentu Europejskiego i Rady 2010/13/UE z dnia 10 marca 2010 r. w sprawie koordynacji niektórych przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich dotyczących świadczenia audiowizualnych usług medialnych (dyrektywa o audiowizualnych usługach medialnych) (Dz.U. L 95 z 15.4.2010, s. 1–24).

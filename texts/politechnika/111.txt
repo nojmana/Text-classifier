@@ -1,0 +1,985 @@
+ oraz ogromnym sprytem, który pozwolił mu wygrać główną nagrodę w postaci iPad 2 3G. Zasady konkursu były proste. Co wtorek i czwartek o godzinie 16:00 na stronie WSL w zakładkach związanych z edukacją pojawiał się kod QR, czyli dwuwymiarowy,  kwadratowy kod kreskowy. W nim ukryte było pytanie dotyczące zagadnień logistycznych. Uczestnicy zabawy mieli za zadanie znaleźć kod, rozkodować pytanie (za pomocą aplikacji w telefonie komórkowym lub darmowego generatora QR kodów w Internecie) i jak najszybciej na nie odpowiedzieć. Co tydzień, dziesiątka najlepszych uczestników konkursu otrzymywała nagrody dodatkowe – kubki WSL z kodem QR! Konkurs zwyciężył Radosław Szczęsny, student Politechniki Śląskiej. W sumie zdobył 280 punktów.  -To moja pierwsza nagroda zdobyta w internetowym konkursie. Nie należę do osób, które ganiają za tego typu akcjami i muszę przyznać, że nie spodziewałem się takiego rozstrzygnięcia . Jestem bardzo szczęśliwy – mówi Radosław Szczęsny. - O konkursie dowiedziałem się z Facebooka. Na ścianie profilowej została zaanonsowana nowa strona internetowa oraz nieco później konkursik. Z kolei na FanPage Wyższej Szkoły Logistyki trafiłem z polecenia znajomego, który zaprosił mnie do gry "Pan Da 3", którą poznańska uczelnia zorganizowała podczas sesji egzaminacyjnej – wyjaśnia. Radek nie ukrywa, że już na samym początku konkursu opracował pewną taktykę gry. - W telefonie miałem ustawione przypomnienie. Alarm włączał się w każdy wtorek i czwartek, dokładnie o godzinie 15:55. Wchodziłem na stronę WSL, otwierałem wszystkie podstrony i włączałem aplikację do skanowania kodów QR w iPhonie. Zwarty i gotowy do działania czekałem na nowe pytanie – zdradza student  – Na szczęście logistyka nie jest mi obca. Studiuję kierunek „Zarządzanie” i w planie zajęć miałem już podstawy logistyki oraz parę pokrewnych tej tematyce przedmiotów - dodaje. W Konkursie nagrodzeni zostali również zdobywcy drugiego, trzeciego i czwartego miejsca. Wojciech Tarchalski z Politechniki Wrocławskiej (278 punktów), Magdalena Głuch z Uniwersytetu Ekonomicznego w Poznaniu (252 punty) i Mirella Gierwatowska z Zespołu Szkół Ekonomicznych w Zielonej Górze (247 punktów) otrzymali roczną prenumeratę Czasopisma „Logistyka”.  W zabawie wzięło udział w sumie 314 uczestników, którzy przez siedem tygodni zmagali się z takimi pytaniami jak między innymi: Jaki numer prefiksu ma polska organizacja GS1?, Co to jest efekt "byczego bicza"? VMI - Vendor Managed Inventory to? - Konkurs QR jest kolejną inicjatywą Wyższej Szkoły Logistyki skierowaną na komunikowanie ze studentami, kandydatami na studia, uczniami oraz pasjonatami logistyki, przy wykorzystaniu nowoczesnych narzędzi marketingowych. Poprzez promowanie nowatorskich technologii chcemy przybliżać logistykę, a wszystko w formie konkursów wykorzystujących narzędzia, które są obecnie na topie. Takie konkursy są atrakcyjne dla uczestników, choć niewiele instytucji robi obok nas podobne akcje – podsumowuje Wojciech Zalewski, Rzecznik Prasowy WSL. Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ oraz ogromnym sprytem, który pozwolił mu wygrać główną nagrodę w postaci iPad 2 3G. Zasady konkursu były proste. Co wtorek i czwartek o godzinie 16:00 na stronie WSL w zakładkach związanych z edukacją pojawiał się kod QR, czyli dwuwymiarowy,  kwadratowy kod kreskowy. W nim ukryte było pytanie dotyczące zagadnień logistycznych. Uczestnicy zabawy mieli za zadanie znaleźć kod, rozkodować pytanie (za pomocą aplikacji w telefonie komórkowym lub darmowego generatora QR kodów w Internecie) i jak najszybciej na nie odpowiedzieć. Co tydzień, dziesiątka najlepszych uczestników konkursu otrzymywała nagrody dodatkowe – kubki WSL z kodem QR! Konkurs zwyciężył Radosław Szczęsny, student Politechniki Śląskiej. W sumie zdobył 280 punktów.  -To moja pierwsza nagroda zdobyta w internetowym konkursie. Nie należę do osób, które ganiają za tego typu akcjami i muszę przyznać, że nie spodziewałem się takiego rozstrzygnięcia . Jestem bardzo szczęśliwy – mówi Radosław Szczęsny. - O konkursie dowiedziałem się z Facebooka. Na ścianie profilowej została zaanonsowana nowa strona internetowa oraz nieco później konkursik. Z kolei na FanPage Wyższej Szkoły Logistyki trafiłem z polecenia znajomego, który zaprosił mnie do gry "Pan Da 3", którą poznańska uczelnia zorganizowała podczas sesji egzaminacyjnej – wyjaśnia. Radek nie ukrywa, że już na samym początku konkursu opracował pewną taktykę gry. - W telefonie miałem ustawione przypomnienie. Alarm włączał się w każdy wtorek i czwartek, dokładnie o godzinie 15:55. Wchodziłem na stronę WSL, otwierałem wszystkie podstrony i włączałem aplikację do skanowania kodów QR w iPhonie. Zwarty i gotowy do działania czekałem na nowe pytanie – zdradza student  – Na szczęście logistyka nie jest mi obca. Studiuję kierunek „Zarządzanie” i w planie zajęć miałem już podstawy logistyki oraz parę pokrewnych tej tematyce przedmiotów - dodaje. W Konkursie nagrodzeni zostali również zdobywcy drugiego, trzeciego i czwartego miejsca. Wojciech Tarchalski z Politechniki Wrocławskiej (278 punktów), Magdalena Głuch z Uniwersytetu Ekonomicznego w Poznaniu (252 punty) i Mirella Gierwatowska z Zespołu Szkół Ekonomicznych w Zielonej Górze (247 punktów) otrzymali roczną prenumeratę Czasopisma „Logistyka”.  W zabawie wzięło udział w sumie 314 uczestników, którzy przez siedem tygodni zmagali się z takimi pytaniami jak między innymi: Jaki numer prefiksu ma polska organizacja GS1?, Co to jest efekt "byczego bicza"? VMI - Vendor Managed Inventory to? - Konkurs QR jest kolejną inicjatywą Wyższej Szkoły Logistyki skierowaną na komunikowanie ze studentami, kandydatami na studia, uczniami oraz pasjonatami logistyki, przy wykorzystaniu nowoczesnych narzędzi marketingowych. Poprzez promowanie nowatorskich technologii chcemy przybliżać logistykę, a wszystko w formie konkursów wykorzystujących narzędzia, które są obecnie na topie. Takie konkursy są atrakcyjne dla uczestników, choć niewiele instytucji robi obok nas podobne akcje – podsumowuje Wojciech Zalewski, Rzecznik Prasowy WSL. Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ Konkurs zwyciężył Radosław Szczęsny, student Politechniki Śląskiej. W sumie zdobył 280 punktów.  -To moja pierwsza nagroda zdobyta w internetowym konkursie. Nie należę do osób, które ganiają za tego typu akcjami i muszę przyznać, że nie spodziewałem się takiego rozstrzygnięcia . Jestem bardzo szczęśliwy – mówi Radosław Szczęsny. - O konkursie dowiedziałem się z Facebooka. Na ścianie profilowej została zaanonsowana nowa strona internetowa oraz nieco później konkursik. Z kolei na FanPage Wyższej Szkoły Logistyki trafiłem z polecenia znajomego, który zaprosił mnie do gry "Pan Da 3", którą poznańska uczelnia zorganizowała podczas sesji egzaminacyjnej – wyjaśnia. Radek nie ukrywa, że już na samym początku konkursu opracował pewną taktykę gry. - W telefonie miałem ustawione przypomnienie. Alarm włączał się w każdy wtorek i czwartek, dokładnie o godzinie 15:55. Wchodziłem na stronę WSL, otwierałem wszystkie podstrony i włączałem aplikację do skanowania kodów QR w iPhonie. Zwarty i gotowy do działania czekałem na nowe pytanie – zdradza student  – Na szczęście logistyka nie jest mi obca. Studiuję kierunek „Zarządzanie” i w planie zajęć miałem już podstawy logistyki oraz parę pokrewnych tej tematyce przedmiotów - dodaje. W Konkursie nagrodzeni zostali również zdobywcy drugiego, trzeciego i czwartego miejsca. Wojciech Tarchalski z Politechniki Wrocławskiej (278 punktów), Magdalena Głuch z Uniwersytetu Ekonomicznego w Poznaniu (252 punty) i Mirella Gierwatowska z Zespołu Szkół Ekonomicznych w Zielonej Górze (247 punktów) otrzymali roczną prenumeratę Czasopisma „Logistyka”.  W zabawie wzięło udział w sumie 314 uczestników, którzy przez siedem tygodni zmagali się z takimi pytaniami jak między innymi: Jaki numer prefiksu ma polska organizacja GS1?, Co to jest efekt "byczego bicza"? VMI - Vendor Managed Inventory to? - Konkurs QR jest kolejną inicjatywą Wyższej Szkoły Logistyki skierowaną na komunikowanie ze studentami, kandydatami na studia, uczniami oraz pasjonatami logistyki, przy wykorzystaniu nowoczesnych narzędzi marketingowych. Poprzez promowanie nowatorskich technologii chcemy przybliżać logistykę, a wszystko w formie konkursów wykorzystujących narzędzia, które są obecnie na topie. Takie konkursy są atrakcyjne dla uczestników, choć niewiele instytucji robi obok nas podobne akcje – podsumowuje Wojciech Zalewski, Rzecznik Prasowy WSL. Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ -To moja pierwsza nagroda zdobyta w internetowym konkursie. Nie należę do osób, które ganiają za tego typu akcjami i muszę przyznać, że nie spodziewałem się takiego rozstrzygnięcia . Jestem bardzo szczęśliwy – mówi Radosław Szczęsny. - O konkursie dowiedziałem się z Facebooka. Na ścianie profilowej została zaanonsowana nowa strona internetowa oraz nieco później konkursik. Z kolei na FanPage Wyższej Szkoły Logistyki trafiłem z polecenia znajomego, który zaprosił mnie do gry "Pan Da 3", którą poznańska uczelnia zorganizowała podczas sesji egzaminacyjnej – wyjaśnia. Radek nie ukrywa, że już na samym początku konkursu opracował pewną taktykę gry. - W telefonie miałem ustawione przypomnienie. Alarm włączał się w każdy wtorek i czwartek, dokładnie o godzinie 15:55. Wchodziłem na stronę WSL, otwierałem wszystkie podstrony i włączałem aplikację do skanowania kodów QR w iPhonie. Zwarty i gotowy do działania czekałem na nowe pytanie – zdradza student  – Na szczęście logistyka nie jest mi obca. Studiuję kierunek „Zarządzanie” i w planie zajęć miałem już podstawy logistyki oraz parę pokrewnych tej tematyce przedmiotów - dodaje. W Konkursie nagrodzeni zostali również zdobywcy drugiego, trzeciego i czwartego miejsca. Wojciech Tarchalski z Politechniki Wrocławskiej (278 punktów), Magdalena Głuch z Uniwersytetu Ekonomicznego w Poznaniu (252 punty) i Mirella Gierwatowska z Zespołu Szkół Ekonomicznych w Zielonej Górze (247 punktów) otrzymali roczną prenumeratę Czasopisma „Logistyka”.  W zabawie wzięło udział w sumie 314 uczestników, którzy przez siedem tygodni zmagali się z takimi pytaniami jak między innymi: Jaki numer prefiksu ma polska organizacja GS1?, Co to jest efekt "byczego bicza"? VMI - Vendor Managed Inventory to? - Konkurs QR jest kolejną inicjatywą Wyższej Szkoły Logistyki skierowaną na komunikowanie ze studentami, kandydatami na studia, uczniami oraz pasjonatami logistyki, przy wykorzystaniu nowoczesnych narzędzi marketingowych. Poprzez promowanie nowatorskich technologii chcemy przybliżać logistykę, a wszystko w formie konkursów wykorzystujących narzędzia, które są obecnie na topie. Takie konkursy są atrakcyjne dla uczestników, choć niewiele instytucji robi obok nas podobne akcje – podsumowuje Wojciech Zalewski, Rzecznik Prasowy WSL. Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ Radek nie ukrywa, że już na samym początku konkursu opracował pewną taktykę gry. - W telefonie miałem ustawione przypomnienie. Alarm włączał się w każdy wtorek i czwartek, dokładnie o godzinie 15:55. Wchodziłem na stronę WSL, otwierałem wszystkie podstrony i włączałem aplikację do skanowania kodów QR w iPhonie. Zwarty i gotowy do działania czekałem na nowe pytanie – zdradza student  – Na szczęście logistyka nie jest mi obca. Studiuję kierunek „Zarządzanie” i w planie zajęć miałem już podstawy logistyki oraz parę pokrewnych tej tematyce przedmiotów - dodaje. W Konkursie nagrodzeni zostali również zdobywcy drugiego, trzeciego i czwartego miejsca. Wojciech Tarchalski z Politechniki Wrocławskiej (278 punktów), Magdalena Głuch z Uniwersytetu Ekonomicznego w Poznaniu (252 punty) i Mirella Gierwatowska z Zespołu Szkół Ekonomicznych w Zielonej Górze (247 punktów) otrzymali roczną prenumeratę Czasopisma „Logistyka”.  W zabawie wzięło udział w sumie 314 uczestników, którzy przez siedem tygodni zmagali się z takimi pytaniami jak między innymi: Jaki numer prefiksu ma polska organizacja GS1?, Co to jest efekt "byczego bicza"? VMI - Vendor Managed Inventory to? - Konkurs QR jest kolejną inicjatywą Wyższej Szkoły Logistyki skierowaną na komunikowanie ze studentami, kandydatami na studia, uczniami oraz pasjonatami logistyki, przy wykorzystaniu nowoczesnych narzędzi marketingowych. Poprzez promowanie nowatorskich technologii chcemy przybliżać logistykę, a wszystko w formie konkursów wykorzystujących narzędzia, które są obecnie na topie. Takie konkursy są atrakcyjne dla uczestników, choć niewiele instytucji robi obok nas podobne akcje – podsumowuje Wojciech Zalewski, Rzecznik Prasowy WSL. Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ - W telefonie miałem ustawione przypomnienie. Alarm włączał się w każdy wtorek i czwartek, dokładnie o godzinie 15:55. Wchodziłem na stronę WSL, otwierałem wszystkie podstrony i włączałem aplikację do skanowania kodów QR w iPhonie. Zwarty i gotowy do działania czekałem na nowe pytanie – zdradza student  – Na szczęście logistyka nie jest mi obca. Studiuję kierunek „Zarządzanie” i w planie zajęć miałem już podstawy logistyki oraz parę pokrewnych tej tematyce przedmiotów - dodaje. W Konkursie nagrodzeni zostali również zdobywcy drugiego, trzeciego i czwartego miejsca. Wojciech Tarchalski z Politechniki Wrocławskiej (278 punktów), Magdalena Głuch z Uniwersytetu Ekonomicznego w Poznaniu (252 punty) i Mirella Gierwatowska z Zespołu Szkół Ekonomicznych w Zielonej Górze (247 punktów) otrzymali roczną prenumeratę Czasopisma „Logistyka”.  W zabawie wzięło udział w sumie 314 uczestników, którzy przez siedem tygodni zmagali się z takimi pytaniami jak między innymi: Jaki numer prefiksu ma polska organizacja GS1?, Co to jest efekt "byczego bicza"? VMI - Vendor Managed Inventory to? - Konkurs QR jest kolejną inicjatywą Wyższej Szkoły Logistyki skierowaną na komunikowanie ze studentami, kandydatami na studia, uczniami oraz pasjonatami logistyki, przy wykorzystaniu nowoczesnych narzędzi marketingowych. Poprzez promowanie nowatorskich technologii chcemy przybliżać logistykę, a wszystko w formie konkursów wykorzystujących narzędzia, które są obecnie na topie. Takie konkursy są atrakcyjne dla uczestników, choć niewiele instytucji robi obok nas podobne akcje – podsumowuje Wojciech Zalewski, Rzecznik Prasowy WSL. Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ W Konkursie nagrodzeni zostali również zdobywcy drugiego, trzeciego i czwartego miejsca. Wojciech Tarchalski z Politechniki Wrocławskiej (278 punktów), Magdalena Głuch z Uniwersytetu Ekonomicznego w Poznaniu (252 punty) i Mirella Gierwatowska z Zespołu Szkół Ekonomicznych w Zielonej Górze (247 punktów) otrzymali roczną prenumeratę Czasopisma „Logistyka”.  W zabawie wzięło udział w sumie 314 uczestników, którzy przez siedem tygodni zmagali się z takimi pytaniami jak między innymi: Jaki numer prefiksu ma polska organizacja GS1?, Co to jest efekt "byczego bicza"? VMI - Vendor Managed Inventory to? - Konkurs QR jest kolejną inicjatywą Wyższej Szkoły Logistyki skierowaną na komunikowanie ze studentami, kandydatami na studia, uczniami oraz pasjonatami logistyki, przy wykorzystaniu nowoczesnych narzędzi marketingowych. Poprzez promowanie nowatorskich technologii chcemy przybliżać logistykę, a wszystko w formie konkursów wykorzystujących narzędzia, które są obecnie na topie. Takie konkursy są atrakcyjne dla uczestników, choć niewiele instytucji robi obok nas podobne akcje – podsumowuje Wojciech Zalewski, Rzecznik Prasowy WSL. Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ W zabawie wzięło udział w sumie 314 uczestników, którzy przez siedem tygodni zmagali się z takimi pytaniami jak między innymi: Jaki numer prefiksu ma polska organizacja GS1?, Co to jest efekt "byczego bicza"? VMI - Vendor Managed Inventory to? - Konkurs QR jest kolejną inicjatywą Wyższej Szkoły Logistyki skierowaną na komunikowanie ze studentami, kandydatami na studia, uczniami oraz pasjonatami logistyki, przy wykorzystaniu nowoczesnych narzędzi marketingowych. Poprzez promowanie nowatorskich technologii chcemy przybliżać logistykę, a wszystko w formie konkursów wykorzystujących narzędzia, które są obecnie na topie. Takie konkursy są atrakcyjne dla uczestników, choć niewiele instytucji robi obok nas podobne akcje – podsumowuje Wojciech Zalewski, Rzecznik Prasowy WSL. Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ - Konkurs QR jest kolejną inicjatywą Wyższej Szkoły Logistyki skierowaną na komunikowanie ze studentami, kandydatami na studia, uczniami oraz pasjonatami logistyki, przy wykorzystaniu nowoczesnych narzędzi marketingowych. Poprzez promowanie nowatorskich technologii chcemy przybliżać logistykę, a wszystko w formie konkursów wykorzystujących narzędzia, które są obecnie na topie. Takie konkursy są atrakcyjne dla uczestników, choć niewiele instytucji robi obok nas podobne akcje – podsumowuje Wojciech Zalewski, Rzecznik Prasowy WSL. Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ Zgadza się z tym zwycięzca konkursu „Rozkoduj WSL”. - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ - Organizacja tego typu konkursów jest czymś zupełnie nowym w sieci. Do tej pory internet zalewała fala konkursów quizowych i różnych loterii, a to już się niestety użytkownikom przejadło. Fajnie, że pojawia się jakaś alternatywa – mówi Radosław Szczęsny. – Dobrze też, że uczelnia postawiła na promocję kodów QR, które przecież kryją w sobie ogromny potencjał. Zwłaszcza teraz, gdy już prawie każdy ma zaawansowany telefon z zainstalowanym na nim odpowiednim czytnikiem. Z zalet kodów QR zaczynają już korzystać najwięksi. W Polsce na przykład firma Grycan, która kody QR nakleiła na swoich lodziarniach – dodaje. 
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Redakcja CentrumPR informuje, że artykuły, fotografie i komentarze publikowane są przez użytkowników "Serwisów skupionych w Grupie Kafito". Publikowane materiały i wypowiedzi są ich własnością i ich prywatnymi opiniami. Redakcja CentrumPR nie ponosi odpowiedzialności za ich treść.
+
+ 
+
+
+
+
+Nadesłał:
+
+kmatysik
+
+
+
+
+
+
+
+
+
+Komentarze (0)
+
+
+	    Komentarz nie został dodany	
+
+
+
+
+
+Twój komentarz: 
+
+
+
+
+
+Twój podpis: 
+
+
+
+
+
+
+
+
+
+
+
+    System komentarzy dostarcza serwis eGadki.pl
+
+
+
+$(document).ready(
+    function() {
+        //loadAwCaptcha('commentCaptchaContainer');
+        
+        $("#cmtForm form").submit(function(){
+//            location.hash = "#start";
+            var contentValid = $('#iContent').val().length > 0;
+            var nickValid = $('#iNick').val().length > 0;
+            
+            if(!(contentValid && nickValid)) {
+                $('html, body').animate({
+                    scrollTop: $("#start").offset().top
+                }, 300);
+                $('#cmtMessage > span').text('Uzupełnij wymagane pola!');
+                $('#cmtMessage').css('display', 'block');
+                if(!contentValid) $('#iContent').css('border', 'solid 1px red');
+                if(!nickValid) $('#iNick').css('border', 'solid 1px red');
+            }
+            return contentValid && nickValid;
+        });
+    }
+);
+ 
+			Samochody elektryczne to nie pieśń przyszłości, to rzeczywistość –...			
+			Komfort pracy i zmniejszone zmęczenie wzroku zapewniają funkcje...			
+			Wieczór gier planszowych, spotkanie z przyjaciółką czy mecz piłkarski...			
+			Komplementarne rozwiązania o spójnej, wyrazistej estetyce to jeden ze...			
+			Drewno to synonim elegancji, szlachetności, solidności i trwałości. Ten...			

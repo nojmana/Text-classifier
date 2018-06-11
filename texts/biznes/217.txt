@@ -1,0 +1,529 @@
+fot. Andrzej Owczarek, Piotr CzyszkowskiDla porównania średnia dla Paryża i Wiednia to 400 m2, a Londynu nieco ponad 200 m2. Czy Wroclavia nie spowoduje dodatkowych korków w i tak zatłoczonym centrum? Odpowiada Arnaud Burlin, dyrektor zarządzający firmy Unibail-Rodamco, która zainwestowała przy Dyrekcyjnej:- Kochamy centra miast, wiele osób przyjdzie do nas pieszo, inni wybiorą rowery i komunikację miejską. Ale przede wszystkim mamy ponad 2000 miejsc parkingowych, aby każdy mógł do nas wygodnie dojechać.
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_1xrp4myr8"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/71491/Wroclaw-najwieksza-galeria-handlowa-w-Europie-FOTO-WIDEO-1.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_1xrp4myr8",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+Zupełnie innego zdania jest Przemysław Filar z Towarzystwa Upiększania Miasta Wrocławia.- Korki są więcej niż pewne - mówi:
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_0xfmcnar2"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/71491/Wroclavia-juz-otwarta-GALERIA-7.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_0xfmcnar2",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+Oprócz 200 sklepów, we Wroclavii znajdzie się 20 sal kinowych i gigantyczny parking. Taka też jest działka, na której powstała Wroclavia – ma ponad 4 ha, czyli więcej niż powierzchnia Rynku. Jak wrocławianom podoba się nowy budynek?
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_r8n2iy7bf"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/71491/Wroclavia-juz-otwarta-GALERIA-2.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_r8n2iy7bf",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+Taki projekt jeszcze przed budową proponowały ruchy miejskie – zamiast jednej bryły kilka budynków, mała architektura pomiędzy nimi i dużo zieleni. Arnaud Burlin, dyrektor zarządzający firmy Unibail-Rodamco, która zainwestowała we Wrocławiu tłumaczy dlaczego wybrano inaczej:-Wszystko pod jednym dachem ma większy sens, jeśli z budynku korzysta wiele osób, to także lepsza komunikacja. Ale jeśli ktoś chce odetchnąć, może wyjść na nasze tarasy albo do ogrodu na dachu. Wokół budynku też jest zielono.
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_snx9yyjsk"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/71491/Wroclavia-juz-otwarta-GALERIA-3.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_snx9yyjsk",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+Galeria jeszcze nie jest gotowa. Jak ustaliło Radio Wrocław, zgody na użytkowanie od Powiatowego Inspektora Nadzoru Budowlanego nie ma jeszcze część biurowa budynku. Ta będzie gotowa dopiero wiosną. Zamkniętych i bez odbiorów pozostaje także kilka lokali handlowych. Jak tłumaczy Anna Bator z Wroclavii: - Będą odbierane w najbliższym czasie pojedynczo lub w jednym bloku.O ocenę projektu poprosiliśmy wrocławskiego architekta Macieja Hawrylaka:-Ona jest dzisiaj modna. Czy jutro będzie równie modna? Jak patrzę na wszystkie galerie - najczęściej się źle starzeją. Jeszcze nie widziałem dobrej galerii, o tak dużym gabarycie.
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_s4sbhoy47"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/71491/Wroclavia-juz-otwarta-GALERIA-5.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_s4sbhoy47",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+Spytaliśmy także ludzi, którzy spacerowali w pobliżu Wroclavii:
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_bd5s9lrb7"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/71491/Wroclavia-juz-otwarta-GALERIA-6.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_bd5s9lrb7",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+Dworzec autobusowy także jest częścią galerii handlowej, ale znajduje się pod ziemią – otwarcie już za dwa tygodnie.LipiecWrzesień

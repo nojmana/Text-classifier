@@ -1,0 +1,57 @@
+Korporacja Mitsubishi Electric, posiadająca 90 lat doświadczenia w zakresie dostarczania niezawodnych, wysokiej jakości innowacyjnych produktów w dziedzinie automatyki przemysłowej, produkcji, marketingu i sprzedaży urządzeń elektrycznych i elektronicznych. Programowalne sterowniki PLC, rozwiązania napędowe, roboty przemysłowe, panele dotykowe, wycinarki laserowe i sterownie CNC firmy Mitsubishi Electric zaliczają się do produktów najwydajniejszych na rynku i gwarantują sukcesy firmy już od ponad 30 lat.Od 1954 Finder pracował wyłącznie w zakresie przekaźników i timerów. Nasz wysoki stopień specjalizacji zaowocował ponad 10.000 różnych produktów w jednej z najszerszych dostępnych ofert. Firma szeroko się rozwija i inwestuje w przyszłość uzupełniając gamę swojego asortymentu. Prócz przekaźników oferuje rozwiązania przemysłu elektrycznego do zastosowań domowych jak i komercyjnych poprzez przekaźniki, urządzenia przeciwprzepięciowe, termostaty panelowe, zasilacze i liczniki energii.  Gama asortymentu obejmuje ponad 12 tysięcy produktów.WAGO jest producentem urządzeń automatyki przemysłowej i budynkowej oraz systemów połączeń dla elektrotechniki i elektroniki. Powstanie w 1951 roku firmy WAGO było wyrazem przekonania o słuszności obranego kierunku i stworzyło podwaliny pod dalszy rozwój technologii. Z czasem stała się ona standardem na całym świecie i teraz nie sposób wyobrazić sobie nowoczesnej instalacji elektrycznej czy systemu automatycznego sterowania bez wyrobów WAGO.Eaton Electric jest producentem najwyższej jakości automatyki przemysłowej, aparatury sygnalizacyjnej, łączeniowej, zabezpieczającej i instalacyjnej oraz systemów rozdziału energii niskiego napięcia. Międzynarodowe nagrody oraz certyfikaty są dowodem, iż produkty Eaton Electric odpowiadają najnowszym standardom bezpieczeństwa i wymaganiom jakości. Wszystkie nasze wyroby gwarantują długoletnie działanie.
+Więcej wyników
+Firma Finder udostępniła Poradnik dla Elektroinstalatorów. Poradnik ten jest kompleksowym źródłem wiedzy z zakresu systemów przekaźnikowych tego producenta, przeznaczonych do budynków mieszkalnych i użyteczności publicznej. Głównym elementem poradnika są schematy elektryczne pokazujące sposób podłączenia wybranych elementów przekaźnikowych automatyki budynkowej. Schematyczne grafiki odwzorowujące rzeczywisty wygląd urządzeń wraz ze wskazaniem zacisków ułatwiają lokalizację danego złącza.Dodatkowo każdy pojedynczy produkt zawiera opis, podstawowe dane techniczne i charakterystykę działania, co umożliwia praktyczny dobór elementów do realizowanego zadania.  Urządzenia zostały pogrupowane, a każda grupa poprzedzona ich opisem oraz przykładem praktycznego zastosowania. Wskazane zostały także różnice w wykonaniu wybranych instalacji za pomocą systemów przekaźnikowych w porównaniu do rozwiązań tradycyjnych.
+Przytoczone przykłady ukazują zalety stosowania systemów przekaźnikowych: obniżenie kosztów budowy, zmniejszenie nakładu pracy potrzebnej do realizacji danego zadania, ułatwione projektowanie, elastyczność przy zmianach lub rozbudowie instalacji elektrycznej oraz rozdzielenie sieci sterującej i sieci prądów roboczych.Seria 10 – Wyłącznik zmierzchowy
+Seria 11 – Modułowy wyłącznik zmierzchowy
+Seria 12 – Zegar sterujący
+Seria 13 – Elektroniczny przekaźnik impulsowy
+Seria 14 – Wielofunkcyjny automat do klatek schodowych
+Schemat połączeń przedstawiający typ: 27.01, 27.21, 26.01, 13.81, 13.91, 15.51, 15.91
+Seria 15 – Elektroniczny przekaźnik impulsowy ze ściemniaczem
+Seria 18 – Czujnik ruchu i obecności
+Seria 19 – Moduł serwisowy i sygnalizacyjny
+Seria 1C – Termostat programowany tygodniowo
+Seria 1T – Termostat programowalny
+Seria 20 – Modułowy przekaźnik impulsowy
+Seria 22 – Stycznik modułowy
+Seria 26 – Przekaźnik impulsowy instalacyjny
+Seria 27 – Przekaźnik impulsowy instalacyjny
+Seria 4C – Przekaźnikowy moduł sprzęgający
+Seria 48 – Przekaźnikowy moduł sprzęgający
+Seria 58 – Przekaźnikowy moduł sprzęgający
+Seria 70 – Przekaźnik nadzorczy
+Seria 72 – Przekaźniki kontroli poziomu cieczy
+Typ 72.42 – Przekaźnik pracy naprzemiennej
+Typ 72.A1/B1 – Wyłącznik pływakowy
+Seria 77 – Modułowy przekaźnik półprzewodnikowy
+Seria 78 – Modułowy zasilacz impulsowy
+Seria 7E – Licznik energii
+Seria 7P – Moduł przeciwprzepięciowy (SPD)
+Seria 80 – Modułowy przekaźnik czasowy
+Seria 81 – Modułowy przekaźnik czasowy
+Seria 84 – SMARTimer – Inteligentny przekaźnik czasowy z programowaniem NFCNa stronie Finder: Poradnik dla Elektroinstalatorów: Schematy połączeń do budynków mieszkalnych i użyteczności publicznej
+Bezpośrednio na PDF: link(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.11&appId=1710048529245050';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk')); Dołącz do grupy 12 000 członków:
+Automatyk Może WięcejDołącz do Projektu iAutomatyka.pl jako:
+Automatyk, Integrator lub FirmaOdwiedza nas blisko 40 000 UU / m
+Nazwa użytkownika lub e-mail
+
+
+Hasło
+
+
+
+
+Nie masz konta? Zarejestruj się
+
+Enter your account data and we will send you a link to reset your password.	
+Nazwa użytkownika lub e-mail
+
+
+
+Przetwarzamy pliki... jeszcze chwilka…

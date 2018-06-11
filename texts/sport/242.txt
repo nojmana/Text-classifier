@@ -1,0 +1,395 @@
+
+10 czerwca 2018, 16:35:18 - maciejko
+Zmiany w rankingu FIFA
+
+
+FIFA ogłosiła zmiany w sposobie liczenia rankingu FIFA. Nowy ranking (SUM) będzie w dużej mierze oparty o ranking Elo. Pierwsze notowanie zostanie ogłoszone po mistrzostwach świata w Rosji.
+
+
+W nowym rankingu mniejszą wagę będą miały mecze towarzyskie, dodatkowo mecze dalszych rund w turniejach mistrzowskich będą wyżej punktowane niż np. faza grupowa.
+
+Ważność meczów:
+
+- 5 - mecze towarzyskie poza terminami FIFA
+- 10 - mecze towarzyskie w terminach FIFA
+- 15 - mecze grupowe Ligi Narodów
+- 25 - play off i finały Ligi Narodów
+- 25 - eliminacje mistrzostw kontynentalnych i MŚ
+- 35 - mecze finałów mistrzostw kontynentalnych przed fazą ćwierćfinałową
+- 40 - mecze finałów mistrzostw kontynentalnych od fazy ćwierćfinałowej oraz mecze Pucharu Konfederacji FIFA
+- 50 - mecze finałów mistrzostw świata przed fazą ćwierćfinałową
+- 60 - mecze finałów mistrzostw świata od fazy ćwierćfinałowej
+
+Formuła rankingu:
+
+punkty = punkty przed meczem + ważność meczu * (wynik meczu - przewidywany wynik meczu)
+
+wynik meczu = 1 (zwycięstwo) lub 0,5 (remis) lub 0 (porażka)
+przewidywany wynik meczu = 1/(10^(-dr/600) + 1)
+dr - różnica w rankingu = punkty przed meczem drużyny A - punkty przed meczem drużyny B
+
+Dzięki nowej formule nie będzie już liczona średnia roczna punktów, a także nie będzie już ustalania siły rywala na podstawie konfederacji, do której należy. Dodatkowo gospodarze turniejów mistrzowskich w nowej formule nie powinni być już tak bardzo poszkodowani w rankingu.
+
+
+źródło: własne / FIFA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marek - 10 czerwca 2018, 16:41:44 - *.kielce.vectranet.pl
+Liga Narodów to największa głupota co mogli zrobić.
+
+BI - 10 czerwca 2018, 16:46:05 - *.centertel.pl
+Niech Elo będzie z wami.
+
+Borubar - 10 czerwca 2018, 16:57:17 - *.146.168.158.nat.umts.dynamic.t-mobile.pl
+Cała ta sztuczna Liga Narodów, to jedynie maszynka do zarabiania pieniędzy. FIFA i UEFA nie mają już chyba pomysłów na bardziej kuriozalne turnieje. Przecież to tylko obniża poziom i nikt nie traktuje poważnie takich turniejów, jak np. Liga Narodów. Jedyny pozytyw to taki, że nasza reprezentacja będzie zajmować w końcu odpowiednie miejsce w rankingu FIFA (czyli okolice 30 miejsca). Nawałka migał się od rozgrywania meczów, a teraz nie będzie wyjścia i nasza kadra zostanie odpowiednio zweryfikowana. Po mistrzostwach świata będzie już wiadomo, ile warta jest nasza reprezentacja, mająca w składzie emerytów i pozorantów gry (Peszko, Pazdan,Jodłowiec). Osobiście nie uczestniczę w tym szaleństwie przedmundialowym i nie wywieszam flag na samochodzie. Nawet w dniu meczu z Senegalem, zaplanowałem sobie wyjazd do dalszej rodziny, która nie interesuje się piłką. Nie zgadzam się z powołaniami Nawałki i nie życzę sobie, aby mój kraj reprezentował ktoś, kto kopie dmuchaną lalkę i odbiera nocne telefony z prowokacją w tle. Nie godzę się na to, aby Damian Kądzior został odstrzelony przez selekcjonera i nie godzę się na wystawianie w kadrze graczy, którzy nie stanowią o sile w swoich macierzystych klubach.
+
+głos serca - 10 czerwca 2018, 17:00:57 - *.icpnet.pl
+Liga Narodów jest dobrym pomysłem. Będziemy grali z zespołami na podobnym poziomie zamiast nudnych meczów towarzyskich.Borubar gdyby twoja wiedza nie była zerowa to byś wiedział, że obecnie w rankingu ELO Polska zajmuje 19. miejsce.
+
+
+
+
+
+HipChłop - 10 czerwca 2018, 17:09:02 - *.dynamic.gprs.plus.pl
+Elo, Sokół, Eldo, Radoskór będą ustalać ranking. 
+
+ttr - 10 czerwca 2018, 17:37:36 - *.adsl.inetia.pl
+"W nowym rankingu mniejszą wagę będą miały mecze towarzyskie" - patrząc na ostatnie wyniki Polski w tych meczach to chyba dobra informacja :D
+
+xy - 10 czerwca 2018, 19:29:40 - *.neoplus.adsl.tpnet.pl
+Zmiany dla zmiany...
+
+So - 10 czerwca 2018, 19:38:13 - *.icpnet.pl
+okej ale porażka w finale bardzo zaboli w tym rankingu (60*(-1)) czyli za porażkę maksymalnie 60 punktów w plecy
+
+snk - 10 czerwca 2018, 19:39:26 - *.dynamic.chello.pl
+Nie oszukujmy się bez Glika mamy taką wyrwę w obronie jak Rów Mariański,zmiennicy są bardzo słabi a pokazali to w meczu ze śmiesznymi rezerwami Chile, a Szczęsny tradycyjnie puszcza gola w każdym meczu co jest już od dawna irytujące i żenujące.Niestety ugramy na tych mistrzostwach 4pkt.i 3 miejsce w grupie
+
+Realista - 10 czerwca 2018, 20:33:37 - *.org
+I bardzo dobrze, skonczy sie bezczelne unikanie grania i budowanie sobie na tym rankingu, koniec tchurzostwa, czas na granie, a kto nie wygrywa i nie zdobywa punktuw, ten spada nisko w okolice miejsc 100-200, tam gdzie jest miejsce tej pseudo kadry.
+
+LEON - 10 czerwca 2018, 20:45:17 - *.neoplus.adsl.tpnet.pl
+Zobaczymy jakie cuda będą się zdarzać może San Marino albo Gibraltar będą liderem a tak na serio oby tylko nam to nie zaskoczyło ELO
+
+Patriota - 10 czerwca 2018, 23:11:41 - *.multi.internet.cyfrowypolsat.pl
+Ja nie mogę. No po prostu śmiać mi się z was chce... Najbardziej z "realista". Idź gościu od lekarza od głowy albo wyjedź z tego kraju bo tak Polak nie pisze. Reprezentację się zawsze wspiera, jest się dymnym z Orzełka i Flagi i nie pisze takich wypocin .....
+
+jakas1 - 10 czerwca 2018, 23:16:41 - *.dynamic.gprs.plus.pl
+Zmiana oczekiwana od 10 lat, ale oczywiście FIFA musiała przekombinować i  za półfinały i finały MŚ nie będzie można stracić żadnych punktów w rankingu, co jest absurdalne, niezgodne z ideą rankingu ELO i powodować będzie jego inflację i nieporównywalność w czasie
+
+dfals - 11 czerwca 2018, 0:20:43 - *.dynamic.chello.pl
+@jakas1przeczytałeś formułę liczenia?Jeśli w półfinale lub finale MŚ przegrasz z drużyną o niższym rankingu to leci mocno w plecy. Zaś przegrana z rankingowo równym sobie - minus 30pkt (w połowa z 60pkt). Przegrana z zespołem znacznie wyżej w rankingu - też strata punktowa, ale mniejsza.
+
+
+
+
+
+Spejson - 11 czerwca 2018, 0:35:26 - *.play-internet.pl
+Borubar nie ośmieszaj się, Jodłowca dawno już nie ma w kadrze. Ty naprawdę jesteś zakałą tego serwisu
+
+pawel - 11 czerwca 2018, 8:33:47 - *.244.58.133
+do redakcji: pierwsze notowanie po mś, a jak będzie na starcie? policzą punkty wstecz od równej ilości punktów (jak tak to jak dużo wstecz?) czy przeniosą punkty z obecnego rankingu i na jego podstawie będą dalej liczyć?
+
+znawca - 11 czerwca 2018, 9:23:08 - *.170.203.240
+Właśnie ,od kiedy będą liczone punkty ,w tym cały szkopuł a nie w tym czy nowy ranking będzie bardziej miarodajny bo będzie.Większego gniota jak ten co teraz obowiązuje to już nie można było wymyślić.
+
+jakas1 - 11 czerwca 2018, 13:21:54 - *.static.libet.pl
+@dfals: Ja przeczytałem, ale czy Ty przeczytałeś, to wątpię. Od półfinałów będzie można wyłącznie zdobyć punkty, stracić się ich nie da, co jest zaprzeczeniem idei rankingu ELO. Dodatkowo faworyzuje to kraje z kontynentów, które mają mistrzostwa kontynentalne częściej, niż co 4 lata.  dodatku wysokość wygranej/przegranej nie będzie miała wpływu na zmianę w rankingu.
+
+Łukasz - 11 czerwca 2018, 13:25:01 - *.dynamic.mm.pl
+Masło maślane jednym słowem. Ligą Narodów + nowy system europejskich pucharów + ranking fifa.W teorii czarna magia, trzeba poczekać na praktykę.
+
+Łukasz - 11 czerwca 2018, 13:28:40 - *.dynamic.mm.pl
+Jeszcze jest bzdurą mówienie, że Liga Narodów zastapi mecze towarzyskie. Nie do końca, bo przed mundialem czy euro rozgrywane są sparingi dodatkowo w listopadzie zagramy z Czechami. Liga Narodów to dodatkowy wymysł UEFA, a mecze towarzyskie wciąż będą rozgrywane.
+
+
+
+Pseudonim (max 10 znaków): 
+
+E-mail: 
+
+
+
+
+
+
+
+Redakcja 90minut.pl nie ponosi odpowiedzialności za treść komentarzy, które są niezależnymi opiniami czytelników serwisu. Jednocześnie 90minut.pl zastrzega sobie prawo do kasowania komentarzy zawierających wulgaryzmy, treści rasistowskie, reklamy, wypowiedzi nie związane z tematem artykułu, "trolling", sformułowania obraźliwe w stosunku do innych czytelników serwisu, osób trzecich, klubów lub instytucji itp., a w skrajnych przypadkach do blokowania możliwości komentowania wiadomości przez poszczególnych użytkowników lub całe sieci.10 czerwca 2018, 16:35:18 - maciejko
+Zmiany w rankingu FIFA
+
+
+FIFA ogłosiła zmiany w sposobie liczenia rankingu FIFA. Nowy ranking (SUM) będzie w dużej mierze oparty o ranking Elo. Pierwsze notowanie zostanie ogłoszone po mistrzostwach świata w Rosji.
+
+
+W nowym rankingu mniejszą wagę będą miały mecze towarzyskie, dodatkowo mecze dalszych rund w turniejach mistrzowskich będą wyżej punktowane niż np. faza grupowa.
+
+Ważność meczów:
+
+- 5 - mecze towarzyskie poza terminami FIFA
+- 10 - mecze towarzyskie w terminach FIFA
+- 15 - mecze grupowe Ligi Narodów
+- 25 - play off i finały Ligi Narodów
+- 25 - eliminacje mistrzostw kontynentalnych i MŚ
+- 35 - mecze finałów mistrzostw kontynentalnych przed fazą ćwierćfinałową
+- 40 - mecze finałów mistrzostw kontynentalnych od fazy ćwierćfinałowej oraz mecze Pucharu Konfederacji FIFA
+- 50 - mecze finałów mistrzostw świata przed fazą ćwierćfinałową
+- 60 - mecze finałów mistrzostw świata od fazy ćwierćfinałowej
+
+Formuła rankingu:
+
+punkty = punkty przed meczem + ważność meczu * (wynik meczu - przewidywany wynik meczu)
+
+wynik meczu = 1 (zwycięstwo) lub 0,5 (remis) lub 0 (porażka)
+przewidywany wynik meczu = 1/(10^(-dr/600) + 1)
+dr - różnica w rankingu = punkty przed meczem drużyny A - punkty przed meczem drużyny B
+
+Dzięki nowej formule nie będzie już liczona średnia roczna punktów, a także nie będzie już ustalania siły rywala na podstawie konfederacji, do której należy. Dodatkowo gospodarze turniejów mistrzowskich w nowej formule nie powinni być już tak bardzo poszkodowani w rankingu.
+
+
+źródło: własne / FIFA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marek - 10 czerwca 2018, 16:41:44 - *.kielce.vectranet.pl
+Liga Narodów to największa głupota co mogli zrobić.
+
+BI - 10 czerwca 2018, 16:46:05 - *.centertel.pl
+Niech Elo będzie z wami.
+
+Borubar - 10 czerwca 2018, 16:57:17 - *.146.168.158.nat.umts.dynamic.t-mobile.pl
+Cała ta sztuczna Liga Narodów, to jedynie maszynka do zarabiania pieniędzy. FIFA i UEFA nie mają już chyba pomysłów na bardziej kuriozalne turnieje. Przecież to tylko obniża poziom i nikt nie traktuje poważnie takich turniejów, jak np. Liga Narodów. Jedyny pozytyw to taki, że nasza reprezentacja będzie zajmować w końcu odpowiednie miejsce w rankingu FIFA (czyli okolice 30 miejsca). Nawałka migał się od rozgrywania meczów, a teraz nie będzie wyjścia i nasza kadra zostanie odpowiednio zweryfikowana. Po mistrzostwach świata będzie już wiadomo, ile warta jest nasza reprezentacja, mająca w składzie emerytów i pozorantów gry (Peszko, Pazdan,Jodłowiec). Osobiście nie uczestniczę w tym szaleństwie przedmundialowym i nie wywieszam flag na samochodzie. Nawet w dniu meczu z Senegalem, zaplanowałem sobie wyjazd do dalszej rodziny, która nie interesuje się piłką. Nie zgadzam się z powołaniami Nawałki i nie życzę sobie, aby mój kraj reprezentował ktoś, kto kopie dmuchaną lalkę i odbiera nocne telefony z prowokacją w tle. Nie godzę się na to, aby Damian Kądzior został odstrzelony przez selekcjonera i nie godzę się na wystawianie w kadrze graczy, którzy nie stanowią o sile w swoich macierzystych klubach.
+
+głos serca - 10 czerwca 2018, 17:00:57 - *.icpnet.pl
+Liga Narodów jest dobrym pomysłem. Będziemy grali z zespołami na podobnym poziomie zamiast nudnych meczów towarzyskich.Borubar gdyby twoja wiedza nie była zerowa to byś wiedział, że obecnie w rankingu ELO Polska zajmuje 19. miejsce.
+
+
+
+
+
+HipChłop - 10 czerwca 2018, 17:09:02 - *.dynamic.gprs.plus.pl
+Elo, Sokół, Eldo, Radoskór będą ustalać ranking. 
+
+ttr - 10 czerwca 2018, 17:37:36 - *.adsl.inetia.pl
+"W nowym rankingu mniejszą wagę będą miały mecze towarzyskie" - patrząc na ostatnie wyniki Polski w tych meczach to chyba dobra informacja :D
+
+xy - 10 czerwca 2018, 19:29:40 - *.neoplus.adsl.tpnet.pl
+Zmiany dla zmiany...
+
+So - 10 czerwca 2018, 19:38:13 - *.icpnet.pl
+okej ale porażka w finale bardzo zaboli w tym rankingu (60*(-1)) czyli za porażkę maksymalnie 60 punktów w plecy
+
+snk - 10 czerwca 2018, 19:39:26 - *.dynamic.chello.pl
+Nie oszukujmy się bez Glika mamy taką wyrwę w obronie jak Rów Mariański,zmiennicy są bardzo słabi a pokazali to w meczu ze śmiesznymi rezerwami Chile, a Szczęsny tradycyjnie puszcza gola w każdym meczu co jest już od dawna irytujące i żenujące.Niestety ugramy na tych mistrzostwach 4pkt.i 3 miejsce w grupie
+
+Realista - 10 czerwca 2018, 20:33:37 - *.org
+I bardzo dobrze, skonczy sie bezczelne unikanie grania i budowanie sobie na tym rankingu, koniec tchurzostwa, czas na granie, a kto nie wygrywa i nie zdobywa punktuw, ten spada nisko w okolice miejsc 100-200, tam gdzie jest miejsce tej pseudo kadry.
+
+LEON - 10 czerwca 2018, 20:45:17 - *.neoplus.adsl.tpnet.pl
+Zobaczymy jakie cuda będą się zdarzać może San Marino albo Gibraltar będą liderem a tak na serio oby tylko nam to nie zaskoczyło ELO
+
+Patriota - 10 czerwca 2018, 23:11:41 - *.multi.internet.cyfrowypolsat.pl
+Ja nie mogę. No po prostu śmiać mi się z was chce... Najbardziej z "realista". Idź gościu od lekarza od głowy albo wyjedź z tego kraju bo tak Polak nie pisze. Reprezentację się zawsze wspiera, jest się dymnym z Orzełka i Flagi i nie pisze takich wypocin .....
+
+jakas1 - 10 czerwca 2018, 23:16:41 - *.dynamic.gprs.plus.pl
+Zmiana oczekiwana od 10 lat, ale oczywiście FIFA musiała przekombinować i  za półfinały i finały MŚ nie będzie można stracić żadnych punktów w rankingu, co jest absurdalne, niezgodne z ideą rankingu ELO i powodować będzie jego inflację i nieporównywalność w czasie
+
+dfals - 11 czerwca 2018, 0:20:43 - *.dynamic.chello.pl
+@jakas1przeczytałeś formułę liczenia?Jeśli w półfinale lub finale MŚ przegrasz z drużyną o niższym rankingu to leci mocno w plecy. Zaś przegrana z rankingowo równym sobie - minus 30pkt (w połowa z 60pkt). Przegrana z zespołem znacznie wyżej w rankingu - też strata punktowa, ale mniejsza.
+
+
+
+
+
+Spejson - 11 czerwca 2018, 0:35:26 - *.play-internet.pl
+Borubar nie ośmieszaj się, Jodłowca dawno już nie ma w kadrze. Ty naprawdę jesteś zakałą tego serwisu
+
+pawel - 11 czerwca 2018, 8:33:47 - *.244.58.133
+do redakcji: pierwsze notowanie po mś, a jak będzie na starcie? policzą punkty wstecz od równej ilości punktów (jak tak to jak dużo wstecz?) czy przeniosą punkty z obecnego rankingu i na jego podstawie będą dalej liczyć?
+
+znawca - 11 czerwca 2018, 9:23:08 - *.170.203.240
+Właśnie ,od kiedy będą liczone punkty ,w tym cały szkopuł a nie w tym czy nowy ranking będzie bardziej miarodajny bo będzie.Większego gniota jak ten co teraz obowiązuje to już nie można było wymyślić.
+
+jakas1 - 11 czerwca 2018, 13:21:54 - *.static.libet.pl
+@dfals: Ja przeczytałem, ale czy Ty przeczytałeś, to wątpię. Od półfinałów będzie można wyłącznie zdobyć punkty, stracić się ich nie da, co jest zaprzeczeniem idei rankingu ELO. Dodatkowo faworyzuje to kraje z kontynentów, które mają mistrzostwa kontynentalne częściej, niż co 4 lata.  dodatku wysokość wygranej/przegranej nie będzie miała wpływu na zmianę w rankingu.
+
+Łukasz - 11 czerwca 2018, 13:25:01 - *.dynamic.mm.pl
+Masło maślane jednym słowem. Ligą Narodów + nowy system europejskich pucharów + ranking fifa.W teorii czarna magia, trzeba poczekać na praktykę.
+
+Łukasz - 11 czerwca 2018, 13:28:40 - *.dynamic.mm.pl
+Jeszcze jest bzdurą mówienie, że Liga Narodów zastapi mecze towarzyskie. Nie do końca, bo przed mundialem czy euro rozgrywane są sparingi dodatkowo w listopadzie zagramy z Czechami. Liga Narodów to dodatkowy wymysł UEFA, a mecze towarzyskie wciąż będą rozgrywane.
+
+
+
+Pseudonim (max 10 znaków): 
+
+E-mail: 
+
+
+
+
+
+
+
+Redakcja 90minut.pl nie ponosi odpowiedzialności za treść komentarzy, które są niezależnymi opiniami czytelników serwisu. Jednocześnie 90minut.pl zastrzega sobie prawo do kasowania komentarzy zawierających wulgaryzmy, treści rasistowskie, reklamy, wypowiedzi nie związane z tematem artykułu, "trolling", sformułowania obraźliwe w stosunku do innych czytelników serwisu, osób trzecich, klubów lub instytucji itp., a w skrajnych przypadkach do blokowania możliwości komentowania wiadomości przez poszczególnych użytkowników lub całe sieci.FIFA ogłosiła zmiany w sposobie liczenia rankingu FIFA. Nowy ranking (SUM) będzie w dużej mierze oparty o ranking Elo. Pierwsze notowanie zostanie ogłoszone po mistrzostwach świata w Rosji.
+
+W nowym rankingu mniejszą wagę będą miały mecze towarzyskie, dodatkowo mecze dalszych rund w turniejach mistrzowskich będą wyżej punktowane niż np. faza grupowa.
+
+Ważność meczów:
+
+- 5 - mecze towarzyskie poza terminami FIFA
+- 10 - mecze towarzyskie w terminach FIFA
+- 15 - mecze grupowe Ligi Narodów
+- 25 - play off i finały Ligi Narodów
+- 25 - eliminacje mistrzostw kontynentalnych i MŚ
+- 35 - mecze finałów mistrzostw kontynentalnych przed fazą ćwierćfinałową
+- 40 - mecze finałów mistrzostw kontynentalnych od fazy ćwierćfinałowej oraz mecze Pucharu Konfederacji FIFA
+- 50 - mecze finałów mistrzostw świata przed fazą ćwierćfinałową
+- 60 - mecze finałów mistrzostw świata od fazy ćwierćfinałowej
+
+Formuła rankingu:
+
+punkty = punkty przed meczem + ważność meczu * (wynik meczu - przewidywany wynik meczu)
+
+wynik meczu = 1 (zwycięstwo) lub 0,5 (remis) lub 0 (porażka)
+przewidywany wynik meczu = 1/(10^(-dr/600) + 1)
+dr - różnica w rankingu = punkty przed meczem drużyny A - punkty przed meczem drużyny B
+
+Dzięki nowej formule nie będzie już liczona średnia roczna punktów, a także nie będzie już ustalania siły rywala na podstawie konfederacji, do której należy. Dodatkowo gospodarze turniejów mistrzowskich w nowej formule nie powinni być już tak bardzo poszkodowani w rankingu.
+
+
+
+
+
+
+
+
+
+
+
+Marek - 10 czerwca 2018, 16:41:44 - *.kielce.vectranet.pl
+Liga Narodów to największa głupota co mogli zrobić.
+
+BI - 10 czerwca 2018, 16:46:05 - *.centertel.pl
+Niech Elo będzie z wami.
+
+Borubar - 10 czerwca 2018, 16:57:17 - *.146.168.158.nat.umts.dynamic.t-mobile.pl
+Cała ta sztuczna Liga Narodów, to jedynie maszynka do zarabiania pieniędzy. FIFA i UEFA nie mają już chyba pomysłów na bardziej kuriozalne turnieje. Przecież to tylko obniża poziom i nikt nie traktuje poważnie takich turniejów, jak np. Liga Narodów. Jedyny pozytyw to taki, że nasza reprezentacja będzie zajmować w końcu odpowiednie miejsce w rankingu FIFA (czyli okolice 30 miejsca). Nawałka migał się od rozgrywania meczów, a teraz nie będzie wyjścia i nasza kadra zostanie odpowiednio zweryfikowana. Po mistrzostwach świata będzie już wiadomo, ile warta jest nasza reprezentacja, mająca w składzie emerytów i pozorantów gry (Peszko, Pazdan,Jodłowiec). Osobiście nie uczestniczę w tym szaleństwie przedmundialowym i nie wywieszam flag na samochodzie. Nawet w dniu meczu z Senegalem, zaplanowałem sobie wyjazd do dalszej rodziny, która nie interesuje się piłką. Nie zgadzam się z powołaniami Nawałki i nie życzę sobie, aby mój kraj reprezentował ktoś, kto kopie dmuchaną lalkę i odbiera nocne telefony z prowokacją w tle. Nie godzę się na to, aby Damian Kądzior został odstrzelony przez selekcjonera i nie godzę się na wystawianie w kadrze graczy, którzy nie stanowią o sile w swoich macierzystych klubach.
+
+głos serca - 10 czerwca 2018, 17:00:57 - *.icpnet.pl
+Liga Narodów jest dobrym pomysłem. Będziemy grali z zespołami na podobnym poziomie zamiast nudnych meczów towarzyskich.Borubar gdyby twoja wiedza nie była zerowa to byś wiedział, że obecnie w rankingu ELO Polska zajmuje 19. miejsce.
+
+
+
+
+
+HipChłop - 10 czerwca 2018, 17:09:02 - *.dynamic.gprs.plus.pl
+Elo, Sokół, Eldo, Radoskór będą ustalać ranking. 
+
+ttr - 10 czerwca 2018, 17:37:36 - *.adsl.inetia.pl
+"W nowym rankingu mniejszą wagę będą miały mecze towarzyskie" - patrząc na ostatnie wyniki Polski w tych meczach to chyba dobra informacja :D
+
+xy - 10 czerwca 2018, 19:29:40 - *.neoplus.adsl.tpnet.pl
+Zmiany dla zmiany...
+
+So - 10 czerwca 2018, 19:38:13 - *.icpnet.pl
+okej ale porażka w finale bardzo zaboli w tym rankingu (60*(-1)) czyli za porażkę maksymalnie 60 punktów w plecy
+
+snk - 10 czerwca 2018, 19:39:26 - *.dynamic.chello.pl
+Nie oszukujmy się bez Glika mamy taką wyrwę w obronie jak Rów Mariański,zmiennicy są bardzo słabi a pokazali to w meczu ze śmiesznymi rezerwami Chile, a Szczęsny tradycyjnie puszcza gola w każdym meczu co jest już od dawna irytujące i żenujące.Niestety ugramy na tych mistrzostwach 4pkt.i 3 miejsce w grupie
+
+Realista - 10 czerwca 2018, 20:33:37 - *.org
+I bardzo dobrze, skonczy sie bezczelne unikanie grania i budowanie sobie na tym rankingu, koniec tchurzostwa, czas na granie, a kto nie wygrywa i nie zdobywa punktuw, ten spada nisko w okolice miejsc 100-200, tam gdzie jest miejsce tej pseudo kadry.
+
+LEON - 10 czerwca 2018, 20:45:17 - *.neoplus.adsl.tpnet.pl
+Zobaczymy jakie cuda będą się zdarzać może San Marino albo Gibraltar będą liderem a tak na serio oby tylko nam to nie zaskoczyło ELO
+
+Patriota - 10 czerwca 2018, 23:11:41 - *.multi.internet.cyfrowypolsat.pl
+Ja nie mogę. No po prostu śmiać mi się z was chce... Najbardziej z "realista". Idź gościu od lekarza od głowy albo wyjedź z tego kraju bo tak Polak nie pisze. Reprezentację się zawsze wspiera, jest się dymnym z Orzełka i Flagi i nie pisze takich wypocin .....
+
+jakas1 - 10 czerwca 2018, 23:16:41 - *.dynamic.gprs.plus.pl
+Zmiana oczekiwana od 10 lat, ale oczywiście FIFA musiała przekombinować i  za półfinały i finały MŚ nie będzie można stracić żadnych punktów w rankingu, co jest absurdalne, niezgodne z ideą rankingu ELO i powodować będzie jego inflację i nieporównywalność w czasie
+
+dfals - 11 czerwca 2018, 0:20:43 - *.dynamic.chello.pl
+@jakas1przeczytałeś formułę liczenia?Jeśli w półfinale lub finale MŚ przegrasz z drużyną o niższym rankingu to leci mocno w plecy. Zaś przegrana z rankingowo równym sobie - minus 30pkt (w połowa z 60pkt). Przegrana z zespołem znacznie wyżej w rankingu - też strata punktowa, ale mniejsza.
+
+
+
+
+
+Spejson - 11 czerwca 2018, 0:35:26 - *.play-internet.pl
+Borubar nie ośmieszaj się, Jodłowca dawno już nie ma w kadrze. Ty naprawdę jesteś zakałą tego serwisu
+
+pawel - 11 czerwca 2018, 8:33:47 - *.244.58.133
+do redakcji: pierwsze notowanie po mś, a jak będzie na starcie? policzą punkty wstecz od równej ilości punktów (jak tak to jak dużo wstecz?) czy przeniosą punkty z obecnego rankingu i na jego podstawie będą dalej liczyć?
+
+znawca - 11 czerwca 2018, 9:23:08 - *.170.203.240
+Właśnie ,od kiedy będą liczone punkty ,w tym cały szkopuł a nie w tym czy nowy ranking będzie bardziej miarodajny bo będzie.Większego gniota jak ten co teraz obowiązuje to już nie można było wymyślić.
+
+jakas1 - 11 czerwca 2018, 13:21:54 - *.static.libet.pl
+@dfals: Ja przeczytałem, ale czy Ty przeczytałeś, to wątpię. Od półfinałów będzie można wyłącznie zdobyć punkty, stracić się ich nie da, co jest zaprzeczeniem idei rankingu ELO. Dodatkowo faworyzuje to kraje z kontynentów, które mają mistrzostwa kontynentalne częściej, niż co 4 lata.  dodatku wysokość wygranej/przegranej nie będzie miała wpływu na zmianę w rankingu.
+
+Łukasz - 11 czerwca 2018, 13:25:01 - *.dynamic.mm.pl
+Masło maślane jednym słowem. Ligą Narodów + nowy system europejskich pucharów + ranking fifa.W teorii czarna magia, trzeba poczekać na praktykę.
+
+Łukasz - 11 czerwca 2018, 13:28:40 - *.dynamic.mm.pl
+Jeszcze jest bzdurą mówienie, że Liga Narodów zastapi mecze towarzyskie. Nie do końca, bo przed mundialem czy euro rozgrywane są sparingi dodatkowo w listopadzie zagramy z Czechami. Liga Narodów to dodatkowy wymysł UEFA, a mecze towarzyskie wciąż będą rozgrywane.
+
+
+
+Pseudonim (max 10 znaków): 
+
+E-mail: 
+
+
+
+
+
+
+
+Redakcja 90minut.pl nie ponosi odpowiedzialności za treść komentarzy, które są niezależnymi opiniami czytelników serwisu. Jednocześnie 90minut.pl zastrzega sobie prawo do kasowania komentarzy zawierających wulgaryzmy, treści rasistowskie, reklamy, wypowiedzi nie związane z tematem artykułu, "trolling", sformułowania obraźliwe w stosunku do innych czytelników serwisu, osób trzecich, klubów lub instytucji itp., a w skrajnych przypadkach do blokowania możliwości komentowania wiadomości przez poszczególnych użytkowników lub całe sieci.
+
+
+E-mail: 
+
+
+
+
+
+
+
+Redakcja 90minut.pl nie ponosi odpowiedzialności za treść komentarzy, które są niezależnymi opiniami czytelników serwisu. Jednocześnie 90minut.pl zastrzega sobie prawo do kasowania komentarzy zawierających wulgaryzmy, treści rasistowskie, reklamy, wypowiedzi nie związane z tematem artykułu, "trolling", sformułowania obraźliwe w stosunku do innych czytelników serwisu, osób trzecich, klubów lub instytucji itp., a w skrajnych przypadkach do blokowania możliwości komentowania wiadomości przez poszczególnych użytkowników lub całe sieci.
+
+
+
+
+
+
+Redakcja 90minut.pl nie ponosi odpowiedzialności za treść komentarzy, które są niezależnymi opiniami czytelników serwisu. Jednocześnie 90minut.pl zastrzega sobie prawo do kasowania komentarzy zawierających wulgaryzmy, treści rasistowskie, reklamy, wypowiedzi nie związane z tematem artykułu, "trolling", sformułowania obraźliwe w stosunku do innych czytelników serwisu, osób trzecich, klubów lub instytucji itp., a w skrajnych przypadkach do blokowania możliwości komentowania wiadomości przez poszczególnych użytkowników lub całe sieci.
+
+
+
+
+Redakcja 90minut.pl nie ponosi odpowiedzialności za treść komentarzy, które są niezależnymi opiniami czytelników serwisu. Jednocześnie 90minut.pl zastrzega sobie prawo do kasowania komentarzy zawierających wulgaryzmy, treści rasistowskie, reklamy, wypowiedzi nie związane z tematem artykułu, "trolling", sformułowania obraźliwe w stosunku do innych czytelników serwisu, osób trzecich, klubów lub instytucji itp., a w skrajnych przypadkach do blokowania możliwości komentowania wiadomości przez poszczególnych użytkowników lub całe sieci.Redakcja 90minut.pl nie ponosi odpowiedzialności za treść komentarzy, które są niezależnymi opiniami czytelników serwisu. Jednocześnie 90minut.pl zastrzega sobie prawo do kasowania komentarzy zawierających wulgaryzmy, treści rasistowskie, reklamy, wypowiedzi nie związane z tematem artykułu, "trolling", sformułowania obraźliwe w stosunku do innych czytelników serwisu, osób trzecich, klubów lub instytucji itp., a w skrajnych przypadkach do blokowania możliwości komentowania wiadomości przez poszczególnych użytkowników lub całe sieci. 

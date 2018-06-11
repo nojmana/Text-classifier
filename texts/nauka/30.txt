@@ -1,0 +1,104 @@
+
+
+
+    Advanced search lets you search selected properties of the classification. You 
+    could search all properties or a selected subset only
+
+    Please 
+    provide keywords in the Search Text field and check the 
+    properties that you'd like to include in the search.
+
+    The system will search for the keywords in the properties that 
+    you've checked 
+    The results are sorted by how good the text entered matches the phrase in ICD.
+    It is also grouped by using the ICD hierarchy so that if the search text matches a parent category and several children,
+    they will appear in a fashion that is easy to identify this relation visually. The list shows only the titles or the
+    best match among the matched terms if the title is not a match. However, ▤
+    button will make more matching results visible under the entity.
+If the search query hits more than 200 results, then only the top 200 will be 
+    displayed.
+
+    If you provide more than one keyword, the system will 
+    search for items that have all the keywords.
+Wildcards:
+
+    You may also use wildcard character *
+
+    For example, searching  diabet* finds all entities that have a word that start with 
+    "diabet" 
+
+After the search the results are displayed at the lower right area of the screen. Clicking on any result will load that entity
+You may close the Advanced Search window or the Search Results pane by clicking the X at the top left corner of the 
+    window.
+After the search the results are displayed at the lower right area of the screen. Clicking on any result will load that entityYou may close the Advanced Search window or the Search Results pane by clicking the X at the top left corner of the 
+    window.
+
+    Quick search helps you quickly navigate to a particular category. 
+    It searches the titles, inclusions, synonyms and narrower terms and it works by starting to search as you type and 
+    provide you options in a dynamic dropdown list.
+
+  Clicking on one of the entities that appear in the list will load the entity. The results are sorted by how good the text entered matches the phrase in ICD. 
+    It is also grouped by using the ICD hierarchy so that if the search text matches a parent category and several children,
+    they will appear in a fashion that is easy to identify this relation visually. The list shows only the titles or the 
+    best match among the matched terms if the title is not a match. However, ▤
+    button will make more matching results visible under the entity.
+    You may also use wildcards to find similar words or to simply save some 
+    typing.
+
+    For example, transp* accident will find entities with 
+    transport and accident
+    You may use the ICD-11 browser without registration. However, 
+    registered users of the browser can perform additional functions
+    such as:
+
+    You may click the [Log In] link to sign in to the system. If you don't already have an account, it's 
+    very easy to setup one using the [Register] link
+    
+Foundation Component is a collection of ALL ICD entities like diseases, disorders...   It represents the whole ICD universe. 
+
+In a simple way, the foundation component is similar to a “store” of books or songs.  
+From these elements we build a selection as a linearization. 
+This analogy may however be misleading because there are many links between the ICD entities (like parent-child relations and other). 
+
+    You may click the [Log In] link to sign in to the system. If you don't already have an account, it's 
+    very easy to setup one using the same link.
+    
+Linearizations are similar to the classical print versions of ICD Tabular List (e.g. volume I of ICD-10 or other previous editions).  
+       Various linearizations could be built at different granularity, 
+       use case or other purposes such as for Primary Care, Clinical Care or Research.  The linkage from the foundation component to a particular 
+       linearization will ensure consistent use of the ICD. 
+
+    You may click the [Log In] link to sign in to the system. If you don't already have an account, it's 
+    very easy to setup one using the same link.
+    Welcome to the ICD-11 BrowserYou can browse the ICD-11 proposed content hereIf you wish to participate in the Beta Phase you may create an account for yourself from by  registering to the 
+    ICD-11 Browser.
+    Registering will provide you additional functionality such as accessing print materials, commenting, making change proposals, receiving notifications, etc.
+    
+    ICD-11 Beta draft is:
+More information on ICD-11 Beta Phase What to expect, when and how?  For more information about how to use the ICD-11 Browser, please see the User GuideFor more questions, please contact icd@who.int
+    When visualizing the foundation, all nodes look the same except the selected entity which has a darker background and
+    larger circle.
+    In this example the Intervertebral disc herniation is the selected entity
+
+    When browsing a linearization, only entities in that linearization are visible. Regular parent-child relations are shown in 
+    blue color. The foundation children that are not linearization children are shown with a dashed line in gray.
+The color within the circle shows whether the entity is a grouping entity or a category with a codeIn this mode, the entities that are in the linearization has a blue circle whereas entities that are not in the 
+    linearization has a gray circle. As in the linearization view, the color inside circle shows whether the entity is a grouping or a codable categoryThe blue lines show the linearization parents where as the gray lines are other parent-child relations in the foundationIn this example, "Polycythaemia" has 3 children in the foundation. 
+    
+    One of them (the one with the gray circle) is not included
+    in the linearization.
+
+ "Relative polycythaemia" is included in the linearization but the linearization parent is elsewhere (blue node with
+    gray connection).
+ The third one is a proper linearization children (blue circle with blue line) 
+
+    More information on the visualization feature is available in the 
+    User Guide
+
+
+    One of them (the one with the gray circle) is not included
+    in the linearization.
+ "Relative polycythaemia" is included in the linearization but the linearization parent is elsewhere (blue node with
+    gray connection). The third one is a proper linearization children (blue circle with blue line) 
+    More information on the visualization feature is available in the 
+    User Guide

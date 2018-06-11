@@ -1,5 +1,7 @@
+import os
 from gensim.models import Word2Vec
 from nltk import word_tokenize
+import glob
 
 
 def readTags():
@@ -10,18 +12,21 @@ def readTags():
 
 
 fNames = readTags()
-extension = '.txt'
+
 
 def tokenizeAll():
     words = []
-    for name in fNames:
-        with open('texts_cleaned/' + name + extension) as f:
-            content = f.read()
-            content = content.lower()
+    for name in fNames: # for each tag
+        print('Tokenizing tag:', name)
+        ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+        allArticlesForTag = glob.glob(ROOT_DIR + '/texts/' + name + '/*.txt')
+        for article in allArticlesForTag:
+            with open(article) as f:  # open each article
+                content = f.read()
+                content = content.lower()
 
-            wordTokenized = word_tokenize(content) # wszystkie slowa z calego dokumentu
-            words.append(wordTokenized)
-
+                wordTokenized = word_tokenize(content)  # wszystkie slowa z calego dokumentu
+                words.append(wordTokenized)
     return words
 
 def main():

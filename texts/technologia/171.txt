@@ -1,0 +1,182 @@
+
+        Autor:
+Wojciech Kulik 
+        więcej artykułów ze strefy:
+
+            Technologie i Firma        
+2018-06-07
+Kategoria:
+Ciekawostki
+Technologie i Firma
+Tematyka:
+Blockchain
+edukacja
+Innowacje w firmie
+Kryptowaluty
+Lifestyle i biznes
+Szkoła Główna Handlowa w Warszawie rozpoczęła rekrutację na przyszłościowy kierunek Blockchain, inteligentne kontrakty oraz waluty cyfrowe. Co znajduje się w programie?
+
+Aktualizacja, 7 czerwca 2018: Technologia blockchain i rozmaite kryptowaluty to przyszłość, której początki obserwujemy już teraz. Doświadczenie i wykształcenie w tej dziedzinie może być zatem kluczowe na rynku pracy, czego ma świadomość Szkoła Główna Handlowa w Warszawie, która rozpoczęła rekrutację na… Jak czytamy na stronie uczelni, są to studia podyplomowe, których program obejmuje 232 godziny zajęć. Omówione zostaną takie tematy jak wykorzystanie łańcucha bloków w budowaniu wartości biznesowej, znaczenie inteligentnych kontraktów czy też potencjalne zastosowania tych nowych technologii.Studenci będą mogli poznać podstawowy technologii kryptograficznych i blockchain, jak również ich pierwszej trwałej implementacji, czyli walut cyfrowych. Nie zabraknie również warsztatów poświęconych oprogramowaniu komputerowemu wykorzystującemu lub bazującemu na takich rozwiązaniach.Jak czytamy na stronie, „w trakcie studiów Słuchacze zapoznają się z genezą, funkcjonowaniem, podstawami kryptograficznymi i informatycznymi blockchain oraz teorią i praktyką implementacji rozwiązań na nich opartych, uwarunkowaniami prawno-regulacyjnymi, technicznymi, ekonomicznymi.Ponadto Słuchaczom prezentowane będą potencjalne, planowane oraz faktycznie wdrażane rozwiązania wykorzystujące tę technologię, w tym najważniejsze polskie projekty i modele biznesowe przedsiębiorstw oraz rozwiązania dostarczane przez spółki doradcze”.Kierownikiem studiów jest dr Grzegorz Sobiecki. Więcej informacji na temat tego kierunku można znaleźć na stronie SGH.  News, 23 sierpnia 2017: Kryptowaluty zyskują na popularności i wartości, a z będącą ich podstawą technologią blockchain wiązane są coraz większe nadzieje. Zrozumienie zasad ich działania może jednak być problematyczne. Dla profesjonalistów, którzy chcą posiąść tę wiedzę Szkoła Główna Handlowa w Warszawie przygotowała coś interesującego.Kierunek „kryptowaluty i technologia blockchain” – to coś, co zdecydowanie można nazwać przyszłościowymi studiami. Konkretnie studiami podyplomowymi, przeznaczonymi przede wszystkim dla osób, które pracują w różnego rodzaju instytucjach finansowych. Na otwarcie takiego kierunku zdecydowała się wspomniana SGH, która zapowiada, że studia będą trwały dwa semestry, a ich koszt wyniesie 7600 złotych (czyli niespełna pół bitcoina). Start został zaplanowany na rok akademicki 2018/19.W trakcie dwóch semestrów studenci poznają założenia technologii blockchain, zasady funkcjonowania kryptowalut, mechanizmy ich generowania i nabywania oraz sposoby prowadzenia rozliczeń. Zdobędą też wiedzę na temat potencjalnych zastosowań bitcoina i innych kryptowalut oraz możliwości „łańcucha bloków”. Do tego dojdą jeszcze zajęcia z prawa, finansów i kryptografii.Wśród wykładowców pojawią się profesorowie z prestiżowych polskich uczelni, jak również specjaliści z banków i innych przedsiębiorstw technologicznych oraz finansowych. Zainteresowani mogą już rejestrować miejsca.Źródło: SGH, Money. Ilustracja: typographyimages/Pixabay (CC0)20
+1
+ 
+ 
+
+                    Beż żadnych zajęć praktycznych jak zaimplementować blockchain?                
+Skomentuj
+
+11
+ 
+ 
+
+                    -Szefie, użyjmy blockchain, na studiach mówili, że to świetne jest.
+- Dobra, rób.
+- Ja? Ja nie umiem.                
+Skomentuj
+
+1
+ 
+ 
+
+                    @llefar
+To nie sa studia dla kogos, kto to bedzie implementowal, a dla analitykow biznesowych itp, zeby wiedzieli o co chodzi w ogole.                
+Skomentuj
+
+1
+ 
+ 
+
+                    @Konsole Rzondzom
+>To będzie kolejna fabryka bezrobotnych. 
+
+To sa roczne podyplomowe (bo trwaja 2 semestry).
+Jakbys kiedys jakiekolwiek skonczyl to bys wiedzial o co chodzi.                
+Skomentuj
+
+2
+ 
+ 
+
+                    Dobry komentarz z rana, oplułem monitor ze śmiechu.                
+Skomentuj
+
+12
+ 
+ 
+
+                    A mogli nazwac normalnie - górnictwo                
+Skomentuj
+
+2
+ 
+ 
+
+                    cyfrowe górnictwo                
+Skomentuj
+
+3
+ 
+ 
+
+                    No to bierz student wiadro i kilof ................. ;-) :-D                
+Skomentuj
+
+5
+ 
+ 
+
+                    Jeden przedmiot bym zrozumiał, ale cały kierunek? Trzepanie kasy z naiwnych. Za rok ta wiedza może być już niewiele warta - Bitcoin może zniknąć tak, jak się pojawił.                
+Skomentuj
+
+1
+ 
+ 
+
+                    Drodzy Państwo, czy wy nie rozumiecie, że to nie studia techniczne dla informatyków, tylko podyplomówka dla handlowców? O tym co to bitcoin będzie trochę poopowiadane, a sedno programu będą stanowić to jak na tym zarabiać, jak się to ma do przepisów itp. 
+
+Warto chyba mieć w kilkudziesięcioosobowym zespole finansistów kogoś kto wie o kryptowalutach coś więcej niż to, że jest to kolejna pozycja na liście której kurs się zmienia. 
+Myślę, że znajdą się chętni dla których takie studia będą atutem w CV - bo poczytanie w internecie kilku poradników napisanych przez ludzi którzy poczytali kilka zagranicznych poradników raczej eksperta od kryptowalut z nikogo nie czyni.
+
+Skomentuj
+
+1
+ 
+ 
+
+                    W teorii tak, ale w praktyce wystarczy znać dosłownie kilka przepisów obowiązujących w naszym kraju plus kilka z kilku krajów na świecie (co sprowadza się do wiedzy gdzie jest uznawana za walutę, a gdzie nie), a do tego nie trzeba całego kierunku studiów, do tego w szkole nietechnicznej.
+Mnie to wygląda na próbę załapania się na pociąg o nazwie "kryptowaluty", lub też "byle o nas pisali, nieważne jak".
+
+Musisz zaś pamiętać, że ekspertem od kryptowalut nie jest osoba, która zna kilka przepisów lub też umie nimi handlować, ale programista z rozległą wiedzą na temat kryptografii od strony matematycznej (teoria) i koniecznie informatycznej (implementacja), a takich ludzi na świecie nie ma zbyt wielu.                
+Skomentuj
+
+2
+ 
+ 
+
+                    Miałem pisać o tym samym ale widzę, że mnie wyprzedziłeś. Problem większości ludzi polega na myśleniu, że np jeżeli pójdą na budownictwo, to po skończeniu studiów będą umieli dom wybudować.
+
+Sam idąc kilka lat temu na studia miałem wykształcenie zawodowe zrobione równolegle z ogólniakiem, do tego lata praktyki w rodzinnym zakładzie i często aż żal było patrzeć na tych ludzi którzy dziwili się, że ich nikt nawet na 10 minut na żadną obrabiarkę nie wpuścił.                 
+Skomentuj
+
+1
+ 
+ 
+
+                    Kierunek studiów?
+To powinien być przedmiot na semestr, może dwa.                
+Skomentuj
+
+1
+ 
+ 
+
+                    No to sa studia podyplomowe na 2 semestry.                
+Skomentuj
+
+0
+ 
+ 
+
+                    Myślę, że tu raczej kuleje czytanie ze zrozumieniem i w przypadku niektórych trochę ograniczona wizja świata.                
+Skomentuj
+
+-1
+ 
+ 
+
+                    Studia na 2 semestry. Czyli CAŁOŚĆ zajęć jest w w/w kierunku.
+Wy naprawdę myślicie że w tym temacie jest tyle materiału żeby zapełnić grafik studenta? Na cały rok? Serio?                
+Skomentuj
+
+0
+ 
+ 
+
+                    Widac jest, skoro stworzyli taki kierunek. 
+Od strony bizesowej, ekonomicznej, praktycznych implementacji.
+Jak nie bedzie chetnych to najwyzej nie wystartuje albo bedzie tylko 1 rocznik.                
+Skomentuj
+
+0
+ 
+ 
+
+                    Szczerze wątpię.
+Mi to wygląda na typowe wyciąganie kasy na modnym temacie.
+
+Chyba że to jakiś plan pt. użyjmy studentów żeby nam zbudowali kopalnię i potem jej pilnowali w ramach zajęć :P                
+Skomentuj
+
+0
+ 
+ 
+
+                    Ehh na jakie głupoty idą pieniądze to masakra jest. Są 3 rodzaje studentów: 1. Ida na studia i dzięki nim planuja znaleźć prace - bezrobotni i szara strefa, 2. Idą na studia się wyszaleć i nie mają planów - ciemna masa. 3. Studia to tylko przystanek w drodze do celu, mogą pomóc w zakresie teorytycznym choć nie muszą. Uczą innych rzeczy jak praca w grupie czy nauka terminowości. Osoby takie mają przede wszystkim jasno postawiony cel i osiągają go ciężką pracą poza uczelnią. I takich właśnie trzeba finansować (kursy i sprzęt, stypendia) , a nie tworzyć kolejne kierunki dla bezrobotnych. Lepszy jest przydatny kierunek ogólny niż źle ukierunkowany.                
+Skomentuj
+
+0
+ 
+ 
+
+                    nie rozumiem jak osoba pracująca w branży miałaby iść z powrotem na studia, jak to samo można ogarnąć kursem/certyfikatem rozpoznawalnym na całym świecie. SGH nic nie mówi większości pracodawców na tyle rozwiniętych którzy się tą tematyką interesują i na prawdę szukają specjalistów. nie wspomnę o studencie który nie ma na opłatę czesnego bo pracuje w biedronce na weekendy. btw...to jest 13 zjazdów weekendowych :P                
+Skomentuj
+Przy komentowaniu prosimy o przestrzeganie netykiety i regulaminu.Aby dodać komentarz musisz być zalogowany!benchmark to jeden z najstarszych i największych serwisów technologicznych w Polsce. Redakcja mieści się w Poznaniu, niemniej współpracujemy z dziennikarzami i entuzjastami komputerów z całego kraju.Wygenerowano: 11 czerwca 2018 rokuCopyright ® 2018 benchmark.plpolityka cookies

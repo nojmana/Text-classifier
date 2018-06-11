@@ -1,0 +1,103 @@
+
+fot. Piotr Idem
+
+Zbigniew Biskupski AIP
+
+
+          Data dodania:          
+            21.11.2016, 11:03
+          
+
+
+            Ostatnia aktualizacja:            
+              21.11.2016, 11:28
+            
+
+Najnowszy odczyt „Barometru EFL” odnotował spadek trzeci kwartał z rzędu i w ostatnim kwartale tego roku wyniósł tylko 55,3 pkt. Na taki wynik decydujący wpływ miało istotne pogorszenie się nastrojów dotyczących planowanych inwestycji, sprzedaży produktów i usług oraz płynności finansowej. W każdym z tych obszarów odsetek przedsiębiorców liczących na wzrosty był najniższy w tym roku. Niepokojący może być też fakt, że w każdej kategorii ponad połowa zapytanych osób nie wie, co ich może czekać w nadchodzącym kwartale.  
+         PPAds.queue.push(function () {         var slot = PPAds.app.getSlot('srodek1');                            slot.appendResolution(300, 250);                                         });             Ceny masła znów idą na rekord!         Płaca minimalna znów wzrośnie. Wiemy ile więcej zaproponuje rząd!        10 czerwca ważne zmiany w rozkładzie PKP. Musisz je znać!    
+       var csRekomendacje = new ListaContentStream({         selector: {           boks: '.recomendations',           reklamy: '.recomendations li.cs'         },         szablon: '<a href="#href" title="#title">' +         '<figure class="image-box" >' +         '<img src="#src" alt="#title">' +         '</figure>' +         '<div class="title-cs">' +         '<h3 class="title">#title</h3>' +         '#add' +         '</div>' +         '</a>',         szablonReklama: '<span class="mark">sponsorowane</span>',         ile: 1       });     
+          {           'onsuccessFunctionName' : 'csRekomendacje.emisjaSukces',           'onerrorFunctionName' : 'csRekomendacje.emisjaBlad'         }        
+– Ze wstępnych danych GUS wynika, że w trzecim kwartale nasza gospodarka urosła tylko o 2,5 proc. rok do roku, czyli mamy do czynienia z najniższym PKB w ciągu trzech lat i rozczarowaniem rynku. Także samych przedsiębiorców. Widać to w naszym najnowszym odczycie Barometru, bo przecież to, jak zarządzający firmami oceniają własną sytuacją oraz plany na przyszłość, mocno koresponduje z tym, co dzieje się w otoczeniu społeczno-gospodarczym. I choć główny indeks za czwarty kwartał wciąż pozostaje wyższy od progu 50 pkt., więc warunki do rozwoju MŚP należy uznać za umiarkowanie korzystne, to jednak mamy do czynienia z trzecim kwartałem z rzędu, w którym kontynuowany jest trend spadkowy. Jeżeli powtórzy się sytuacja sprzed roku, możemy spodziewać rekordowo niskiej wartości Barometru na początku 2017 roku – mówi Radosław Kuczyński, prezes EFL.
+http://www.strefabiznesu.pl/wiadomosci/a/polscy-przedsiebiorcy-nie-sabotuja-swoich-firm-i-gospodarki,11474972/
+Długi stan niepewności
+Wynik „Barometru EFL” na IV kwartał 2016 roku wyniósł 55,3 pkt. Podobnie jak rok temu, pomiędzy III a IV kwartałem mamy do czynienia ze spadkiem wskaźnika (-1,3 pkt. proc. w porównaniu do III kwartału br.) oraz jego wartością wyższą tylko od pomiaru z I kwartału. Decydujące dla spadku wartości całego Barometru było zmniejszenie odsetka optymistów w każdej badanej kategorii. Co więcej, w przypadku aż trzech obszarów takich jak inwestycje, sprzedaż i płynność finansowa nastroje przedsiębiorców są najgorsze w całym 2016 roku. Warto także zwrócić uwagę, że wyraźnie zwiększyła się liczba osób, które nie wiedzą, jakie tendencje zapanują w najbliższych 3 miesiącach. W każdej kategorii odsetek takich przedsiębiorców był wyższy niż 50 proc. Odsetek optymistów dla inwestycji wyniósł w IV kwartale tylko 22 proc., podczas gdy trzy miesiące temu było to 28,7 proc. Również w przypadku oceny sprzedaży odsetek optymistów jest rekordowo niski (14,8 proc.), niższy nawet niż w I kw. 2016, gdy wartość całego Barometru osiągnęła najniższą dotychczasową wartość. Szacowany spadek sprzedaży pociągnął za sobą mniej optymistyczne oceny dotyczące płynności finansowej w porównaniu nie tylko do ubiegłego kwartału, ale do wszystkich wartości subindeksu od początku realizacji pomiaru. Odsetek osób spodziewających się wzrostu płynności finansowej wyniósł zaledwie 10,3 proc. (o 4 p.p. mniej w ujęciu kwartalnym). Po raz kolejny widać też wyraźną tendencję mówiącą, że im bardziej przedsiębiorcy obawiają się o płynność finansową, tym częściej przewidują zwiększenie zapotrzebowania na finansowanie zewnętrzne. Co prawda w ujęciu kwartalnym w tym obszarze liczba ankietowanych oczekujących większego zastrzyku gotówki spadła minimalnie (o 1,7 p.p), to jednak na tle wszystkich czterech tegorocznych wyników mamy do czynienia z drugim najwyższym odsetkiem optymistów.
+Jaki będzie rok 2017
+Wskaźnik nastrojów sektora MŚP w IV kwartale 2016 roku kontynuuje tendencję spadkową. Barometr uzyskał wartość mniejszą niż w II i III kwartale, jednak nieco wyższą niż w kwartale I. Jest to powtórzenie tendencji z 2015 roku. Obserwując dane historyczne, w szczególności dane dla pierwszych kwartałów 2015 i 2016 roku, w kolejnym pomiarze należy się spodziewać dalszego spadku wartości wskaźnika i zbliżenia się do granicy 50 pkt. - Takie wyniki niestety wskazują, że kondycja finansowa polskich firm ulega pogorszeniu. Na taki stan może mieć wpływ wiele czynników zaczynając od zapowiedzi polskiego rządu dotyczących m.in. zmian podatkowych, przez Brexit, na którego skutki musimy jeszcze długo poczekać, po nawet wybory prezydenckie w Stanach Zjednoczonych. Z natury jestem jednak optymistą i mam nadzieję, że z nadejściem nowego roku, również przyjdą nowe, lepsze nastroje wśród naszych przedsiębiorców – podkreśla Radosław Kuczyński z EFL.
+http://www.strefabiznesu.pl/wiadomosci/a/gospodarka-slabnie-i-nie-widac-szans-na-poprawe,11460969/ 
+– Ze wstępnych danych GUS wynika, że w trzecim kwartale nasza gospodarka urosła tylko o 2,5 proc. rok do roku, czyli mamy do czynienia z najniższym PKB w ciągu trzech lat i rozczarowaniem rynku. Także samych przedsiębiorców. Widać to w naszym najnowszym odczycie Barometru, bo przecież to, jak zarządzający firmami oceniają własną sytuacją oraz plany na przyszłość, mocno koresponduje z tym, co dzieje się w otoczeniu społeczno-gospodarczym. I choć główny indeks za czwarty kwartał wciąż pozostaje wyższy od progu 50 pkt., więc warunki do rozwoju MŚP należy uznać za umiarkowanie korzystne, to jednak mamy do czynienia z trzecim kwartałem z rzędu, w którym kontynuowany jest trend spadkowy. Jeżeli powtórzy się sytuacja sprzed roku, możemy spodziewać rekordowo niskiej wartości Barometru na początku 2017 roku – mówi Radosław Kuczyński, prezes EFL.http://www.strefabiznesu.pl/wiadomosci/a/polscy-przedsiebiorcy-nie-sabotuja-swoich-firm-i-gospodarki,11474972/Wynik „Barometru EFL” na IV kwartał 2016 roku wyniósł 55,3 pkt. Podobnie jak rok temu, pomiędzy III a IV kwartałem mamy do czynienia ze spadkiem wskaźnika (-1,3 pkt. proc. w porównaniu do III kwartału br.) oraz jego wartością wyższą tylko od pomiaru z I kwartału. Decydujące dla spadku wartości całego Barometru było zmniejszenie odsetka optymistów w każdej badanej kategorii. Co więcej, w przypadku aż trzech obszarów takich jak inwestycje, sprzedaż i płynność finansowa nastroje przedsiębiorców są najgorsze w całym 2016 roku. Warto także zwrócić uwagę, że wyraźnie zwiększyła się liczba osób, które nie wiedzą, jakie tendencje zapanują w najbliższych 3 miesiącach. W każdej kategorii odsetek takich przedsiębiorców był wyższy niż 50 proc. Odsetek optymistów dla inwestycji wyniósł w IV kwartale tylko 22 proc., podczas gdy trzy miesiące temu było to 28,7 proc. Również w przypadku oceny sprzedaży odsetek optymistów jest rekordowo niski (14,8 proc.), niższy nawet niż w I kw. 2016, gdy wartość całego Barometru osiągnęła najniższą dotychczasową wartość. Szacowany spadek sprzedaży pociągnął za sobą mniej optymistyczne oceny dotyczące płynności finansowej w porównaniu nie tylko do ubiegłego kwartału, ale do wszystkich wartości subindeksu od początku realizacji pomiaru. Odsetek osób spodziewających się wzrostu płynności finansowej wyniósł zaledwie 10,3 proc. (o 4 p.p. mniej w ujęciu kwartalnym). Po raz kolejny widać też wyraźną tendencję mówiącą, że im bardziej przedsiębiorcy obawiają się o płynność finansową, tym częściej przewidują zwiększenie zapotrzebowania na finansowanie zewnętrzne. Co prawda w ujęciu kwartalnym w tym obszarze liczba ankietowanych oczekujących większego zastrzyku gotówki spadła minimalnie (o 1,7 p.p), to jednak na tle wszystkich czterech tegorocznych wyników mamy do czynienia z drugim najwyższym odsetkiem optymistów.Wskaźnik nastrojów sektora MŚP w IV kwartale 2016 roku kontynuuje tendencję spadkową. Barometr uzyskał wartość mniejszą niż w II i III kwartale, jednak nieco wyższą niż w kwartale I. Jest to powtórzenie tendencji z 2015 roku. Obserwując dane historyczne, w szczególności dane dla pierwszych kwartałów 2015 i 2016 roku, w kolejnym pomiarze należy się spodziewać dalszego spadku wartości wskaźnika i zbliżenia się do granicy 50 pkt. - Takie wyniki niestety wskazują, że kondycja finansowa polskich firm ulega pogorszeniu. Na taki stan może mieć wpływ wiele czynników zaczynając od zapowiedzi polskiego rządu dotyczących m.in. zmian podatkowych, przez Brexit, na którego skutki musimy jeszcze długo poczekać, po nawet wybory prezydenckie w Stanach Zjednoczonych. Z natury jestem jednak optymistą i mam nadzieję, że z nadejściem nowego roku, również przyjdą nowe, lepsze nastroje wśród naszych przedsiębiorców – podkreśla Radosław Kuczyński z EFL.http://www.strefabiznesu.pl/wiadomosci/a/gospodarka-slabnie-i-nie-widac-szans-na-poprawe,11460969/ 
+                Źródło: Strefa Biznesu - Co drugi przedsiębiorca nie wie czego może się spodziewać w nabliższym czasie
+Rozpowszechnianie niniejszego artykułu możliwe jest tylko i wyłącznie
+                  zgodnie z postanowieniami „Regulaminu
+                  korzystania z artykułów prasowych” i po wcześniejszym uiszczeniu należności, zgodnie
+                  z cennikiem.
+                
+
+
+
+
+
+
+                        Dodajesz komentarz jako:
+                        
+                                                      Gość
+                                                  
+
+
+
+
+Tytuł
+
+
+
+
+
+
+Podpis
+
+
+
+
+
+                        Dodając komentarz, akceptujesz regulamin forum
+
+Liczba znaków do wpisania: 
+
+
+
+
+
+
+
+
+
+
+
+
+Podpis
+
+
+
+
+
+                  Dodając komentarz, akceptujesz regulamin forum
+
+
+
+Uzasadnij naruszenie regulaminu:
+
+
+
+Z jednej strony branżowi eksperci oraz praktycy, z drugiej zaś nauka, technologia i rynek. Spotkali się w jednym miejscu, na Warsaw Security Summit 2018, największej w Europie Środkowo-Wschodniej konferencji branży security.
+Tak jak przewidywaliśmy, na posiedzeniu Rady Ministrów w najbliższy wtorek -12 czerwca - rząd zdecyduje o wysokości minimalnego wynagrodzenia za pracę począwszy od 1 stycznia 2019 r. Jak ustaliliśmy, minister pracy będzie proponować podwyżkę o 150 zł. Oznacza to, że nowa stawka najniższego wynagrodzenia za pracę od nowego roku będzie wynosić co najmniej 2 250 zł, a minimalne wynagrodzenie godzinowe - 14,70 zł (czyli o 1 zł więcej niż obecnie).Kto wyrusza w podróż teraz i przez wakacje, musi być przygotowany na duże zmiany w rozkładach jazdy PKP. W niedzielę, 10 czerwca wprowadzone zostaną zmiany w rozkładzie jazdy pociągów. Korekta rozkładu umożliwi optymalną organizację ruchu kolejowego oraz realizację prac inwestycyjnych. Informacje o zmianach są dostępne na portalpasazera.pl, wkrótce będą dostępne na stacjach. PKP Intercity przygotowało nowe, wakacyjne połączenia do...
+        tel.: 022 201 42 00
+redakcja@polskatimes.pl
+
+                      tel.: 519 503 733
+agnieszka.mucha@polskapress.pl
+Polska jest częścią:
+
+Polska Press Sp. z o.o.
+            informuje, że wszystkie treści ukazujące się w serwisie Polska podlegają ochronie.
+      Dowiedz się więcej.
+      Jesteś zainteresowany kupnem treści? Dowiedz się więcej.
+    © 2000 - 2018 Polska Press Sp. z o.o.

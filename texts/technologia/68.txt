@@ -1,0 +1,176 @@
+
+                                  Budowa zakopianki
+                                                  fot. GDDKiA
+
+red.
+
+
+          Data dodania:          
+            05.06.2018, 10:06
+          
+
+
+            Ostatnia aktualizacja:            
+              06.06.2018, 14:52
+            
+
+Kierowcy jeżdżący zakopianką pomiędzy Lubniem i Rabką każdego dnia mogą obserwować zmieniający się krajobraz. Wszystko za sprawą budowlańców, którzy budują nową trasę.Najbardziej spektakularne prace są jednak głęboko ukryte. Tunel, bo o nim mowa, jest coraz dłuższy. Obecnie wydrążono już łącznie ponad 1400 metrów, czyli około 1/3 długości docelowego, podwójnego tunelu. Odcinkiem z tunelem, który ukończony jest w przeszło 20 procentach pojedziemy najwcześniej pod koniec 2020 roku.Zdecydowanie szybciej kierowcy będą korzystać z pozostałych dwóch odcinków. Na nich praca jest zdecydowanie bardziej zaawansowana. Ponad połowę prac (56,9 proc.) wykonano na fragmencie od Skomielnej Białej do Rabki. Najokazalej na tym odcinku prezentuje się blisko kilometrowy wiadukt.Na odcinku pomiędzy Lubniem i Naprawą według GDDKiA prace ukończone są zaś w niespełna 43 procentach.Pokaż wszystkie miniaturyZOBACZ KONIECZNIE:
+  Tych miejsc w Krakowie już nie ma! NIEZWYKŁE ZDJĘCIA  Robisz te rzeczy w bloku? Łamiesz prawo!  Kraków czy Warszawa? Odróżnisz je? QUIZTych miejsc w Krakowie już nie ma! NIEZWYKŁE ZDJĘCIARobisz te rzeczy w bloku? Łamiesz prawo!Kraków czy Warszawa? Odróżnisz je? QUIZNajdroższe domy w Krakowie kosztują MILIONY! ZDJĘCIAKraków w memach - tak się z nas śmieją! MEMYNajbardziej poszukiwani przez policję LISTY GOŃCZE
+         PPAds.queue.push(function () {         var slot = PPAds.app.getSlot('srodek1');                            slot.appendResolution(300, 250);                                         });             Płaca minimalna znów wzrośnie. Wiemy ile więcej zaproponuje rząd!         10 czerwca ważne zmiany w rozkładzie PKP. Musisz je znać!        Mieszkańcy bloków wciąż czekają na uwłaszczenie    
+       var csRekomendacje = new ListaContentStream({         selector: {           boks: '.recomendations',           reklamy: '.recomendations li.cs'         },         szablon: '<a href="#href" title="#title">' +         '<figure class="image-box" >' +         '<img src="#src" alt="#title">' +         '</figure>' +         '<div class="title-cs">' +         '<h3 class="title">#title</h3>' +         '#add' +         '</div>' +         '</a>',         szablonReklama: '<span class="mark">sponsorowane</span>',         ile: 1       });     
+          {           'onsuccessFunctionName' : 'csRekomendacje.emisjaSukces',           'onerrorFunctionName' : 'csRekomendacje.emisjaBlad'         }        
+Rozpowszechnianie niniejszego artykułu możliwe jest tylko i wyłącznie
+                  zgodnie z postanowieniami „Regulaminu
+                  korzystania z artykułów prasowych” i po wcześniejszym uiszczeniu należności, zgodnie
+                  z cennikiem.
+                
+
+
+
+
+
+
+                        Dodajesz komentarz jako:
+                        
+                                                      Gość
+                                                  
+
+
+
+
+Tytuł
+
+
+
+
+
+
+Podpis
+
+
+
+
+
+                        Dodając komentarz, akceptujesz regulamin forum
+
+Liczba znaków do wpisania: 
+
+
+
+
+
+
+
+
+
+
+
+
+Podpis
+
+
+
+
+
+                  Dodając komentarz, akceptujesz regulamin forum
+
+
+
+Uzasadnij naruszenie regulaminu:
+
+
+
+Brawo PIS!!!
+Głos Poznaniaka (gość)
+
+
+                    09.06.2018 13:06
+                  
+
+
+                  Kur...y niemieckie z PO tak się to robi! Jeb...ł was PIS!!!
+                (0)
+
+ 
+
+Zgłoś naruszenie treści
+
+
+
+
+
+                / 0
+
+
+
+
+                / 0
+
+
+a jak juz wybudują...
+hnfhgnn (gość)
+
+
+                    08.06.2018 13:06
+                  
+
+
+                  ...to koniecznie  odcinkowe pomiary prędkości,żeby  łoić portfele ,polska  logika  drogowa
+                
+
+ 
+
+Zgłoś naruszenie treści
+
+
+
+
+
+                / +1
+
+
+
+
+                / 0
+
+
+Ochłoń nieco
+Lublinianin (gość)
+
+
+                    09.06.2018 13:06
+                  
+
+
+                  Na jakiej ekspresówce widziałeś odcinkowe pomiary prędkości?
+                (0)
+
+ 
+
+Zgłoś naruszenie treści
+
+
+
+
+
+                / 0
+
+
+
+
+                / 0
+
+
+To jest już obowiązujące prawo. Polskie rodziny oprócz pieniędzy z programu Rodzina 500 plus dostaną wkrótce po 300 złotych na każde uczące się dziecko. 300 złotych – tyle wynosi świadczenie „Dobry Start” dla każdego uczącego się dziecka. Rząd ustanowił program, na podstawie, którego rodziny otrzymają raz w roku 300 zł na każde dziecko uczące się w szkole – bez względu na dochody.  Po raz pierwszy świadczenie trafi do rodzin w tym roku....Od października ubiegłego roku gdy żyliśmy wyścigiem cen na masło minęło nieco ponad osiem miesięcy i sytuacja cen masła ustabilizowała się. Okazuje się jednak, że na krótko. Ceny masła znów szybują w górę, a jesienny szczyt, gdy produkt ten bije rekordy popytu - dopiero przed nami. Eksperci zgodnie twierdzą, że cena 10 zł za kostkę masła to kwestia najbliższych tygodni.Tak popularna w ubiegłym roku Bułgaria, popadła chyba w niełaskę Polaków gdyż wypadła z TOP10 najpopularniejszych krajów na letni wypoczynek. Podobnie Gruzja i Tajlandia - te kraje rezerwujemy sobie na zimę. W tym roku najbardziej w Europie zapracowany Polak może poświęcić na letni urlop średnio od 7 do 11 dni. Trzeba więc odpoczywać równie intensywnie jak pracujemy. A co zrobić, by nie przepłacać?
+        tel.: 12 688 84 97
+p.blonski@gk.pl
+
+                      tel.: 12 688 81 00
+reklama@gk.pl
+Gazeta Krakowska jest częścią:
+
+Polska Press Sp. z o.o.
+            informuje, że wszystkie treści ukazujące się w serwisie Gazeta Krakowska podlegają ochronie.
+      Dowiedz się więcej.
+      Jesteś zainteresowany kupnem treści? Dowiedz się więcej.
+    © 2000 - 2018 Polska Press Sp. z o.o.

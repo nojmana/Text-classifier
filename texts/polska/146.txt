@@ -1,0 +1,84 @@
+1653W przyszłą środę (13 czerwca) odbędzie się w Parlamencie Europejskim w Strasburgu debata na temat wymiaru sprawiedliwości i praworządności w Polsce. Weźmie w niej udział wiceszef Komisji Europejskiej Frans Timmermans - poinformował PAP przedstawiciel służb prasowych PE. 
+
+Zdjęcie
+
+
+
+
+Parlament Europejski
+/AFP
+
+
+
+
+
+
+
+
+
+
+
+Unia Europejska
+ Bieńkowska: Temat praworządności chwilowo zszedł z agendy KE
+ 
+ 
+
+
+Debata ma się rozpocząć o godz. 15. "W czwartek po południu zapadła decyzja, że jest zmiana porządku obrad i że odbędzie się debata o wymiarze sprawiedliwości w Polsce" - zaznaczył przedstawiciel służb prasowych europarlamentu.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }Źródło w PE poinformowało PAP, że wniosek w sprawie debaty na czwartkowym spotkaniu liderów grup politycznych w PE złożyli Zieloni. Został on poparty przez część liderów innych ugrupowań.
+Z informacji PAP wynika, że przyszłotygodniowa debata rozpocznie się wystąpieniem Timmermansa, następnie głos zabierze przedstawiciel bułgarskiej prezydencji w UE, potem reprezentanci frakcji parlamentarnych, a do samej debaty dojdzie na końcu.
+Będzie to kolejna już debata na forum PE dotycząca reform wymiaru sprawiedliwości w Polsce.
+
+Spór o praworządność
+
+Komisja Europejska w grudniu ub.r. uruchomiła wobec Polski formalne postępowanie w ramach art. 7 unijnego traktatu, zarzucając władzom w Warszawie naruszenie zasad praworządności w zapisach ustaw reformujących sądownictwo. Część spornych kwestii została już przedyskutowana przez obie strony, jednak Timmermans domaga się od Warszawy dalszych ustępstw.
+Komisja za satysfakcjonujące uznała wprowadzone w ostatnim czasie rozwiązania dotyczące zróżnicowania wieku emerytalnego dla kobiet i mężczyzn oraz mianowania asesorów sądowych. Grudniowe rekomendacje, które Komisja cały czas podtrzymuje, mówią jednak o wielu innych kwestiach, takich jak wybór członków KRS przez przedstawicieli środowiska sędziowskiego, przywrócenie niezależności i legitymacji Trybunału Konstytucyjnego czy zniesienie swobody decyzyjnej prezydenta odnośnie przedłużania kadencji sędziów SN, a także wyeliminowanie postępowania na podstawie skargi nadzwyczajnej.
+
+Spór między Junckerem a Timmermansem
+
+Nieoficjalnie w Brukseli mówi się, że w sprawie dialogu powadzonego z Polską na temat praworządności zdania w KE są mocno podzielone.
+Takie informacje podał m.in. portal Politico, który napisał w środę, że szef KE Jean-Claude Juncker i szef jego gabinetu Martin Selmayr opowiadają się za wygaszeniem sporu, podczas gdy Timmermans, który od początku prowadzi postępowanie z artykułu 7., chce utrzymania bardziej zdecydowanego stanowiska i wymuszenia na Warszawie ustępstw zawartych w grudniowych rekomendacjach KE.
+Według "Politico" Juncker obawia się sytuacji, w której głosowanie nad dalszym postępowaniem wobec Polski doprowadziłoby do pogłębienia podziałów między krajami członkowskimi, nie przynosząc jednocześnie oczekiwanych przez Timmermansa skutków.
+Z Brukseli Łukasz Osiński (PAP)
+
+Wideo
+
+var xlink251ec34a=document.createElement("script");xlink251ec34a.setAttribute("type","application/javascript"),xlink251ec34a.setAttribute("class","XlinkEmbedScript"),xlink251ec34a.setAttribute("data-url","//get.x-link.pl/277ac718-f18b-e782-028a-1d6f405bbac6,6157f54c-949b-c8f3-a55a-22c89861308f,embed.html"),xlink251ec34a.setAttribute("data-width","575"),xlink251ec34a.setAttribute("data-height","350"),xlink251ec34a.setAttribute("src","//js.iplsc.com/inpl.xnews/1.0.1/xlink-i.js"),xlink251ec34a.setAttribute("async",!0),xlink251ec34a.onload=function(){var a=document.createElement("script");a.src="//js.iplsc.com/inpl.resize-xnews/1.0.0/inpl.resize-xnews.js",document.getElementsByTagName("head")[0].appendChild(a)};document.getElementsByClassName('xlink251ec34a')[0].appendChild(xlink251ec34a); 
+
+
+
+"Prawa strona Sejmu jest czerwona ze wstydu". Parlament przegłosował nowy podatek paliwowy
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ Debata ma się rozpocząć o godz. 15. "W czwartek po południu zapadła decyzja, że jest zmiana porządku obrad i że odbędzie się debata o wymiarze sprawiedliwości w Polsce" - zaznaczył przedstawiciel służb prasowych europarlamentu.Źródło w PE poinformowało PAP, że wniosek w sprawie debaty na czwartkowym spotkaniu liderów grup politycznych w PE złożyli Zieloni. Został on poparty przez część liderów innych ugrupowań.Z informacji PAP wynika, że przyszłotygodniowa debata rozpocznie się wystąpieniem Timmermansa, następnie głos zabierze przedstawiciel bułgarskiej prezydencji w UE, potem reprezentanci frakcji parlamentarnych, a do samej debaty dojdzie na końcu.Będzie to kolejna już debata na forum PE dotycząca reform wymiaru sprawiedliwości w Polsce.Komisja Europejska w grudniu ub.r. uruchomiła wobec Polski formalne postępowanie w ramach art. 7 unijnego traktatu, zarzucając władzom w Warszawie naruszenie zasad praworządności w zapisach ustaw reformujących sądownictwo. Część spornych kwestii została już przedyskutowana przez obie strony, jednak Timmermans domaga się od Warszawy dalszych ustępstw.Komisja za satysfakcjonujące uznała wprowadzone w ostatnim czasie rozwiązania dotyczące zróżnicowania wieku emerytalnego dla kobiet i mężczyzn oraz mianowania asesorów sądowych. Grudniowe rekomendacje, które Komisja cały czas podtrzymuje, mówią jednak o wielu innych kwestiach, takich jak wybór członków KRS przez przedstawicieli środowiska sędziowskiego, przywrócenie niezależności i legitymacji Trybunału Konstytucyjnego czy zniesienie swobody decyzyjnej prezydenta odnośnie przedłużania kadencji sędziów SN, a także wyeliminowanie postępowania na podstawie skargi nadzwyczajnej.Nieoficjalnie w Brukseli mówi się, że w sprawie dialogu powadzonego z Polską na temat praworządności zdania w KE są mocno podzielone.Takie informacje podał m.in. portal Politico, który napisał w środę, że szef KE Jean-Claude Juncker i szef jego gabinetu Martin Selmayr opowiadają się za wygaszeniem sporu, podczas gdy Timmermans, który od początku prowadzi postępowanie z artykułu 7., chce utrzymania bardziej zdecydowanego stanowiska i wymuszenia na Warszawie ustępstw zawartych w grudniowych rekomendacjach KE.Według "Politico" Juncker obawia się sytuacji, w której głosowanie nad dalszym postępowaniem wobec Polski doprowadziłoby do pogłębienia podziałów między krajami członkowskimi, nie przynosząc jednocześnie oczekiwanych przez Timmermansa skutków.Z Brukseli Łukasz Osiński (PAP)Faktywww.rmf24.plFaktypomponik.plwww.rmf24.plFaktyEuroSportwww.rmf24.plFaktyŚwiat serialiEuroSportEuroSportFaktypomponik.plFaktyFakty
+                                                                            Tworzenie filmów promocyjnych. KRK STUDIO.                                                                    
+                                                                            Aparaty do elektroterapii, laseroterapii i inne.                                                                    
+                                                                            Szukasz działki nad morzem? Sprawdź!                                                                    
+                                                                            Podziel się pięknem z innymi.                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

@@ -1,0 +1,127 @@
+Ten mecz miał rozwiać wątpliwości, a tylko przysporzył kolejnych znaków zapytania. Polska po mocno przeciętnym spotkaniu zremisowała z Chile 2-2 w przedostatnim sprawdzianie przed mistrzostwami świata. 
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Nawałka po 2-2 z Chile. Wideo
+INTERIA.TV
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2530467-7039166');
+                var $embed = jQuery('#player2530467-7039166').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Zobacz zapis relacji na żywo z meczu Polska - Chile!
+
+
+
+Reklama
+
+
+
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("news", null, null);
+        }
+    
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+ 
+
+
+Tutaj znajdziesz zapis relacji na żywo na urządzenia mobilne
+Adam Nawałka pewnie nie zmruży oka, bo po takim spotkaniu wszystkie warianty zestawienia defensywy mogły wywrócić się do góry nogami. Nasi obrońcy czasami mogli czuć się jak mieszkańcy wyspy, na której panuje wielki Guliwer, z którym seryjnie przegrywają pojedynki główkowe. Jeśli nasi rywale na MŚ nie przygotowywali taktyki opartej na dośrodkowaniach, to teraz na pewno o tym pomyślą.
+
+Do poprawki
+
+Dla kadry była to matura próbna, choć dla niektórych zawodników miała już wagę egzaminu dojrzałości. Szczególnie dla Jana Bednarka, który gdyby ją oblał, to kolejnej szansy mógłby już nie otrzymać.
+ To właśnie 22-letni obrońca Southampton zastąpił w podstawowym składzie kontuzjowanego Kamila Glika, czym trenera Nawałka wysłał sygnał, że to właśnie Bednarek, a nie Thiago Cionek jest bliżej podstawowego składu na inauguracyjny mecz mundialu z Senegalem (19 czerwca).
+ Selekcjoner od początku zdecydował się również na wariant bardziej defensywny, z jednym napastnikiem. Był nim oczywiście Robert Lewandowski, a zamiast Arkadiusza Milika do składu wskoczył Piotr Zieliński, w którym Nawałka pokłada wielkie nadzieje. Zieliński już nie raz pokazywał, że potrafi grać na europejskim poziomie, ale w kadrze pokazywał co najwyżej przebłyski. Nawałka jednak szybko otrzymał odpowiedzi, co potrafią Bednarek i Zieliński.
+ Z początku Polacy próbowali pchać się pod bramkę rywali przez środek boiska, ale przez 20 minut nie oddali żadnego celnego strzału. W końcu jednak zaczęli rozciągać defensywę gości, Grzegorz Krychowiak podał do Roberta Lewandowskiego, a ten potężnym strzałem z 18 metrów dał Polakom prowadzenie.
+ Krychowiak wielkie zasługi miał także przy drugim golu. Posłał długie podanie do Grosickiego, które nieporadnie próbowali przeciąć rywale. W efekcie Grosicki wpadł w pole karne, wyłożył piłkę Zielińskiemu i było 2-0.
+ Krychowiaka na boisku było pełno. Próbował ustawiać obrońców, wypracował  dwie bramki, ale też zaliczył dwie straty, po których skórę ratował mu Wojciech Szczęsny. Miał również świetną okazję do zdobycia bramki, ale z kilku metrów nie trafił głową w bramkę. Na moment stał się też srogim nauczycielem, gdy po golu dla Chilijczyków ostro zrugał Bednarka.
+
+Co z mocną stroną?
+
+Przewagą młodego obrońcy w rywalizacji z Cionkiem miał być głównie wzrost, tymczasem to co miało być mocną stroną Bednarka, zawiodło tuż przed przerwą. Gracz Southampton wraz z Pazdanem źle się ustawili i Diego Valdes skierował piłkę głową do siatki. Współwinny straty tego gola był też Łukasz Piszczek, który pozwolił rywalowi spokojnie dośrodkować. Mimo to Krychowiak z pretensjami wystartował właśnie do Bednarka.
+ W przerwie Nawałka przeprowadził trzy zmiany. Wojciecha Szczęsnego zastąpił Łukasz Fabiański, Karola Linettego, a Łukasz Piszczka... Thiago Cionek. Być może w może w taki sposób selekcjoner chciał zgrywać obrońcę SPAL na wypadek, gdyby to właśnie on miał zastąpić Glika.
+ Od początku drugiej połowy nasza defensywa funkcjonowała jednak fatalnie i szybko zauważyli to rywale. Chilijczycy sunęli z kolejnymi atakami, a dośrodkowania przecinały pole karne. Jedno z nich udało się wybić na 20 metr, ale do Miiko Albornoza nie zdążył doskoczyć Krychowiak, a urodzony w Szwecji zawodnik (grał też w szwedzkiej młodzieżowce) przepięknym uderzeniem z woleja pokonał Fabiańskiego.
+ Ten gol nie obudził Polaków. Niezłe przed przerwą skrzydła przestały funkcjonować, oddaliśmy środek pola, a Robert Lewandowski widząc bezradność kolegów, cofał się do rozegrania aż na swoją połowę. - Po chłopakach widać, że są w trakcie przygotowań - mówił już przed meczem Nawałka, jakby już wtedy podkreślając, że mogą nie być gotowi do gry na pełnych obrotach przez 90 minut. Nie usprawiedliwiało to jednak ogromnych pomyłek w defensywie.
+ We wtorek Polacy zmierzą się jeszcze z Litwą i po tym meczu polecą do Rosji.
+
+Polska - Chile 2-2 (2-1)
+
+Bramki: 
+1-0 Lewandowski (31. podanie Krychowiaka), 2-0 Zieliński (34. podanie Grosickiego), 2-1 Valdes (39. ), 2-2 Albornoz (56.).Polska: Szczęsny (46. Fabiański) - Piszczek (46. Cionek), Bednarek, Pazdan, Rybus (82. Bereszyński) - Błaszczykowski, Krychowiak, Linetty (46. Milik), Zieliński, Grosicki (67. Góralski) - Lewandowski (74. Teodorczyk).
+Chile: Arias - Diaz (87. Sierralta), Roco, Maripan, Vegas (34. Albornoz) - Sagal (82. Bizama), Reves, Martinez (67. Araos), Valdes - Castillo, (87. Cuevas), Fernandes.
+Sędziował: Paolo Mazzoleni (Włochy).
+Widzów: 41 216.
+Z Poznania Piotr Jawor, Michał Białoński, Remigiusz Półtorak
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Pięć wniosków po meczu Polska – Chile
+Eurosport
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2530452-9069938');
+                var $embed = jQuery('#player2530452-9069938').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+
+
+Zdjęcie
+
+
+
+
+Robert Lewandowski podczas meczu z Chile
+/Jacek Kaczmarczyk /PAP
+
+
+Zobacz zapis relacji na żywo z meczu Polska - Chile!Tutaj znajdziesz zapis relacji na żywo na urządzenia mobilneAdam Nawałka pewnie nie zmruży oka, bo po takim spotkaniu wszystkie warianty zestawienia defensywy mogły wywrócić się do góry nogami. Nasi obrońcy czasami mogli czuć się jak mieszkańcy wyspy, na której panuje wielki Guliwer, z którym seryjnie przegrywają pojedynki główkowe. Jeśli nasi rywale na MŚ nie przygotowywali taktyki opartej na dośrodkowaniach, to teraz na pewno o tym pomyślą.Dla kadry była to matura próbna, choć dla niektórych zawodników miała już wagę egzaminu dojrzałości. Szczególnie dla Jana Bednarka, który gdyby ją oblał, to kolejnej szansy mógłby już nie otrzymać. To właśnie 22-letni obrońca Southampton zastąpił w podstawowym składzie kontuzjowanego Kamila Glika, czym trenera Nawałka wysłał sygnał, że to właśnie Bednarek, a nie Thiago Cionek jest bliżej podstawowego składu na inauguracyjny mecz mundialu z Senegalem (19 czerwca). Selekcjoner od początku zdecydował się również na wariant bardziej defensywny, z jednym napastnikiem. Był nim oczywiście Robert Lewandowski, a zamiast Arkadiusza Milika do składu wskoczył Piotr Zieliński, w którym Nawałka pokłada wielkie nadzieje. Zieliński już nie raz pokazywał, że potrafi grać na europejskim poziomie, ale w kadrze pokazywał co najwyżej przebłyski. Nawałka jednak szybko otrzymał odpowiedzi, co potrafią Bednarek i Zieliński. Z początku Polacy próbowali pchać się pod bramkę rywali przez środek boiska, ale przez 20 minut nie oddali żadnego celnego strzału. W końcu jednak zaczęli rozciągać defensywę gości, Grzegorz Krychowiak podał do Roberta Lewandowskiego, a ten potężnym strzałem z 18 metrów dał Polakom prowadzenie. Krychowiak wielkie zasługi miał także przy drugim golu. Posłał długie podanie do Grosickiego, które nieporadnie próbowali przeciąć rywale. W efekcie Grosicki wpadł w pole karne, wyłożył piłkę Zielińskiemu i było 2-0. Krychowiaka na boisku było pełno. Próbował ustawiać obrońców, wypracował  dwie bramki, ale też zaliczył dwie straty, po których skórę ratował mu Wojciech Szczęsny. Miał również świetną okazję do zdobycia bramki, ale z kilku metrów nie trafił głową w bramkę. Na moment stał się też srogim nauczycielem, gdy po golu dla Chilijczyków ostro zrugał Bednarka.Przewagą młodego obrońcy w rywalizacji z Cionkiem miał być głównie wzrost, tymczasem to co miało być mocną stroną Bednarka, zawiodło tuż przed przerwą. Gracz Southampton wraz z Pazdanem źle się ustawili i Diego Valdes skierował piłkę głową do siatki. Współwinny straty tego gola był też Łukasz Piszczek, który pozwolił rywalowi spokojnie dośrodkować. Mimo to Krychowiak z pretensjami wystartował właśnie do Bednarka. W przerwie Nawałka przeprowadził trzy zmiany. Wojciecha Szczęsnego zastąpił Łukasz Fabiański, Karola Linettego, a Łukasz Piszczka... Thiago Cionek. Być może w może w taki sposób selekcjoner chciał zgrywać obrońcę SPAL na wypadek, gdyby to właśnie on miał zastąpić Glika. Od początku drugiej połowy nasza defensywa funkcjonowała jednak fatalnie i szybko zauważyli to rywale. Chilijczycy sunęli z kolejnymi atakami, a dośrodkowania przecinały pole karne. Jedno z nich udało się wybić na 20 metr, ale do Miiko Albornoza nie zdążył doskoczyć Krychowiak, a urodzony w Szwecji zawodnik (grał też w szwedzkiej młodzieżowce) przepięknym uderzeniem z woleja pokonał Fabiańskiego. Ten gol nie obudził Polaków. Niezłe przed przerwą skrzydła przestały funkcjonować, oddaliśmy środek pola, a Robert Lewandowski widząc bezradność kolegów, cofał się do rozegrania aż na swoją połowę. - Po chłopakach widać, że są w trakcie przygotowań - mówił już przed meczem Nawałka, jakby już wtedy podkreślając, że mogą nie być gotowi do gry na pełnych obrotach przez 90 minut. Nie usprawiedliwiało to jednak ogromnych pomyłek w defensywie. We wtorek Polacy zmierzą się jeszcze z Litwą i po tym meczu polecą do Rosji.Bramki: 1-0 Lewandowski (31. podanie Krychowiaka), 2-0 Zieliński (34. podanie Grosickiego), 2-1 Valdes (39. ), 2-2 Albornoz (56.).Polska: Szczęsny (46. Fabiański) - Piszczek (46. Cionek), Bednarek, Pazdan, Rybus (82. Bereszyński) - Błaszczykowski, Krychowiak, Linetty (46. Milik), Zieliński, Grosicki (67. Góralski) - Lewandowski (74. Teodorczyk).Chile: Arias - Diaz (87. Sierralta), Roco, Maripan, Vegas (34. Albornoz) - Sagal (82. Bizama), Reves, Martinez (67. Araos), Valdes - Castillo, (87. Cuevas), Fernandes.Sędziował: Paolo Mazzoleni (Włochy).Widzów: 41 216.Z Poznania Piotr Jawor, Michał Białoński, Remigiusz PółtorakKorzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

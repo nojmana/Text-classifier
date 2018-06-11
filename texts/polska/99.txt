@@ -1,0 +1,244 @@
+
+        Oddajemy do Państwa dyspozycji możliwość personalizacji układu strony głównej portalu polska-zbrojna.pl.
+        Dostosowanie układu polega na ustawieniu kolejności działów, poprzez ich przeciąganie w odpowiednie miejsce listy.
+    
+działy tematyczne:
+
+
+
+
+                            Armia
+                             
+                             dział otwarty
+                        
+
+                            Poligon
+                             
+                             dział otwarty
+                        
+
+                            Sprzęt
+                             
+                             dział otwarty
+                        
+
+                            Misje
+                             
+                             dział otwarty
+                        
+
+                            Polityka
+                             
+                             dział otwarty
+                        
+
+                            Prawo
+                             
+                             dział otwarty
+                        
+
+                            Świat
+                             
+                             dział otwarty
+                        
+
+                            Społeczność
+                             
+                             dział otwarty
+                        
+
+                            Sport
+                             
+                             dział otwarty
+                        
+
+                            Historia
+                             
+                             dział otwarty
+                        
+
+
+pozostałe moduły:
+
+
+
+
+                            z jednostek + kadry
+                        
+
+                            wideo
+                        
+
+                            galerie
+                        
+
+                            pasek z pozycjami
+                        
+
+                            polecamy
+                        
+
+
+Dział "Moja Polska Zbrojna" - jeżeli życzą sobie Państwo treści przefiltrowane według Państwa zainteresowań, prosimy o wybranie odpowiednich tagów:
+
+ Historia,
+                    
+                         Inwestycje,
+                    
+                         Jaskier,
+                    
+                         Logistyka,
+                    
+                         Marynarka wojenna,
+                    
+                         Militaria,
+                    
+                         Misje zagraniczne,
+                    
+                         Modernizacja techniczna,
+                    
+                         Narodowe siły rezerwowe,
+                    
+                         NATO,
+                    
+                         Nauka i medycyna,
+                    
+                         Obrona terytorialna,
+                    
+                         Organizacje proobronne,
+                    
+                         Pacast,
+                    
+                         Poligon,
+                    
+                         Polityka,
+                    
+                         Prawo,
+                    
+                         Rekonstrukcje historyczne,
+                    
+                         Relacje z imprez,
+                    
+                         Siły powietrzne,
+                    
+                         Sport,
+                    
+                         Sprawy międzynarodowe,
+                    
+                         Sprzęt,
+                    
+                         szkolnictwo,
+                    
+                         Szkolnictwo wojskowe,
+                    
+                         Śnieżnik,
+                    
+                         Weterani,
+                    
+                         Wojska lądowe,
+                    
+                         Wojska specjalne,
+                    
+                         Wrocław,
+                    
+                         Zapowiedzi wydarzeń,
+                    
+                         Żandarmeria wojskowa,
+                    
+        
+1517393880
+
+
+A
+A
+A
+
+
+    function contentToNormalFontSize() {
+        $(".tinyMce *").css("font-size", "13px");
+    }
+    function contentToBigFontSize() {
+        $(".tinyMce *").css("font-size", "15px");
+    }
+    function contentToBiggerFontSize() {
+        $(".tinyMce *").css("font-size", "17px");
+    }
+
+
+W pierwszej połowie listopada rozpoczną się największe w tym roku manewry – „Anakonda 18”. Wojska ośmiu państw będą ćwiczyć między innymi na poligonie w Drawsku Pomorskim i Orzyszu oraz w przestrzeni powietrznej Polski, Litwy, Łotwy i Estonii. Niektóre z epizodów zostaną rozegrane poza poligonami.
+
+
+Po raz pierwszy „Anakonda”, czyli największe manewry naszej armii, przeprowadzane cyklicznie co dwa lata, zostały podzielone na dwa etapy. Pierwszy, poligonowy, odbędzie się na początku listopada. Drugi – na przełomie listopada i grudnia – będzie poświęcony ćwiczeniom dowódczo-sztabowym.Głównym miejscem manewrów będą poligony w okolicach Drawska i Orzysza. Podczas ćwiczeń zaplanowano m.in. marsze kolumn wojskowych po drogach publicznych, żołnierze będą też mieli za zadanie pokonanie przeszkody wodnej, a konkretnie Wisły. W którym miejscu do tego dojdzie, jeszcze nie ustalono. Wiadomo jednak, że w tym celu saperzy zbudują most pontonowy, co będzie jedną z bardziej widowiskowych części manewrów.W pierwszej części ćwiczeń, na poligonie drawskim, zaplanowano też prowadzenie ognia. Nawałę ogniową różnych rodzajów uzbrojenia, prowadzoną z lądu i powietrza, będą wspierały działania sił specjalnych. Użyte zostaną także środki oddziaływania elektromagnetycznego, m.in. zakłócenia fal radiowych. – W części drugiej, czyli dowódczo-sztabowej, będziemy sprawdzali zgranie różnych struktur dowodzenia, ich zdolność do planowania, organizowania i prowadzenia działań, a także sprawność przemieszczania poszczególnych stanowisk dowodzenia – wyjaśnia płk Artur Warwas, szef Oddziału Ćwiczeń i Szkolenia Bojowego Dowództwa Operacyjnego RSZ.Ćwiczenia „Anakonda 18” będą większe niż dwa lata temu, ale nie pod względem liczby żołnierzy i wykorzystywanego sprzętu, lecz liczby dowództw szczebla operacyjnego, które wezmą w nich udział. Żołnierzy będzie mniej niż 30 tys., jak było dwa lata temu, ale zostanie zwiększony za to obszar manewrów. W tym roku areną niektórych epizodów będą także kraje bałtyckie. W ćwiczenia zaangażują się struktury dowodzenia NATO, m.in. dowództwo Wielonarodowego Korpusu Północno-Wschodniego – w roli dowództwa komponentu lądowego. Jedną z pierwszoplanowych ról odegra Wielonarodowa Dywizja Północny Wschód, która podczas ćwiczeń przejdzie certyfikację, czyli sprawdzian gotowości do wykonywania zadań.W ćwiczeniach „Anakonda 18” udział wezmą wojska lądowe, powietrzne, morskie i wojska specjalne. Przyjazd potwierdziły do tej pory armie z siedmiu państw sojuszniczych – ze Stanów Zjednoczonych (najliczniejszy komponent), Słowacji, Litwy, Niemiec, Estonii, Turcji i Wielkiej Brytanii.Jak zaznaczył płk Warwas, ćwiczenia mają charakter defensywny, wynikający z narodowej i sojuszniczej doktryny obronnej. To właśnie m.in. dlatego głównym ćwiczącym jest Wielonarodowa Dywizja Północny Wschód, która powstała w celu ewentualnej obrony wschodniej flanki NATO. „Anakonda 18” będzie dla tego związku taktycznego sprawdzianem, czy jest przygotowany do tych zadań. Kierownikiem ćwiczeń będzie gen. dyw. Sławomir Wojciechowski, dowódca operacyjny RSZ.W Warszawie odbyła się sześciodniowa konferencja planistyczna manewrów „Anakonda 18”. Podczas spotkania uzgadniano m.in. szczegóły dotyczące uczestnictwa w ćwiczeniach, jakie wymagania powinni spełnić przedstawiciele poszczególnych armii oraz jaka będzie ich odpowiedzialność w konkretnych fazach. W konferencji organizacyjnej wzięli udział przedstawiciele Sojuszniczego Dowództwa Sił Połączonych NATO z Brunssum, Połączonego Dowództwa Wojsk Lądowych NATO z Izmiru, Korpusu Północno-Wschodniego i kilku innych dowództw sojuszniczych.
+
+Nasi partnerzyMuzeum Wojska PolskiegoMuzeum Oręża PolskiegoMuzeum Broni PancernejCentrum Weterana
+Wydawnictwa WIWPrenumerata redakcyjna czasopism WIWWydawnictwa specjalistycznePublikacjeRegulamin przekazywania materiałów do WIW
+Na skrótyOferta reklamowaBuzdygany - regulamin(obowiązuje od 14.12.2017)LinkiRedakcjaO WIWPatronaty medialneZamówienia publiczneMapa strony
+KontaktWojskowy Instytut WydawniczyAl. Jerozolimskie 9700-909 Warszawa+48 261 845 365NIP: 701-02-67-116sekretariat@zbrojni.pl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Ministerstwo Obrony Narodowej
+            
+
+                Sztab Generalny Wojska Polskiego
+            
+
+                Dowództwo Generalne Rodzajów Sił Zbrojnych
+            
+
+                Dowództwo Operacyjne Rodzajów Sił Zbrojnych
+            
+
+                Wielonarodowy KorpusPółnocno-Wschodni
+            
+
+                CentrumSzkolenia Sił PołączonychNATO (JFTC)
+            
+
+                Żandarmeria Wojskowa
+            
+
+                Inspektorat Uzbrojenia
+            
+
+                Inspektorat ImplementacjiInnowacyjnych Technologii Obronnych
+            
+
+                Dowództwo Garnizonu Warszawa
+            
+
+

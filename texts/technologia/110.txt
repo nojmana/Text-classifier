@@ -1,0 +1,44 @@
+ Google Pixel 3 oraz 3 XL dały już o sobie znać w przecieku, który przedstawia ich przednie panele. Do tej pory nic nie wskazywało, że Google rzuci się również na rynek średniopółkowców, jednak ostatnia informacja zmienia postać rzeczy. Gigant z Mountain View wraz ze swoimi tegorocznymi flagowcami zaprezentuje telefon ze średniej półki. Smartfon będzie napędzany przez procesor Qualcomm Snapdragon 710 (znany m.in z Xiaomi Mi 8 SE).Nowe Pixele mają zadebiutować na przełomie sierpnia i września. Wskazuje na to rozpoczęcie produkcji prototypów płyt głównych, która przekroczyła 2000 sztuk oraz informacje jakie Google dostarczył deweloperom. Pozostaje nam już tylko czekać na więcej informacji o tańszym Pixelu, ponieważ, według mnie, może okazać się on całkiem ciekawym telefonem.
+
+	if (typeof CeneoAPOptions == "undefined" || CeneoAPOptions == null)
+	{
+	var CeneoAPOptions = new Array(); 
+	stamp = parseInt(new Date().getTime()/86400, 10);
+	var script = document.createElement("script");
+	script.setAttribute("type", "text/javascript");
+	script.setAttribute("src", "//partnerzyapi.ceneo.pl/External/ap.js?"+stamp);
+	script.setAttribute("charset", "utf-8");
+	var head = document.getElementsByTagName("head")[0];
+	head.appendChild(script);
+	}
+	CeneoAPOptions[CeneoAPOptions.length] =
+	{
+		ad_creation: 122323,
+		ad_channel: 11671,
+		ad_partner: 9354,
+		ad_type: 1,
+		ad_content: '471',
+		ad_format: 3,
+		ad_newpage: true,
+		ad_basket: false,
+		ad_container: 'ceneoaffcontainer122323',
+		ad_formatTypeId: 1,
+		ad_contextual: false, 
+		ad_recommended: true 
+	};
+
+Przedni panel Google Pixel 3
+(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.async=true; 
+					  js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1&appId=395202813876688";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk')); 
+
+
+
+
+ źródło: Twitter
+					Copyright © 2018 techthink.pl. Powered by WordPress and Stargazer.				

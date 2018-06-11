@@ -1,0 +1,47 @@
+Jako, że nie samymi finansami człowiek żyje proponuję dziś (przede wszystkim kibicom piłkarskim, ale nie tylko) kolejny przerywnik w postaci wykorzystania excela do tworzenia automatycznej tabeli rozgrywek sportowych. Mimo katastrofalnego poziomu skupimy się na naszej rodzimej lidze, ale idea działania modelu jest dokładnie taka sama w przypadku innych, bardziej prestiżowych rozgrywek 🙂W związku z tym, iż zostały jedynie dwie kolejki do rozegrania będziemy mogli pobawić się w obstawianie wyników, by  wytypować mistrza Polski, drużyn które będą miały okazję grać w eliminacjach Ligi Europy (miejsca 2-4) oraz te, które następny sezon spędzą w niższej klasie rozgrywkowej (dwie ostatni pozycje).Tak przedstawiają się pary dwóch ostatnich kolejek, tabela po 35 kolejkach oraz tabela po 30 kiedy to następował podział na grupę mistrzowską  spadkową.Ekstraklasa_excel_2017_2018Widzimy, iż zmienił nam się lider na przestrzeni ostatnich 5 meczów, a to za sprawą Lecha Poznań, który biorąc pod uwagę ostatnie wyniki plasowałby się na przedostatnim miejscu. Z kolei nadspodziewanie dobrą serią może się pochwalić Śląsk Wrocław- jedyny niepokonany po podziale zespołów na dwie grupy.Mimo wszystko, ciągle możliwa jest sytuacja, że trzy zespoły po następnych dwóch kolejkach będą miały taką samą ilość punktów. O kolejności w tabeli zadecyduje wtedy pozycja w tabeli po rundzie zasadniczej.W załączonym modelu możemy też prześledzić i porównać dorobek punktowy trzech wybranych zespołów.Oprócz tego w jednej tabeli jesteśmy w stanie zestawić wszystkie wyniki w części zasadniczej rozgrywek.Jak i w grupach mistrzowskiej i spadkowej.Zapraszam do zabawy w typowanie, zakładając iż wśród czytelników są też kibice piłkarscy. Jeśli powyższa zabawa excelowa przypadła Wam do gustu to zachęcam do zapisania się na newsletter oraz będę wdzięczny za podzielenie się ze znajomymi. Może przy okazji uda się kogoś przekonać, iż nie taki excel straszny i warto wyrobić w sobie nawyk samodzielnego excelowania przeróżnych zagadnień z jakimi się spotykamy.PS. mała aktualizacja modelu po wynikach przedostatniej kolejki:Ekstraklasa_excel_2017_2018PPS. całość sprowadza się do jednej prostej tabelki pokazującej kto będzie mistrzem w zależności od wyników dwóch meczów   
+
+				Zobacz wszystkie wpisy, których autorem jest finedu.pl			
+Wprowadź swoje dane lub kliknij jedną z tych ikon, aby się zalogować:
+
+			Komentujesz korzystając z konta WordPress.com.			
+				( Wyloguj / 
+				Zmień )
+			
+
+
+
+			Komentujesz korzystając z konta Google+.			
+				( Wyloguj / 
+				Zmień )
+			
+
+
+
+			Komentujesz korzystając z konta Twitter.			
+				( Wyloguj / 
+				Zmień )
+			
+
+
+
+			Komentujesz korzystając z konta Facebook.			
+				( Wyloguj / 
+				Zmień )
+			
+
+Connecting to %s Powiadamiaj mnie o nowych komentarzach poprzez e-mail. 
+
+Informacje o nowych artykułach i narzędziach prosto na Twój adres e-mail
+
+
+
+
+
+ 
+Informacje o nowych artykułach i narzędziach prosto na Twój adres e-mail
+
+
+
+
+
+ 

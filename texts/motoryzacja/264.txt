@@ -1,0 +1,33 @@
+Sąd w Wiedniu kazał dilerowi zwrócić 26,5 tys. EUR za auto volkswagen z silnikiem diesla jego właścicielce, bo kupując je w 2012 roku nie wiedziała, że w samochodzie jest oprogramowanie manipulujące emisją spalin.– Gdyby pozywająca wiedziała, że oprogramowanie służące do oszukaniu testów emisji spalin jest zainstalowane w tym samochodzie, nie kupiłaby go – głosi decyzja sądu, którą opublikowała reprezentująca kobietę kancelaria prawna Poduschka. Wyrok, jeśli nie zostanie unieważniony w apelacji, oznacza, że diler będzie musiał zabrać samochód kupiony za 26,5 tys. EUR w 2012 roku i zwrócić tą kwotę z odsetkami.Kancelaria Poduschka twierdzi, że to najkorzystniejszy wyrok dla nabywcy auta wydany dotychczas w Austrii.We wrześniu 2015 roku wybuchł skandal kiedy Volkswagen przyznał, że stosował w autach z silnikami diesla rozwiązania mające manipulować emisją spalin. Dotychczas kosztowało to koncern z Wolfsburga ponad 21 mld EUR.
+źródło: https://www.pb.pl/austria-sad-kazal-dilerowi-zwrocic-pieniadze-i-zabrac-volkswagena-z-trefnym-dieslem-931580
+
+			#gallery-2 {
+				margin: auto;
+			}
+			#gallery-2 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-2 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-2 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+11 czerwca 2018
+Stowarzyszenie Osób Poszkodowanych
+przez Spółki Grupy Volkswagen AG
+ul. Bagatela 11/3, 00-585 Warszawa
+tel. +48 794 222 410 (pn.-pt. w godz. 9:00–17:00)
+KRS: 0000602320

@@ -1,0 +1,16 @@
+W belgijskiej miejscowości Bredene deweloper trafił na upartego przeciwnika.  Tam, gdzie miał powstać nowy, wolno stojący budynek, mieszka starsze małżeństwo, które nie chce słyszeć o sprzedaży domu. Jak podaje TVN24 BiS, firma deweloperska proponowała coraz wyższe sumy, ale mieszkańcy domku jednorodzinnego konsekwentnie odmawiali. Mogą oferować, ile chcą, ale w moim wieku co ja zrobię z tymi milionami? Przecież my z żoną niedługo umrzemy - powiedział dziennikarzom 86-latek. W efekcie powstaje wieżowiec niemal "przyklejony" do ich domu. Małżeństwo nie daje za wygraną i twardo odmawia sprzedaży działki. 86-latek twierdzi, że tak bliskie sąsiedztwo bloku nawet mu odpowiada, ponieważ kontsrukcja chroni ich przed wiatrem. Zobacz także: Deweloperzy i architekci sięgają po wizualizacje mieszkań w technologii VRMasz newsa, zdjęcie lub filmik? Prześlij nam przez dziejesie.wp.pl.Cze 01, 2018, 19:48Od czwartkowego wieczoru w obecności notariusza liczono głosy i zgodnie z oczekiwaniami 81.1 % głosujących poparło nazwę Zgromadzenie Narodowe (Rassemblement National).– Front Narodowy stał się dojrzały … jego natura się zmieniła. Przeszedł od partii protestu w swojej młodości, a następnie opozycji do partii zdolnej do rządów – powiedziała szefowa FN, Marine Le Pen, francuskiej telewizji po ogłoszeniu planu rebrandingu w marcu.Partia ma zachować swoje charakterystyczne logo w formie trójkolorowego płomienia – które twórca FN Jean-Marie Le Pen zapożyczył od Włoskiego Ruchu Społecznego (Movimento Sociale Italiano).Nie wszystkim jednak podoba się odcinanie od przeszłości i działania w kierunku pozyskania wyborców centrowych. W ostatnich dniach partię opuścił np. jeden z jej europosłów – Bernard Monot, który krytykował skupienie się jedynie na „bezpieczeństwie, walce z terroryzmem i imigracją”. Zasilił on niewielkie ugrupowanie Powstań Francjo (Debout la France, DLF) – partię eurosceptyczną, gaullistowską i narodowo-konserwatywną.Jean-Marie Le Pen ostro skrytykował forsowaną przez córkę zmianę nazwy Frontu Narodowego jako „zdradę” i „haniebne wymazanie swojej tożsamości”.– Haniebne usunięcie jego tożsamości jest najcięższym ciosem, jaki Front Narodowy kiedykolwiek otrzymał od czasu swojego powstania – powiedział w specjalnym oświadczeniu.Foto: Facebook/Front National
+
+
+
+  var __nc_widgets = __nc_widgets || [];
+  var __nc_j = __nc_j || null;
+
+  __nc_widgets.push(['88F6-7C87-7DBF-DB1D-1esrNl', 'dzienniknarodowy.pl', 'recommendation', 1, 1]);
+
+  (function() {
+    var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';
+    __nc.src = '//nextclick.pl/widget/widget.recommendation.1.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);
+  })();
+
+

@@ -1,0 +1,48 @@
+Firma PwC kolejny raz przeprowadziła swój ranking „100 największych światowych spółek pod względem wartości rynkowej”, w którym szósty raz z rzędu pierwsze miejsce należy do Apple’a, co nie powinno budzić większych zaskoczeń. Łączna wartość wszystkich firm wymienionych na liście opiewa na sumę oszałamiających 17,4 bln dolarów. Pod względem państw prym wiodą Stany Zjednoczone, zostawiając Europę daleko w tyle.
+W 2017 roku liczba spółek ze Stanów Zjednoczonych wzrosła na liście tylko o jedną, ale i tak kraj ten ma - już trzeci rok z rzędu - większość z łączną liczbą 55 firm, w dodatku zajmuje pierwszych 10 miejsc tych najbardziej cennych. Niestety Stary Kontynent ma mniej szczęścia i pozbył się z rankingu kolejnych dwóch przedsiębiorstw, co daje Europie jedynie 22 pozycji na liście – porównując z USA, nie jest to zbyt zadowalający wynik. Udział Azji w rankingu pozostał niezmieniony – wynosi ok. 12 proc., a dwie chińskie firmy zajmują kolejno 11. i 12. miejsce, tym samym odnotowują one znaczący wzrost w porównaniu z poprzednimi latami.Niemal 70 proc. wzrostu łącznej wartości rynkowej 100 największych spółek świata wynika ze wzrostu spółek ze Stanów Zjednoczonych, które skorzystały z dobrej sytuacji gospodarczej przed oraz po wyborach prezydenckich. W Europie udało się zatrzymać 2 lata spadków wartości rynkowej spółek, natomiast ich udział w łącznej wartości spółek z rankingu w bieżącym roku dalej się zmniejszał.
+
+
+
+
+
+sas.render('42713');  // Format : Navibox_3 300x250
+
+
+
+
+
+– Przepaść pomiędzy największymi spółkami ze Stanów oraz spółkami z reszty świata ciągle się pogłębia. Amerykańskie firmy zwiększają globalny zasięg, wysoki poziom innowacyjności oraz siłę finansową – stanowi to wyraźny kontrast w stosunku do spółek pochodzących z Wielkiej Brytanii i Europy, które wciąż tracą pozycje w rankingu – mówi Bartosz Margol, wicedyrektor w zespole ds. rynków kapitałowych PwC.Pierwsze miejsce – kolejny już raz – zajmuje firma Steve’a Jobsa, a różnica względem drugiej pozycji, którą zajmuje Alphabet (właściciel Google) jest znacząca, bowiem Apple zwiększył ją ponad dwukrotnie w stosunku do zeszłego roku – z 86 mld dolarów do 175 obecnie. Tak jak w 2016, tak i teraz łączna wartość spółek z sektora technologicznego przekroczyła łączną wartość tych z sektora finansowego. Warto także zaznaczyć, że do tej pierwszej kategorii należą firmy z pierwszych trzech miejsc na podium: Apple, Alphabet i Microsoft, choć gigant w social mediach - Facebook - nie jest mocno w tyle, uplasował się na 6. pozycji. Nazwa
+  firmyKraj SektorPozycjaWartość
+  w 2017 r. (w mld dol.)Apple
+  IncUSAtechnologie1754Alphabet
+  Inc-Cl AUSAtechnologie2579Microsoft
+  CorpUSAtechnologie3509Amazon.Com
+  IncUSAobsługa
+  klienta4423Berkshire Hathaway Inc-Cl AUSAfinanse5411FacebookUSAtechnologie6411Exxon
+  Mobil CorpUSApaliwa7340Johnson&JohnsonUSAopieka
+  zdrowotna8338JPMorgan
+  Chase&CoUSAfinanse9314Wells
+  Fargo & CoUSAfinanse10279Tencent
+  Holdings LtdChinytechnologie11272Alibaba Gropu Holding-Sp AdrChinyobsługa
+  klienta12269General
+  Electric CoUSAprzemysł13260Samsung
+  Electronics Co LtdKorea
+  Płd.towary
+  14259At&T
+  IncUSAtelekomunikacja15256Ind & Comm Bk Of China-AChinyfinanse16246NestleSzwajcariatowary
+  17239Bank
+  od America CorpUSAfinanse18236Procter&GambleUSAtowary
+  19230China
+  Mobile LtdHongkongtelekomunikacja20224
+
+
+
+
+
+sas.render('42700');  // Format : Banner_645x80 645x80
+
+
+
+
+
+DUhttps://www.bankier.pl/wiadomosc/Spadki-na-gieldach-w-USA-Macy-s-i-Snap-psuja-nastroje-7516751.htmlProponuję skupić uwagę na kolumnie nr 3 (sektor) - bo u nas rządzący nadal wierzy, że potęga gospodarcza to huty, kopalnie, stocznie i fabryki gwoździCiekawe kiedy ZMR trafi choćby do pierwszej 2setkiTylko UE i dalsza integracja i rozwój może zapobiec przejęciu przez USA wszystkich branzNie bln tylko mld gapo !!!Termin przekazania sprawozdania do systemu INTRASTAT, za poprzedni miesiąc kalendarzowy, gdy realizowano transakcje wewnątrzwspólnotowe podlegające obciążeniu podatkiem od towarów i usług (VAT).Termin płatności składek oraz złożenia deklaracji przez pracodawców zatrudniających pracowników.Termin zapłaty raty podatku leśnego przez osoby prawne oraz jednostki organizacyjne nie posiadające osobowości prawnej.Termin zapłaty miesięcznej kwoty podatku od nieruchomości przez osoby prawne i jednostki organizacyjne nie posiadające osobowości prawnej.Termin płatności składek oraz złożenia deklaracji przez pracodawców zatrudniających pracowników.Zapłata zryczałtowanego podatku dochodowego od przychodów ewidencjonowanych.Termin zapłaty zaliczki na podatek dochodowy przez osoby prawne.Oblicz wysokość pensji netto, należne składki oraz podatek.Korzystanie z portalu oznacza akceptację regulaminu.  Polityka cookies   |   Polityka prywatności 

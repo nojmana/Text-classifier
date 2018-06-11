@@ -1,0 +1,25 @@
+​Nowelizacja ustawy o kierujących pojazdami doczekała się podpisu prezydenta. Dzięki nowym przepisom o prawo jazdy kategorii C będą się też mogły ubiegać osoby niesłyszące. Do tej pory polskie prawo wykluczało taką możliwość. 
+
+Zdjęcie
+
+
+
+
+Osoby niesłyszące pojadą ciężarówkami
+/Agencja SE/East News
+
+
+  Osoby niesłyszące od dłuższego czasu zwracały uwagę, że polskie przepisy dotyczące ubiegania się o uprawnienia do kierowania pojazdami są w tej kwestii zdecydowanie bardziej rygorystyczne, niż w innych krajach Unii Europejskiej. Ostatecznie prace nad nowymi przepisami ruszyły w zeszłym roku. Dzięki nim całkowity lub częściowy ubytek słuchu przestaje być przeciwskazaniem zdrowotnym do ubiegania się o prawo jazdy kategorii C1 i C. Osoby głuche lub głuchonieme wciąż nie będą jednak mogły zawodowo prowadzić autobusów. 
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }  Nowe prawo daje ponadto ubiegającym się o prawo jazdy możliwość bezpłatnego skorzystania z asystenta, który pełnić ma rolę tłumacza języka migowego. Do tej pory tłumacz mógł być wprawdzie obecny na egzaminie, ale związane z tym koszty zdający pokrywać musiał z własnej kieszeni. 
+  Nowe przepisy mają wejść w życie z dniem 1 października bieżącego roku. Dzięki nim osoby głuche zyskają wstęp na nowy, dobrze płatny, rynek pracy. Przypominamy, że wg ostrożnych szacunków, tylko w Polsce brakuje obecnie około 100 tys. zawodowych kierowców! 
+Paweł Rygas
+window.addEventListener("message", function(event) {    if(event.data.id == "shoperia-embed-onload") {        var iframe = document.getElementById("shoperia-4325");        var offsets = event.data.offsets;        var height = parseInt(offsets.offsetHeight) + 32;        iframe.height = height + "px";    }}, false);   Osoby niesłyszące od dłuższego czasu zwracały uwagę, że polskie przepisy dotyczące ubiegania się o uprawnienia do kierowania pojazdami są w tej kwestii zdecydowanie bardziej rygorystyczne, niż w innych krajach Unii Europejskiej. Ostatecznie prace nad nowymi przepisami ruszyły w zeszłym roku. Dzięki nim całkowity lub częściowy ubytek słuchu przestaje być przeciwskazaniem zdrowotnym do ubiegania się o prawo jazdy kategorii C1 i C. Osoby głuche lub głuchonieme wciąż nie będą jednak mogły zawodowo prowadzić autobusów.   Nowe prawo daje ponadto ubiegającym się o prawo jazdy możliwość bezpłatnego skorzystania z asystenta, który pełnić ma rolę tłumacza języka migowego. Do tej pory tłumacz mógł być wprawdzie obecny na egzaminie, ale związane z tym koszty zdający pokrywać musiał z własnej kieszeni.   Nowe przepisy mają wejść w życie z dniem 1 października bieżącego roku. Dzięki nim osoby głuche zyskają wstęp na nowy, dobrze płatny, rynek pracy. Przypominamy, że wg ostrożnych szacunków, tylko w Polsce brakuje obecnie około 100 tys. zawodowych kierowców! Paweł RygasMuzykaŚwiat serialiwww.rmf24.plKobietaEuroSportKobietaKobietaEuroSportKobietaKobietaKobietawww.rmf24.plEuroSportKobietapomponik.plwww.rmf24.pl
+                                                                            Ogólnopolska baza spółek, fundacji, stowarzyszeń                                                                    
+                                                                            Archiwum wyników losowań MINI LOTTO                                                                    
+                                                                            Znajdziesz tutaj przepisy na wyborny, puszysty sernik. Wypróbuj pomysły na sernik orzechowy,...                                                                    
+                                                                            Nowości ze świata motoryzacji. Zobacz najlepsze auta, motocykle, samochody osobowe.                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

@@ -1,0 +1,159 @@
+
+Biznes
+
+Piątek, 13 października 2017 (06:00)
+Marketerzy nie będą mogli nękać klientów nachalnymi telefonami /©GlowimagesCzy to koniec call center, jakie znamy? Od maja 2018 roku w życie wchodzi RODO - to tajemniczo brzmiące hasło w praktyce oznacza prawo do "bycia zapomnianym". Każdy będzie mógł zażądać trwałego usunięcia wszystkich swoich danych z baz kontaktów, a na firmy, które nie dostosują się do tego rozporządzenia, czekają gigantyczne kary. Co to oznacza dla całej branży?
+Nie da się ukryć, że u większości osób hasło "telemarketer" albo "call center" nie budzi pozytywnych emocji. Za ten stan rzeczy odpowiadają niestety wieloletnie błędy branży, która bezlitośnie nękała "Bogu ducha winnych" klientów telefonami. Zgodnie z wynikami badania SMG/KRC odnośnie marketingu zintegrowanego, 8 proc. klientów zadeklarowało odbieranie telefonu telemarketingowego kilka razy w tygodniu, a aż 32 proc. otrzymywało je nawet kilka razy w miesiącu. 
+
+Reklama
+
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("m_rectangle", null, null);
+        }
+    
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+ 
+//<![CDATA[
+
+Inpl.Ad.onAd('m_rectangle',function(is,elem){
+if(is){
+document.getElementById('m_rectangle1').style.display='';
+}else{
+document.getElementById('m_rectangle1').style.display='none';
+}
+});
+//]]>Lwia część tych połączeń to losowo wybrane rekordy z baz kontaktów, których sprzedaż stała się powszechną praktyką. Wkrótce jednak się to zmieni, bo firmy wykorzystujące do kontaktu dane klientów będą musiały posiadać wyraźnie udzieloną przez nich zgodę. Wśród zapisów nowego rozporządzenia najbardziej problematyczna okazała się "uprzednio wyrażona przez klienta zgoda" w połączeniu z dodanymi słowami "telekomunikacyjnych urządzeń końcowych". 
+W praktyce oznacza to, że czynność polegająca na dzwonieniu do potencjalnego klienta w celu przedstawienia mu oferty handlowej staje się niezgodna z prawem. Jakie jest więc rozwiązanie dla firm, które na kontakcie telefonicznym z klientem opierają swoją działalność?
+Kogo dotyczy RODO?
+Bardzo często, pomimo próśb o usunięcie z bazy kontaktów, telefon wciąż dzwonił, a wypisywanie się z list newsletterowych nie dawało rezultatów. To zmieni się, gdy wejdzie w życie unijne Rozporządzenie o Ochronie Danych Osobowych. Osoba, której dane dotyczą, ma prawo żądania od administratora niezwłocznego usunięcia danych osobowych jej dotyczących, a administrator ma obowiązek bez zbędnej zwłoki je usunąć. Obowiązek ten powstaje w przypadku, gdy dane te nie są już administratorowi niezbędne, została cofnięta zgoda na ich przetwarzanie, osoba, której dotyczą, wnosi sprzeciw co do ich przetwarzania bądź były one przetwarzane niezgodnie z prawem.
+- Niestety masowe działania wielu firm telemarketingowych na przestrzeni ostatnich lat spowodowały, że klienci bardzo nerwowo reagują na telefony konsultantów. Winna w tym przypadku jest komunikacja bez kontekstu, wynikająca z kupowania przez firmy telemarketingowe baz losowych klientów i obdzwaniania ich bez jakiejkolwiek wiedzy na temat ich zainteresowań czy preferencji zakupowych - wyjaśnia Paweł Pierścionek, chief technology officer w firmie Cludo dostarczającej zaawansowane oprogramowanie do zarządzania call i contact center w modelu SaaS. 
+- Firmy, które już jakiś czas temu zdecydowały się na wdrożenie systemów analizujących w czasie rzeczywistym dane na temat klientów i umożliwiających poznanie ich preferencji, w tym momencie mają ułatwione zadanie, bo jest zdecydowanie mniejsze prawdopodobieństwo, że klienci znajdujący się w konkretnie zdefiniowanej bazie będą żądali usunięcia z niej swoich danych osobowych, co siłą rzeczy nie naraża ich od razu na straty - dodaje ekspert.
+Kogo dotyczyć będzie rozporządzenie RODO? Właściwie wszystkich firm, które w jakikolwiek sposób gromadzą i wykorzystują dane dotyczące osób fizycznych. Nie będzie miało znaczenia, czy dane zbierane są przez duże korporacje - na przykład firmy ubezpieczeniowe czy instytucje finansowe - czy przez niewielkie rodzinne przedsiębiorstwa, takie jak sklep internetowy.
+Czy to koniec call center, jakie znamy?
+Polska jest liderem outsourcingu usług w Europie Środkowo-Wschodniej i jednym z liderów na świecie. Lwią część usług outsourcingowych stanowią te związane z call center, a na obecny obraz rynku składają się 147 firmy outsourcingowe skupiające ponad 24 000 stanowisk. Szacuje się, że w sektorze nowoczesnych usług biznesowych zatrudnionych jest w Polsce ponad 170 tys. osób. Jednak czy ta dziedzina outsourcingu - jedna z pierwszych w branży - będzie też pierwszą, która zniknie z rynku?
+- Bez wątpienia nowe rozporządzenie wymusi zmiany w całej branży call center, której działalność przecież na danych osobowych się opiera. Wiele firm wciąż nie posiada oprogramowania, które pozwala im świadomie zarządzać danymi klientów. W obliczu digitalizacji właściwie wszystkich obszarów biznesu nie sposób uporządkować informacji, zwłaszcza że tych lawinowo przybywa i coraz częściej są one rozrzucone po różnych obszarach firmy. W kontekście call i contact center dochodzi jeszcze kwestia wielokanałowości kontaktów z klientem, ponieważ dane trafiające do systemu pochodzą z różnych źródeł: telefon, sms, czat, formularz kontaktowy na stronie internetowej, czy wiadomość w serwisie społecznościowym pozostawiona na fanpage'u firmy. Nieuporządkowanie tych zasobów w kontekście nowych regulacji może stać się przyczyną problemów i wysokich kar finansowych - przestrzega Paweł Pierścionek.
+Zapomnij albo zapłać
+To, co pozwala zatrzymać dane klientów do dalszego przetwarzania, to prawnie uzasadniona potrzeba wynikająca z innych aktów, np. prawa telekomunikacyjnego czy wszelkiego rodzaju umów wymagających weryfikacji tych danych. Warto podkreślić, że przepisy nakazujące wykreślenie na żądanie danych osobowych z firmowych rejestrów, zawarte w Ustawie o Ochronie Danych Osobowych, obowiązują już dzisiaj - problem jednak w tym, iż nikt dotychczas nie analizował, czy po cofnięciu zgody klienta na ich dalsze gromadzenie i przetwarzanie, zostały one trwale usunięte. Nowe rozporządzenie daje już takie narzędzia i można się spodziewać, że 20 mln euro kary albo 4 proc. wartości rocznego obrotu, które mogą zapłacić firmy naruszające zapisy RODO, skłania do refleksji i zadecyduje o "być albo nie być" na rynku wielu podmiotów z branży call center.
+- Paradoksalnie wprowadzenie zaostrzonych regulacji może mieć pozytywny wpływ na całą branżę call center, a tym samym na jakość obsługi klienta. Odczują to zarówno klienci, którzy przestaną być nękani niechcianymi telefonami, jak i same call i contact center, które zmuszone do ścisłej weryfikacji swoich baz klientów i wdrożenia technologii umożliwiających świadome zarządzanie danymi zyskają szansę na zwiększenie efektywności poprzez kontakt ze ściśle określoną grupą konsumentów potencjalnie zainteresowanych ich produktami - prognozuje ekspert.
+Niepokojącym pozostaje tylko fakt, iż świadomość przedsiębiorców dotycząca RODO wciąż jest niewielka. Według zeszłorocznego badania firmy Dell, ponad 80 proc. ankietowanych przedstawicieli firm nic nie wie na temat nowego unijnego rozporządzenia lub ma o nim szczątkową wiedzę. Zaledwie 3 proc. osób biorących udział w badaniu zadeklarowało, że ich firma ma stosowny plan oraz dysponuje procedurami spełnienia wytycznych RODO.
+
+
+
+
+
+
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("banner_app", null, null);
+        }
+    
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+
+Czy to koniec call center, jakie znamy? Od maja 2018 roku w życie wchodzi RODO - to tajemniczo brzmiące hasło w praktyce oznacza prawo do "bycia zapomnianym". Każdy będzie mógł zażądać trwałego usunięcia wszystkich swoich danych z baz kontaktów, a na firmy, które nie dostosują się do tego rozporządzenia, czekają gigantyczne kary. Co to oznacza dla całej branży?Nie da się ukryć, że u większości osób hasło "telemarketer" albo "call center" nie budzi pozytywnych emocji. Za ten stan rzeczy odpowiadają niestety wieloletnie błędy branży, która bezlitośnie nękała "Bogu ducha winnych" klientów telefonami. Zgodnie z wynikami badania SMG/KRC odnośnie marketingu zintegrowanego, 8 proc. klientów zadeklarowało odbieranie telefonu telemarketingowego kilka razy w tygodniu, a aż 32 proc. otrzymywało je nawet kilka razy w miesiącu. Lwia część tych połączeń to losowo wybrane rekordy z baz kontaktów, których sprzedaż stała się powszechną praktyką. Wkrótce jednak się to zmieni, bo firmy wykorzystujące do kontaktu dane klientów będą musiały posiadać wyraźnie udzieloną przez nich zgodę. Wśród zapisów nowego rozporządzenia najbardziej problematyczna okazała się "uprzednio wyrażona przez klienta zgoda" w połączeniu z dodanymi słowami "telekomunikacyjnych urządzeń końcowych". W praktyce oznacza to, że czynność polegająca na dzwonieniu do potencjalnego klienta w celu przedstawienia mu oferty handlowej staje się niezgodna z prawem. Jakie jest więc rozwiązanie dla firm, które na kontakcie telefonicznym z klientem opierają swoją działalność?Kogo dotyczy RODO?Bardzo często, pomimo próśb o usunięcie z bazy kontaktów, telefon wciąż dzwonił, a wypisywanie się z list newsletterowych nie dawało rezultatów. To zmieni się, gdy wejdzie w życie unijne Rozporządzenie o Ochronie Danych Osobowych. Osoba, której dane dotyczą, ma prawo żądania od administratora niezwłocznego usunięcia danych osobowych jej dotyczących, a administrator ma obowiązek bez zbędnej zwłoki je usunąć. Obowiązek ten powstaje w przypadku, gdy dane te nie są już administratorowi niezbędne, została cofnięta zgoda na ich przetwarzanie, osoba, której dotyczą, wnosi sprzeciw co do ich przetwarzania bądź były one przetwarzane niezgodnie z prawem.- Niestety masowe działania wielu firm telemarketingowych na przestrzeni ostatnich lat spowodowały, że klienci bardzo nerwowo reagują na telefony konsultantów. Winna w tym przypadku jest komunikacja bez kontekstu, wynikająca z kupowania przez firmy telemarketingowe baz losowych klientów i obdzwaniania ich bez jakiejkolwiek wiedzy na temat ich zainteresowań czy preferencji zakupowych - wyjaśnia Paweł Pierścionek, chief technology officer w firmie Cludo dostarczającej zaawansowane oprogramowanie do zarządzania call i contact center w modelu SaaS. - Firmy, które już jakiś czas temu zdecydowały się na wdrożenie systemów analizujących w czasie rzeczywistym dane na temat klientów i umożliwiających poznanie ich preferencji, w tym momencie mają ułatwione zadanie, bo jest zdecydowanie mniejsze prawdopodobieństwo, że klienci znajdujący się w konkretnie zdefiniowanej bazie będą żądali usunięcia z niej swoich danych osobowych, co siłą rzeczy nie naraża ich od razu na straty - dodaje ekspert.Kogo dotyczyć będzie rozporządzenie RODO? Właściwie wszystkich firm, które w jakikolwiek sposób gromadzą i wykorzystują dane dotyczące osób fizycznych. Nie będzie miało znaczenia, czy dane zbierane są przez duże korporacje - na przykład firmy ubezpieczeniowe czy instytucje finansowe - czy przez niewielkie rodzinne przedsiębiorstwa, takie jak sklep internetowy.Czy to koniec call center, jakie znamy?Polska jest liderem outsourcingu usług w Europie Środkowo-Wschodniej i jednym z liderów na świecie. Lwią część usług outsourcingowych stanowią te związane z call center, a na obecny obraz rynku składają się 147 firmy outsourcingowe skupiające ponad 24 000 stanowisk. Szacuje się, że w sektorze nowoczesnych usług biznesowych zatrudnionych jest w Polsce ponad 170 tys. osób. Jednak czy ta dziedzina outsourcingu - jedna z pierwszych w branży - będzie też pierwszą, która zniknie z rynku?- Bez wątpienia nowe rozporządzenie wymusi zmiany w całej branży call center, której działalność przecież na danych osobowych się opiera. Wiele firm wciąż nie posiada oprogramowania, które pozwala im świadomie zarządzać danymi klientów. W obliczu digitalizacji właściwie wszystkich obszarów biznesu nie sposób uporządkować informacji, zwłaszcza że tych lawinowo przybywa i coraz częściej są one rozrzucone po różnych obszarach firmy. W kontekście call i contact center dochodzi jeszcze kwestia wielokanałowości kontaktów z klientem, ponieważ dane trafiające do systemu pochodzą z różnych źródeł: telefon, sms, czat, formularz kontaktowy na stronie internetowej, czy wiadomość w serwisie społecznościowym pozostawiona na fanpage'u firmy. Nieuporządkowanie tych zasobów w kontekście nowych regulacji może stać się przyczyną problemów i wysokich kar finansowych - przestrzega Paweł Pierścionek.Zapomnij albo zapłaćTo, co pozwala zatrzymać dane klientów do dalszego przetwarzania, to prawnie uzasadniona potrzeba wynikająca z innych aktów, np. prawa telekomunikacyjnego czy wszelkiego rodzaju umów wymagających weryfikacji tych danych. Warto podkreślić, że przepisy nakazujące wykreślenie na żądanie danych osobowych z firmowych rejestrów, zawarte w Ustawie o Ochronie Danych Osobowych, obowiązują już dzisiaj - problem jednak w tym, iż nikt dotychczas nie analizował, czy po cofnięciu zgody klienta na ich dalsze gromadzenie i przetwarzanie, zostały one trwale usunięte. Nowe rozporządzenie daje już takie narzędzia i można się spodziewać, że 20 mln euro kary albo 4 proc. wartości rocznego obrotu, które mogą zapłacić firmy naruszające zapisy RODO, skłania do refleksji i zadecyduje o "być albo nie być" na rynku wielu podmiotów z branży call center.- Paradoksalnie wprowadzenie zaostrzonych regulacji może mieć pozytywny wpływ na całą branżę call center, a tym samym na jakość obsługi klienta. Odczują to zarówno klienci, którzy przestaną być nękani niechcianymi telefonami, jak i same call i contact center, które zmuszone do ścisłej weryfikacji swoich baz klientów i wdrożenia technologii umożliwiających świadome zarządzanie danymi zyskają szansę na zwiększenie efektywności poprzez kontakt ze ściśle określoną grupą konsumentów potencjalnie zainteresowanych ich produktami - prognozuje ekspert.Niepokojącym pozostaje tylko fakt, iż świadomość przedsiębiorców dotycząca RODO wciąż jest niewielka. Według zeszłorocznego badania firmy Dell, ponad 80 proc. ankietowanych przedstawicieli firm nic nie wie na temat nowego unijnego rozporządzenia lub ma o nim szczątkową wiedzę. Zaledwie 3 proc. osób biorących udział w badaniu zadeklarowało, że ich firma ma stosowny plan oraz dysponuje procedurami spełnienia wytycznych RODO.
+
+
+
+
+~Nękany telefonam                             - 13.10.2017 (06:18)
+Wszystkie numery firmowe dzwoniacego powinny się pokazywać w telefonach odbierających wraz z nazwą firmy, lub nazwiskiem właściciela. Najwyższy czas odwrócić sytuację. Teraz dzwoniący jest anonimowy, a do odbiorcy zwraca się po nazwisku. Elektronika i telekomunikacja powinna rozwiązać ten problem. Chcemy wiedzieć, kto do nas dzwoni.
+~Raf                             - 13.10.2017 (06:28)
+A co z firmami które nie legalnie pozyskają nasze dane i dzwonią z różnymi ofertami jak firma z Bydgoszczy organizująca spotkania typu garnki, darmowe badania itp?
+~Ada                             - 13.10.2017 (06:35)
+Dopiero PiS coś z tym robi!
+~wujek dobra rada                             - 13.10.2017 (08:26)
+jeżeli nekają was z banku,ubezpieczalni czy innej korporacji jest sposób aby wiecej nie dzwonili. Po odebranym telefonie od nachalnego sprzedawcy który za nic w świecie nie chce sie rozłączyc dopóki nie usłyszy TAK prosicie aby przeczytał wam cały regulamin i TOiP - koleś MUSI to zrobić i zajmuje mu to minimum 30 minut a wy w tym czasie odkładacie komórkę na półke i zajmujecie sie swoimi sprawami - po pół godzinie podnosicie aparat , dziękujecie i prosicie ponownie o telefon jutro bo juz dzis musicie kończyc - GWARANTUJE że z tej firmy wiecej do was nie zadzwonią
+~Ala                             - 13.10.2017 (06:08)
+Mnie nęka sieć ORANGE !Piszesz jako Gość
+
+                    Strona główna                
+
+
+                    Fakty                
+
+
+                    Biznes                
+
+
+                    Sport                
+
+
+                    Z karnego                
+
+
+                    Forum                
+
+
+                    Motoryzacja                
+
+
+                    Magazynauto                
+
+
+                    Raport drogowy                
+
+
+                    Poboczem                
+
+
+                    Nowe technologie                
+
+
+                    Interia.TV                
+
+
+                    Mobtech                
+
+
+                    Gry                
+
+
+                    Graj on-line                
+
+
+                    Esporter                
+
+
+                    Muzyka                
+
+
+                    Film                
+
+
+                    Świat Seriali                
+
+
+                    Kobieta                
+
+
+                    Styl                
+
+
+                    Mam dziecko                
+
+
+                    Nowa historia                
+
+
+                    Dziki kraj                
+
+
+                    Pomponik                
+
+
+                    Innowacje                
+
+
+                    Polska2041                
+
+
+                    MenWay                
+
+Prywatność
+Polityka Cookies
+Regulamin
+Copyright © 1999-2018 INTERIA.PL

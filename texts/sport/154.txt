@@ -1,0 +1,162 @@
+Polska ekstraklasa jest jak serial. Serial z przeciętną obsadą aktorską, mało lotną fabułą, kiepskimi dialogami. Ma w sobie jednak coś, co przyciąga widzów i wręcz fascynuje. To raj dla miłośników absurdalnego poczucia humoru, sitcomowych wręcz gagów, których kuriozum potęguje dodatkowo profesjonalna otoczka, w którą ubrana została polska liga. Zapraszamy na przegląd "kalendarza absurdu" Ekstraklasy sezonu 2017/18. 
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Lech Poznań. Rzecznik "Kolejorza" po meczu z Legią Warszawa (0-3). Wideo
+INTERIA.TV
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2521357-4309434');
+                var $embed = jQuery('#player2521357-4309434').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Ekstraklasa - wyniki, tabela, strzelcy
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }Kolejny sezon serialu zwanego Ekstraklasą składał się z wielu elementów. Miał w sobie piękne historie romantyczne - jak gol Pawła Brożka na pożegnanie ze stadionem przy Reymonta, ale raczej trudno temu tasiemcowi przykleić łatkę romantycznej komedii.
+ Miał w sobie dramatyczne zwroty akcji - gdy walka o mistrzostwo i utrzymanie toczyła się do ostatniej kolejki. Pojawiły się wątki na pograniczu prawa - burdy kibiców, oskarżenia o "Piłkarski Poker", ale nikt o zdrowych zmysłach nie zaliczyłby tego serialu do kryminalnych.
+Przeciwnie, Ekstraklasa to produkcja, w którym widz wie jedynie tyle, że może spodziewać się tego, czego nie należy się spodziewać. To farsa, komedia absurdu, o której człowiek myśli, że wie już wszystko, a ta i tak w każdym kolejnym sezonie zaskoczy go czymś nowym. Jak choćby tragikomiczną puentą z ostatniej kolejki w Poznaniu.
+W sezonie 2017/18 polska liga zawiesiła sobie poprzeczkę jeszcze wyżej niż zazwyczaj. Przejrzyjmy raz jeszcze kalendarz sezonu, w którym absurd gonił absurd:
+5 czerwca 2017 - Sandecja oficjalnie ogłosiła, że swoje mecze domowe na początku sezonu rozgrywać będzie w Niecieczy. Zarządy miasta i klubu zapewniają, że ekskluzywny stadion w Nowym Sączu powstanie najpóźniej na początku rundy wiosennej. 3 lipca 2017 - Dwóch architektów wicemistrzostwa Jagiellonii - trener Michał Probierz i Konstantin Wasiljew odeszli z klubu, by szukać nowych wyzwań. Obaj ostatecznie wylądowali w znacznie słabszych klubach - pierwszy w Cracovii, drugi w Piaście Gliwice. A mówiło się o wyjeździe za granicę Probierza i kontrakcie życia Wasiljewa...   
+5 lipca 2017 -  Na dziewięć dni przed rozpoczęciem sezonu Marcin Kaczmarek zostaje zwolniony z Wisły Płock. Kaczmarek pracował w Płocku pięć lat, awansował z klubem do Ekstraklasy i utrzymał go, po czym o jego zwolnienie wystąpiła grupa jego własnych zawodników.
+15 lipca 2017 - Ekstraklasa rozpoczyna rozgrywki. Na "dzień dobry" mistrz Polski, Legia, dostaje baty od beniaminka Górnika Zabrze.   
+20 lipca 2017 - Pierwsza polska drużyna odpada z europejskich pucharów. Jest to Jagiellonia, która okazała się słabsza niż azerska FK Gabala.
+31 lipca 2017 - Na testy do Sandecji przyjeżdża Freddy Adu. Wtedy zaczyna się cyrk - Adu przyjechał do Nowego Sącza bez wiedzy trenera Mroczkowskiego, który odmówił oglądania zawodnika. Sandecja informuje więc, że piłkarz nie przeszedł badań medycznych, czemu zaprzecza sam Adu i czym prędzej opuszcza Polskę. Dyrektor sportowy Arkadiusz Aleksander zapewniał, że miał być to pozytywny ruch wizerunkowy, a wyszła wielka klapa.   
+4 sierpnia 2017 - Wasiljew w 4. kolejce marnuje drugi rzut karny dla Piasta. Jeden z najlepszych graczy zeszłego sezonu jest cieniem swojego cienia.
+5 sierpnia 2017 - Sebastian Mila wchodzi na boisko na dwie minuty w meczu z Górnikiem. Warto zapamiętać ten moment, bo to jedyne dwie minuty Mili na boisku w całym sezonie.   
+24 sierpnia 2017 - Sezon w wielu ligach dobrze się nie zaczął, a ostatnia z polskich drużyn odpada z europejskich pucharów. Jest nią Legia, która przegrywa dwumecz z Sheriffem Tyraspol.
+26 sierpnia 2017 - Cillian Sheridan robi to.
+
+
+
+����dla Sheridan&#39;a #JAGPIA pic.twitter.com/xphC5jy1q5
+— Konrad Dmochowski (@KonradAmfistory)
+26 sierpnia 2017
+
+
+
+
+11 września 2017 - Minął rok od kiedy ostatniego gola w Ekstraklasie zdobył Łukasz Zwoliński. Napastnik Pogoni od tamtego czasu rozegrał 30 spotkań.
+13 września 2017 - Legia zwalnia jedną z legend klubu, Jacka Magierę, a więc człowieka, który odbudował drużynę po Besniku Hasim, zremisował z Realem Madryt i zdobył mistrzostwo Polski. Jego miejsce na stanowisku trenera zajmuje Romeo Jozak, dla którego to debiut trenerski. - Pewnego dnia podziękujecie prezesowi, że miał taką wizję - tymi słowami Chorwat wita się z Warszawą.
+17 września 2017 - Sandecja wygrywa 1-0 z Bruk-Betem Termalicą. Na następną wygraną beniaminek będzie czekał 217 dni.   
+27 września 2017 - Lechia Gdańsk uznaje, że poradzi sobie bez trenera, przyznając jego obowiązki specjaliście od przygotowania fizycznego Adamowi Owenowi. Z 16 meczów pod jego wodzą gdańszczanie wygrają cztery.
+5 listopada 2017 - W 15. kolejce, po 1127 minutach gry, Bartosz Śpiączka strzela pierwszego gola dla Bruk-Betu Termalica.   
+27 listopada 2017 - Szok w Lubinie, najdłużej pracujący w Ekstraklasie trener, czyli Piotr Stokowiec, zwolniony. W tej sytuacji najdłużej pracującym szkoleniowcem jest Bjelica, którego Lech zatrudnił rok i dwa miesiące wcześniej.
+24 grudnia 2017 - Derby Krakowa, podczas których kibice Cracovii z rakietnicy wystrzeliwali race prosto w sektor kibiców Wisły. To cud, że nie doszło do tragedii. Od tamtej pory na mecze "Pasów" mogli wejść tylko posiadacze karnetów.   
+4 stycznia 2018 - Unieważniono przetarg na budowę nowego stadionu Sandecji.
+12 stycznia 2018 - Kibice Sandecji przestają wierzyć, że nowy stadion w ogóle powstanie. Sfrustrowani wychodzą na ulice i protestują pod ratuszem.  
+24 stycznia 2018 - Po zimowym urlopie na treningi Lechii nie wraca Romario Balde. Nikt go nie widział, nikt nie wie co się z nim dzieje. Kilka dni później Portugalczyk, mający w Gdańsku ważny kontrakt, odnajduje się w... szwedzkim Hammarby IF.
+9 lutego 2018 - Szumnie swój powrót do Ekstraklasy zapowiadał Piotr Leciejewski. Mówił o sobie, jako o najlepszym bramkarzu ligi norweskiej, może kandydacie do reprezentacji... W pierwszym meczu po powrocie do kraju sprezentował Legii dwie bramki i więcej na boisku już się nie pokazał.   
+27 lutego 2018 - Na spotkaniu w Niecieczy Sandecja - Zagłębie pada rekord najgorszej frekwencji na meczu Ekstraklasy. W przeraźliwym zimnie spotkanie na stadionie obserwują 74 osoby.
+3 marca 2018 - Piast na kilka minut przed końcem meczu wygrywa z Górnikiem 1-0 w derbach Śląska. W tym momencie szalikowcy Piasta demolują ogrodzenie, wbiegają na boisko, a sędzia przerywa mecz. Gliwiczanie, choć trzy punkty mieli na wyciągnięcie ręki, kończą mecz z niczym.   
+5 marca 2018 - W związku z zamieszkami na stadionie w Gliwicach Komisja Ligi ukarała Piasta walkowerem, jednocześnie... odejmując trzy punkty Górnikowi. Z decyzji KL kpi nawet prezes PZPN: - Jestem załamany tym, co wyprawia Komisja Ligi. Przed jakimkolwiek poważnym trybunałem Górnik nie ma prawa przegrać tej sprawy - stwierdził Zbigniew Boniek.
+11 marca 2018 - Brian Iloski został 40. piłkarzem, który w tym sezonie wystąpił w barwach Legii we wszystkich rozgrywkach. Dobitny dowód braku stabilizacji w drużynie mistrza Polski.   
+18 marca 2018 - Środkowi obrońcy Michał Helik i Mateusz Wieteska mają razem 12 goli. To tyle samo co łącznie napastnicy Kuświk, Brożek, Woźniak, Zwoliński, Śpiączka, Rakels, Buksa, Tuszyński, Sadiku, Peszko i Jankowski.
+25 marca 2018 - Najwyższa Komisja Odwoławcza uznała odwołanie Górnika od kary odjęcia punktów.   
+31 marca 2018 - Lechia, która przed sezonem zapowiadała grę o mistrzostwo, po 29. kolejkach trafia do strefy spadkowej.
+7 kwietnia 2018 - Kibice Sandecji przejechali 70 km do Niecieczy, by chwilę przed meczem dowiedzieć się, że bilety można kupić jedynie w... Nowym Sączu. Fani meczu nie obejrzeli, choć dzień wcześniej rzecznik beniaminka zapewniał, że bilety dostępne będą w kasach stadionu.   
+7 kwietnia 2018 - Lech kończy rundę zasadniczą na pierwszym miejscu. Nenad Bjelica stwierdza, że nie boi się roli faworyta w walce o mistrzostwo. W kolejnych pięciu meczach Lech trzy razy przegrywa, raz remisuje i tylko raz wygrywa, przez co traci szansę na mistrzostwo Polski. Na dwie kolejki przed końcem Bjelica zostanie zwolniony.
+13-14 kwietnia 2018 - Pierwsza kolejka grupy mistrzowskiej. Przegrywają wszystkie trzy drużyny ze szczytu tabeli - Lech, Jagiellonia i Legia.   
+15 kwietnia 2018 - Romeo Jozak zwolniony z Legii na sześć kolejek przed końcem sezonu, mimo tego, że w czasie jego kadencji żadna z drużyn nie zdobyła więcej punktów niż Legia. Miejsce Jozaka zajmuje dotychczasowy asystent Dean Klafurić, były selekcjoner chorwackiej reprezentacji kobiet. Z Legią na "dzień dobry" sięgnie po dublet.
+15 kwietnia 2018 - Sito Riera uderza sędziego głową i zostaje zawieszony do końca sezonu. To analogiczna sytuacja do zeszłego roku, gdzie w rundzie finałowej Riera został zawieszony za skopanie Adama Buksy...   
+16 kwietnia 2018 - Ekstraklasa, jako jedna z czterech lig na świecie, ma lidera który wygrał mniej niż połowę spotkań. 
+
+
+
+Tylko 4 liderów lig z całego świata (sprawdziłem 161 krajów; od Albanii przez Dżibuti, Mołdawię do Zimbabwe) wygrało mniej niż 50% meczów w sezonie:1. Shirak (Armenia): 11-5-72. LISCR FC (Liberia): 10-12-03. Central Parade (Sierra Leone): 3-6-14. Lech Poznań (Polska): 15-10-6
+— Konrad Mazur (@KonradMazur89)
+16 kwietnia 2018
+
+
+
+
+20 kwietnia 2018 - Bruk-Bet przegrywa ze Śląskiem, bo gracze z Niecieczy dwukrotnie faulują w polu karnym, a Martin Miković rzuca piłką w arbitra, za co otrzymuje czerwoną kartkę. Tymczasem pani prezes Danuta Witkowska zamieszcza na oficjalnej stronie klubu oświadczenie: "To co działo się w Niecieczy w pierwszej połowie to 'Piłkarski Poker'".   
+22 kwietnia - 807 widzów ogląda w Niecieczy, jak Sandecja po 22. kolejkach marazmu w końcu wygrywa. W pokonanym polu Arka Gdynia, której zawodnicy musieli strzelić dwa samobóje, żeby Sandecja wreszcie zwyciężyła.
+27 kwietnia 2018 - Od przyjścia Niezgody do Legii, ta ściągnęła takich napastników jak Sanogo, Necid, Kulenović, Chima Chukwu, Sadiku i Eduardo. Razem strzelili 8 goli. Jarosław Niezgoda, który wszedł do gry w trakcie sezonu, w meczu z Koroną swój dorobek w lidze powiększył do 13 trafień.   
+29 kwietnia 2018 - Sędzia Bartosz Frankowski był wyznaczony do prowadzenia finału Pucharu Polski, ale w meczu poprzedzającym finał mylił się tak okrutnie, że interweniował sam prezes Boniek, który wymusił zmianę Frankowskiego na Piotra Lasyka.   
+30 kwietnia 2018 - Danuta Witkowska zostaje ukarana finansowo przez Komisję Ligi za słowa o "piłkarskim pokerze", ale KL nie podaje tej wiadomości w oficjalnym komunikacie.
+5 maja 2018 - Bilans napastnika Bruk-Betu Bartosza Śpiączki wynosi 33 mecze, 24 w pierwszym składzie, 2136 minut, 1 gol, 1 asysta.   
+10 maja 2018 - Nenad Bjelica zwolniony z Lecha. Po zwolnieniu Chorwata najdłużej pracującym trenerem w Ekstraklasie jest Leszek Ojrzyński (w Arce "aż" od roku i miesiąca). Lech sezon skończy z niczym, Bjelica zaś... z mistrzostwem Chorwacji.
+12 maja 2018 - Sandecja cały sezon grała w Niecieczy, ale gdy po raz pierwszy "domowy" mecz ligowy rozegrała w Mielcu, to od razu zapewniła sobie spadek do I ligi. Przegrana 0-1 z Cracovią odebrała jej matematyczne szanse na utrzymanie.   
+13 maja 2018 - Emir Dilaver w meczu z Wisłą siada na ławce rezerwowych, żeby nie "złapać" żółtej kartki i nie pauzować w meczu ostatniej kolejki z Legią. Bośniak nie gra nawet minuty, ale wdaje się w bijatykę, ogląda kartkę i przeciwko Legii pauzuje.
+13 maja 2018 - Kibice Wisły żegnały legendy - Pawła Brożka i Arkadiusza Głowackiego - z taką pompą, że odpalone przez nich race wywołały pożar w sektorze fanatyków, przez co sędzia musiał przerwać  mecz. O ironio, spłonął transparent o treści "Nigdy się nie wypalimy"...   
+16 maja 2018 - Ekstraklasa podjęła decyzję, że w sytuacji, gdyby mistrzem Polski została Legia Warszawa, ceremonia wręczenia trofeum i złotych medali nie odbędzie się w Poznaniu, lecz zostanie przeprowadzona zaraz po powrocie zawodników i sztabu szkoleniowego do Warszawy.
+17 maja 2018 - Leszek Ojrzyński przyszedł do Arki w roli strażaka, a zdobył Puchar Polski i utrzymał drużynę w lidze. W kolejnym sezonie wygrał Superpuchar, znów zapewnił jej utrzymanie i dotarł do finału PP. Tymczasem klub poinformował, że nie zamierza przedłużać kontraktu ze szkoleniowcem. Oznacza to, że ostatni z trenerów pracujących w Ekstraklasie w sezonie 2016/17 stracił pracę.
+20 maja 2018 - Puenta całego sezonu: decydujący mecz o mistrzostwie Lech - Legia przerwany przez pseudokibiców z Poznania. Chuligani zadymili boisko racami, wbiegli na murawę, starli się z interweniującą policją. Piłkarze zeszli do szatni, sędzia uznał, że mecz nie może być kontynuowany. Legia, która i tak wygrywała 2-0, tytuł oficjalnie dostała dzięki decyzji przy stoliku. Wynik zweryfikowano jako walkower na korzyść obrońców tytułu. Mistrzostwo zdobyła z 11 porażkami - to najwięcej w historii ligi. Wzruszony Malarz przed kamerą zalewał się łzami, a za jego plecami na wizji przeklinał siarczyście Cierzniak. Z kolei w Białymstoku Jagiellonia uhonorowana została srebrnymi medalami, zanim oficjalnie ogłoszono, kto został mistrzem kraju. 
+
+Wojciech Górski
+
+
+
+Zdjęcie
+
+
+
+
+Rzuconymi racami i wtargnięciem na boisko chuligani przerwali mecz Lech - Legia
+/Jakub Kaczmarczyk /PAP
+
+
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Legia Warszawa. Dean Klafurić po meczu z Lechem Poznań (3-0). Wideo
+INTERIA.TV
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2521356-3538962');
+                var $embed = jQuery('#player2521356-3538962').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ Ekstraklasa - wyniki, tabela, strzelcyKolejny sezon serialu zwanego Ekstraklasą składał się z wielu elementów. Miał w sobie piękne historie romantyczne - jak gol Pawła Brożka na pożegnanie ze stadionem przy Reymonta, ale raczej trudno temu tasiemcowi przykleić łatkę romantycznej komedii. Miał w sobie dramatyczne zwroty akcji - gdy walka o mistrzostwo i utrzymanie toczyła się do ostatniej kolejki. Pojawiły się wątki na pograniczu prawa - burdy kibiców, oskarżenia o "Piłkarski Poker", ale nikt o zdrowych zmysłach nie zaliczyłby tego serialu do kryminalnych.Przeciwnie, Ekstraklasa to produkcja, w którym widz wie jedynie tyle, że może spodziewać się tego, czego nie należy się spodziewać. To farsa, komedia absurdu, o której człowiek myśli, że wie już wszystko, a ta i tak w każdym kolejnym sezonie zaskoczy go czymś nowym. Jak choćby tragikomiczną puentą z ostatniej kolejki w Poznaniu.W sezonie 2017/18 polska liga zawiesiła sobie poprzeczkę jeszcze wyżej niż zazwyczaj. Przejrzyjmy raz jeszcze kalendarz sezonu, w którym absurd gonił absurd:5 czerwca 2017 - Sandecja oficjalnie ogłosiła, że swoje mecze domowe na początku sezonu rozgrywać będzie w Niecieczy. Zarządy miasta i klubu zapewniają, że ekskluzywny stadion w Nowym Sączu powstanie najpóźniej na początku rundy wiosennej. 3 lipca 2017 - Dwóch architektów wicemistrzostwa Jagiellonii - trener Michał Probierz i Konstantin Wasiljew odeszli z klubu, by szukać nowych wyzwań. Obaj ostatecznie wylądowali w znacznie słabszych klubach - pierwszy w Cracovii, drugi w Piaście Gliwice. A mówiło się o wyjeździe za granicę Probierza i kontrakcie życia Wasiljewa...   5 lipca 2017 -  Na dziewięć dni przed rozpoczęciem sezonu Marcin Kaczmarek zostaje zwolniony z Wisły Płock. Kaczmarek pracował w Płocku pięć lat, awansował z klubem do Ekstraklasy i utrzymał go, po czym o jego zwolnienie wystąpiła grupa jego własnych zawodników.15 lipca 2017 - Ekstraklasa rozpoczyna rozgrywki. Na "dzień dobry" mistrz Polski, Legia, dostaje baty od beniaminka Górnika Zabrze.   20 lipca 2017 - Pierwsza polska drużyna odpada z europejskich pucharów. Jest to Jagiellonia, która okazała się słabsza niż azerska FK Gabala.31 lipca 2017 - Na testy do Sandecji przyjeżdża Freddy Adu. Wtedy zaczyna się cyrk - Adu przyjechał do Nowego Sącza bez wiedzy trenera Mroczkowskiego, który odmówił oglądania zawodnika. Sandecja informuje więc, że piłkarz nie przeszedł badań medycznych, czemu zaprzecza sam Adu i czym prędzej opuszcza Polskę. Dyrektor sportowy Arkadiusz Aleksander zapewniał, że miał być to pozytywny ruch wizerunkowy, a wyszła wielka klapa.   4 sierpnia 2017 - Wasiljew w 4. kolejce marnuje drugi rzut karny dla Piasta. Jeden z najlepszych graczy zeszłego sezonu jest cieniem swojego cienia.5 sierpnia 2017 - Sebastian Mila wchodzi na boisko na dwie minuty w meczu z Górnikiem. Warto zapamiętać ten moment, bo to jedyne dwie minuty Mili na boisku w całym sezonie.   24 sierpnia 2017 - Sezon w wielu ligach dobrze się nie zaczął, a ostatnia z polskich drużyn odpada z europejskich pucharów. Jest nią Legia, która przegrywa dwumecz z Sheriffem Tyraspol.26 sierpnia 2017 - Cillian Sheridan robi to.11 września 2017 - Minął rok od kiedy ostatniego gola w Ekstraklasie zdobył Łukasz Zwoliński. Napastnik Pogoni od tamtego czasu rozegrał 30 spotkań.13 września 2017 - Legia zwalnia jedną z legend klubu, Jacka Magierę, a więc człowieka, który odbudował drużynę po Besniku Hasim, zremisował z Realem Madryt i zdobył mistrzostwo Polski. Jego miejsce na stanowisku trenera zajmuje Romeo Jozak, dla którego to debiut trenerski. - Pewnego dnia podziękujecie prezesowi, że miał taką wizję - tymi słowami Chorwat wita się z Warszawą.17 września 2017 - Sandecja wygrywa 1-0 z Bruk-Betem Termalicą. Na następną wygraną beniaminek będzie czekał 217 dni.   27 września 2017 - Lechia Gdańsk uznaje, że poradzi sobie bez trenera, przyznając jego obowiązki specjaliście od przygotowania fizycznego Adamowi Owenowi. Z 16 meczów pod jego wodzą gdańszczanie wygrają cztery.5 listopada 2017 - W 15. kolejce, po 1127 minutach gry, Bartosz Śpiączka strzela pierwszego gola dla Bruk-Betu Termalica.   27 listopada 2017 - Szok w Lubinie, najdłużej pracujący w Ekstraklasie trener, czyli Piotr Stokowiec, zwolniony. W tej sytuacji najdłużej pracującym szkoleniowcem jest Bjelica, którego Lech zatrudnił rok i dwa miesiące wcześniej.24 grudnia 2017 - Derby Krakowa, podczas których kibice Cracovii z rakietnicy wystrzeliwali race prosto w sektor kibiców Wisły. To cud, że nie doszło do tragedii. Od tamtej pory na mecze "Pasów" mogli wejść tylko posiadacze karnetów.   4 stycznia 2018 - Unieważniono przetarg na budowę nowego stadionu Sandecji.12 stycznia 2018 - Kibice Sandecji przestają wierzyć, że nowy stadion w ogóle powstanie. Sfrustrowani wychodzą na ulice i protestują pod ratuszem.  24 stycznia 2018 - Po zimowym urlopie na treningi Lechii nie wraca Romario Balde. Nikt go nie widział, nikt nie wie co się z nim dzieje. Kilka dni później Portugalczyk, mający w Gdańsku ważny kontrakt, odnajduje się w... szwedzkim Hammarby IF.9 lutego 2018 - Szumnie swój powrót do Ekstraklasy zapowiadał Piotr Leciejewski. Mówił o sobie, jako o najlepszym bramkarzu ligi norweskiej, może kandydacie do reprezentacji... W pierwszym meczu po powrocie do kraju sprezentował Legii dwie bramki i więcej na boisku już się nie pokazał.   27 lutego 2018 - Na spotkaniu w Niecieczy Sandecja - Zagłębie pada rekord najgorszej frekwencji na meczu Ekstraklasy. W przeraźliwym zimnie spotkanie na stadionie obserwują 74 osoby.3 marca 2018 - Piast na kilka minut przed końcem meczu wygrywa z Górnikiem 1-0 w derbach Śląska. W tym momencie szalikowcy Piasta demolują ogrodzenie, wbiegają na boisko, a sędzia przerywa mecz. Gliwiczanie, choć trzy punkty mieli na wyciągnięcie ręki, kończą mecz z niczym.   5 marca 2018 - W związku z zamieszkami na stadionie w Gliwicach Komisja Ligi ukarała Piasta walkowerem, jednocześnie... odejmując trzy punkty Górnikowi. Z decyzji KL kpi nawet prezes PZPN: - Jestem załamany tym, co wyprawia Komisja Ligi. Przed jakimkolwiek poważnym trybunałem Górnik nie ma prawa przegrać tej sprawy - stwierdził Zbigniew Boniek.11 marca 2018 - Brian Iloski został 40. piłkarzem, który w tym sezonie wystąpił w barwach Legii we wszystkich rozgrywkach. Dobitny dowód braku stabilizacji w drużynie mistrza Polski.   18 marca 2018 - Środkowi obrońcy Michał Helik i Mateusz Wieteska mają razem 12 goli. To tyle samo co łącznie napastnicy Kuświk, Brożek, Woźniak, Zwoliński, Śpiączka, Rakels, Buksa, Tuszyński, Sadiku, Peszko i Jankowski.25 marca 2018 - Najwyższa Komisja Odwoławcza uznała odwołanie Górnika od kary odjęcia punktów.   31 marca 2018 - Lechia, która przed sezonem zapowiadała grę o mistrzostwo, po 29. kolejkach trafia do strefy spadkowej.7 kwietnia 2018 - Kibice Sandecji przejechali 70 km do Niecieczy, by chwilę przed meczem dowiedzieć się, że bilety można kupić jedynie w... Nowym Sączu. Fani meczu nie obejrzeli, choć dzień wcześniej rzecznik beniaminka zapewniał, że bilety dostępne będą w kasach stadionu.   7 kwietnia 2018 - Lech kończy rundę zasadniczą na pierwszym miejscu. Nenad Bjelica stwierdza, że nie boi się roli faworyta w walce o mistrzostwo. W kolejnych pięciu meczach Lech trzy razy przegrywa, raz remisuje i tylko raz wygrywa, przez co traci szansę na mistrzostwo Polski. Na dwie kolejki przed końcem Bjelica zostanie zwolniony.13-14 kwietnia 2018 - Pierwsza kolejka grupy mistrzowskiej. Przegrywają wszystkie trzy drużyny ze szczytu tabeli - Lech, Jagiellonia i Legia.   15 kwietnia 2018 - Romeo Jozak zwolniony z Legii na sześć kolejek przed końcem sezonu, mimo tego, że w czasie jego kadencji żadna z drużyn nie zdobyła więcej punktów niż Legia. Miejsce Jozaka zajmuje dotychczasowy asystent Dean Klafurić, były selekcjoner chorwackiej reprezentacji kobiet. Z Legią na "dzień dobry" sięgnie po dublet.15 kwietnia 2018 - Sito Riera uderza sędziego głową i zostaje zawieszony do końca sezonu. To analogiczna sytuacja do zeszłego roku, gdzie w rundzie finałowej Riera został zawieszony za skopanie Adama Buksy...   16 kwietnia 2018 - Ekstraklasa, jako jedna z czterech lig na świecie, ma lidera który wygrał mniej niż połowę spotkań. 20 kwietnia 2018 - Bruk-Bet przegrywa ze Śląskiem, bo gracze z Niecieczy dwukrotnie faulują w polu karnym, a Martin Miković rzuca piłką w arbitra, za co otrzymuje czerwoną kartkę. Tymczasem pani prezes Danuta Witkowska zamieszcza na oficjalnej stronie klubu oświadczenie: "To co działo się w Niecieczy w pierwszej połowie to 'Piłkarski Poker'".   22 kwietnia - 807 widzów ogląda w Niecieczy, jak Sandecja po 22. kolejkach marazmu w końcu wygrywa. W pokonanym polu Arka Gdynia, której zawodnicy musieli strzelić dwa samobóje, żeby Sandecja wreszcie zwyciężyła.27 kwietnia 2018 - Od przyjścia Niezgody do Legii, ta ściągnęła takich napastników jak Sanogo, Necid, Kulenović, Chima Chukwu, Sadiku i Eduardo. Razem strzelili 8 goli. Jarosław Niezgoda, który wszedł do gry w trakcie sezonu, w meczu z Koroną swój dorobek w lidze powiększył do 13 trafień.   29 kwietnia 2018 - Sędzia Bartosz Frankowski był wyznaczony do prowadzenia finału Pucharu Polski, ale w meczu poprzedzającym finał mylił się tak okrutnie, że interweniował sam prezes Boniek, który wymusił zmianę Frankowskiego na Piotra Lasyka.   30 kwietnia 2018 - Danuta Witkowska zostaje ukarana finansowo przez Komisję Ligi za słowa o "piłkarskim pokerze", ale KL nie podaje tej wiadomości w oficjalnym komunikacie.5 maja 2018 - Bilans napastnika Bruk-Betu Bartosza Śpiączki wynosi 33 mecze, 24 w pierwszym składzie, 2136 minut, 1 gol, 1 asysta.   10 maja 2018 - Nenad Bjelica zwolniony z Lecha. Po zwolnieniu Chorwata najdłużej pracującym trenerem w Ekstraklasie jest Leszek Ojrzyński (w Arce "aż" od roku i miesiąca). Lech sezon skończy z niczym, Bjelica zaś... z mistrzostwem Chorwacji.12 maja 2018 - Sandecja cały sezon grała w Niecieczy, ale gdy po raz pierwszy "domowy" mecz ligowy rozegrała w Mielcu, to od razu zapewniła sobie spadek do I ligi. Przegrana 0-1 z Cracovią odebrała jej matematyczne szanse na utrzymanie.   13 maja 2018 - Emir Dilaver w meczu z Wisłą siada na ławce rezerwowych, żeby nie "złapać" żółtej kartki i nie pauzować w meczu ostatniej kolejki z Legią. Bośniak nie gra nawet minuty, ale wdaje się w bijatykę, ogląda kartkę i przeciwko Legii pauzuje.13 maja 2018 - Kibice Wisły żegnały legendy - Pawła Brożka i Arkadiusza Głowackiego - z taką pompą, że odpalone przez nich race wywołały pożar w sektorze fanatyków, przez co sędzia musiał przerwać  mecz. O ironio, spłonął transparent o treści "Nigdy się nie wypalimy"...   16 maja 2018 - Ekstraklasa podjęła decyzję, że w sytuacji, gdyby mistrzem Polski została Legia Warszawa, ceremonia wręczenia trofeum i złotych medali nie odbędzie się w Poznaniu, lecz zostanie przeprowadzona zaraz po powrocie zawodników i sztabu szkoleniowego do Warszawy.17 maja 2018 - Leszek Ojrzyński przyszedł do Arki w roli strażaka, a zdobył Puchar Polski i utrzymał drużynę w lidze. W kolejnym sezonie wygrał Superpuchar, znów zapewnił jej utrzymanie i dotarł do finału PP. Tymczasem klub poinformował, że nie zamierza przedłużać kontraktu ze szkoleniowcem. Oznacza to, że ostatni z trenerów pracujących w Ekstraklasie w sezonie 2016/17 stracił pracę.20 maja 2018 - Puenta całego sezonu: decydujący mecz o mistrzostwie Lech - Legia przerwany przez pseudokibiców z Poznania. Chuligani zadymili boisko racami, wbiegli na murawę, starli się z interweniującą policją. Piłkarze zeszli do szatni, sędzia uznał, że mecz nie może być kontynuowany. Legia, która i tak wygrywała 2-0, tytuł oficjalnie dostała dzięki decyzji przy stoliku. Wynik zweryfikowano jako walkower na korzyść obrońców tytułu. Mistrzostwo zdobyła z 11 porażkami - to najwięcej w historii ligi. Wzruszony Malarz przed kamerą zalewał się łzami, a za jego plecami na wizji przeklinał siarczyście Cierzniak. Z kolei w Białymstoku Jagiellonia uhonorowana została srebrnymi medalami, zanim oficjalnie ogłoszono, kto został mistrzem kraju. Kobietawww.rmf24.plKobietapomponik.plwww.rmf24.plEuroSportwww.rmf24.plŚwiat serialiEuroSportstylEuroSportEuroSportKobietapomponik.plstylEuroSport
+                                                                            Jesteś oryginalną przyszłą panną młodą? Szukaj inspiracji z nami.                                                                    
+                                                                            Zaskocz rodzinę nowymi smakami z pomysłowymi przepisami.                                                                    
+                                                                            Nowości ze świata motoryzacji. Zobacz najlepsze auta, motocykle, samochody osobowe.                                                                    
+                                                                            Pokaż, jak bardzo Ci na niej zależy. Złóż życzenia na Dzień Kobiet!                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

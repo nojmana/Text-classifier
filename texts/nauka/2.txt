@@ -1,0 +1,128 @@
+Hodowca maszyn wirtualnych i psów, poza tym stary linuksiarz, bonvivant i śmieszek. W 2012 roku napisał na DP o algorytmie haszowania Keccak i wciąż pamięta, jak on działa.Prezentacja Google Duplexa podczas ostatniej konferencji Google
+I/O wstrząsnęła branżą informatyczną. Oto firma z Mountain View
+rozwinęła swojego cyfrowego asystenta do takiego poziomu, że może
+ujść za człowieka (i co za tym idzie, przechodzi
+Test Turinga, jak szybko orzeczono). Chwilę później głębsza
+refleksja nad tematem wskazała, że o żadnym przejściu Testu
+Turinga mowy być nie
+może. Dzisiaj zaczyna się zadawać pytanie, o to co właściwie
+zobaczyliśmy? Czy w ogóle doszło do jakichś rozmów Google
+Dupleksa z pracownikami salonu fryzjerskiego i restauracji, czy to po
+prostu sztuczka iluzjonisty?Wkrótce po spektakularnym pokazie Google’a, dziennikarze
+serwisu Axios spróbowali powtórzyć to, co zademonstrował dyrektor
+zarządzający Sundar Pichai, wywołując na oczach publiczności
+Duplexa. Oczywiście bez sztucznej inteligencji, dysponując tylko
+tradycyjnymi mózgami. Po prostu zaczęli dzwonić po salonach
+fryzjerskich i restauracjach w regionie, by umówić się na
+strzyżenie czy zarezerwować stolik.I okazało się szybko, że coś tu się nie zgadza. Za każdym
+razem odbierający połączenie pracownik witając się, na początku
+wypowiadał nazwę salonu czy restauracji. W tle słychać było
+zazwyczaj dźwięki związane z danym rodzajem biznesu, np. szum
+suszarek do włosów czy stuk talerzy (choć nie wszędzie, trzeba
+przyznać). Zazwyczaj też pracownicy salonów fryzjerskich czy
+restauracji próbowali pozyskać dane kontaktowe do klienta.Tymczasem jak wynika z zapisu
+rozmów przeprowadzonych przez Duplexa w trakcie demonstracji,
+zachowanie rozmówców było zupełnie inne. Hello, how can I help
+you? – zaczęła „pracownica salonu fryzjerskiego. Hi, may
+I help you? – zaczęła „pracownica restauracji. W tle
+żadnych dźwięków sugerujących, z jakiego rodzaju miejscem możemy
+mieć do czynienia. I żadnego zainteresowania danymi klienta. 
+Zaskoczeni tymi obserwacjami ludzie z Axios skontaktowali się z
+Google, prosząc o nazwy salonu i restauracji, z których
+pracownicami rozmowy przeprowadzono, by potwierdzić że w ogóle one
+istnieją, a całe demo nie było ustawione. Zagwarantowano też
+zobowiązanie się na piśmie, że informacje te nie zostaną
+ujawnione publicznie. 
+Co na to rzeczniczka Google? Odmówiła komentarza. Gdy zapytano
+ją, czy nagrania rozmów były edytowane, aby np. usunąć moment w
+którym pracownice ujawniały nazwy swoich miejsc pracy, również
+odmówiła komentarza, ale zapewniła, że sprawdzi to i wróci do
+tematu. Nie wróciła.  
+Ponowna próba kontaktu z rzeczniczką Google’a, z załączeniem
+wiadomości do innego człowieka z zespołu PR-owego firmy, również
+spełzła na niczym. Zaraz wracam – i na tym koniec. Może
+faktycznie nie ma zbyt wiele do powiedzenia?Jedno póki co można być pewnym: nawet jeśli faktycznie doszło do
+rozmów między Duplexem a pracownicami salonu fryzjerskiego i
+restauracji, to nie usłyszeliśmy ich na żywo. Rozmowy zostały
+przeedytowane, spreparowane na potrzeby demonstracji. Czyżby Google
+obawiało się porażki? Czy faktycznie rozmowa wypadła gorzej? Czy
+wierzyło, że nigdy to nie wyjdzie na jaw? I po co w ogóle robić
+takie przedstawienia, będąc chyba największym graczem w dziedzinie
+AI na rynku? Przecież to nie jest mały startup, próbujący
+nakłonić inwestorów do włożenia pieniędzy w projekt. 
+Śmiejemy się czasem z wpadek Microsoftu podczas ich prezentacji,
+pamiętamy jak to było z Cortaną, jak Bill Gates zobaczył
+niebieski ekran śmierci – ale z tej perspektywy wpadki te stawiają
+Microsoft w dobrym świetle. Przynajmniej nie spodziewamy się nie
+wiadomo czego. Google inscenizując pokaz możliwości swojej
+technologii i odmawiając ujawnienia, co właściwie się stało,
+zaliczyło wpadkę wizerunkowo znacznie bardziej dotkliwą. Błędy
+techniczne zawsze można poprawić, błędy w Public Relations to
+trwałe splamienia, które pamięta się bardzo długo. Autorzy Prismy – popularnej aplikacji do nakładania „artystycznych” efektów na zdjęcia – zaprzęgli sztuczną inteligencję do robienia naklejek dla komunikatorów. Sticky AI to ich nowa aplikacja,… Literówka, błąd lub inny problem z treścią publikacji? Będziemy wdzięczni za przesłanie informacji za pośrednictwem poniższego formularza:
+Aktualności
+Blog czytelników
+Sprzęt
+Gry
+Wszystkie publikacje
+Programy dla Windows (wersje stabilne)
+Programy dla Windows (wersje rozwojowe)
+Ostatnie tematy na forum
+Informacja o plikach cookieNa stronie, jak również w systemie wyświetlającym reklamy, wykorzystujemy pliki cookie. Dzięki temu możemy analizować,
+        z jakich materiałów dostępnych w naszym serwisie korzystają nasi Czytelnicy, jakie są ich preferencje. Pozwala nam to udoskonalać portal.
+        Jeżeli się na to nie zgadzasz, możesz w każdej chwili zmienić ustawienia swojej przeglądarki.Tito i jego królewskie życieOn także mógł powiedzieć „państwo to ja”. I nie byłoby w tym wiele przesady. W swoich rezydencjach Josip Broz Tito przyjmował światowych przywódców i popularnych aktorów. Jak wyglądał świat jugosłowiańskiego dyktatora?Zaledwie 27 października 1944 roku Tito powrócił do Belgradu, dokonał wizytacji pałaców królewskich w ekskluzywnej dzielnicy Dedinje i nakazał ich odnowienie. Gest miał znaczenie symboliczne, albowiem ten, kto teraz zamieszkał w rezydencji dynastii Karađorđeviciów – jak napisał Dušan Bilandžić – był „owczarzem z Zagórza”, co dla belgradzkiego mieszczaństwa, ale też i dla Serbów w ogóle, oznaczało profanację. Rezydencja była bardziej zaniedbana niż zniszczona, nie usunięto wcześniej mebli ani innych przedmiotów. Tito wybrał sobie Biały Dwór (Beli dvor), który wybudował książę Paweł w uwspółcześnionym stylu klasycystycznym. Zachował też Stary Dwór (Stari dvor) króla Aleksandra i nieukończoną willę rodziny Acoviciów przy ulicy Rumunskiej 15,    Josip Broz Tito (domena publiczna)  którą później przemianowano na Užičką, na pamiątkę miasta, gdzie pierwszy raz zakosztował władzy. Stary Dwór przeznaczono dla honorowych gości i prezydentów państw, Biały Dwór był miejscem pracy, natomiast za prywatną rezydencję Ticie służyła willa. W latach późniejszych przejął jeszcze kilka sąsiednich budynków i ogrodów, tworząc w ten sposób duży kompleks, po pewnym czasie otoczony murem. Na dziedzińcu stanął odlany z brązu pomnik konia, którego Tito dosiadał podczas wojny, oraz pomnik Iva Loli Ribara, który zginął od niemieckiej bomby.Choć według protokołu Tito nie miał prawa użytkowania tych nieruchomości, gdyż nie był głową państwa, lecz premierem rządu, nie przeszkadzało mu to w najmniejszym stopniu, tak samo zresztą, jak i członkom rady regencyjnej, a później przewodniczącemu prezydium federacyjnej Skupsztiny Ivanowi Ribarowi, który formalnie pełnił funkcję szefa państwa. W Białym Dworze Tito świętował uroczyście Nowy Rok 1945 zapowiadający bliskie zwycięstwo. Jego otoczenie pierwszy raz widziało, jak tańczy walca z towarzyszkami, które noszą broń za pasem. Łyżką dziegciu w beczce miodu był tylko anonimowy list znaleziony wśród noworocznych życzeń, a w nim pytanie: „Jak się czujesz w cudzym domu?”. Tito od razu opuścił dwór Karađorđeviciów i nigdy już do niego na stałe nie wrócił. W innych przypadkach nie miał obiekcji wobec przywłaszczania sobie dóbr rodziny królewskiej. Kiedy w piwnicy dworu na Dedinju znaleziono skrzynie pełne kosztowności i złota, a Ticie dzięki jego ślusarskim umiejętnościom udało się je otworzyć bez trudu, towarzyszący mu generał Moma Ðurić doradził, by zawartość skrzyń przekazać do Banku Narodowego. Tito obruszył się wtedy: „Daj spokój, Ðurić, przecież nam się przyda”. Zapomniał o tym, co napisał w maju 1939 roku w artykule dla „Proletera”: „Działalności politycznej członka Partii nie można oddzielać od jego życia osobistego. Jest to podstawowy warunek zdobycia przez komunistę zaufania mas”. Terror towarzysza TitoPrzejmując królewskie rezydencje, Tito nie ograniczył się do Belgradu. Przywłaszczył sobie również wszystkie inne wille, pałace i tereny łowieckie wykorzystywane przez Karađorđeviciów przed wojną, ale był też wielkoduszny w stosunku do współpracowników, pozwalając, by zajęli eleganckie wille na Dedinju. Często zapraszał ich na partie bilardu, seanse filmowe w swoim towarzystwie, a przede wszystkim na polowania. W nowej rzeczywistości polowanie zyskało szczególną wartość symboliczną, potwierdzającą osiągnięty status, gdyż nikt z kierownictwa partii przed wojną nie był myśliwym. Po wojnie natomiast polowanie stało się wydarzeniem, którym to środowisko potwierdzało przynależność do rządzącej elity. Z czasem zamieniło się ono w rygorystycznie przestrzegany rytuał: dokładnie określano, kto jaką zwierzynę może zastrzelić, od niższych rangą funkcjonariuszy po samego Titę, który mógł oczywiście upolować najwięcej. Tito był namiętnym myśliwym, chętnie chwalił się swoimi umiejętnościami. W ostatnich dniach 1953 roku – kiedy cierpiał na silne bóle reumatyczne, kiedy kryzys wokół Triestu osiągnął po raz kolejny apogeum, a Włosi protestowali przeciwko porozumieniu obronnemu między Jugosławią, Grecją i Turcją, kiedy Milovan Ðilas publikował heretyckie artykuły w „Borbie” – Tito, bawiąc na zamku Brdo koło Kranja, nie przestawał myśleć o ogromnym koziorożcu w masywie Triglavu. Natychmiast po otrzymaniu informacji o pojawieniu się zwierzęcia udał się na polowanie. Ktoś z jego ochrony zapisał: „Przez cały czas pobytu w Słowenii czekał na śnieg i na tę wiadomość. Już od czterech lat chciał go zastrzelić”. Pod koniec życia, w kwietniu 1975 roku, zabił niedźwiedzia; kiedy na wystawie państw basenu Morza Śródziemnego uznano skórę tego zwierzęcia za godną pierwszego miejsca w kategorii trofeów myśliwskich – Tito nie posiadał się ze szczęścia. A gdy na polowaniu w Karpatach rumuński dyktator Nicolae Ceaușescu upolował niedźwiedzia ocenionego większą liczbą punktów niż niedźwiedź Tity, rozgoryczony stwierdził, że on „w ten sposób nigdy by nie potraktował swoich gości.   Jovanka Broz i Tito w 1960 roku (domena publiczna)  Nie mogąc liczyć na uznanie płynące z ideologicznego autorytetu (jak Lenin i Stalin), Tito był zmuszony ufundować swój charyzmat na demonstracyjnym okazywaniu władzy, co znajdowało wyraz między innymi w luksusowym stylu życia. Odznaczał się niepohamowaną żądzą posiadania, choć usiłował to ukryć. W dziele przywłaszczania cudzej własności mógł polegać na enkawudziście Ivanie Krajačiciu, z którym mieli podobne gusty. „Drogi Stary – pisał Krajačić – posyłam Ci trzy paski i złotą tabakierkę, a także dwa naszyjniki. Moim zdaniem możesz je komuś podarować podczas wizyty w Moskwie. Fachowcy twierdzą, że płaszcz z tego szarego materiału jest bardzo dobry, więc Ci wysyłam trzy metry na trencz”. „Przekazuję Ci również dwie złote papierośnice, jedna będzie piękną ozdobą na Twojej szafce nocnej, druga jest kieszonkowa”.Jugosławia wobec przemian 1956 roku w PolsceTito miał do dyspozycji samochody podarowane przez Stalina i Chruszczowa, rolls-royce’a, o którym mówiono, że jest darem królowej brytyjskiej albo republiki Słowenii, a także mercedesa „odziedziczonego” po Ante Paveliciu bądź generale Löhrze. Posiadał powozy konne, jacht Galeb, żaglowiec króla Aleksandra Karađorđevicia, ogromną kolekcję rzeźb, obrazów, dywanów i innych przedmiotów muzealnych. Ten styl życia, bliski dworowi habsburskiemu, wpłynął też na zmianę wyglądu zewnętrznego Tity. W czasie wojny przypominał sylwetką drapieżnego ptaka, co było widoczne zwłaszcza w twarzy jakby wyciosanej z kamienia, po wyzwoleniu zaokrąglił się i zamienił w dobrodusznego kuma. „Z daleka – twierdził dyplomata Bogdan Radica, który zaraz po wojnie wyjechał na Zachód – żywo przypomina przedwojennego premiera Stojadinovicia. W Belgradzie mówią o nim Göring, a w Zagrzebiu – Titler”.Tekst ma więcej niż jedną stronę. Przejdź do pozostałych poniżej.
+
+Strony:
+1
+2
+
+
+          Sądząc po tych "próbkach" książka może być paszkwilem. W krajach Jugosławii osoba Tity jest postrzegana przez polityków jako politycznie niewygodna, ponieważ przypomina wielkość państwa jugosłowiańskiego. Nie ma bowiem wątpliwości, że Tito ogólnie góruje nad właściwie wszystkimi obecnymi politykami jugosłowiańskimi, którzy, w przeciwieństwie do niego, są raczej małymi ludźmi do małych interesów. 
+      Ur. 1940. Słoweńsko-włoski historyk, członek Słoweńskiej Akademii Nauki i Sztuki. Autor wielu książek na temat historii Jugosławii. Prawa zastrzeżone – ten materiał jest chroniony przez przepisy prawa autorskiego.Kopiowanie, przedrukowywanie (poza dozwolonymi prawnie wyjątkami) wyłącznie za zgodą redakcji: redakcja@histmag.org
+              Twój komentarz trafił do moderacji serwisu. Opublikujemy go po zatwierdzeniu go przez moderatora. Jeśli chcesz, by Twoje komentarze były publikowane bez oczekiwania na moderację, ZOSTAŃ NASZYM PATRONEM!
+
+      Michał Świgoń
+      PROMOHISTORIA
+    
+      ul. Koźmiana 2/89
+    
+      01-606 Warszawa
+    
+      telefon: 692 929 681
+    
+m.swigon@histmag.org
+
+      NIP 626-281-54-56
+    
+      Numer konta: PL 33 1140 2004 0000 3802 7410 0716
+    
+      Maciej Zaremba
+    
+      redaktor naczelny
+    
+redakcja@histmag.org
+
+      telefon: 602 212 031
+    
+Sami o sobie
+
+Skład redakcji
+
+Wesprzyj nas!
+
+Dołącz do nas
+
+Jak uzyskać patronat?
+
+Regulamin serwisu Histmag.org
+
+Polityka prywatności
+
+Regulamin publikacji
+
+Regulamin konkursów
+
+Regulamin sklepu
+
+Oferta reklamowa
+
+Nasze konkursy

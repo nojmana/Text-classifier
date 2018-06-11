@@ -1,0 +1,412 @@
+
+
+
+	    	        Mikroblog :
+	    	    
++112
+
+
+Szczęść Boże!
+
+Jak co tydzień chciałbym was zaprosić na nowy wpis z serii #naukowcywiary , projekt ten współtworzę z @MagnaPomerania i @Brzytwa_Ockhama 
+
+Jeśli podobają ci się takie wpisy to zachęcam do dołączenia do naszej mirkolisty:
+https://mirkolisty.pvu.pl/list/WXA0ZxvNh04ND2wd
+
+I wykopania znaleziska:
+https://www.wykop.pl/link/4355477/grzegorz-mendel-ojciec-genetyki/
+
+Grzegorz Mendel - ojciec genetyki
+
+Życiorys
+Grzegorz Mendel, właśc. Gregor Johann Mendel (ur. 20 lipca 1822 w Heinzendorf bei Odrau, zm. 6 stycznia 1884 w Brnie) − zakonnik, opat zakonu augustianów w Brnie na Morawach, prekursor genetyki. 
+Pochodził z rodziny niemieckojęzycznej, a jego rodzicami byli Anton i Rosine Mendlowie. Miał dwie siostry – starszą i młodszą od niego. 
+W latach 1834–1840 uczęszczał do liceum w Opawie, a następnie w 1843 ukończył Instytut Filozofii Uniwersytetu w Ołomuńcu. 
+Po odbyciu jednorocznego nowicjatu, w 1844 wstąpił do zakonu augustianów i podjął studia teologiczne w Brnie, które ukończył w 1848. 
+Następnie oprócz działalności duszpasterskiej wykładał rolnictwo w Instytucie Technicznym w Brnie oraz w liceum w Znojmie (niem. Znaim), a w latach 1851–1853 za zgodą przeora studiował nauki przyrodnicze w Wiedniu. 
+W 1854 założył w ogrodzie klasztornym hodowlę roślin w celu badań zmienności dziedziczenia i jednocześnie zorganizował obserwatorium meteorologiczne. W tych dwóch dziedzinach (marginalnie także w hydrogeologii i badaniach nad pszczołami), prowadził badania naukowe. 
+Oprócz tego w latach 1854–1867 wykładał nauki przyrodnicze w Szkole Technicznej w Brnie, działał w kilku miejscowych towarzystwach naukowych oraz w organizacjach rolniczych. 
+W 1868 został wybrany opatem augustianów w Brnie i działał przeciwko antykościelnym inicjatywom władz. 
+W 1881 został dyrektorem banku hipotecznego w Brnie.
+
+Działalność naukowa
+Sformułował podstawowe prawa dziedziczenia, przeprowadzając badania nad krzyżowaniem roślin, głównie grochu zwyczajnego (Pisum sativum), których wyniki ogłosił w 1865 roku na posiedzeniu lokalnego towarzystwa naukowego w Brnie. W 1866 roku opublikował je drukiem w artykule Badania nad mieszańcami roślin (niem. Versuche über Pflanzen-Hybriden).
+Jego odkrycia początkowo nie uzyskały rozgłosu i dopiero w roku 1900 trzej uczeni Hugo de Vries, Carl Correns i Erich Tschermak, niezależnie potwierdzili wyniki jego prac. W uwspółcześnionej postaci brzmią one następująco:
+
+Pierwsze Prawo Mendla:
+Prawo czystości gamet - mówi , że każdy z pary czynników dziedzicznych ( dziś zwanych genami ) warunkujących daną cechę organizmu , występuje w gametach pojedynczo. W wyniku połączenia się gamet przy zapłodnieniu, organizmy potomne zawierają obydwa czynniki. Ujawnienie się tylko jednego z nich, nazwał Mendel dominowaniem , a brak efektu drugiego czynnika – recesywnością.
+
+Drugie Prawo Mendla:
+Prawo niezależnego dziedziczenia się cech – stwierdza, że przy krzyżowaniu się 2 organizmów różniących się więcej niż jedną cechą – każda z cech dziedziczy się niezależnie. Tzn. gdy dwie cechy uwarunkowane są przez dwie pary czynników dziedzicznych , to przy powstawaniu gamet czynniki ( geny) należące do różnych par , łączą się dowolnie, niezależnie.
+
+Badania Mendla i ich znaczenie:
+Eksperymenty Mendla wydają się dziś proste, faktem jest jednak, że wcześniej, mimo setek lat rozwoju rolnictwa, nikt ich nie próbował lub nikt nie dostrzegł znaczenia otrzymanych w nich wyników. Mendel użył pyłku z jednej czystej linii do zapłodnienia komórek jajowych osobników z drugiej linii, starając się, by cechy używane do rozróżnienia linii czystej były widoczne, jak na przykład kolor nasion lub kolor kwiatów. Roślina z czystej linii o żółtych nasionach skrzyżowana z inną, w którym wszystkie nasiona są zielone, dawała jedynie potomstwo o żółtych nasionach.
+Była to ciekawa obserwacja, która pobudziła Mendla do rozważań i dalszych badań. Przede wszystkim obalała twierdzenie o dziedziczeniu mieszanki cech, ponieważ wszystkie nasiona wyglądały jak jeden z rodziców i nie przejawiały żadnego wypośrodkowania. Jednakże wsobne krzyżowanie żółtych potomków dało następny zastanawiający wynik: w drugim pokoleniu pojawiły się zarówno zielone jak i żółte nasiona, a zielone potomstwo było dziełem żółtych roślin rodzicielskich, przy czym udział procentowy osobników dających takie czy inne nasiona był zawsze taki sam.
+Na tej podstawie Mendel wydedukował, że jednostki dziedziczenia mogą występować w dwóch formach, czyli, jak powiedzielibyśmy dzisiaj, allelach. Komórki somatyczne zawierają jedną parę takich alleli na każdą cechę, podczas gdy każde ziarno pyłku czy komórka jajowa zawierają po jednym z alleli; w związku z tym w zygocie, a co za tym w komórkach somatycznych, tworzą się następujące kombinacje:
+•   dwa allele barwy żółtej
+•   allel żółty i allel zielony
+•   dwa allele na barwę zieloną.
+Pierwszy, dominujący allel, może zatrzeć istnienie swego recesywnego (ustępującego) odpowiednika. Żółte nasiono grochu może powstać wskutek kombinacji dwóch alleli barwy żółtej lub allelu barwy żółtej z recesywnym allelem barwy zielonej. Aby nastąpiło ujawnienie fenotypowe allelu barwy zielonej, musi on wystąpić w podwójnej „dawce”, a zatem zielone nasiona są wynikiem połączenia dwóch alleli recesywnych.
+Żółte nasiona otrzymane przez Mendla w pierwszym pokoleniu pochodziły od rodziców z linii różniących się kolorem nasion. Każda z roślin potomnych w tym pokoleniu miała jedną kopię allelu barwy żółtej i jedną kopię allelu barwy zielonej nasion. Na podstawie prostej arytmetycznej kalkulacji można obliczyć, że skrzyżowanie tych hybryd [heterozygot] daje jedną czwartą roślin z dwoma allelami barwy żółtej, jedną czwartą roślin z dwoma allelami barwy zielonej i połowę roślin zawierających oba odmienne allele tego genu. Co daje stosunek trzy rośliny o żółtych nasionach do jednej o nasionach zielonych.
+Po notatkach, które Mendel poczynił na marginesie swojego egzemplarza O powstawaniu gatunków można powiedzieć, że dostrzegł wartość swych odkryć dla teorii ewolucji. Choć jego badania były znane wielu współczesnym mu biologom, to jednak zostały zignorowane jako rewelacje istotne jedynie dla tych, którzy zajmują się grochem.
+
+Dalsze odkrycia w zakresie dziedziczenia
+Ze znaczenia prac Mendla zdano sobie sprawę dopiero na początku XX wieku. Warto również przytoczyć informację podane przez niektórych pisarzy m.in. Roman Konik wspomina o wyśmiewaniu teorii Mendla przez ówczesny świat nauki.  Wkrótce przeanalizowano krzyżówki wielu roślin i zwierząt. W większości wypadków wykazano zgodność z prawami Mendla. Wydawało się, że zasady dziedziczenia są całkiem proste, jednakże im więcej prowadzono badań, tym bardziej jasne było, że jeszcze dużo pozostało do poznania. Co nie zmienia faktu, że współczesna genetyka wciąż jeszcze bazuje na „mendelizmie” i na jego dwóch podstawowych prawach dziedziczenia.
+Dość szybko po ponownym odkryciu i potwierdzeniu wyników prac Mendla pojawiły się ważne odstępstwa od jego prawa. Okazało się mianowicie, że niektóre z cech nie są niezależne. To znaczy, że istnieją takie "zestawy" cech, które przejawiają skłonność do wspólnego przechodzenia z pokolenia na pokolenie; każdy gen należy do jednej z kilku grup, w obrębie których geny są przekazywane zgodnie. Jedynie członkowie różnych grup podlegają mendlowskiemu prawu niezależnej segregacji. Na podstawie krzyżówek wyróżniono u muszek owocowych cztery takie „grupy genów sprzężonych”, odpowiadające czterem parom chromosomów. Jeśli dwa geny znajdowały się na tym samym chromosomie, mogły być przekazywane razem. Geny występujące na innych chromosomach dziedziczyły się jak "niezależne czynniki dziedziczne". Związek między genami sprzężonymi nie był bezwzględny, ponieważ za każdym razem, gdy powstawał plemnik czy komórka jajowa, chromosomy pękały i łączyły się w nowe kombinacje. Wkrótce zdano sobie sprawę, że im bliżej geny znajdują się na chromosomie, tym częściej dziedziczą się "zależnie".
+Właśnie ta „korekta” praw Mendla, one same, a także badania Hugona de Vriesa nad mutacjami legły u podłoża współczesnej genetyki.
+
+Źródła:
+https://pl.wikipedia.org/wiki/Gregor_Mendel
+http://eszkola.pl/biologia/grzegorz-mendel-6503.html
+
+#wiara #katolicyzm #chrzescijanstwo #kosciol #4konserwy #mirkomodlitwa #mikromodlitwa #historia #nauka #gruparatowaniapoziomu źródło: upload.wikimedia.org
++4
+
+
+
+            Wołam zainteresowanych (35) z listy Naukowcy wiary
+Możesz zapisać/wypisać się klikając na nazwę listy.
+
+Dodatek wspierany przez Cebula.Online
+
+Masz problem z działaniem listy? A może pytanie? Pisz do IrvinTalvanen
+
+pokaż spoiler  @Hans_Landa @Brzytwa_Ockhama @MagnaPomerania @pusty1357 @mackar @Pomoc_i_FAQ @zawadiakanarewirze @Piter93 @JubikWeti @Fridrich @Sdfowsky @Dr-Livingstone @polskiniko @Vivec @Tomm16 @Znawca_Bigosu @neilran @grappas @qluch @JohnMarkII @Mattijjah @jascen @FLAC @dluto @glowa-na-tranzystorach @Qveasd96 @rzaden_problem @new_micra @HerbaMate @marekrz @Kielek96 @FlaszGordon @dendrofag @jerekp @Razis
+ 
++1
+
+
+
+            Wołam zainteresowanych (74) z listy 4konserwy
+Możesz zapisać/wypisać się klikając na nazwę listy.
+
+Dodatek wspierany przez Cebula.Online
+
+Masz problem z działaniem listy? A może pytanie? Pisz do IrvinTalvanen
+
+pokaż spoiler  @DonaldKluska @murza @MagnaPomerania @4tek @Dziki_Bigos @bryli @MiKeyCo @olmaz @lucer @pzkpfw @Sergei @lamename @skejna @Furox @Wustenfuchs @Kruva @elewarr @pasibrzuch @Sagitarius @Justycjariusz @Wojcix @zbyszko17 @Brzytwa_Ockhama @merhius @Gigant_Reakcji @wigilius @FlaszGordon @przemyslaw-maczka @zawadiakanarewirze @Kaczypawlak @asterrr @Kuno_Wittram @PranieMuzgu @Ignacy_Patzer @oratorka @Sniper12 @BigMilk @popistaks @inozytol @mikelson22 @Wiszon @szaflak @Bachelor @terwer358 @VIPmember @FikusnyMichalek @OliverQueen @Zuben @MagicPiano222 @sikhaj @Jakis_Tam_Duplikat @BlackHawk144 @PozytywistycznaMetamorfoza @nabavzbjl @DawajDawaj @ep3k20a2 @1z10 @idewons @dluto @RYSZKRE8888 @Kielek96 @zlotypiachnaplazy @Scorpjon @JamesDellay @srgln @neilran @Hans_Landa @Qveasd96 @ZielonkaCzerwonka @FLAC @Pomoc_i_FAQ @Miroz @jerekp @Mr--A-Veed
+ 
++4
+
+
+
+            @Hans_Landa: ale mondrzy ci ksienrza, musi Bóg natchnął                			
++7
+
+
+
+            @Przymiotnik: Tag to brawda                			
++47
+
+
+  ale mondrzy ci ksienrza, musi Bóg natchnął
+
+@Przymiotnik: Grunt, że mądrzejsi od cymbałów, którzy twierdzą, że "bez katoli i ich zacofania to byśmy już galaktykę kolonizowali".
+
+PS. Jak ci przeszkadza ten tag, to daj go na #czarnolisto i po sprawie ( ͡° ͜ʖ ͡°) po co się męczyć?                			
++2
+
+
+
+            @MagnaPomerania: spokojnie, śmieszy mnie tylko szufladkowanie ludzi nauki na wierzących i niewierzących, a nie Twoja religia, nie musisz się unosić albo dopowiadać                			
++50
+
+
+  śmieszy mnie tylko szufladkowanie ludzi nauki na wierzących i niewierzących
+
+@Przymiotnik: Nasz cykl jest jedynie odpowiedzią na kłamstwa wojujących-niewierzących, którzy to usilnie twierdzą, że Kościół był "hamulcowym cywilizacji" i bez niego ludzkość byłaby dalej niż jest teraz.
+
+Otóż seria #naukowcywiary pokazuje, że Kościół Katolicki ma także swoją ważną cegiełkę w rozwoju ludzkości i pomijanie dorobku Kościoła jest celową manipulacją, mającą na celu wpojenie następującego toku myślenia:
+naukowiec = ateista, wielbiący rozum
+wierzący = wioskowy przygłup, który PITu nawet nie rozliczy                			
++1
+
+
+
+            @MagnaPomerania: o widzisz, i to jest rzeczowa odpowiedź                			
++9
+
+
+  spokojnie, śmieszy mnie tylko szufladkowanie ludzi nauki na wierzących i niewierzących, a nie Twoja religia, nie musisz się unosić albo dopowiadać
+
+@Przymiotnik: Powiedz to tym, którzy hurr durzą, że wśród naukowców jest ileś tam ateistów, jakby to miało coś mówić o ateizmie jako takim ( ͡° ͜ʖ ͡°)                			
++9
+
+
+
+            Zaraz pojawi się jakiś wpis ateisty, który powie, że "hurr durr katolicy idioci, jak można wierzyć w bajki". Jakoś zauważyłem dziwną korelację wśród znanych mi osób, że najbardziej zacięci pod tym względem są niewierzący którzy sami są idiotami i mają z reguły kiepskie wykształcenie (średnie, bądź też wyższe zdobyte na kierunkach gdzie wystarczy obecność na zajęciach). ( ͡º ͜ʖ͡º) Zresztą często dostrzegam, że u takich osób ateizm ma charakter bezrefleksyjny często. 
+
+I mówię to jako osoba która z rozmaitych względów oddaliła się nieco od Kościoła.                			
+0
+
+
+
+            @Lawrence_z_Arabii: @MagnaPomerania: @BigGuy: @Hans_Landa: jak już wojujecie z tymi niedobrymi niewierzącymi, to może ich otagujcie? XD Bo chyba nikt z nich nie zauważył wpisu                			
+0
+
+
+
+            i proszę nie kaleczyć grupy ratowania poziomu Mendlem.                			
++9
+
+
+  jak już wojujecie z tymi niedobrymi niewierzącymi
+
+@Przymiotnik: Tutaj się wojuje z antynauką, przy pomocy nauki. 
+
+  to może ich otagujcie? XD Bo chyba nikt z nich nie zauważył wpisu 
+
+Może tak być, bo wojujący ateiści szerokim łukiem omijają tagi #historia #nauka i #gruparatowaniapoziomu 
+0
+
+
+
+            @Lawrence_z_Arabii: ewentualnie Ci z tych tagów są za mądrzy żeby bawić się w taką dziecinadę... zresztą co mnie to, walczcie dalej, i tak już poprawiliście mi humor ( ͡° ͜ʖ ͡°)                			
++11
+
+
+  i proszę nie kaleczyć grupy ratowania poziomu Mendlem.
+
+@Przymiotnik: Czemu Mendel miałby kaleczyć grupę ratowania poziomu? Czy ojciec współczesnej genetyki nie zasługuje na ten tag? 
+
+Zresztą, co ty wiesz o poziomie, gdy większość twojej twórczości wygląda jak poniżej? 
+
+  ewentualnie Ci z tych tagów są za mądrzy żeby bawić się w taką dziecinadę... zresztą co mnie to, walczcie dalej, i tak już poprawiliście mi humor ( ͡° ͜ʖ ͡°) 
+
+Tak, z pewnością są za mądrzy na naukę i fakty historyczne XD
+
+Jakbyś nie wiedział to te tagi właśnie polegają na nauce i faktach historycznych.                			źródło: gbvjh.png
+0
+
+
+
+            @Hans_Landa: https://pl.wikipedia.org/wiki/Celownik_(przypadek) źródło: deklinacja.png
++1
+
+
+
+            @Lawrence_z_Arabii: wykorzystywanie tagów o nauce żeby wkleić informacje z podręcznika szkolnego i bawić się w wojenki religijne nie jest fajne... Jeśli chcesz to przeglądaj dalej mój profil, znajdziesz tam chyba nawet patostreamy na końcu, jeśli potrzebne Ci to do poparcia swojego zdania.                			
++11
+
+
+  wykorzystywanie tagów o nauce żeby wkleić informacje z podręcznika szkolnego
+
+@Przymiotnik: Przecież na tych tagach są tylko informacje z podręczników. Gorzej, jakby ktoś wrzucał informacje, których nie ma w żadnych podręcznikach, bo to oznaczałoby antynaukę.                			
+0
+
+
+
+            @Lawrence_z_Arabii: meh, nie zrozumiesz                			
++8
+
+
+  wykorzystywanie tagów o nauce żeby wkleić informacje z podręcznika szkolnego i bawić się w wojenki religijne nie jest fajne...
+
+@Przymiotnik: Grzegorz Mendel był naukowcem? BYŁ.
+Przedstawiono jego dorobek naukowy? PRZEDSTAWIONO.
+
+Także tag #nauka pasuje tam jak ulał. Kropka.
+
+A jeśli z góry zakładasz, że nie wypada dawać tagów naukowych do naukowców, którzy byli zakonnikami/księżmi to znaczy, że segregujesz naukowców na tych "poprawnych" i "tych, których nie powinno się promować".
+
+A ja naiwnie myślałem, że tag #nauka służy do oznaczania wszelkich treści o nauce xD 
++6
+
+
+  jak już wojujecie z tymi niedobrymi niewierzącymi, to może ich otagujcie? XD
+
+@Przymiotnik: A po co? My nie zamierzamy robić tego, żeby im dopiec, a raczej żeby postronni, narażeni na ich kłamstwa, sami mogli sobie zobaczyć jak to było z tym "zacofaniem".
+
+Ja z pewnością nie zniżę się do tego poziomu, by komuś spamować tagi celem "wywołania bólu dupy". Nie jestem gimboateistą, który pod tagami modlitewnymi pisze "Boga nie ma, wy tępe zacofańce".
+
+Nie będę też pisał prywatnych wiadomości jak tego typu "ateiści".                			źródło: Bay-of-BENIN.png
++6
+
+
+
+            @Hans_Landa pamiętam jak uczyłem się o nim na biologii w gimnazjum, propsy dla Mendla ( ͡° ͜ʖ ͡°)                			
+0
+
+
+
+            @MagnaPomerania: rzecz w tym, że nie za bardzo trzeba go promować, jest stałym elementem podstawowej edukacji.Zarzucam Wam jedynie, że wycieracie sobie mordę nauką nie dla nauki żeby przepychać swoje poglądy teistyczne. I jak już pisałem, spoko, róbcie to, ale szczerze, a nie zasłaniając się wyimaginowaną misją niesienia wiedzy tym którzy dostali pałę z krzyżówek genetycznych, którym niezmiennie poświęcone są długie epizody w szkołach państwowych.                			
++8
+
+
+
+            @Hans_Landa: Nie rozumiem tylko czemu zakładasz ze ten sam człowiek nie osiągnąłby tyle samo lub więcej jesli kościoła by nie było. Mozliwe ze wiara dawała mu siłe, a możliwe ze bez tracenia czasu na swojego boga bardziej poświęciłby sie nauce. Twoj post po prostu niczego nie udowadnia. 
+Za to walczenie z heliocentryzmem, darwinizmem, czy bliżej dzisiejszych czasów in vitro, przez KK jest faktem.                			
+0
+
+
+
+            Oczywiście biorę pod uwagę że ktoś edukację mógł przyjąć dawno, nie miał warunków, skręcał wtedy długopisy czy coś... Nie zmienia to faktu, że ten wpis na #gruparatowaniapoziomu wygląda karykaturalnie                			
++6
+
+
+
+            @Przymiotnik: co Ty pieprzysz? Pod tagiem w ciekawy i przystępny sposób przedstawiono życiorys ojca genetyki. Ten wpis powinien być przykładem, jakie treści powinny znajdować się pod tagiem. Masz jakiś absurdalny ból dupy o to, że autor postanowił podkreślić, że Mendel oprócz tego, że był naukowcem był również zakonnikiem.                			
+0
+
+
+
+            @Pete1: nie bronię Ci mieć takiego zdania, tyłek mi nie doskwiera, a co do pytania - pieprzę ostatnimi czasy głównie potrawy z jajkiem xD                			
++1
+
+
+
+            @Hans_Landa zrób o Koperniku!                			
++1
+
+
+
+            @MagnaPomerania: to nie dorobek kosciola, tylko jednego ksiedza. ciekawe co jeszcze by mendel odkryl gdyby nie marnowal minimum godziny dziennie na modły.                			
++1
+
+
+  to nie dorobek kosciola, tylko jednego ksiedza.
+@maslanka_wieloowocowa: I co tydzień jakiś ateusz pisze to samo ( ͡° ͜ʖ ͡°)
+
+  ciekawe co jeszcze by mendel odkryl gdyby nie marnowal minimum godziny dziennie na modły. 
+A może bez wsparcia (także finansowego) Kościoła nie odkryłby niczego?
+
+Przypominam, że koncept szkół publicznych ma ledwie ponad 200 lat. Jak myślisz - kto przedtem sponsorował naukę? ( ͡° ͜ʖ ͡°)                			
+0
+
+
+  Jak myślisz - kto przedtem sponsorował naukę? ( ͡° ͜ʖ ͡°)
+
+@MagnaPomerania: masz na myśli - "kto ją uzurpował".                			
++1
+
+
+  masz na myśli - "kto ją uzurpował"
+@maslanka_wieloowocowa: Tak sobie wmawiaj, ale mi nie wciskaj tego, co twoim zdaniem mam na myśli.
+
+Podobnie jak łgarstwa o "torturach Galileusza" czy jego "cierpieniu za naukę" xD że o rzekomym zakazie nauki dla kobiet w średniowieczu nie wspomnę.
+
+PS. To Luter z reformacją cofnął mocno świat naukowy, ponieważ uważał, iż rozwój umysłowy nie idzie w parze ze zbawieniem oraz, że Pismo Święte należy odczytywać dosłownie, przez co zbędne są badania archeologów, historyków itd. "bo Ziemia ma 6000 lat i koniec".                			
++1
+
+
+
+            @maslanka_wieloowocowa: Ojej... I spadła zielonka z rowerka. Co zrobić? ¯\_(ツ)_/¯                			
++1
+
+
+
+            @MagnaPomerania @Lawrence_z_Arabii @Hans_Landa nie wiem czy czytaliście wpis loginnawykoppl, ale nie można z miejsca przypisywać jakiegokolwiek odkrycia Kościołowi, bo ktoś był duchownym. Pytanie jakie należy postawić to kto miał główny wpływ na wykreowanie tak wybitnego człowieka. Kultura, rodzina, szkoła, religia, losowość w genetyce czy może sama jednostka? Trudno jest ocenić, prawdopodobnie wszystko po trochu. Mógłbym założyć podobne tagi typu #naukowcyniewiary, #naukowcyislamu, #naukowcyhellenizmu itd., ale sądzę, że niczemu by to nie dowodziło.                			
++1
+
+
+
+            @Pan_Chorubka: 
+Ale wiesz, że my dowodzimy właśnie tego co piszesz? Nie stworzyliśmy serii by pokazać, że gdyby nie Kościół to dzisiaj byśmy byli na etapie kamienia łupanego, tylko seria jest po to by pokazać, że bycie wierzącym nie przeszkadza w byciu naukowcem. Stworzyliśmy serię z powodu kłamstw i fałszywego przeświadczenia, że gdyby nie KK to dzisiaj byśmy latali już do innych galaktyk. Zdajemy sobie sprawę, że dużo jest osób z islamu czy innych religii czy ateizmu które dołożyły cegiełkę do rozwoju nauki.
+
+  Pytanie jakie należy postawić to kto miał główny wpływ na wykreowanie tak wybitnego człowieka. Kultura, rodzina, szkoła, religia, losowość w genetyce czy może sama jednostka? Trudno jest ocenić, prawdopodobnie wszystko po trochu. 
+
+Niestety grupa ludzi spod tagu #bekazkatoli nie zdaję sobie sprawy, że jest wiele czynników które warunkują wybitność danej jednostki. Wbrew pozorom nie jest tak jak wielu stara się sobie wmówić:
+Wierzący - głupek wierzący w bajki
+Ateista - oświecony, porzucenie wiary dało mu +50 do IQ
+
+¯\_(ツ)_/¯                			
++1
+
+
+  nie wiem czy czytaliście wpis loginnawykoppl, ale nie można z miejsca przypisywać jakiegokolwiek odkrycia Kościołowi, bo ktoś był duchownym.
+
+@Pan_Chorubka: Zarówno on, jak i ty, nie załapaliście sensu tego tagu...
+
+Tu chodzi o kłamstwa gimboateuszy jakoby Kościół Katolicki tępił naukę wszelkimi możliwymi środkami, co jest jawną bzdurą, bo nie tolerowałby księży-naukowców, zakonników-naukowców, a tym bardziej nie nadawałby im tytułów biskupów.
+Kolejnym (wynikającym z powyższego) założeniem jest tekst typu "gdyby nie katole i ich zabobony, już kolonizowalibyśmy inne układy planetarne".
+
+  Mógłbym założyć podobne tagi typu #naukowcyniewiary, #naukowcyislamu, #naukowcyhellenizmu itd., ale sądzę, że niczemu by to nie dowodziło. 
+To załóż i powodzenia.
+
+Dziwne jest dwójmyślenie, gdzie z jednej strony jak naukowiec jest ateistą, to mówi się "odrzucił bajki o dziadku w chmurce i zobacz co osiągnął", ale jak ktoś osiągnął coś przy wydatnej pomocy Kościoła to nagle "nie można z miejsca przypisywać odkrycia Kościołowi".
+
+A komu chcesz przypisać odkrycia np. Mikołaja z Oresme, który urodził się w biednej rodzinie i gdyby nie kościelne stypendia, to zamiast wielotomowych traktatów matematycznych, gryzmoliłby najwyżej kijkiem po piasku?
+(⌐ ͡■ ͜ʖ ͡■)                			
++1
+
+
+
+            @Hans_Landa @MagnaPomerania spokojnie panowie, teraz rozumiem przesłanie tagu, oświeciliście mnie ( ͡º ͜ʖ͡º) Mój błąd.                			
++4
+
+
+  nie wiem czy czytaliście wpis loginnawykoppl, ale nie można z miejsca przypisywać jakiegokolwiek odkrycia Kościołowi, bo ktoś był duchownym.
+
+@Pan_Chorubka: Tyle, że należałoby się tego trzymać konsekwentnie i jeśli kościół coś zwalczał, to nie należy go za to obwiniać, bo równie dobrze inna organizacja mogłaby to zwalczać.                			
+0
+
+
+
+            @Lawrence_z_Arabii yyyy... nie, źle zinterpretowałeś me słowa i wyrwałeś jeszcze je z kontekstu. Tu nie chodzi kto pierwszy, tylko pod wpływem czego.                			
+0
+
+
+
+            @Lawrence_z_Arabii: @MagnaPomerania: @Hans_Landa: @Pete1: panowie, przeczytajcie teraz dyskusję i zauważcie kto dokonał wycieczek personalnych,  wylewał żółć względem ateistów (przypominam że nikt w wątku nie zadeklarował się jako takowy) czy też wybiórczo analizował odpowiedzi przy ignorowaniu zarzutów. Dalej - niby wyznajecie że tag to cegiełka w świętej wojnie, ale jednocześnie twierdząc że powstał w imię wiedzy.  Panie Pete, nie mam, kolokwialnie mówiąc bólu dupy o wspomnienie przynależności religijnej Mendla, ale o wspomnienie o Mendlu w ramach jakiejś żałosnej sprzeczki na tle religii. Jestem pewien że nie chodzi o edukację użytkowników a o udowodnienie tym ATEUSZOM że katolik też jednak rozum ma. I powtarzam, spoko, kłóćcie się, spierajcie, ale tagów hobbystycznych w to nie mieszajcie. Albo przynajmniej wysilcie się na coś więcej niż materiał z gimnazjum żeby faktycznie przekazywać jakąkolwiek wiedzę. Bo zazwyczaj na tych tagach na niej ludziom zależy, a nie na poglądach religijnych osób odpowiedzialnych                			
++565
+
+		    	Wywiad z 2013 roku:
+
+  - Jest sporo „cyber” gier, ale nie ma w nich zbyt dużo „punku” - przyznał Kanik. - W naszym pomyśle będzie więcej punku, nie chcemy wykreować mrocznego i rozpaczliwego świata. Nie robimy „Blade Runnera”. Będzie dużo rock'n'rolla.
+
+  - To bardziej podejście w stylu Tarantino - dodaje Sebastian Stepień, dyrektor kreatywny produkcji, wskazując na dorobek słynnego reżysera, autora m.in. „Pulp Fiction” i „Bękartów wojny”.
+
+Wykop.pl wiedział jednak lepiej XD #cyberpunk2077 #cyberpunk #gry #e3 pokaż całość 
+
+odpowiedzi (36)
+
+
++649
+
+		    	CDPR zajęło już oficjalne stanowisko w sprawie zarzutu, że gra będzie za jasna. Dla równowagi zdecydowano się na lekkie przyciemnienie gry w sytuacjach, gdy trwa noc. Poniżej pierwszy screenshot - oczywiście detale na ultra, HDR i rodzielczość 4K.
+#cyberpunk2077 #e3 
+
+odpowiedzi (14)
+
+
++730
+
+		    	Siemano! Mam #rozdajo. Oddam 21 osobom kody #spotify premium na trzy miesiące. Kody ważne do 12.06. 
+Zadziałają tylko przy normalnej subskrypcji, w rodzinnym planie już nie.
+Losowanie przez mirkorandom dziś o 20.
+
+Zielonki i patostreamy odpadają. Powodzenia ( ͡º ͜ʖ͡º)			
+
+odpowiedzi (15)
+
+Reklamy Google
+
+
+
+Drogi Wykopowiczuw załączonym linku do Polityki Prywatności przypominamy podstawowe informacje z zakresu przetwarzania danych osobowych dostarczanych przez Ciebie podczas korzystania z naszego serwisu. Zamykając ten komunikat (klikając w przycisk “X”), potwierdzasz, że przyjąłeś do wiadomości wskazane w nim działania.Polityka plików cookiesStrona korzysta z plików cookies w celu realizacji usług i zgodnie z Polityką Plików Cookies. Możesz określić warunki przechowywania lub dostępu do plików cookies w Twojej przeglądarce.Po 18 latach dryfowania po ocenia, największa góra lodowa świata wkrótce zniknie z powierzchni Ziemi. B-15, bo tak brzmi jej nazwa, oderwała się od Lodowca Szelfowego Rossa (największego lodowca szelfowego Antarktyki) w marcu 2000 roku i początkowo miała około 275 kilometrów długości i 40 kilometrów szerokości, a jej powierzchnia wynosiła 11 metrów kwadratowych. Od tego momentu podzieliła się ona na wiele mniejszych fragmentów, z których większość już się stopiła. Tylko dwa z nich są na tyle duże, że nadal można je śledzić.Pozostałe fragmenty góry lodowej to B-15T i B-15Z. 22 maja astronauci NASA wykonali fotografię B-15Z i zobaczyli, że ma on już tylko 18,5 kilometra długości i 9 kilometrów szerokości. Poza tym, w jego centrum znajduje się duże pęknięcie, a od jego brzegów oddzielają się mniejsze kawałki. Wygląda na to, że już wkrótce naukowcy przestaną być w stanie obserwować pozostałości góry lodowej.Fragment B-15 zdołał pokonać około trzy czwarte swojej drogi wokół Antarktydy, zanim napotkał prądy, które zmusiły go do wypłynięcia na północ, w kierunku cieplejszego klimatu. Oznacza to, że teraz będzie on topił się jeszcze szybciej niż dotychczas.Jak widać, góra lodowa B-15 wkrótce przejdzie do historii.Źródło: NASA
+						09.06.2018 08:35, dodał: Maksym Słomski
+Przetestowaliśmy Xiaomi Amazfit Stratos - następcę niedrogiego Xiaomi Amazfit Pace. Ten niedrogi zegarek sportowy wprawił nas w jeszcze większe zdumienie niz jego poprzednik. Czy to najlepszy zegarek sportowy dla amatora?Przetestowaliśmy Xiaomi Amazfit Stratos - następcę niedrogiego Xiaomi Amazfit Pace. Ten niedrogi zegarek sportowy wprawił nas w jeszcze większe zdumienie niz jego poprzednik. Czy to najlepszy zegarek sportowy dla amatora?
+						06.06.2018 18:45, dodał: Benek
+Mistrzostwa Świata w Piłce Nożnej 2018 w Rosji startują już 14 czerwca. Wiele osób myśli o zakupie telewizora, który uprzyjemni im oglądanie piłkarskich zmagań i kibicowanie Polakom. Prezentujemy dziewięć wysoko ocenianych modeli telewizorów, które posiadają wszystkie cechy pozwalające im spisywać się świetnie jako urządzeniom dla miłośników...Mistrzostwa Świata w Piłce Nożnej 2018 w Rosji startują już 14 czerwca. Wiele osób myśli o zakupie telewizora, który uprzyjemni im oglądanie piłkarskich zmagań i kibicowanie Polakom. Prezentujemy dziewięć wysoko ocenianych modeli telewizorów, które posiadają wszystkie cechy pozwalające im spisywać się świetnie jako urządzeniom dla miłośników...
+						04.06.2018 07:00, dodał: Anna Borzęcka
+Chociaż za oknami coraz częściej świeci Słońce i wyciąga Was na zewnątrz, z pewnością znajdziecie czas na to, aby wypróbować nowe gry, które zadebiutują na rynku w tym miesiącu. Oto najbardziej interesujące naszym zdaniem tytuły, które w czerwcu doczekają się premiery.
+Chociaż za oknami coraz częściej świeci Słońce i wyciąga Was na zewnątrz, z pewnością znajdziecie czas na to, aby wypróbować nowe gry, które zadebiutują na rynku w tym miesiącu. Oto najbardziej interesujące naszym zdaniem tytuły, które w czerwcu doczekają się premiery.
+
+						06.05.2018 17:15, dodał: Maksym Słomski
+Niewiele flagowych smartfonów jest w stanie podjąć rywalizację z "emejzingowymi" iPhone'ami od Apple. Jednymi z nielicznych są kolejni przedstawiciele serii Galaxy S od Samsunga - przetestowaliśmy dla Was tego najnowszego. Oto recenzja Samsunga Galaxy S9+, smartfona, w którym trudno doszukać się kompromisowych rozwiązań.Niewiele flagowych smartfonów jest w stanie podjąć rywalizację z "emejzingowymi" iPhone'ami od Apple. Jednymi z nielicznych są kolejni przedstawiciele serii Galaxy S od Samsunga - przetestowaliśmy dla Was tego najnowszego. Oto recenzja Samsunga Galaxy S9+, smartfona, w którym trudno doszukać się kompromisowych rozwiązań.
+						28.04.2018 19:50, dodał: Maksym Słomski
+Ponad ćwierć miliona sprzedanych egzemplarzy i oceny prawie tak wysokie jak w przypadku Wiedźmina 3. Czym jest Frostpunk i czy warto w niego zagrać?Ponad ćwierć miliona sprzedanych egzemplarzy i oceny prawie tak wysokie jak w przypadku Wiedźmina 3. Czym jest Frostpunk i czy warto w niego zagrać?
+						24.04.2018 07:00, dodał: Maksym Słomski
+Przez ostatni miesiąc miałem okazję użytkować smartfona Huawei P20 Pro. Zrobiłem nim kilkaset zdjęć, użytkowałem go przez kilkaset godzin. Jestem gotowy, by wydać werdykt.Przez ostatni miesiąc miałem okazję użytkować smartfona Huawei P20 Pro. Zrobiłem nim kilkaset zdjęć, użytkowałem go przez kilkaset godzin. Jestem gotowy, by wydać werdykt.
+						02.06.2018 07:00, dodał: Maksym Słomski
+W tym miesiącu w polskich kinach, oprócz przebojów takich jak Jurassic World: Upadłe królestwo, zagości także wiele ciekawych produkcji, które swoją światową premierę miały już... w zeszłym roku. Wyszukaliśmy dla Was 17 zróżnicowanych premier filmowych, które chcemy polecić Waszej uwadze w czerwcu.W tym miesiącu w polskich kinach, oprócz przebojów takich jak Jurassic World: Upadłe królestwo, zagości także wiele ciekawych produkcji, które swoją światową premierę miały już... w zeszłym roku. Wyszukaliśmy dla Was 17 zróżnicowanych premier filmowych, które chcemy polecić Waszej uwadze w czerwcu.
+						21.05.2018 17:40, dodał: Maksym Słomski
+Smartfony sprzedawane w cenie do ok. 1000 złotych swoim działaniem powinno usatysfakcjonować zdecydowaną większość Polaków. Sprawdziliśmy co można kupić obecnie za te pieniądze i zaproponować Wam 11 najlepszych smartfonów do 1000 złotych. Smartfony sprzedawane w cenie do ok. 1000 złotych swoim działaniem powinno usatysfakcjonować zdecydowaną większość Polaków. Sprawdziliśmy co można kupić obecnie za te pieniądze i zaproponować Wam 11 najlepszych smartfonów do 1000 złotych. 
+						16.05.2018 09:00, dodał: Benek
+Wybieramy najciekawsze gry i aplikacje, dostępne w tym miesiącu na system iOS i Android. Oczywiście nie jesteśmy w stanie trafić w gusta wszystkich czytelników, dlatego też zachęcamy Was do podawania w komentarzach do artykułu Waszych typów! Kto wie, może znajdą się one w kolejnym zestawieniu?Wybieramy najciekawsze gry i aplikacje, dostępne w tym miesiącu na system iOS i Android. Oczywiście nie jesteśmy w stanie trafić w gusta wszystkich czytelników, dlatego też zachęcamy Was do podawania w komentarzach do artykułu Waszych typów! Kto wie, może znajdą się one w kolejnym zestawieniu?
+
+				Korzystamy z plików cookies i umożliwiamy zamieszczanie ich osobom trzecim. Pliki cookie pozwalają na poznanie twoich preferencji na podstawie zachowań w serwisie.
+				Uznajemy, że jeżeli kontynuujesz korzystanie z serwisu, wyrażasz na to zgodę. Poznaj szczegóły i możliwości zmiany ustawień w 
+				Polityce Cookies.
+
+

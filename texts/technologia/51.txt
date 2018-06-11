@@ -1,0 +1,19 @@
+
+February 16, 2018
+
+by Birchenall Howden
+
+If you have recently switched to a new internet provider or are thinking about doing so in the future, there are some important hardware upgrades you can make to ensure you're getting the most out of your service.When you install internet in your business. you will often end up using the equipment (such as routers) supplied by your line provider. This could be Virgin Hub or BT Hub for example. If you aren’t too confident with managing or upgrading network equipment, you may be more inclined to stick with what you have. Often though, third party equipment can offer much more in terms of features, speed and long term cost. If your company requires VPN capability, or specific network tailoring, you should certainly consider looking to upgrade your network apparatus.There are three main components to consider when looking at network upgrades. Think about what your business’s users need from their network, then consider the following…You cannot overestimate the value of a decent router. We recommend MikroTik routers to our clients for a number of reasons. First and foremost, the value for money is excellent, but that doesn’t mean that any features are lost or compromised. Routing equipment from larger companies such as Cisco can run into the thousands of pounds for a full business upgrade, but MikroTik are much cheaper in comparison. MikroTik’s routers are fully featured (with integrated VPN capability), lower maintenance and often faster than competitor models. They are also great when it comes to firmware updates and patches for vulnerabilities.Switches are what all of your PCs and phones plug into and can be a major bottleneck if they're slow. Most cheaper switches run at 10/100 speeds, which is about 10MB of throughput per port. This means that if you’re accessing a lot of large network files you will have to wait while the files squeeze through. A gigabit switch is better and allows 100MB of traffic through per second. In addition, you can get Power over Ethernet (PoE) switches which are good for phones. PoE allows you to power some of your network devices (phones, wireless access points) using just the network cable; no plug needed! This is of course useful for when you have limited plug sockets, or want to network in an area with no power.A lot of companies use just one wireless access point, or the wireless from their router. This doesn’t allow for good coverage, and can only support a small amount of devices before becoming congested. For a business with multiple users, you need something like a mesh network, or unified wireless. A system like this has a few access points that all coordinate via a 'controller', meaning you can walk through a building and get passed from access point to access point without losing or degrading your signal. Again, MikroTik have some great products for this.BirchenallHowden have a team of network specialists and certified MikroTik Network Consultants who can work with you to design, build and install network solutions in your business. We have a wide range of knowledge and years of experience working across a number of different systems. We also offer training and ongoing network support to keep your systems running and performing at full capacity once they are installed.Read more about our network and MikroTik services here.
+
+          
+          
+              Comment
+            
+          
+          
+
+
+
+
+
+Meet our friends:Appt - web and mobile apps  178 Shoreham Street, Sheffield, South Yorkshire, S1 4SQ, UKTerms & Conditions  -  Privacy & Cookies  -  Site Map  -  BHL Rescue© BirchenallHowden Ltd   -   IT Support Sheffield 

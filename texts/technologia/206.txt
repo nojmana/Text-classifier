@@ -1,0 +1,176 @@
+Wirus ILOVEYOU (autor: Marta Kondrusik)Wszystko ma swój początek na mieszczącej się w Manili technicznej uczelni AMA Computer University. To właśnie tam jeden ze studentów w ramach swojej pracy licencjackiej składa propozycję napisania programu (trojana) wykradającego hasła logowania do internetu. W tamtym czasie na Filipinach dostęp do światowej sieci uzyskiwano za pomocą płatnych kart dostępowych kupowanych od dostawcy internetowego, a na swobodne surfowanie mogli sobie pozwolić wyłącznie najbogatsi.Kontrowersyjny i notabene niezgodny z prawem pomysł nie znajduje jednak uznania władz uczelni. Niedoszły absolwent zostaje z niej wyrzucony tuż przed zakończeniem ostatniego semestru.Usunięty z AMA Computer University nazywa się Onel De Guzman i w czwartek 4 maja 2000 roku wypuszcza do internetu niewinnie wyglądającą wiadomość pocztową o tytule "ILOVEYOU". W treści krótka zachęta: list miłosny ukryty w pozornie nieszkodliwym pliku LOVE-LETTER-FOR-YOU.TXT.vbs. E-mail błyskawicznie rozprzestrzenia się po skrzynkach kolejnych użytkowników w kraju, a potem za granicą, ale emisariuszem miłosnego przesłania nie jest już Guzman. W końcu niewiele osób otwiera listy miłosne od obcych. Co innego, jeśli z takim komunikatem zwracają się do nas nasi znajomi.Wiadomość z wirusem ILOVEYOU fot. F-SecureZnajdujący się w załączniku kod napisany w języku VBScript, po uruchomieniu nakazuje wysłać kopię wiadomości do wszystkich osób z książki adresowej klienta pocztowego Outlook. Dodatkowo skanuje lokalne zasoby komputera w poszukiwaniu plików z rozszerzeniami JPG, JPEG, VBS, VBE, JS, JSE, CSS, WSH, SCT, DOC, HTA, MP2 oraz MP3 i zastępuje je swoimi kopiami. Oczywiście wszystko odbywa się bez wiedzy i zgody użytkowników, którzy nieświadomi czyhającego na nich zagrożenia otwierają wspomniany wcześniej załącznik.Z Filipin złośliwe oprogramowanie wędruje po firmowych skrzynkach pocztowych do Hong Kongu, a potem dalej na zachód wraz z budzącą się do życia Europą. W zaledwie kilka godzin inwazja dociera do Stanów Zjednoczonych i swoim rozmachem zaczyna przyciągać uwagę spanikowanych specjalistów ds. cyberbezpieczeństwa. Serwery pocztowe największych korporacji oraz instytucji rządowych na całym świecie padają jak muchy, przytłoczone milionami zainfekowanych wiadomości.Problemy dotykają między innymi Pentagonu, brytyjskiego parlamentu oraz fabryk Forda z jego 100 tys. pracowników w samej Europie.Wystarczyło zaledwie 10 dni, aby ofiarą ILOVEYOU padło niemal 50 mln komputerów z systemem Windows (to około 10 proc. ówczesnej liczby użytkowników internetu na całym świecie). Przerwy w działalności korporacji oraz instytucji rządowych spowodowane złośliwym oprogramowaniem z Filipin liczone były w miliardach dolarów, a koszt usunięcia szkód poczynionych przez ILOVEYOU wyceniono wstępnie na 15 mld dolarów.Niemal natychmiast po wybuchu komputerowej epidemii wszczęto śledztwo mające ustalić winnego (lub winnych). W jego trakcie udało się ustalić, że źródłem jest filipiński dostawca internetowy Sky Internet. Następnie na podstawie numeru telefonu namierzono mieszkanie w jednej z dzielnic Manili, z którego złośliwy kod pierwszy raz trafił do światowej sieci.Na miejscu zatrzymano właściciela lokalu, którym okazał się programista, Reonel Ramones. Początkowo to właśnie jego podejrzewano o napisanie robaka ILOVEYOU, jednak szybko stało się jasne, że mózgiem całej operacji był jego ukrywający się przed władzami współlokator, Onel De Guzman. Po kilku dniach ręka sprawiedliwości dosięgła również i jego.Podstawowy problem polegał jednak na tym, że obu oskarżonych nie dało się tak po prostu postawić przed sądem. W filipińskim kodeksie karnym nie funkcjonował w tamtym czasie żaden paragraf, pod który dałoby się zakwalifikować ten ze wszech miar szkodliwy czyn Ramonesa i Guzmana. Odpowiednią nowelizację wdrożono dopiero na skutek ich działań.Podczas przesłuchania Guzman początkowo wszystkiego się wypierał, ale potem przyznał, że mógł wypuścić złośliwe oprogramowanie do internetu, ale zrobił to w niezamierzony sposób. Ostatecznie obu programistów zwolniono z wszelkich zarzutów. Dziś taka sytuacja wydaje się kompletnie nie do pomyślenia.Wydaje się, że po 18 latach internet zmienił się nie do poznania. Nie zmieniają się jednak ludzie i ich podatność na tzw. socjotechnikę, czyli manipulację. Jak pokazują liczne przykłady nadal dajemy się nabierać na sztuczki cyberprzestępców, którzy polują na nasze poufne dane oraz pieniądze. W 2000 roku otwarcie załącznika do wiadomości pocztowej od nieznanego nadawcy nie kojarzyło się z zagrożeniem. Dziś mimo szeroko zakrojonej kampanii informacyjnej i skuteczniejszych mechanizmów ochrony antywirusowej, nadal zdarza się nam postępować dokładnie tak samo.Onel De Guzman nie działał powodowany żądzą pieniądza. Być może górę wzięło urażone ego młodego programisty, niedoszłego absolwenta AMA Computer University. Prawdy o tamtejszych wydarzeniach przypuszczalnie możemy już nigdy nie poznać. Nie wiadomo też, co obecnie robi sprawca zamieszania z 2000 roku. Plotki mówią o tym, że zdolnego Filipińczyka zatrudniła potem jedna z wielkich korporacji świata technologii. Być może. A być może nie. Pewne jest jedno: w 2002 roku robak ILOVEYOU trafił do Księgi Rekordów Guinnessa. Tak tworzy się historię. Może właśnie o to chodziło jego twórcy.
+			
+			  bronek77
+			
+			
+
+			Oceniono 13 razy
+
+                              11
+			
+
+
+
+
+
+                        
+                          
+                          
+                            "W 2000 roku otwarcie załącznika do wiadomości pocztowej od nieznanego nadawcy nie kojarzyło się z zagrożeniem"
+Chyba tylko ludziom, którzy nie używali komputerów i mózgu jednocześnie.
+                          
+                        
+                      Odpowiedz
+			
+			  ochujek
+			
+			
+
+			Oceniono 11 razy
+
+                              7
+			
+
+
+
+
+
+                        
+                          
+                          
+                            Na szczęście prezes nie otwiera żadnych załączników. Tylko raz puścił Glińskiego z tableta.
+                          
+                        
+                      Odpowiedz
+			
+			  fafarafafafa
+			
+			
+
+			Oceniono 10 razy
+
+                              6
+			
+
+
+
+
+
+                        
+                          
+                          
+                            Zacznijmy od tego, że tego typu robak był w stanie działać tylko dlatego, że MS bardzo zlekceważył sobie kwestie bezpieczeństwa i wprowadził bardzo głupie ustawienia domyślne w Windows i bardzo niebezpieczne mechanizmy "ułatwiające" życie.
+                          
+                        
+                      Odpowiedz
+			
+			  niskolatajacyninja
+			
+			
+
+			Oceniono 3 razy
+
+                              3
+			
+
+
+
+
+
+                        
+                          
+                          
+                            W Polsce w okolicach roku 2000 większość osób miała dostęp do internetu w kafejce lub u znajomego, a wirusy rozprzestrzeniające się w załącznikach do emaili to był raczej problem pierwszego świata. Co innego ataki różnych wariantów CIH-a w latach 1998-2000, wirusa który lubił gnieździć się na składankach z pirackim oprogramowaniem. CIH kasował MBR, nadpisywał biosy płyt głównych, kart graficznych. To był prawdziwy postrach osiedli!
+                          
+                        
+                      
+Pokaż odpowiedzi (3)Odpowiedz
+
+
+				
+				 Julek Szymczak
+
+
+
+			Oceniono 5 razy
+
+                              1
+			
+
+
+
+
+
+                        
+                          
+                          
+                            :DD moj nowy bohater
+                          
+                        
+                      
+Pokaż odpowiedzi (1)Odpowiedz
+
+
+				
+				 Taba To
+
+
+
+
+
+                              0
+			
+
+
+
+
+
+                        
+                          
+                          
+                            Jestem bardzo ciekaw jak potoczyła się historia tego człowieka, gdzie i dla kogo teraz pracuje...
+                          
+                        
+                      Odpowiedz
+			
+			  kosmaty.ponczek
+			
+			
+
+			Oceniono 6 razy
+
+                              -4
+			
+
+
+
+
+
+                        
+                          
+                          
+                            Ignoranci nie powinni pisac o sprawach, o ktorych czytaja na wikipedii
+                          
+                        
+                      Odpowiedz
+			
+			  predator-x
+			
+			
+
+			Oceniono 6 razy
+
+                              -6
+			
+
+
+
+
+
+                        
+                          
+                          
+                            Mineło 18 lat a Microsoft w tej kwestii właściwie to nic nie zrobił.
+                          
+                        
+                      OdpowiedzAby ocenić zaloguj się lub zarejestrujX

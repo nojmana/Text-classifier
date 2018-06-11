@@ -1,0 +1,64 @@
+By
+
+Martin Robinson, Uk Chief Reporter For Mailonline
+
+Published:
+  12:34 BST, 30 May 2018
+
+ | 
+Updated:
+  17:23 BST, 30 May 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+e-mail
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '5786659',
+                    'title': 'Illegal immigrants falsely claimed they were Grenfell Tower victims\u00A0',
+                    'url': 'http://www.dailymail.co.uk/news/article-5786659/Illegal-immigrants-lived-luxury-hotel-falsely-claiming-Grenfell-Tower-victims.html',
+                    'eTwitterStatus': ' https://dailym.ai/2H45dAd via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+
+
+            
+
+
+
+21k
+shares
+
+ 
+         862
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+
+
+    
+
+         862View  commentsTwo illegal immigrants lived in a luxury hotel for 243 nights costing the taxpayer almost £120,000 after falsely claiming they were victims of the Grenfell Tower fire.Couple Tommy Brooks, 51, and Elaine Douglas, 51, were unmasked as fraudsters after giving an incorrect flat number in the West London block where 72 people died last June.But before their arrests they racked up bills for £104,000 for accommodation alone while Douglas ran up a food bill of £11,000 while also  complaining about the quality of the menu, Isleworth Crown Court heard.The couple came to the UK from Jamaica in 2002 and were booked on return flights but did not show up and disappeared into Britain for 15 years until their arrests.Police said today their 'appalling' exploitation of the deadliest fire for a generation was an insult to those who perished and their families currently giving evidence at the Grenfell inquiry.Tommy Brooks, 51, and Elaine Douglas, 51, were unmasked as fraudsters after giving an incorrect flat number in the West London block where 72 people died last JuneThey enjoyed 243 nights at the Radisson Blu Edwardian Hotel, in Kensington, pictured, where they could spend freely on a credit card handed to Grenfell victimsBrooks and Douglas turned up at the Grenfell support centre claiming they had narrowly escaped death from their flat on the 19th floor of the block.The couple were housed at the Radisson Blu Edwardian Hotel, in Kensington, for 243 nights and issued with credit cards and Oyster cards so they could travel around London for free.But they were caught out when they gave investigators the number of their flat - not realising it was on a different floor.Benjamin Holt, prosecuting, told Isleworth Crown Court: 'These two defendants falsely claimed to be residents at Grenfell Tower at the time of the fire.'Both made representations they were living in flats.'Ms Douglas spent 276 nights at Madison Blue Edwardian Hotel costing £55,000.'She charged food and beverages at £267.35. In addition, Ms Douglas complained about the quality of the food she was receiving. She ran up charges in excess of £11,000.'Mr Brooks, stayed a the same hotel until he was arrested after 243 nights there. His accommodation costs came to just under £49,000.'There were £276 costs for food and pre-paid cards of £9,000. That made the total value £58,396.89.'The couple, who were in the UK illegally, claimed they lived on the 19th floor but were staying with friends on the night of the fireMr Holt added: 'Ms Douglas came to the UK on 22nd February 2002. She was refused leave to enter the UK and was booked on a flight for 24 February.'She did attend the flight, owing to feeling unwell, the flight was re-arranged for 8 March. She did not attend that flight either. There had been nothing heard of her for 16 years.But the police investigation showed neither of the defendants lived at the Kensington skyscraper in June 2017 when the inferno began. Elaine Douglas and Tommy Brooks both admitted two counts of fraud by false representation and one count of seeking leave to remain in UK by deception.Following the fire on 14 June 2017, they claimed they lived on the 19th floor of the tower but were staying with friends on the night of the fire.Douglas received hotel accommodation and financial support worth £67,125.35 while Brooks got £58,396.89Detective Superintendent Matt Bonner, the senior investigating officer for Operation Northleigh, said: 'I have spent the last seven days at the commemoration hearings, listening to the sad, harrowing and often inspiring stories about the victims who died because of the fire at Grenfell Tower.'I have previously described the actions of those who exploited the tragedy for their own personal gain as truly appalling. Not only have their actions exploited the aid and support intended for those most affected, but they also risk misrepresenting the Grenfell community as they continue to try and come to terms with their grief.'My thoughts remain with the Grenfell community at this difficult time, the genuine victims who should continue to be at the heart and centre of all we do.' They were remanded in custody ahead of sentence on July 13 where they will be jailed. Published by Associated Newspapers LtdPart of the Daily Mail, The Mail on Sunday & Metro Media Group

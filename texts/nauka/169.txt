@@ -1,0 +1,39 @@
+Będzie trochę o matematyce, ale jeżeli tylko poradzicie sobie z pierwszym, wyliczankowym akapitem, zaraz zrobi się prosto. Skończymy zaś w nieoczekiwanym miejscu, które ucieszy (zasmuci?) socjologów: wśród liczb, zupełnie jak wśród ludzi, istnieją spore nierówności, i nie mówimy tu bynajmniej o znakach > i <.Bardzo lubię definicję królowej nauk: to nauka o ilości, strukturze, przestrzeni oraz zmianie. Celniej i prościej się nie da. A jakież bogactwo odnajdziemy za tymi czterema słowami! Niepozorna fasada zwięzłego objaśnienia skrywa wszak i liczby (od naturalnych po kardynalne), i zbiory, i funkcje, i algebrę (szkolną oraz prawdziwą), i chłodną logikę matematyczną, i geometrię zwiniętą w topologię, i surowy rachunek różniczkowy, i zagadkowe prawdopodobieństwo, i pragmatyczną fizykę matematyczną, i cuda pokroju teorii kategorii oraz teorii grafów, i tak dalej, i tym podobne.Gaussem a prawdą, definicyjna fasada jest… fasadowa. Łatwo ją usunąć, stwierdziwszy, że pojęcie „matematyka” nie posiada w gruncie rzeczy uzgodnionej definicji. Istnieje jednak pewien słup, który łączy wszystkie tematyczne piętra: niezależnie od specjalizacji matematycy poszukują schematów i zależności1.Na przykład w arytmetyce najprostszy możliwy schemat wygląda tak:1, 2, 3, 4, 5, 6, 7, …,i możemy podsumować go komendą „zwiększ o jeden!”. Pomimo swojej banalności odgrywa ważną rolę w dydaktyce, tak na poziomie przedszkola jak i podczas wprowadzania studentów w tajniki rachunku lambda.Inny, ciekawszy schemat jawi się tak:1, 4, 9, 16, 25, 36, ….Ogłasza wszem i wobec, że należy „pomnożyć przez siebie”. Posiada nieskończenie wielu kuzynów („pomnożyć przez siebie trzy razy”, „pomnożyć przez siebie cztery razy”, itd.).Liczby kwadratowe są eleganckie – chociaż nie piękne. Jednak liczbowych schematów wyróżniających się ponadprzeciętną urodą długo szukać nie będziemy. Kanoniczny przykład to:1, 1, 2, 3, 5, 8, 13, 21, 34, …,który sprowadza się do zasady „dodaj dwie poprzednie do siebie”. Gdzie tu piękno? spytają dyletanci. Ano, powyższy wzorzec to ciąg Fibonacciego. Złoty podział i złota spirala, mówi to panu coś, panie Ferdku?A teraz wznieśmy się na metapoziom i wyobraźmy sobie, że skatalogowano wszystkie znane liczbowe schematy – czyli, krótko mówiąc, wszystkie ciągi opisujące jakąś zależność. Wyobraźmy sobie następnie, że ktoś cały ten zbiór przemielił programem komputerowym i wyliczył „popularność” każdej liczby, to znaczy sprawdził, w ilu różnych ciągach występuje. Ustalilibyśmy tym sposobem stopień uwikłania poszczególnych liczb w matematyczne zależności; wprowadzilibyśmy podział na liczby mniej i bardziej popularne.Wyobrażać sobie tych rzeczy w zasadzie nie musimy. Od dawna istnieje imponująca Internetowa Encyklopedia Ciągów Liczbowych (OEIS). Korzystają z niej ochoczo matematycy próbujący zidentyfikować schematy, na których fragmenty natknęli się w trakcie swoich dociekań. Natomiast jej statystycznego podsumowania dokonał dziesięć lat Philippe Guglielmetti, rzekomo matematyk-amator, który natknął się… czyżby na szczelinę w rzeczywistości?Powyższy diagram opisuje 10 000 pierwszych liczb całkowitych. Oś rzędnych (pionowa) określa, ile razy dana liczba występuje w schematach zgromadzonych w OEIS. Oś rzędnych jest ponadto logarytmiczna, co oznacza, że liczby, które zajmują na niej względnie wysoką pozycję, plasują się tak naprawdę bardzo wysoko.Widzimy, że nakreślony wykres opada szybko w dół. Czyli: Im liczba większa, w tym mniejszej ilości schematów się pojawia (z grubsza rzecz biorąc, bo na całej długości osi odciętych zdarzają się wyjątki).Sama tendencja wyda się na pierwszy rzut oka nieco zaskakująca. Ja na przykład odruchowo oczekiwałem, że wszystkie liczby są stworzone równymi. Na drugi i trzeci rzut oka opad diagramu staje się jednak intuicyjnie zrozumiały. Im liczba mniejsza, tym zwyczajniejsza, bo arytmetycznie bardziej fundamentalna. A rzeczy proste występują wokół nas częściej niż skomplikowane. Czy kogoś zdziwi to, że poczciwa piętnastka jest rozchwytywana, zaś egzotyczna 8795 pojawia się na matematycznych salonach nader rzadko?Gdyby chodziło tylko o tę prostą zależność wśród zależności – że duże liczby pojawiają się rzadziej – powyższa notka by nie powstała. Ale. W wykresie dostrzeżemy podejrzane zjawisko. W gąszczu regularnie obniżających pułap punktów kryje się wcale regularna przerwa, prześwit, który dla uczczenia założyciela OEIS nazwany został prześwitem Sloane’a (Sloane’s gap). O co chodzi? To trochę tak, jakbyś wypytał swoich stu szczerych do bólu znajomych o miesięczne dochody i usłyszał, że prawie połowa zarabia 4000 złotych lub mniej, a druga prawie-połowa 6000 złotych lub więcej – lecz prawie nikt nie zarabia w przedziale od czterech do sześciu kawałków. Możliwe? Owszem. Przypadek? Niemożliwe. Coś nie tak z tymi pensjami.Wygląda więc na to, że liczby w analogiczny sposób dzielą się na dwie kasty: interesujące, poniekąd elitarne (umiejscowione powyżej prześwitu) oraz nudne, biedne (poniżej prześwitu). Liczby okazują się być trochę jak Ekwador. Klasa średnia zanikła.Jak brzmi wyjaśnienie tego fenomenu? Czy kryje się tutaj jakaś sięgająca fundamentów matematycznej struktury reguła?Niestety nie. To ludzie liczbom zgotowali taki los. Panowie Nicolas Gauvrit, Jean-Paul Delahaye i Hector Zenil tłumaczą prześwit Sloane’a jako artefakt psychologiczny. Otóż OEIS nie jest bynajmniej obiektywnym, absolutnym, danym nam przez Boga zestawem wszystkich istniejących matematycznych schematów. To jedynie konstrukt społeczny stworzony przez matematyków. A matematyków nie interesują wszystkie właściwości liczbowe w równym stopniu. W swoich badaniach skupiają się na niektórych z nich. Dokładnie których – nieistotne. Jednakże ów dobór skutkuje zaburzeniem symetrii, która prowadzi z kolei do powstania rzeczonego prześwitu.Liczby mają więc przynajmniej jedną rzecz wspólną z ludźmi: Te źle urodzone też zderzą się prędzej czy później ze szklanym sufitem.____________________
+1 W polszczyźnie brak celnego odpowiednika dla angielskiego „pattern”. W pozamatematycznych okolicznościach najbezpieczniej chyba używać słowa „wzór”, lecz w naukach ścisłych wzór-jako-schemat miesza się ze wzorem-jako-formułą. Będę więc używał zamiennie określeń „wzorzec” oraz „schemat”. Autorką zdjęcia w nagłówku jest KimManleyOrt (Flickr, CC).„Czy kogoś zdziwi to, że poczciwa piętnastka jest rozchwytywana, zaś egzotyczna 8795 pojawia się na matematycznych salonach nader rzadko?”
+A to nie miały być liczby pierwsze? Wiem, że to tylko przykład ale można było użyć liczb pierwszych :P[…] „opisuje 10 000 pierwszych liczb”, a nie opisuje 10 000 liczb pierwszych. 10 000 pierwszych liczb to 0,1,2,3,4,5 … 10 000.Dodatkowo, w zasadzie to 10 001 bo uwzględniono 0 :)Gdzieś od 6000 zaczyna się matrixWprowadź swoje dane lub kliknij jedną z tych ikon, aby się zalogować:
+
+			Komentujesz korzystając z konta WordPress.com.			
+				( Wyloguj / 
+				Zmień )
+			
+
+
+
+			Komentujesz korzystając z konta Google+.			
+				( Wyloguj / 
+				Zmień )
+			
+
+
+
+			Komentujesz korzystając z konta Twitter.			
+				( Wyloguj / 
+				Zmień )
+			
+
+
+
+			Komentujesz korzystając z konta Facebook.			
+				( Wyloguj / 
+				Zmień )
+			
+
+Connecting to %s Powiadamiaj mnie o nowych komentarzach poprzez e-mail. Powiadamiaj mnie o nowych wpisach poprzez e-mail. 
+
+Niektóre linki opatrzone są króciutkim opisem. Przytrzymaj kursor nad odnośnikiem.Wszystkie kategorie notek znajdują się w górnej belce.Chmura obok pokazuje tylko część z nich.Wpisz swój adres mailowy, by otrzymywać powiadomienia o nowych notkach
+
+
+
+
+
+ 

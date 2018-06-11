@@ -1,0 +1,2 @@
+Taki plan dla UE Niemcy będą dziś forsować w Brukseli@<% comment.username %> <% hCreated(comment.created_at) %>Prawda: <% comment['likes'] %> | Kłamstwo: <% comment['dislikes'] %>Uwagi techniczne, błędy, poprawki oraz nowe pomysły prosimy kierować pod adres: info@jackcaleib.com© 2018 JackCaleib.com
+

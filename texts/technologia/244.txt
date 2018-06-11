@@ -1,0 +1,22 @@
+nastawiacz.plPraktyczne podejście do przetwórstwa tworzyw sztucznychJest wiele metod dokręcania połączeń śrubowych. Najczęściej odbywa się to poprzez korzystanie z kluczy płaskich lub oczkowych, które monter na wyczucie dokręca ręką.
+W wyniku oporu na kluczu użytkownik ocenia, czy połączenie śrubowe zostało odpowiednio dociągnięte. Jak możemy się wszyscy domyślać, metoda ta nie może być niezawodna.W przypadku połączeń gdzie należy zagwarantować odpowiednie naprężenie wstępne (np. mocowanie formy wtryskowej, dokręcanie głowicy agregatu wtryskowego) do gry wchodzą tylko nowoczesne metody, jak dokręcanie kluczem dynamometrycznym.Moment dokręcania (Rysunek 1) jest to siła, podana jako niuton x metr (N•m), osiągana na końcu ramienia dźwigni i wytwarzająca odpowiednie naprężenie wstępne w złączu śrubowym.Na moment dokręcania śruby składają się moment dokręcania gwintu i moment tarcia na powierzchni oporowej (łba śruby lub nakrętki).Rysunek 1 pokazuje, jak w przypadku złącza w postaci śruby z nakrętką
+łączone są (ściskane) dwie płyty poprzez dokręcenie nakrętki. Za wywołaną przez to w śrubie siłę rozciągającą odpowiedzialny jest kąt wzniosu linii śrubowej gwintu. Dzięki sile rozciągającej powstaje naprężenie. To naprężenie wstępne ma decydujące znaczenie dla optymalnego połączenia gwintowego. Dlaczego? Optymalnie dokręcone złącze śrubowe wywołuje wystarczający opór, aby się nie poluzować.W przypadku zbyt małego naprężenia wstępnego złącze śrubowe mogłoby drgać lub poluzować się. W przypadku zbyt dużego naprężenia wstępnego istnieje niebezpieczeństwo, że złącze śrubowe pęknie. Optymalne naprężenie wstępne osiąga się za pomocą właściwego momentu dokręcenia. Każde połączenie śrubowe posiada określony moment dokręcenia (Wartości momentów dokręcania) dla różnych zastosowań w zakresie mocowania.
+Uwzględniając te wartości złącze śrubowe może być dokręcone pewnie, jako dobrze działające i ekonomiczne pod kątem określonego naprężenia wstępnego.Jak mierzy się moment skręcający?
+Moment skręcający wyznaczamy jako iloczyn siły “F” przyłożonej do ramienia obracającego się wokół punktu obrotu i długości tego ramienia “L”.
+Wzór matematyczny: Moment skręcający MA = siła F x ramię L.Przykład:
+Na Rysunku 2 występują dwa przypadki powstawania momentu skręcającego w wyniku działania siły F na ramieniu L.Oznacza to, że moment skręcający oddziałujący na element mocowany będzie się zmieniał, gdy zmieniać się będzie miejsce uchwytu klucza.
+Na Rysunku 3 wskazane jest miejsce uchwytu w większości kluczy dynamometrycznych tj. rękojeść.Klucz dynamometryczny to narzędzie precyzyjne o które należy dbać i którym należy się w odpowiedni sposób posługiwać.
+W związku z powyższym:fajnie wytłumaczone! jedno pytanie: moment dokręcania = moment dokręcenia = moment skręcający? która nazwa jest najwłaściwsza?Dziekuję za komentarz.
+W kontekście artykułu wszystkie wyrażenia są właściwe.
+Jeżeli jednak rozważymy znaczenie dosłowne każdego wyrażenia to możemy interpretować moment dokręcania jako czynność jeszcze nie zakończoną, moment dokręcenia jako czynność dokonaną natomiast moment skręcajacy można by rozumieć jako przyłożenie dwóch sił o takich samych wartościach ale różnych zwrotach.Czy klub dynamometryczny należy co jakiś czas sprawdzać/regulować/kalibrować?Tak, klucz dynamometryczny jest przyrządem pomiarowym. W celu zachowania prawidłowych odczytów wymagane jest wykonywanie tzw. wzorcowania wtórnego co najmniej raz w roku a najpóźniej po 5000 zmian cykli obciążenia.Twój adres email nie zostanie opublikowany. Pola, których wypełnienie jest wymagane, są oznaczone symbolem *Komentarz Podpis * Email * Witryna internetowa Pamiętaj moje dane w tej przeglądarce podczas pisania kolejnych komentarzy. 
+
+Currently you have JavaScript disabled. In order to post comments, please make sure JavaScript and Cookies are enabled, and reload the page. Click here for instructions on how to enable JavaScript in your browser. Powiadom mnie o kolejnych komentarzach przez email. Powiadom mnie o nowych wpisach przez email.Wprowadź swój adres email aby zaprenumerować ten blog i otrzymywać powiadomienia o nowych wpisach przez email.
+
+							Adres e-mail						
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+Wydaje się, że zdjęcia z Game boja już nas nie zaskoczą, jednak Bastiaanowi Ekelerowi się udało. Zamocował do Game Boya teleobiektyw Canona i uzyskał ogniskową o wartości ponad 3000 mm. To dopiero kreatywność!
+© Bastiaan Ekeler / ekeler.com Zainspirowany pracą Tima Binniona, który połączył obiektyw do smartfona ze swoim Game Boyem, Bastiaan Ekeler postanowił pójść o krok dalej. Zaprojektował i zbudował uchwyt do obiektywów EF, który pozwoli połączyć je z aparatem do Game Boya. Konstrukcja wygląda komicznie, ale działa!(© Bastiaan Ekeler / ekeler.com)Ekeler na co dzień zajmuje się projektowaniem stron internetowych, grafiką i fotografią. Pracuje w studiu mediów cyfrowych w Nowym Jorku. Jego doświadczenie w projektowaniu przemysłowym z pewnością przydało mu się podczas projektowania tego adaptera. Wykorzystał do tego program Rhinoceros 3D i drukarkę 3D Monoprice Selekt Mini.(© Bastiaan Ekeler / ekeler.com)GBC ma rozmiar czujnika około 3,6 mm², co wydaje się być odpowiednikiem sensora ¼ cala. Daje to współczynnik ogniskowej około 10.81. Z moim Canon EF 70–200 mm f/4 z konwerterem 1,4x daje odpowiednik ogniskowej około 3026,8 mm. Zabrałem to paskudztwo na spacer, aby sfotografować przyrodę i dzikie zwierzęta.(© Bastiaan Ekeler / ekeler.com)Ekeler wykorzystał drukarkę Arduino Gameboy oraz kabel do Game Boya, zakupiony na Amazonie za 5 dolarów, aby zgrać ujęcia na komputer. Najpierw zapisał dane w formacie HEX, a następnie przekonwertował je do PNG.(© Bastiaan Ekeler / ekeler.com)Wykonanie zdjęć księżyca nie było łatwe z niepodświetlanym ekranem Game Boya, którego szybkość odświeżania jest bliska 1 kl./s. Jednak udało mu się zrobić kilka zdjęć, a odpowiednio długa ogniskowa spowodowała, że księżyc wypełnił niemal cały kadr. Ekeler pisze na swoje stronie, że w przyszłości planuje zrobić sesję portretową. Ciekawe, jaki obiektyw wykorzysta tym razem.(© Bastiaan Ekeler / ekeler.com)
+							Źródło: 
+							ekeler.com
+
+Nasze fotograficzne inspiracjeInspiracjeCiekawostkiEFCanon Fotografka z zamiłowania, dziennikarka z wykształcenia, absolwentka ”Projektowania Komunikacji” na Uniwersytecie Wrocławskim. 
+
+Z fotografią związana od kilku lat. Praktyk, samouk. Wiedzę zdobywa przez doświadczenie. 
+Pod szyldem ”Tutenhoman” najchętniej fotografuje ludzi – portrety, beauty i fashion. 
+Wyznaje zasadę, że sprzęt jest ważny, ale nie najważniejszy.
+
+Czas wolny spędza aktywnie. Chętnie wraca w rodzinne strony, żeby odciąć się od wielkiego miasta.
+					Ten artykuł nie ma jeszcze komentarzy
+			Marcin WatemborskiMarcin FalanaWojciech Skibicki
+					ul. Jutrzenki 137A
+					
+					02-231 Warszawa
+					
+					NIP: 527-26-45-593
+					
+					tel. +48 22 646 32 30
+					
+					fax. +48 22 849 21 84
+					
+Regulamin serwisu
+
+Mapa artykułów

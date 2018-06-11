@@ -1,0 +1,268 @@
+Bayern Monachium przegrał 1-3 z Eintrachtem Frankfurt w finale Pucharu Niemiec. Robert Lewandowski zdobył bramkę, ale to nie pomogło jego drużynie. Puchar Niemiec sensacyjnie zdobył Eintracht!
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Lewandowski z golem. Bayern - Eintracht 1-3 w finale Pucharu Niemiec. Wideo
+© 2018 Associated Press
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2520920-3377112');
+                var $embed = jQuery('#player2520920-3377112').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+
+
+
+ 
+
+
+
+                                                                                                                    Kto był najlepszym polskim piłkarzem wszech czasów? Runda trzecia                                                                                                                
+
+
+
+
+
+
+
+
+Kazimierz Deyna
+ 
+
+
+
+Robert Lewandowski
+ 
+
+
+
+Włodzimierz Lubański
+ 
+
+
+//<![CDATA[
+
+document.addEventListener('DOMContentLoaded', function() {
+setTimeout(function () {
+'use strict';
+
+var question = jQuery('.question.q1'),
+labels = question.find('label'),
+radiobuttons = question.find('input:radio'),
+radiobuttonsNo = radiobuttons.length,
+i;
+
+function checkRadiobuttons(radiobutton) {
+var self = jQuery(radiobutton),
+name = radiobutton.id,
+label = question.find('label[for="' + name + '"]');
+
+if (self.prop('checked')) {
+label.addClass('js-checked');
+} else {
+label.removeClass('js-checked');
+}
+}
+
+for (i = 0; i < radiobuttonsNo; ++i) {
+checkRadiobuttons(radiobuttons[i]);
+}
+
+question.on('change.radiobutton', 'input:radio', function () {
+labels.removeClass('js-checked');
+checkRadiobuttons(this);
+});
+}, 0);
+});
+//]]> 
+Nie zaznaczono żadnej odpowiedzi !
+
+
+
+
+
+
+
+
+
+        Kto był najlepszym polskim piłkarzem wszech czasów? Runda trzecia    
+
+
+
+
+
+Kazimierz Deyna
+
+
+
+
+
+37%
+
+ 
+
+Robert Lewandowski
+
+
+
+
+
+21%
+
+ 
+
+Włodzimierz Lubański
+
+
+
+
+
+42%
+
+ 
+
+
+
+głosów:
+53408
+
+ 
+
+Kliknij, aby dołączyć do relacji na żywo z meczu Bayern - Eintracht
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }Tutaj znajdziesz relację na żywo na urządzenia mobilne
+  Pojedynek finałowy miał kilka smaczków, a największym z nich była bez wątpienia osoba Niko Kovacza. Dla Chorwata był to ostatni mecz w roli trenera Eintrachtu, gdyż po sezonie zastąpi Juppa Heynckesa właśnie na stanowisku szkoleniowca Bayernu. Mecz od pierwszej minuty w ataku Bawarczyków rozpoczął Robert Lewandowski.
+  "Lewy" już po kilku minutach był faulowany tuż przed polem karnym, za co Carlos Salcedo obejrzał żółtą kartkę, i polski napastnik stanął przed szansą na zdobycie bramki z rzutu wolnego. Z podobnej odległości zdarzało mu się już trafiać do bramki, ale tym razem zabrakło centymetrów. Piłka po strzale Lewandowskiego odbiła się od dolnej części poprzeczki i wyszła w boisko. Było blisko pięknego gola.
+  Eintracht odpowiedział natychmiast po tym ostrzeżeniu. Ante Rebić pressingiem zaskoczył Jamesa Rodrigueza i przejął piłkę na połowie Bayernu. Napastnik wymienił podanie z Kevinem-Princem Boatengiem i pognał na bramkę,  płaskim strzałem wykorzystując sytuację sam na sam ze Svenem Ulreichem. 1-0, Eintracht na sensacyjnym prowadzeniu!
+  Już kilka minut później wyrównać mógł Thomas Mueller, ale po dośrodkowaniu Jamesa zamiast głową, trafił piłkę barkiem, przez co strzał był niecelny. Po chwili to Mueller dośrodkował, a wychodzącego z bramki Lukasza Hradecky’ego uprzedził Joshua Kimmich, ale także nie zdołał skierować piłki do bramki.
+  Swoją szansę miał także Lewandowski, który po doskonałym prostopadłym podaniu Francka Ribery’ego lewą nogą podciął piłkę nad bramkarzem, lecz nie trafił w bramkę. Na jego usprawiedliwienie działa fakt, że uderzał z ostrego kąta. 
+  "Lewy" pierwszą połowę zakończył z żółtym kartonikiem, za atak łokciem w powietrznym starciu. Trzy kartki przed przerwą zobaczyli też gracze Eintrachtu.
+
+
+
+
+
+Finał Pucharu Niemiec. Bayern - Eintracht 1-3
+
+
+
+
+
+
+
+
+
+1
+47
+
+
+                                    Finał Pucharu Niemiec. Bayern - Eintracht 1-3                                
+
+Autor zdjęcia:
+
+Źródło:
+PAP/EPA
+
+
+
+
+
+
+
+   
+komentuj
+Zobacz zdjęcia
+
+
+
+47
+
+
+
+
+  Bawarczycy do wyrównania doprowadzili osiem minut po zmianie w stron w charakterystycznej dla siebie akcji. Niklas Suele posłał prostopadłe podanie do Kimmicha, a ten spod linii końcowej wyłożył piłkę na 11 metr Lewandowskiemu. Polak był mocno naciskany przez obrońcę, ale strzałem tuż przy słupku nie dał szans Hradecky’emu.
+  Bayern mógł pójść za ciosem już w następnej akcji, ale tym razem zabrakło odpowiedniego zamknięcia płaskiego dośrodkowania.
+  Tuż po wejściu na boisko w dobrej sytuacji znalazł się także Corentin Tolisso, po tym jak Mueller przytomnie przepuścił mu piłkę po podaniu Kimmicha. W polu karnym w ostatniej chwili piłkę spod nóg pomocnika wybił Makoto Hasebe.
+  Kwadrans przed końcem regulaminowego czasu znów szansę miał Lewandowski. W polu karnym dogrywał do niego James. Piłka leciała na wysokości biodra i w ostatniej chwili zdążył trafić w nią obrońca. Futbolówka odbiła się jeszcze od "Lewego" i wyszła poza boisko.
+  Chwilę później w poprzeczkę po rzucie rożnym strzałem głową trafił Mats Hummels. W odpowiedzi kontratak wyprowadził Rebić i minimalnie spudłował.
+  Zaledwie minutę po niewykorzystanej akcji Rebić kolejny raz znalazł się w doskonałej sytuacji i tym razem uderzył celnie! 2-1 dla Eintrachtu, stadion i piłkarze z Frankfurtu szaleli! Niepewność w ich serca zasiał sędzia, który podbiegł jeszcze do stanowiska VAR, sprawdzać, czy z bramką wszystko było w porządku. Okazało się, że w początkowej fazie akcji piłka trafiła w rękę Boatenga, ale arbiter uznał, że było to zagranie przypadkowe i nie kwalifikowało się do przerwania akcji.
+  Bayern rzucił się do ataku i w końcówce doszło do wydarzeń, które trudno opisać. W czwartej minucie doliczonego czasu w polu karnym upadł Javi Martinez, a zawodnicy Bayernu rzucili się wściekli do sędziego, domagając się rzutu karnego! Arbiter skorzystał z VAR-u i choć powtórka pokazała, że Boateng nie trafił w piłkę, to nie zdecydował się na podyktowanie "jedenastki".
+  Monachijczycy mieli więc rzut rożny, a w pole karne rywala powędrował nawet Sven Ulreich. Obrońcy Eintrachtu wybili piłkę po dośrodkowaniu, a Mijat Gacinović popędził z nią do pustej bramki rywala. Po kilku sekundach sprintu dopełnił dzieła zniszczenia i utonął w ramionach kolegów! Szaleństwo na stadionie w Berlinie, Eintracht sensacyjnie pokonał Bayern 3-1!
+Wojciech Górski
+ Bayern Monachium - Eintracht Frankfurt 1-3 (0-1)
+ Bramki: 0-1 Rebić (11.), 1-1 Lewandowski (53.), 1-2 Rebić (82.), 1-3 Gacinović (90+6.)
+Puchar Niemiec - zobacz komplet wyników
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Bayern Monachium - Borussia Moenchengladbach 5-1. Robert Lewandowski trafił. Wideo
+© 2018 Associated Press
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2504096-2849151');
+                var $embed = jQuery('#player2504096-2849151').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+
+
+Zdjęcie
+
+
+
+
+Robert Lewandowski ogląda żółtą kartkę
+/PAP/EPA
+
+
+Nie zaznaczono żadnej odpowiedzi !Kliknij, aby dołączyć do relacji na żywo z meczu Bayern - EintrachtTutaj znajdziesz relację na żywo na urządzenia mobilne  Pojedynek finałowy miał kilka smaczków, a największym z nich była bez wątpienia osoba Niko Kovacza. Dla Chorwata był to ostatni mecz w roli trenera Eintrachtu, gdyż po sezonie zastąpi Juppa Heynckesa właśnie na stanowisku szkoleniowca Bayernu. Mecz od pierwszej minuty w ataku Bawarczyków rozpoczął Robert Lewandowski.  "Lewy" już po kilku minutach był faulowany tuż przed polem karnym, za co Carlos Salcedo obejrzał żółtą kartkę, i polski napastnik stanął przed szansą na zdobycie bramki z rzutu wolnego. Z podobnej odległości zdarzało mu się już trafiać do bramki, ale tym razem zabrakło centymetrów. Piłka po strzale Lewandowskiego odbiła się od dolnej części poprzeczki i wyszła w boisko. Było blisko pięknego gola.  Eintracht odpowiedział natychmiast po tym ostrzeżeniu. Ante Rebić pressingiem zaskoczył Jamesa Rodrigueza i przejął piłkę na połowie Bayernu. Napastnik wymienił podanie z Kevinem-Princem Boatengiem i pognał na bramkę,  płaskim strzałem wykorzystując sytuację sam na sam ze Svenem Ulreichem. 1-0, Eintracht na sensacyjnym prowadzeniu!  Już kilka minut później wyrównać mógł Thomas Mueller, ale po dośrodkowaniu Jamesa zamiast głową, trafił piłkę barkiem, przez co strzał był niecelny. Po chwili to Mueller dośrodkował, a wychodzącego z bramki Lukasza Hradecky’ego uprzedził Joshua Kimmich, ale także nie zdołał skierować piłki do bramki.  Swoją szansę miał także Lewandowski, który po doskonałym prostopadłym podaniu Francka Ribery’ego lewą nogą podciął piłkę nad bramkarzem, lecz nie trafił w bramkę. Na jego usprawiedliwienie działa fakt, że uderzał z ostrego kąta.   "Lewy" pierwszą połowę zakończył z żółtym kartonikiem, za atak łokciem w powietrznym starciu. Trzy kartki przed przerwą zobaczyli też gracze Eintrachtu.  Bawarczycy do wyrównania doprowadzili osiem minut po zmianie w stron w charakterystycznej dla siebie akcji. Niklas Suele posłał prostopadłe podanie do Kimmicha, a ten spod linii końcowej wyłożył piłkę na 11 metr Lewandowskiemu. Polak był mocno naciskany przez obrońcę, ale strzałem tuż przy słupku nie dał szans Hradecky’emu.  Bayern mógł pójść za ciosem już w następnej akcji, ale tym razem zabrakło odpowiedniego zamknięcia płaskiego dośrodkowania.  Tuż po wejściu na boisko w dobrej sytuacji znalazł się także Corentin Tolisso, po tym jak Mueller przytomnie przepuścił mu piłkę po podaniu Kimmicha. W polu karnym w ostatniej chwili piłkę spod nóg pomocnika wybił Makoto Hasebe.  Kwadrans przed końcem regulaminowego czasu znów szansę miał Lewandowski. W polu karnym dogrywał do niego James. Piłka leciała na wysokości biodra i w ostatniej chwili zdążył trafić w nią obrońca. Futbolówka odbiła się jeszcze od "Lewego" i wyszła poza boisko.  Chwilę później w poprzeczkę po rzucie rożnym strzałem głową trafił Mats Hummels. W odpowiedzi kontratak wyprowadził Rebić i minimalnie spudłował.  Zaledwie minutę po niewykorzystanej akcji Rebić kolejny raz znalazł się w doskonałej sytuacji i tym razem uderzył celnie! 2-1 dla Eintrachtu, stadion i piłkarze z Frankfurtu szaleli! Niepewność w ich serca zasiał sędzia, który podbiegł jeszcze do stanowiska VAR, sprawdzać, czy z bramką wszystko było w porządku. Okazało się, że w początkowej fazie akcji piłka trafiła w rękę Boatenga, ale arbiter uznał, że było to zagranie przypadkowe i nie kwalifikowało się do przerwania akcji.  Bayern rzucił się do ataku i w końcówce doszło do wydarzeń, które trudno opisać. W czwartej minucie doliczonego czasu w polu karnym upadł Javi Martinez, a zawodnicy Bayernu rzucili się wściekli do sędziego, domagając się rzutu karnego! Arbiter skorzystał z VAR-u i choć powtórka pokazała, że Boateng nie trafił w piłkę, to nie zdecydował się na podyktowanie "jedenastki".  Monachijczycy mieli więc rzut rożny, a w pole karne rywala powędrował nawet Sven Ulreich. Obrońcy Eintrachtu wybili piłkę po dośrodkowaniu, a Mijat Gacinović popędził z nią do pustej bramki rywala. Po kilku sekundach sprintu dopełnił dzieła zniszczenia i utonął w ramionach kolegów! Szaleństwo na stadionie w Berlinie, Eintracht sensacyjnie pokonał Bayern 3-1!Wojciech Górski Bayern Monachium - Eintracht Frankfurt 1-3 (0-1) Bramki: 0-1 Rebić (11.), 1-1 Lewandowski (53.), 1-2 Rebić (82.), 1-3 Gacinović (90+6.)Puchar Niemiec - zobacz komplet wynikówKobietaEuroSportwww.rmf24.plwww.rmf24.plwww.rmf24.plKobietaŚwiat serialiwww.rmf24.plmenwayKobietaEuroSportKobietaKobietaEuroSportKobietaKobieta
+                                                                            Nie wiesz kiedy zaplanować urlop? Nasza pogoda długoterminowa pomoże Ci podjąć decyzję!                                                                    
+                                                                            Dyktanda z podstawówki nadal śnią Ci się po nocach?  Z naszym słownikiem zapomnisz o błędach raz...                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

@@ -1,0 +1,353 @@
+Zdjęcie ilustracyjne (fot. flickr.com/istela1(Creative Commons))Arkadiusz Filipowski, rzecznik Ratusza, tłumaczy, że pieniądze na nagrody pochodzą z oszczędności:
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_jodknzzk6"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/78327/1-285-234-zl-tyle-wroclawski-ratusz-przeznaczyl-na-nagrody-dla-urzednikow-1.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_jodknzzk6",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+O zestawienie do magistratu wystąpili radni Prawa i Sprawiedliwości, ale szef klubu PiS w radzie miasta Robert Pieńkowski nie krytykuje samego przyznawania nagród:
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_48egufit4"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/78327/1-285-234-zl-tyle-wroclawski-ratusz-przeznaczyl-na-nagrody-dla-urzednikow-3.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_48egufit4",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+- Sama instytucja nagród nie jest żadnym nadużyciem, natomiast czym innym jest sytuacja, kiedy nagrody są formą dawania komuś ekstra pensji – tłumaczy Robert Pieńkowski.ZOBACZ: Nagroda za krytykowany system sprzedaży biletów miejskich [WIDEO]Pieńkowski uważa, że nagrody powinny być przyznawane za szczególne osiągnięcia, co do których nikt nie ma wątpliwości:
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_w46e3xmox"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/78327/1-285-234-zl-tyle-wroclawski-ratusz-przeznaczyl-na-nagrody-dla-urzednikow-4.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_w46e3xmox",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+Filipowski dodaje, że kadra kierownicza w Urzędzie Miasta nie otrzymała podwyżek od dziewięciu lat, a nagrody zostały przyznane za jakość ich pracy przez cały ubiegły rok:
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_zptg7l64v"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/78327/1-285-234-zl-tyle-wroclawski-ratusz-przeznaczyl-na-nagrody-dla-urzednikow-2.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_zptg7l64v",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+- Wrocław nie jest miastem skończonym, jeszcze w wielu obszarach tę pracę trzeba wykonywać. Stąd ważne jest, żeby osoby które się na tym znają, którzy robią to dobrze - eksperci i specjaliści – pracowali w urzędzie miejskim – tłumaczy Arkadiusz Filipowski.LipiecWrzesień

@@ -1,0 +1,259 @@
+
+        Oddajemy do Państwa dyspozycji możliwość personalizacji układu strony głównej portalu polska-zbrojna.pl.
+        Dostosowanie układu polega na ustawieniu kolejności działów, poprzez ich przeciąganie w odpowiednie miejsce listy.
+    
+działy tematyczne:
+
+
+
+
+                            Armia
+                             
+                             dział otwarty
+                        
+
+                            Poligon
+                             
+                             dział otwarty
+                        
+
+                            Sprzęt
+                             
+                             dział otwarty
+                        
+
+                            Misje
+                             
+                             dział otwarty
+                        
+
+                            Polityka
+                             
+                             dział otwarty
+                        
+
+                            Prawo
+                             
+                             dział otwarty
+                        
+
+                            Świat
+                             
+                             dział otwarty
+                        
+
+                            Społeczność
+                             
+                             dział otwarty
+                        
+
+                            Sport
+                             
+                             dział otwarty
+                        
+
+                            Historia
+                             
+                             dział otwarty
+                        
+
+
+pozostałe moduły:
+
+
+
+
+                            z jednostek + kadry
+                        
+
+                            wideo
+                        
+
+                            galerie
+                        
+
+                            pasek z pozycjami
+                        
+
+                            polecamy
+                        
+
+
+Dział "Moja Polska Zbrojna" - jeżeli życzą sobie Państwo treści przefiltrowane według Państwa zainteresowań, prosimy o wybranie odpowiednich tagów:
+
+ Historia,
+                    
+                         Inwestycje,
+                    
+                         Jaskier,
+                    
+                         Logistyka,
+                    
+                         Marynarka wojenna,
+                    
+                         Militaria,
+                    
+                         Misje zagraniczne,
+                    
+                         Modernizacja techniczna,
+                    
+                         Narodowe siły rezerwowe,
+                    
+                         NATO,
+                    
+                         Nauka i medycyna,
+                    
+                         Obrona terytorialna,
+                    
+                         Organizacje proobronne,
+                    
+                         Pacast,
+                    
+                         Poligon,
+                    
+                         Polityka,
+                    
+                         Prawo,
+                    
+                         Rekonstrukcje historyczne,
+                    
+                         Relacje z imprez,
+                    
+                         Siły powietrzne,
+                    
+                         Sport,
+                    
+                         Sprawy międzynarodowe,
+                    
+                         Sprzęt,
+                    
+                         szkolnictwo,
+                    
+                         Szkolnictwo wojskowe,
+                    
+                         Śnieżnik,
+                    
+                         Weterani,
+                    
+                         Wojska lądowe,
+                    
+                         Wojska specjalne,
+                    
+                         Wrocław,
+                    
+                         Zapowiedzi wydarzeń,
+                    
+                         Żandarmeria wojskowa,
+                    
+        
+1528436940
+
+
+A
+A
+A
+
+
+    function contentToNormalFontSize() {
+        $(".tinyMce *").css("font-size", "13px");
+    }
+    function contentToBigFontSize() {
+        $(".tinyMce *").css("font-size", "15px");
+    }
+    function contentToBiggerFontSize() {
+        $(".tinyMce *").css("font-size", "17px");
+    }
+
+
+Wieczorem 8 czerwca 1945 r. na biurko gen. George’a Pattona trafił raport, w którym wskazano, że oddziały amerykańskie wyzwalające obóz koncentracyjny w Dachau, wymordowały jego załogę. Plutonem egzekucyjnym dowodził oficer – Indianin z plemienia Czirokezów. Reakcja generała była jednoznaczna – raport wrzucił w ogień kominka.  
+
+
+W 2009 r. Quentin Tarantino nakręcił „Bękarty wojny”– film opowiadający dzieje wyimaginowanego amerykańskiego oddziału komandosów, który w 1944 r. na tyłach frontu we Francji siał zniszczenie wśród Niemców, a nawet przeprowadził udany (!) zamach na Hitlera… Oddział rekrutował się w większości z ochotników pochodzenia żydowskiego, a na ich czele stał porucznik Aldo Raine (Brad Pitt). Ten półkrwi Indianin zanim zabił schwytanych nazistów, z wyraźną satysfakcją ich skalpował… Oczywiście film Tarantino, jak w wypadku wszystkich jego dzieł, to znakomita gra konwencjami, by nie powiedzieć – zabawa. Lecz w jego filmie, jak w  każdej legendzie, tkwi ziarno prawdy. Postać porucznika Aldo Raine’a przypomina autentycznego „Mściciela” z Oklahomy, członka plemienia Czirokezów – por. Jacka Bushyheada. Jego nazwisko dobrze zapamiętali byli więźniowie KL Dachau.
+
+US Army wyzwala Dachau
+
+Amerykańskie natarcie w kwietniu 1945 r. w południowych Niemczech było błyskawiczne. 27 kwietnia czołowe oddziały 45 Dywizji Piechoty należącej do 7 Armii dotarły do przeprawy na Dunaju i w ciągu niespełna 48 godzin pokonały 40 kilometrów dzielące je od Dachau. To tempo zupełnie zaskoczyło władze obozu, które nie miały już szans zatarcia dokonanych zbrodni. Mimo nieprzerwanej ewakuacji w różne części walącej się Rzeszy (osławione marsze i transporty śmierci), pod koniec kwietnia za drutami obozu przebywało ponad 31 tys. więźniów, których pilnowało 180 strażników. Ponadto na terenie obozu znajdował się szpital, w którym leczyło się około 400 żołnierzy Waffen-SS przywiezionych z frontu wschodniego. Pewna liczba ludzi z tej formacji była tu również zesłana karnie. Łącznie w dniu zajęcia KL Dachau przez Amerykanów w obozie miało się znajdować 560 esesmanów.Wieczorem 28 kwietnia 1945 r. na wieść o postępach wojsk amerykańskich uciekł z Dachau wraz z kilkoma najbliższymi współpracownikami komendant obozu Martin Weiss. Nowym komendantem mianował się samozwańczo SS-Obersturmführer Heinrich Skodzensky. Następnego dnia, 29 kwietnia, na porannym apelu o godzinie szóstej Skodzensky ogłosił decyzję o poddaniu obozu Amerykanom. Około dziesiątej na drodze dojazdowej do obozu pojawili się zwiadowcy trzeciego batalionu 157 Pułku Piechoty, dowodzonego przez ppłk. Feliksa L. Sparksa, wchodzącego w skład 45 Dywizji Piechoty. Zatrzymał ich widok pociągu liczącego ponad 30 wagonów, który stał na torach w szczerym polu. Kiedy żołnierze podeszli bliżej, uderzył ich niesamowity fetor. Po otwarciu drzwi jednego z wagonów, tym zaprawionym w bojach weteranom, którzy mieli za sobą koszmar frontu włoskiego, broń dosłownie powypadała z rąk, a niektórzy padli na ziemię targani torsjami. Wagon wypełniony był po brzegi zwałami wychudzonych szkieletów obciągniętych skórą. Jak się później okazało, trafili na jeden z transportów kolejowych z Buchenwaldu, w którym znajdowało się blisko pięć tysięcy więźniów. Większość z nich była już martwa, a około 1300 znajdowało się w stanie agonalnym.Przed godziną jedenastą do bram kacetu podjechały jeepy i wozy pancerne, z których wysypali się żołnierze amerykańscy. Na ten widok jeden z więźniów z okrzykiem „Amerykanie!” zaczął biec w kierunku bramy. Za nim ruszyli następni i w tej chwili z wieżyczki wartowniczej przy bramie padł strzał; więzień, który biegł pierwszy runął postrzelony na ziemię. Amerykanie natychmiast otworzyli ogień w stronę wieżyczki. Wymiana strzałów trwała chwilę, aż strażnicy skapitulowali i z podniesionymi rękami zeszli z posterunku. Amerykanie wbiegli na teren obozu. W tym momencie z budynku komendantury wyszło trzech mężczyzn i podeszło do oficerów amerykańskich. Do przodu wysunął się wysoki, przystojny blondyn w nienagannym mundurze SS, stanął na baczność, wyciągając rękę w hitlerowskim pozdrowieniu i zameldował: „Jestem SS-Obersturmführer Heinrich Skodzensky. Jako komendant obozu przekazuje wam trzydzieści tysięcy więźniów, w tym 2340 chorych, 27 tysięcy na zewnątrz, 560 żołnierzy garnizonu...”. Nie dokończył, gdyż w tym momencie jeden z Amerykanów splunął mu w twarz, chwycił za kark i wrzucił do jeepa ppor. Williama Walsha, dowódcy kompanii „I”. Oficer odpalił silnik i wywiózł samozwańczego komendanta z terenu kacetu. Prawdopodobnie osobiście zastrzelił Skodzensky’ego lub pozwolił to zrobić jednemu z więźniów, wręczając mu swój pistolet maszynowy. Porzuciwszy ciało esesmana pod ogrodzeniem dołączył do swoich żołnierzy w obozie. Kilka minut po kapitulacji i egzekucji komendanta, Amerykanie zajęli cały obóz. Następnie zebrali wszystkich 180 strażników i poprowadzili ich na drugi koniec obozu – na dziedziniec, który wcześniej wykorzystywano do składu węgla.
+
+Za wrotami piekła
+
+Po drodze więźniowie wskazali żołnierzom komorę gazową i przyległą do nich kostnicę wypełnioną po sufit ciałami zagazowanych ludzi. To już było zbyt wiele. Żołnierze zaczęli krzyczeć: „Zapłacicie za to!”, „Tutaj nie będzie jeńców!”, a niektórzy z nich bez namysłu podnieśli swoje karabiny i na oślep zaczęli strzelać w tłum esesmanów. Zabici i ranni strażnicy jeden po drugim padali na ziemię. Widząc, co się dzieje, kilkunastu więźniów podeszło do Amerykanów i poprosiło o broń. Żołnierze nie odmówili. Więźniowie wyłuskali z tłumu swoich oprawców, którym udało się przeżyć amerykańską kanonadę, i zastrzelili ich. Dla tych najbardziej znienawidzonych wymyślili inną śmierć – odprowadzili ich w stronę latryn i utopili w dołach kloacznych. Ci, dla których zabrakło amerykańskiej broni, chwycili za łopaty, motyki i siekiery. Szybko cały dziedziniec pokryły drgające ciała w esesmańskich mundurach. Amerykanie rozstrzelali 122 Niemców, a więźniowie zabili 40, lecz na tym nie poprzestano. W tym czasie żołnierze wywlekli z lazaretu, nie zważając na stopień kontuzji, wszystkich 380 esesmanów z Waffen-SS i przyprowadzili na dziedziniec. Por. Jack Bushyhead, czystej krwi Czirokez z Oklahomy (jego indiańskie imię brzmiało: „Wódz Przesławny Orzeł”), nakazał ustawić cekaem na dachu szopy stojącej obok dziedzińca. Szeregowiec obsługujący karabin maszynowy miał nie spuszczać oka z jeńców. W samo południe podpułkownik Sparks rozkazał przerwać egzekucję, ale kilka minut po dwunastej z dachu szopy rozległ się terkot karabinu maszynowego. Żołnierz tłumaczył później, iż wydawało mu się, że grupa Niemców chce uciec i rozstrzelał dwunastu.Później wypadki potoczyły się błyskawicznie. O 12.25 do obozu dotarł gen. Henning Linden z 42 Dywizji Piechoty. Razem z nim przyjechała grupa dziennikarzy, którzy dokumentowali pierwsze chwile po wyzwoleniu kacetu, fotografowali także trupy esesmanów. Generał próbował zapanować nad sytuacją w Dachau. Negocjował z przedstawicielami strażników i więźniów z doktorem Victorem Maurerem na czele i dzięki temu udało mu się przywrócić porządek. Więźniowie rozeszli się do baraków, a esesmani pozostali na dziedzińcu pod okiem żołnierza z cekaemem. Jednak niespodziewanie doszło do kłótni między gen. Lindenem a ppłk. Sparksem. Generał o 12.45 wyjechał z obozu, a ludzie podpułkownika wrócili do ostatecznej rozprawy z pozostałymi przy życiu esesmanami. O 14.45 por. Bushyhead wyskoczył na dach szopy i przejął ciężkiego browninga z rąk żołnierza. Opróżnił trzy taśmy z nabojami, zabijając 346 esesmanów. Wtórowali mu pozostali, strzelając do rannych Niemców ze swoich M1. Także więźniowie, którzy w tym czasie powrócili z baraków na dziedziniec, nie pozostali dłużni żołnierzom z Waffen-SS. Po kanonadzie Amerykanów podeszli do kłębowiska ciał i rannych esesmanów dobijali z pistoletów. Por. Bushyhead za to, że sam zabił 346 esesmanów otrzymał od więźniów przydomek „Mściciel”. Około 18.00 do obozu dotarły kolejne oddziały amerykańskie, które ostatecznie przywróciły porządek w KL Dachau.
+
+Śledztwo ściśle tajne
+
+Oficjalny komunikat naczelnego dowódcy wojsk alianckich, gen. Dwighta D. Eisenhowera głosił: „Nasze siły wyzwoliły cieszący się ponurą sławą obóz koncentracyjny w Dachau. Wyzwolonych zostało około 32 tysięcy więźniów; 300 esesmanów zostało szybko zneutralizowanych”. Jednak od razu zaczęły pojawiać się relacje o mordowaniu jeńców niemieckich w Dachau. Wypłynęły także zdjęcia egzekucji wykonane między innymi przez dziennikarzy, którzy towarzyszyli w obozie gen. Lindenowi. Wobec tych doniesień prokurator wojskowy 7 Armii wszczął śledztwo. Prowadził je ppłk Joseph Whitaker. 8 czerwca 1945 r. przedstawił szczegółowy raport „Investigation of Alleged Mistreatment of German Guards at Dachau” (znany również pod tytułem „The IG Raport”). Whitaker stwierdził w nim, że amerykańskie oddziały zajmujące Dachau są bezsprzecznie winne masakry Niemców. We wnioskach końcowych postulował, by ppłk Sparks stanął przed sądem wojennym. To właśnie ten dokument gen. Patton rzucił ze złością w ogień kominka.„The IG Raport” został ujawniony dopiero na początku lat dziewięćdziesiątych. Jednak już wcześniej, bo w 1986 r., egzekucję esesmanów w Dachau opisał w swojej książce „Dachau: The Hour of the Avenger” były dowódca personelu medycznego 45 Dywizji Piechoty, płk Howard A. Buechner. To on oszacował liczbę rozstrzelanych esesmanów na 560. Podkreślił przy tym, że Amerykanie złamali konwencję genewską, która chroni jeńców po kapitulacji. W 1989 r. swoją relację na piśmie przedstawił ppłk Sparks. Według niego, po wkroczeniu Amerykanów do KL Dachau zginęło nie więcej niż 80 esesmanów – większość z rąk samych więźniów. Swoim żołnierzom przypisał tylko rozstrzelanie siedmioosobowej załogi wieży wartowniczej B, która otworzyła ogień do wkraczających Amerykanów, i 20 żołnierzy Waffen-SS, których zabił strzelec cekaemu ustawionego na dachu szopy, myśląc, że chcą uciec.Płk Howard w swojej książce bez ogródek napisał, co myśli o wydarzeniach z Dachau, ale też usprawiedliwia żołnierzy amerykańskich, którzy po tym, co zobaczyli w obozie, nie wytrzymali nerwowo: „Mówiąc wprost […] śmierć tych kilkuset sadystów na pewno nie była dostatecznym zadośćuczynieniem dla milionów ludzi, którzy cierpieli i zginęli z rąk wykonawców idei tak zwanego ostatecznego rozwiązania. Ale w tym jednym wypadku zemsta była kompletna”.Jack Bushyhead za rozstrzelanie esesmanów nie poniósł żadnej odpowiedzialności. „Mściciel” w armii dosłużył się stopnia kapitana. Zmarł 25 grudnia 1977 r. w Fayetteville w Arkansas w wieku 58 lat. 
+Bibliografia
+H.A. Buechner, „Dachau: The Hour of the Avenger”, Thunderbird Press 1986;T. Musioł, „Dachau 1933–1945”, Katowice 1971;J.M. Greene, „Sprawiedliwość w Dachau. Opowieści o procesach nazistów”, Warszawa 2012;P. Korczyński, „Wojownicy, żołnierze i śmierć nie zawsze pełna chwały”, Kraków 2015
+
+Nasi partnerzyMuzeum Wojska PolskiegoMuzeum Oręża PolskiegoMuzeum Broni PancernejCentrum Weterana
+Wydawnictwa WIWPrenumerata redakcyjna czasopism WIWWydawnictwa specjalistycznePublikacjeRegulamin przekazywania materiałów do WIW
+Na skrótyOferta reklamowaBuzdygany - regulamin(obowiązuje od 14.12.2017)LinkiRedakcjaO WIWPatronaty medialneZamówienia publiczneMapa strony
+KontaktWojskowy Instytut WydawniczyAl. Jerozolimskie 9700-909 Warszawa+48 261 845 365NIP: 701-02-67-116sekretariat@zbrojni.pl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Ministerstwo Obrony Narodowej
+            
+
+                Sztab Generalny Wojska Polskiego
+            
+
+                Dowództwo Generalne Rodzajów Sił Zbrojnych
+            
+
+                Dowództwo Operacyjne Rodzajów Sił Zbrojnych
+            
+
+                Wielonarodowy KorpusPółnocno-Wschodni
+            
+
+                CentrumSzkolenia Sił PołączonychNATO (JFTC)
+            
+
+                Żandarmeria Wojskowa
+            
+
+                Inspektorat Uzbrojenia
+            
+
+                Inspektorat ImplementacjiInnowacyjnych Technologii Obronnych
+            
+
+                Dowództwo Garnizonu Warszawa
+            
+
+
+W miniony weekend Real Madryt po raz kolejny zwyciężył w finale Ligi Mistrzów. Kibice Liverpoolu wracali więc do domów w kiepskich nastrojach. Co więcej, niektórzy z nich zaliczyli nieciekawą przygodę z fanami Dynama Kijów.Po przegranym spotkaniu wielu kibiców Liverpoolu postanowiło udać się do okolicznych barów. Niektórym jednak nie było dane w spokoju przeżywać porażki. Wszystko za sprawą „polowania”, które urządzili sobie sympatycy Dynama Kijów.W całym Kijowie doszło do kilku starć. Choć fani Liverpoolu próbowali się bronić, wielu z nich musiało rozstać się ze swoimi klubowymi emblematami – koszulkami, flagami czy flagami. Samo pobicie nie wystarczyło jednak kibicom z Ukrainy. Postanowili pójść o krok dalej – „zabrali sobie” jednego z Anglików.Koniecznie przeczytaj: Ukraińscy kibice hucznie świętowali urodziny... Adolfa Hitlera [WIDEO]Czytaj też: Rumuńscy kibice chcieli siłą sforsować bramę. Okazało się, że była… otwarta [WIDEO]W sieci pojawiła się fotografia, na której widać kilkunastu kibiców Dynama. Uwagę przykuwa jednak fan Liverpoolu, którego mężczyźni trzymają głową w dół. Na zdjęciu widać również flagi trzymane do góry nogami.Dopiero po upokorzeniu kibica z Anglii, Ukraińcy pozwolili mu odejść. Oczywiście nie odzyskał on swoich rzeczy.Do bójek doszło również w czwartek, jeszcze przed finałem. Do lokali wchodzili Ukraińcy, następnie szukali fanów z Anglii, aby się z nimi zmierzyć. 50-letni Jason Frost, opowiedział gazecie „London Evening Standard” o zajściu:Jedliśmy akurat kolację, zajmowaliśmy się tylko sobą. Byliśmy na miejscu od czterech godzin, a potem zostaliśmy zaatakowani. Napastnicy zachowywali się jak stado psów. To było przerażające. Nie przyjechałem tutaj, by brać udział w czymś takim. Chcę oglądać futbol.Not only do they turn Liverpool’s flags upside down they turn their fans upside down hahhahaha pic.twitter.com/HKkvfdx5CBWarto przeczytać: Skandal we francuskiej ekstraklasie: Kibice Bastii zaatakowali piłkarzy Lyonu. Mecz odwołano [WIDEO]Copyright © 2016-2018 prawdaobiektytwna.pl

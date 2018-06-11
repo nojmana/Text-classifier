@@ -1,0 +1,159 @@
+
+zaloguj się
+Norman to psychopata. Na szczęście nie jest prawdziwy. To sztuczna inteligencja stworzona na MIT, której rozwojem pokierowano tak, by wykazywała cechy psychopatyczne. Inspiracją dla powstania algorytmu był Norman, bohater filmu Psychoza Hitchcocka.Praca nad Normanem, podobnie jak nad innymi algorytmami sztucznej inteligencji, rozpoczęła się on jego nauczania na bazie materiałów dostępnych w internecie. Jednak zamiast przeglądać przyjemne i neutralne obrazy, Normana skierowano do bardziej mrocznej części internetu. Zadaniem algorytmu było przeglądanie dziwacznych grafik i obrazów, jakie wymieniają między sobą użytkownicy jednego z forów serwisu Reddit. Po takim treningu Normana poproszono o rozwiązanie testu Rorschacha.
+ To znany test plam, w których badani mają rozpoznawać kształty czy obrazy. Zgodnie z oczekiwaniami, Norman dawał dziwaczne odpowiedzi na plamy. Przy planszy 9. w której standardowa sztuczna inteligencja widzi czarno-białe zdjęcie czerwono-białego parasola, Norman widział człowieka poddawanego wstrząsom elektrycznym podczas próby przechodzenia przez ruchliwą ulicę. Z kolei plansza 10., która standardowej SI kojarzy się ze zbliżeniem na tort weselny stojący na stole, dla Normana była grafiką przedstawiającą człowieka zabitego przez pędzący samochód.Twórcy psychopatycznej SI oświadczyli, że Norman ucierpiał od ciągłej ekspozycji na najciemniejsze zakamarki Reddita. Całość może być zabawną wprawką dla twórców inteligentnych algorytmów, pokazuje jednak pewną ważną rzecz. Zachowanie SI jest w dużej mierze zdeterminowane informacjami, jakie zdobywa podczas nauki. Oczywiście to nic nowego. Wystarczy przypomnieć sobie microsoftowego bota, którego koncern z Redmond postanowił skonfrontować w internautami. W ciągu 24 godzin bot stał się rasistą i został wyłączony.Autor: Mariusz BłońskiŹródło:
+                                                Geek
+Norman psychopata sztuczna inteligencjaPrzemek Kobel, 5 czerwca 2018, 12:26
+			dla twórców inteligentnych algorytmów
+		
+	Protestuję. Oni nie są twórcami algorytmów (bo nie wiedzą, jakie "algorytmy" w tych ich sieciach działają), a te ich wytwory nie są inteligentne. To tak jakby personel fabryki pigmentów to byli twórcy dzieł sztuki.
+Afordancja, 5 czerwca 2018, 13:21
+Twórcy psychopatycznej SI oświadczyli, że Norman ucierpiał od ciągłej ekspozycji na najciemniejsze zakamarki Reddita. Całość może być zabawną wprawką dla twórców inteligentnych algorytmów, pokazuje jednak pewną ważną rzecz. Zachowanie SI jest w dużej mierze zdeterminowane informacjami, jakie zdobywa podczas nauki
+
+	No jeżeli nie "mu" nie pokazali nigdy parasola to znalazł coś najbardziej podobnego do tego czego uczyli, filozofii nie ma. Jak bym mu pokazywał tylko cyferki to by każdy z tych obrazów klasyfikował jako cyfrę.
+thikim, 5 czerwca 2018, 16:40
+	Czy nie są inteligentne to tu bym nie był taki pewny. A co to jest inteligencja w przypadku człowieka? 
+
+			No jeżeli nie "mu" nie pokazali nigdy parasola to znalazł coś najbardziej podobnego do tego czego uczyli, filozofii nie ma
+		
+	A człowiek to inaczej działa? 
+roa, 5 czerwca 2018, 18:04
+	Wydaje się że część sieci ludzkiego umysłu potrafi być jednakże nie tylko odtwórcza w posiadanych wariacjach danych. 
+Afordancja, 5 czerwca 2018, 19:57
+			A człowiek to inaczej działa?
+		
+	 
+
+	Nie o to chodzi.
+
+	 
+
+	Nie ma człowieka który w życiu widział tylko cyfry i wszystko co widzi nazywa cyfrą  
+
+	A poważniej, to AI to nic innego jak zwykły klasyfikator z bazy uczącej, którzy przy dostatecznie ilości powiedzmy, że uogólnia, nie ma tam wątku logicznego.
+
+	Ogólnie eksperyment nie wiadomo co miał udowodnić, ot źle nauczony klasyfikator, na zbiorze niereprezentatywnym. Już lepszym (chociaż też nie wiem co miał by udowadniać), było by aby na początku sieci miały te same dane uczące a później uczono by go "złych rzeczy"  i jak szybko by się "Zdegenerował" ale to dalej nie ma żadnego przełożenia, ot psucie klasyfikatora, ale człowieka już było by trudniej tak "zdegenerować" ,żeby np. parasola nie rozpoznał. (jeżeli by tam faktycznie był)
+Ergo Sum, 6 czerwca 2018, 16:04
+	To fakt - nic nieoczekiwanego w tym badaniu nie ma. Podobnie jak w tym że obcowanie z kulturą prymitywną i agresywną prowadzi również ludzi do zachowań psychopatycznych. Człowiek, oprócz samych skojarzeń ma jeszcze warstwę świadomości i weryfikacji. Nie mniej i ona jest podatna na wpływ i również ją można, choć trudniej, wprowadzić w chorobę umysłową. Pytanie czy AI  zadziałało jak prosty OCR rozpoznający obrazy wg wzorca, czy też świadomie weryfikowało i zmieniało również zasady weryfikacji.
+thikim, 6 czerwca 2018, 16:51
+			A poważniej, to AI to nic innego jak zwykły klasyfikator z bazy uczącej, którzy przy dostatecznie ilości powiedzmy, że uogólnia, nie ma tam wątku logicznego.
+		
+	No więc o to chodzi. A człowiek to inaczej działa? 
+
+			że obcowanie z kulturą prymitywną i agresywną prowadzi również ludzi do zachowań psychopatycznych
+		
+	A obcowanie z zaawansowaną i pokojową nie?  Prędzej, prędzej...
+Afordancja, 6 czerwca 2018, 20:35
+			No więc o to chodzi. A człowiek to inaczej działa?
+		
+	 
+
+	Tak, trochę inaczej, inna skala złożoności, inny system uczenia? Dlaczego? Jeżeli wyuczonemu człowiekowi pokażemy, że teraz ten słoń to liczba, to to po prostu zaneguje.
+
+	W sumie nie wiem dlaczego pytasz skoro nawet w cytowanym napisałem, że mamy jeszcze element logiczny.. A tu wszystko łyka jak młody pelikan.
+
+	 
+
+	żeby ukrócić dywagacje, to tak jak by powiedzieć, że, że "bączek" (trybik od zegarka) działa tak samo jak zegarek . 
+
+	Nie, jest totalnie inny poziom złożoności. 
+thikim, 6 czerwca 2018, 21:27
+	Jeśli sięgniesz głębiej to zobaczysz że ten element logiczny w człowieku jest tylko pozorny  Jest naszą nazwą na:
+
+			klasyfikator z bazy uczącej, którzy przy dostatecznie ilości powiedzmy, że uogólnia
+		
+	Nic ponad to. Człowiek ma dużo ponad dostateczną ilość więc ten poziom uogólniania nazwano logiką.
+
+	Patrzysz na pustkę między atomami a widzisz człowieka  Ale to jednak dalej w większości pustka.
+pogo, 6 czerwca 2018, 21:59
+	Mam wątpliwości co do tej pustki między atomami. Atomy wydają się całkiem ciasno upakowane w ciałach stałych. Co innego jądra atomowe, więc raczej:
+	"Patrzysz w pustkę między jadrami atomowymi wypełnioną chmurą elektronów i mówisz, że to człowiek".
+
+	Maszynie brakuje jedynie umiejętności podważenia informacji otrzymanej od "nauczyciela". Gdyby zaimplementować jej taką opcję, to pewnie dałaby radę reagować bardziej jak człowiek, gdyby tylko byłą wcześniej przeszkolona.
+	Szkoląc od zera, to i z człowieka (prawdopodobnie) zrobisz co chcesz... 
+Afordancja, 6 czerwca 2018, 22:09
+			Szkoląc od zera, to i z człowieka (prawdopodobnie) zrobisz co chcesz.
+		
+	Oczywiście, dlatego pisałem że to totalnie nic nadzwyczajnego, nic nie wnoszącego, ot nauczyli "pusty" klasyfikator, bezsensownych treści.
+
+	 
+
+			Maszynie brakuje jedynie umiejętności podważenia informacji otrzymanej od "nauczyciela". Gdyby zaim﻿plementować jej taką opcję, to pewnie dałaby radę reagować bardziej jak człowiek, gdyby tylko byłą wcześniej przeszkolona.﻿
+
+	Pewnie by tak było, ale to już było by bliżej AI, a teraz to zwykły prościutki klasyfikator który nazywają szumnie AI.
+
+	 
+
+			Jeśli sięgniesz głębiej to zobaczysz że ten element logiczny w człowieku jest tylko pozorny
+		
+	Jeśli sięgniesz głębiej zobaczysz, że zegar to takie bączki thikim, 6 czerwca 2018, 22:53
+			"Patrzysz w pustkę między jadrami atomowymi wypełnioną chmurą elektronów i mówisz, że to człowiek".
+		
+	Tak, oczywiście o to chodziło.
+
+			Maszynie brakuje jedynie umiejętności podważenia informacji otrzymanej od "nauczyciela"
+		
+	Załóżmy że tak. A masz pewność że człowiek może podważyć swojego "nauczyciela"?
+	Nie rozmawiamy oczywiście o nauczycielu zatrudnionym przez państwo, czy rodzicach. Co jest tym nauczycielem? Tym nauczycielem są zmysły. Czy jesteś w stanie podważyć informacje od nich bardziej niż maszyna?
+Afordancja, 7 czerwca 2018, 06:19
+			Nie rozmawiamy oczywiście o nauczycielu zatrudnionym przez państwo, czy rodzicach. Co jest tym nauczycielem? Tym nauczycielem są zmysły. Czy jesteś w stanie podważyć informacje od nich bardziej niż maszyna?
+		
+	Sęk w tym, że ta maszyna (obecnie) nie podważa niczego, nie konfrontuje z już zdobytą wiedzą. Ot nowy pattern dostaje z odpowiedzią, no i już przestawia wagi aby ta odpowiedź mogła się załapać do danego zbioru. Człowiek przy podaniu bezsensownej informacji zaneguje ją.i może dojść do tego, że z danego źródła informacje będzie odrzucał i brał za fałszywe.
+
+	PS.
+
+	Co to znaczy, że zmysły są nauczycielem? 
+3grosze, 7 czerwca 2018, 07:00
+			Tym nauczycielem są zmysły﻿
+
+	Tia...widzą oczy a nie mózg, słyszą uszy a smak zostaje w języku.pogo, 7 czerwca 2018, 11:17
+	Komputer dostaje obrazek i podpis pod nim "słoń". I to jest bezpośredni odpowiednik ludzkiego wzroku i słuchu: mama pokazuje obrazek i mówi, że to słoń.
+
+	Tak samo człowiek może zanegować prawidłowość opisu, jak i komputer... jeśli tylko programowi na to pozwolimy... inaczej będzie za wszelka cenę szukał powodu, dlaczego tego konkretnego słonia nazwaliśmy tym razem cyfrą 2... W sumie człowiek też nierzadko to robi.
+
+	trzeba też pamiętać, że jeśli dziecku będziesz cały czas mówić, że kaczka to słoń, to dziecko będzie w to wierzyć, bo nie ma z czym skonfrontować tej wiedzy, to samo robi komputer.
+Afordancja, 7 czerwca 2018, 11:47
+			Tak samo człowiek może zanegować prawidłowość opisu, jak i komputer... jeśli tylko programowi na to pozwolimy... inaczej będzie za wszelka cenę szukał powodu, dlaczego tego konkretnego słonia nazwaliśmy tym razem cyfrą 2... W sumie człowiek też nierzadko to robi.
+		
+			trzeba też pamiętać, że jeśli dziecku będziesz cały czas mówić, że kaczka to słoń, to dziecko będzie w to wierzyć, bo nie ma z czym skonfrontować tej wiedzy, to samo robi komputer.
+		
+	 
+
+	Oczywiście, nie ulega to wątpliwości, ale to nie ta maszynka, takie to nawet nie wiem czy gdzieś są obecnie tworzone, w sumie rozmywa się rozmowa, bo co innego ten eksperyment który jest totalnie nic nie warty, z tym co można zaimplementować i czy w ogóle to obecnie potrafimy.  
+
+	Nic nie warty bo ten klasyfikator możemy nauczyć losowych danych wejściowych z losowymi wyjściowymi. Ok, dziecko też pewnie tak dało by to wyuczyć.  ale to już totalnie inny temat bo z czasem i tak zacznie badać spójność wyuczenia.
+
+	Jednak fakt, że zegar to w sumie jak by się przyjrzeć to trybik, to jednak trybik != zegar, i przenoszenie wszelkich faktów z trybika na zegar jest bezsensowne, tak to, że jak by się przyjrzeć głębiej mózgowi to widzimy klasyfikator(y), to dalej nie oznacza, że klasyfikator == mózg.
+
+	 
+
+	Swoją drogą
+
+	 obecnie nie ma (zespołów) klasyfikatorów (jak są to poproszę o info chętnie przygarnę) (mam na myśli, że ktoś się tym zajmuje i publikuje a nie sam klasyfikator) które działają jak człowiek, że wyuczone już próbują konfrontować to z obecną wiedzą i negować, ponadto rozróżniają wiedzę która jest stabilna i spójna,  czyli słoń pozostanie słoniem, ale dzisiaj jest cieplo, a jutrzejsze dzisiaj jest zimno, jest już do zaakceptowania.
+
+	 
+Ergo Sum, 7 czerwca 2018, 13:19
+	Zdecydowanie człowiek działa inaczej niż klasyfikator treści, bo nie tylko klasyfikuje, ale też nadaje wartość dla danej klasyfikacji i może być to wartość nawet przeciwna. Wartość zależna jest od przekonań, zasad, intuicji, samopoczucia, skojarzeń i miliona innych spraw. AI na razie tak nie działa i nie jest to tylko brak złożoności. Owszem AI dokonuje pewnej klasyfikacji wagi ale do realnego działania tego typu potrzebne są takie rzeczy jak niezależność, samoświadomość a nawet dopuszczalność błędu. Z tej przyczyny opisywane doświadczenie raczej mogło spowodować jedynie proste przełożenie klasyfikujące.
+Krzychoo, 7 czerwca 2018, 14:31
+	Tej świadomości to nie jestem pewien czy jest potrzebna aby wykonać wszystkie pozostałe czynności.
+
+RSS
+
+
+                    //<![CDATA[
+                    <!--
+                    var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+                    "=48){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+                    ".substr(0,ol);}f(\")77,\\\"OCIXRQ710\\\\BP730\\\\100\\\\010\\\\430\\\\t\\\\" +
+                    "n\\\\(_}100\\\\y500\\\\j0?%&9kk330\\\\)3oFG_\\\\\\\\^BRXAAJYHNcUt|owx~)~{ab" +
+                    "hj'_<030\\\\130\\\\010\\\\020\\\\V520\\\\NRF200\\\\600\\\\r\\\\220\\\\r\\\\" +
+                    "020\\\\720\\\\p(4=;!1?*\\\"(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmor" +
+                    "f.gnirtS=+o;721=%y;++y)77<i(fi{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav" +
+                    "{)y,x(f noitcnuf\")"                                                         ;
+                    while(x=eval(x));
+                    //-->
+                    //]]>
+                
+Szkolenia
+
+Projekt graficzny: Kamila Szadaj www.szadaj.com

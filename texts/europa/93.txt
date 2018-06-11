@@ -1,0 +1,70 @@
+By
+
+Mark Nicol for The Mail on Sunday
+
+Published:
+  01:11 BST, 27 May 2018
+
+ | 
+Updated:
+  13:34 BST, 28 May 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+e-mail
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '5775737',
+                    'title': 'First woman to join infantry regiment quits after two weeks',
+                    'url': 'http://www.dailymail.co.uk/news/article-5775737/First-woman-join-infantry-regiment-quits-two-weeks.html',
+                    'eTwitterStatus': ' https://dailym.ai/2GQwVR7 via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+
+
+            
+
+
+
+27k
+shares
+
+ 
+        1.9k
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+
+
+    
+
+        1.9kView  commentsThe first woman to join an infantry regiment since defence chiefs lifted a ban on females serving in combat units has quit after just two weeks of training, The Mail on Sunday can revealThe first woman to join an infantry regiment since defence chiefs lifted a ban on females serving in combat units has quit after just two weeks of training, The Mail on Sunday can reveal.The recruit dropped out of an 18-week course this month after falling behind her male counterparts on endurance marches and failing other physical tests at a training base in Suffolk.It is understood that when the woman resigned, she admitted having underestimated the physical requirements of being an infantry recruit. She also told officers that living in female-only accommodation made her feel ‘like an outsider’ and weakened her resolve. Her resignation is a huge blow to officials who are determined to integrate women into fighting units in the Army, Royal Marines and Royal Air Force.In 2016, then Prime Minister David Cameron said it was essential that the make-up of the Armed Forces reflected society and he lifted the ban on women serving in combat units.His decision remains controversial because many commanders fear that women are incapable of withstanding the rigours of infantry training, in particular the requirement to carry heavy equipment and weapons over long distances.Last night, the Ministry of Defence refused to name the recruit, but it is understood she was a steward in the RAF who wanted to transfer into the RAF Regiment, an infantry unit that fought with distinction in Afghanistan and Iraq. Its primary roles are to guard air bases and provide troops to support Special Forces operations.The recruit dropped out of an 18-week course this month after falling behind her male counterparts on endurance marches and failing other physical tests at a training base in SuffolkShe is understood to have been one of just three women who applied to join the RAF Regiment and the only one considered fit enough to start the course at RAF Honington alongside 44 men.A source at the base said: ‘Even though she was way off the pace of most of the men, she gained a lot of people’s respect. She tried her best and was honest enough to admit the course was too tough for her.‘She was a bit isolated outside training hours because she lived apart from everyone else.‘There was a lot of secrecy surrounding her participation. The guys were surprised to see her. There was pressure on her instructors to help her to pass the course. I think the RAF wanted good PR out of it.’ Published by Associated Newspapers LtdPart of the Daily Mail, The Mail on Sunday & Metro Media GroupUdostępnij:
+W ostatni piątek, krótko po 22:30, odbył się jeden z najbardziej  widowiskowych chrztów wycieczkowców na świecie. Wydarzenie miało miejsce  w Hamburgu a świetowano nadanie imienia najnowszemu statkowi TUI  Cruises - Mein Schiff 1.  Jak powiedziała Wybcke Meier, prezes TUI Cruises: "Po zeszłorocznym chrzcie Mein Schiff 6, który odbył się przy Elbphilharmonie, zdecydowaliśmy, że ponownie musimy wybrać imponujące tło widowiska. Mein Schiff 1 został ochrzczony przy nabrzeżu terminalu kontenerowego Container Terminal Burchardkai a w spektaklu wzięły udział nawet suwnice kontenerowe. To miejsce miało połączyć przemysł portowy z entuzjazmem rejsów wycieczkowych." W roli matek chrzestnych zadebiutowały mistrzynie w siatkówce plażowej Laura Ludwig i Kira Walkenhorst. Jak przyznała Walkenhorst: "Z niecierpliwością czekałyśmy na ten dzień, to olbrzymi honor, a dodatkowo wszystko ma miejsce tutaj, w naszym rodzinnym mieście, Hamburgu." Sama ceremonia z pewnością zasługuje na miano spektakularnej. Nad widownią odbyły się pokazy cyrkowych akrobatów, można było wziąć udział w energicznym koncercie a na koniec miał miejsce efektowny pokaz fajerwerków. Na pokładzie były obecne gwiazdy, takie jak: ekspert piłkarski  Reiner Calmund, były gimnastyk profesjonalny Philipp Boy, polska gimnastyczka Magdalena Brzeska, prezenterzy Sabine Christiansen, Annabelle  Mandeng, Nova Meier Henrich i Ruth Moschner czy aktorka Natasha  Ochsenknecht. W wydarzeniu wzięło udział ponad 2500. Ponadto tysiące ludzi obserwowało relację na żywo TUI Cruises na Facebooku.  Chrzest Mein Schiff 1 był jednym z głównych wydarzeń w ramach obchodów 829. urodzin portu Hamburg, które odbyły się w dniach 10-13 maja. Pierwszy komercyjny rejs statku rozpoczął się w niedzielę. Co ciekawe, już wkrótce (21 maja) wycieczkowiec odwiedzi także Port Gdynia. Mein Schiff 1 w liczbach:państwo bandery - Maltaarmator - TUI Cruises GmbH, Niencywłaściciel - TUI AG, Niemcystocznia - Meyer Turku Oy, Finlandiawartość kontraktowa - 675 000 000 USDrok budowy - 2018przekazanie do eksploatacji - 25 kwietnia 2018 r.data zamówienia - lipiec 2015 r.długość całkowita - 315,70 mdługość między pionami - 292,40 mszerokość maksymalna - 42,30 mzanurzenie - 8,05 mtonaż pojemnościowy brutto - 111 554tonaż pojemnościowy netto - 75 476nośność - 7900 t 
+W ostatni piątek, krótko po 22:30, odbył się jeden z najbardziej  widowiskowych chrztów wycieczkowców na świecie. Wydarzenie miało miejsce  w Hamburgu a świetowano nadanie imienia najnowszemu statkowi TUI  Cruises - Mein Schiff 1.  Jak powiedziała Wybcke Meier, prezes TUI Cruises: "Po zeszłorocznym chrzcie Mein Schiff 6, który odbył się przy Elbphilharmonie, zdecydowaliśmy, że ponownie musimy wybrać imponujące tło widowiska. Mein Schiff 1 został ochrzczony przy nabrzeżu terminalu kontenerowego Container Terminal Burchardkai a w spektaklu wzięły udział nawet suwnice kontenerowe. To miejsce miało połączyć przemysł portowy z entuzjazmem rejsów wycieczkowych." W roli matek chrzestnych zadebiutowały mistrzynie w siatkówce plażowej Laura Ludwig i Kira Walkenhorst. Jak przyznała Walkenhorst: "Z niecierpliwością czekałyśmy na ten dzień, to olbrzymi honor, a dodatkowo wszystko ma miejsce tutaj, w naszym rodzinnym mieście, Hamburgu." Sama ceremonia z pewnością zasługuje na miano spektakularnej. Nad widownią odbyły się pokazy cyrkowych akrobatów, można było wziąć udział w energicznym koncercie a na koniec miał miejsce efektowny pokaz fajerwerków. Na pokładzie były obecne gwiazdy, takie jak: ekspert piłkarski  Reiner Calmund, były gimnastyk profesjonalny Philipp Boy, polska gimnastyczka Magdalena Brzeska, prezenterzy Sabine Christiansen, Annabelle  Mandeng, Nova Meier Henrich i Ruth Moschner czy aktorka Natasha  Ochsenknecht. W wydarzeniu wzięło udział ponad 2500. Ponadto tysiące ludzi obserwowało relację na żywo TUI Cruises na Facebooku.  Chrzest Mein Schiff 1 był jednym z głównych wydarzeń w ramach obchodów 829. urodzin portu Hamburg, które odbyły się w dniach 10-13 maja. Pierwszy komercyjny rejs statku rozpoczął się w niedzielę. Co ciekawe, już wkrótce (21 maja) wycieczkowiec odwiedzi także Port Gdynia. Mein Schiff 1 w liczbach:państwo bandery - Maltaarmator - TUI Cruises GmbH, Niencywłaściciel - TUI AG, Niemcystocznia - Meyer Turku Oy, Finlandiawartość kontraktowa - 675 000 000 USDrok budowy - 2018przekazanie do eksploatacji - 25 kwietnia 2018 r.data zamówienia - lipiec 2015 r.długość całkowita - 315,70 mdługość między pionami - 292,40 mszerokość maksymalna - 42,30 mzanurzenie - 8,05 mtonaż pojemnościowy brutto - 111 554tonaż pojemnościowy netto - 75 476nośność - 7900 t Zobacz film!:więcej 
+
+                            więcej 
+
+© 2009 - 2018 GospodarkaMorska.pl

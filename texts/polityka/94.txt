@@ -1,0 +1,64 @@
+By
+
+Jessica Green For Mailonline
+
+Published:
+  20:59 BST, 15 April 2018
+
+ | 
+Updated:
+  01:41 BST, 16 April 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+e-mail
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '5618719',
+                    'title': 'Terrifying moment a machete-wielding thug attacks man in vicious brawl',
+                    'url': 'http://www.dailymail.co.uk/news/article-5618719/Terrifying-moment-machete-wielding-thug-attacks-man-vicious-brawl.html',
+                    'eTwitterStatus': ' https://dailym.ai/2GZKezv via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+
+
+            
+
+
+
+1.4k
+shares
+
+ 
+         212
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+
+
+    
+
+         212View  commentsThis is the terrifying moment a thug wields a machete and tries to hit a man round the head with it during a horrific street attack.The violent brawl occurred just yards from Villa Park, home to Aston Villa Football Club, in Birmingham.Mobile phone footage captured the knifeman as he launched a series of blows towards a group of men.One of the men from the increasing crowd squares up to the machete-wielding thug before he is pulled to the ground after being repeatedly hit on his head with the knife.The brutal broad daylight attack can be seen spilling out onto a busy city road on Saturday afternoon, report the Birmingham Mail. West Midlands Police confirmed that they received a number of calls to the incident.However no arrests have been made and no injuries were reported.A spokeswoman said: ‘We received reports of a group of boys fighting on Bevington Road, at around 6pm on Saturday.‘When officers arrived no-one remained at the scene. There were no arrests and no reports of any injuries. Witnesses reported a machete had been seen.‘Anyone with information or video footage is urged to call police on 101, quoting log number 2090 of April 14.'Published by Associated Newspapers LtdPart of the Daily Mail, The Mail on Sunday & Metro Media Group

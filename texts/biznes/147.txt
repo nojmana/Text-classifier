@@ -1,0 +1,45 @@
+
+<!--//<![CDATA[
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        
+        
+            });
+
+    var m3_u = (location.protocol=='https:'?'https://r-trojmiasto.pl/www/delivery/ajs.php':'https://r-trojmiasto.pl/www/delivery/ajs.php');
+    var m3_r = Math.floor(Math.random()*99999999999);
+    if (!document.MAX_used) document.MAX_used = ',';
+    document.write ("<scr"+"ipt type='text/javascript' s" + "rc='"+m3_u);
+    document.write ("?zoneid=142");
+    document.write ('&amp;block=1');
+    document.write ('&amp;cb=' + m3_r);
+        document.write ('&amp;mobile=0');
+    document.write ('&amp;tablet=0');
+    document.write ('&amp;device_os=');
+        if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+    document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+    document.write ("&amp;loc=" + escape(window.location));
+    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+    if (document.context) document.write ("&context=" + escape(document.context));
+    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+    document.write ("'><\/scr"+"ipt>");
+    //]]>-->
+19 stycznia 2018, godz. 08:00 (71 opinii) autor: Robert Kiewlicz Zakład osiemdziesięcioletniej Krystyny Skoczek jest związany z dzielnicą od 45 lat. Znają go nie tylko mieszkańcy Oliwy, ale cieszył się renomą i za granicą. fot. Łukasz Unterschuetz/Trojmiasto.plMagiel prowadzi od 45 lat. Cały czas w tym samym miejscu, malutkim domku  w Oliwie. Po tylu latach zakład Krystyny Skoczek to już nie tyle firma usługowa, to lokalna instytucja, którą odwiedzają kolejne pokolenia klientów. Nie tylko po to, aby odebrać wymaglowaną pościel czy obrusy. Czasami aby jedynie posiedzieć, poradzić się czy porozmawiać. - Nigdy po to, aby plotkować. Bo choć powiedzenie o plotkarach w maglu istnieje, to na pewno nie odnosi się do mojego zakładu - podkreśla pani Krystyna. Od lat magiel funkcjonuje w tym samym małym budynku, w którym przed wojną sprzedawano ryby. fot. Łukasz Unterschuetz/Trojmiasto.pl
+rzemiosło (14 artykułów) »
+Portal trojmiasto.pl nie ponosi odpowiedzialności za treść opinii.
+Partnerzy Nieruchomości Sp z o.o.
+
+Bricoman
+
+Hotel Sedan
+
+Na inwestycjach zagranicznych korzystają także lokalne małe i średnie przedsiębiorstwa. Dla nich...
+
+Partnerzy Nieruchomości Sp z o.o.
+
+Bricoman
+
+Hotel Sedan
+
+Prezes zarządu i właściciel Grupy Trefl, w skład której wchodzą spółki zajmujące się produkcją i dystrybucją puzzli, kart, gier planszowych, zabawek i mediami oraz trzy spółki sportowe. W latach...
+© Copyright 1998-2018 Gdańsk, Gdynia, Sopot - Portal Regionalny trojmiasto.pl

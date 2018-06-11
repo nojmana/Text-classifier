@@ -1,0 +1,46 @@
+Już wkrótce w Stanach Zjednoczonych rozpoczną się pierwsze testy kliniczne szczepionki przeciwko HIV, która okazała się skuteczna podczas badań na myszach, świnkach morskich i małpach. To może być przełom w walce z wirusem HIV. 
+
+Zdjęcie
+
+
+
+
+Już wkrótce powstanie szczepionka przeciwko HIV?
+/123RF/PICSEL
+
+
+Naukowcy z National Institute of Allergy and Infectious Diseases (NIAID) rozpoczną testy na ludziach w 2019 r. Szczepionka jest o tyle innowacyjna, że celuje w białko powierzchniowe HIV, które jest niezbędne do mechanicznego procesu wykorzystywanego przez wirusa do wchłonięcia do wnętrza komórek gospodarza. Peptyd fuzyjny HIV-1 został zidentyfikowany jako potencjalny cel szczepionki w 2016 r., kiedy przeanalizowano przeciwciała walczące z HIV w ciele pacjenta, który żył z wirusem przez wiele lat.Układ odpornościowy pacjenta wytworzył linię szczególnie skutecznych "przeciwciał neutralizującym o szerokim działaniu", których epitop - miejsce wiązania na wirusie - stanowił końcówkę peptydu fuzyjnego HIV-1. Po dokładniejszych badaniach, zespół kierowany przez Johna Mascolę i Petera Kwonga zauważył, że epitop nosi wszystkie kluczowe cechy niezbędne do stworzenia skutecznej szczepionki - pozostaje spójny w wielu szczepach szybko rozwijającego się wirusa i nie jest zasłaniany przez komórki odpornościowe przez dodawanie cząsteczek cukru, takich jak niektóre wirusowe białka powierzchniowe.Laboratorium Kwonga i Mascoli opracowało białko, które pobudzałoby układ odpornościowy biorcy do tworzenia dużej liczby przeciwciał neutralizujących o szerokim zakresie, specyficznych dla epitopu peptydu fuzyjnego HIV-1. Naukowcy opracowali i przetestowali różne formuły 8-aminokwasowego biała, które jest związane z cząsteczką wzmacniającą reakcję odpornościową. Gdy najlepszy z kandydatów na szczepionkę podano myszom, układ odpornościowy zwierząt wytworzył przeciwciała, które z powodzeniem przyłączały się do białka fuzyjnego i neutralizowały 31 proc. wirusów z 208 szczepów HIV zebranych z całego świata. Eksperymenty powtórzono na świnkach morskich i makakach, co udawadnia, że szczepionka działa u wielu gatunków. Być może także u ludzi. 
+
+Wideo
+
+var xlink501765eb=document.createElement("script");xlink501765eb.setAttribute("type","application/javascript"),xlink501765eb.setAttribute("class","XlinkEmbedScript"),xlink501765eb.setAttribute("data-url","//get.x-link.pl/d8d573f7-1271-debf-56e1-a5e3d8c05690,9c19c69e-03cb-ca35-e6fd-fb4f15caacbf,embed.html"),xlink501765eb.setAttribute("data-width","575"),xlink501765eb.setAttribute("data-height","350"),xlink501765eb.setAttribute("src","//js.iplsc.com/inpl.xnews/1.0.1/xlink-i.js"),xlink501765eb.setAttribute("async",!0),xlink501765eb.onload=function(){var a=document.createElement("script");a.src="//js.iplsc.com/inpl.resize-xnews/1.0.0/inpl.resize-xnews.js",document.getElementsByTagName("head")[0].appendChild(a)};document.getElementsByClassName('xlink501765eb')[0].appendChild(xlink501765eb); 
+
+
+
+Mamy coraz więcej pacjentów "wielochorobowych"
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Naukowcy z National Institute of Allergy and Infectious Diseases (NIAID) rozpoczną testy na ludziach w 2019 r. Szczepionka jest o tyle innowacyjna, że celuje w białko powierzchniowe HIV, które jest niezbędne do mechanicznego procesu wykorzystywanego przez wirusa do wchłonięcia do wnętrza komórek gospodarza. Peptyd fuzyjny HIV-1 został zidentyfikowany jako potencjalny cel szczepionki w 2016 r., kiedy przeanalizowano przeciwciała walczące z HIV w ciele pacjenta, który żył z wirusem przez wiele lat.Układ odpornościowy pacjenta wytworzył linię szczególnie skutecznych "przeciwciał neutralizującym o szerokim działaniu", których epitop - miejsce wiązania na wirusie - stanowił końcówkę peptydu fuzyjnego HIV-1. Po dokładniejszych badaniach, zespół kierowany przez Johna Mascolę i Petera Kwonga zauważył, że epitop nosi wszystkie kluczowe cechy niezbędne do stworzenia skutecznej szczepionki - pozostaje spójny w wielu szczepach szybko rozwijającego się wirusa i nie jest zasłaniany przez komórki odpornościowe przez dodawanie cząsteczek cukru, takich jak niektóre wirusowe białka powierzchniowe.Laboratorium Kwonga i Mascoli opracowało białko, które pobudzałoby układ odpornościowy biorcy do tworzenia dużej liczby przeciwciał neutralizujących o szerokim zakresie, specyficznych dla epitopu peptydu fuzyjnego HIV-1. Naukowcy opracowali i przetestowali różne formuły 8-aminokwasowego biała, które jest związane z cząsteczką wzmacniającą reakcję odpornościową. Gdy najlepszy z kandydatów na szczepionkę podano myszom, układ odpornościowy zwierząt wytworzył przeciwciała, które z powodzeniem przyłączały się do białka fuzyjnego i neutralizowały 31 proc. wirusów z 208 szczepów HIV zebranych z całego świata. Eksperymenty powtórzono na świnkach morskich i makakach, co udawadnia, że szczepionka działa u wielu gatunków. Być może także u ludzi. Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

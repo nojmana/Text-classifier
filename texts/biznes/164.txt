@@ -1,0 +1,67 @@
+
+fot. Nadesłane
+
+(d-ka)
+
+
+          Data dodania:          
+            18.10.2016, 08:19
+          
+
+
+            Ostatnia aktualizacja:            
+              18.10.2016, 15:08
+            
+
+Klientów Lidla czekała w weekend osobliwa niespodzianka.  W kiściach bananów znajdowały się ulotki, zwracające uwagę na problem nieuczciwych praktyk handlowych stosowanych przez tą sieć. Na jednej z nich mogli przeczytać, że "W Ekwadorze z roku na rok wzrasta liczba dzieci, które rodzą się z poważnymi niepełnosprawnościami w wyniku wzrastającego użycia pestycydów na plantacjach".    
+         PPAds.queue.push(function () {         var slot = PPAds.app.getSlot('srodek1');                            slot.appendResolution(300, 250);                                         });             Ceny masła znów idą na rekord!         Płaca minimalna znów wzrośnie. Wiemy ile więcej zaproponuje rząd!        10 czerwca ważne zmiany w rozkładzie PKP. Musisz je znać!    
+       var csRekomendacje = new ListaContentStream({         selector: {           boks: '.recomendations',           reklamy: '.recomendations li.cs'         },         szablon: '<a href="#href" title="#title">' +         '<figure class="image-box" >' +         '<img src="#src" alt="#title">' +         '</figure>' +         '<div class="title-cs">' +         '<h3 class="title">#title</h3>' +         '#add' +         '</div>' +         '</a>',         szablonReklama: '<span class="mark">sponsorowane</span>',         ile: 1       });     
+          {           'onsuccessFunctionName' : 'csRekomendacje.emisjaSukces',           'onerrorFunctionName' : 'csRekomendacje.emisjaBlad'         }        
+Lidl: "Dajemy klientom 20 zł". Biedronka podbija: "25 zł". Odwet Lidla: "30 zł". Ale walka!
+Ulotki zostawili aktywiści, którzy domagając się płacenia uczciwych cen i respektowania praw człowieka oraz praw pracowniczych przez Lidl, skrzyknęli się na portalach społecznościowych i zorganizowali akcje w Krakowie, Warszawie i Rzeszowie. 
+O problemach związanych ze sprzedawanymi w Lidlu owocami egzotycznymi zrobiło sie głośno kilka miesięcy temu, kiedy Fundacja Kupuj Odpowiedzialnie nawoływała klientów do podpisywania apelu do właścicieli sieci. Do tej pory list do Lidla wysłało prawie 70 tysięcy osób z całej Europy.
+"Lidl promuje się jako firma odpowiedzialna, ale nasi lokalni partnerzy donoszą o nieludzkich warunkach panujących na plantacjach, które zaopatrują Lidla w owoce" - twierdzi Maria Huma z Fundacji Kupuj Odpowiedzialnie.
+Lidl przesłał Strefie Biznesu swoje stanowisko w tej sprawie: "Jako firma odpowiedzialna społecznie Lidl Polska obliguje wszystkich swoich dostawców do podpisania przyjętego przez nas kodeksu etycznego będącego integralną częścią każdej umowy. Zgodnie z postanowieniami w nim zawartymi wszyscy nasi dostawcy zobowiązują się do zachowania najwyższych standardów etycznych w swoich działaniach, w tym przestrzegania przepisów ustawowych, zakazu pracy dzieci, zakazu pracy przymusowej, zapewnienie godnych warunków wynagrodzenia, zakazu dyskryminacji, zasad bezpieczeństwa i higieny w miejscu pracy oraz przepisów dotyczących ochrony środowiska.  Firma Lidl jest liderem w swojej branży w zakresie gwarantowanych wysokich standardów pracy. Etyczne podejście do pracowników jest podstawą naszego działania dlatego też oczekujemy, że firmy dostarczające produkty do naszej sieci będą kierowały się takimi samymi zasadami w swoim postępowaniu.  Czujemy się odpowiedzialni za otoczenie, w którym funkcjonujemy dlatego też m. in dokładamy starań, aby wiele z naszych produktów wyróżnionych zostało certyfikatami świadczącymi o wysokich standardach społecznych oraz ochronie środowiska naturalnego takimi jak: EU ORGANIC BIO LOGO, Rainforest Alliance, UTZ oraz MSC. Każdego dnia oferujemy naszym klientom gamę produktów posiadającą te oznaczenia dla przykładu są to EU ORGANIC BIO LOGO np. banany, jabłka, marchew, produkty mleczne marki Biotrend, Rainforest Alliance np. wszystkie ananasy dostępne w sklepach naszej sieci czy też czekolada z migdałami marki Bellarom, certyfikat UTZ - wiele produktów marek  własnych Lidl zawierających kakao lub masę kakaową np. czekolady Fin Carre, oraz MSC - sezonowo w naszej ofercie dostępne są liczne produkty rybne z tym certyfikatem. Warto podkreślić, że aktywnie wspieramy wzrost świadomości ekologicznej wśród konsumentów. Przekazujemy informacje dotyczące znaczenia proekologicznych certyfikatów oraz dobrych praktyk w zakresie ekologii m.in. prowadziliśmy kampanię edukacyjną tłumaczącą znaczenie certyfikacji UTZ na Facebooku oraz na stronie www.lidl.pl, a także w gazetkach reklamowych. Jesteśmy świadomi, że praca w zakresie zrównoważonego rozwoju jest procesem długofalowym co obliguje nas do ciągłej pracy w tych obszarach". 
+Lidl: "Dajemy klientom 20 zł". Biedronka podbija: "25 zł". Odwet Lidla: "30 zł". Ale walka!Ulotki zostawili aktywiści, którzy domagając się płacenia uczciwych cen i respektowania praw człowieka oraz praw pracowniczych przez Lidl, skrzyknęli się na portalach społecznościowych i zorganizowali akcje w Krakowie, Warszawie i Rzeszowie. O problemach związanych ze sprzedawanymi w Lidlu owocami egzotycznymi zrobiło sie głośno kilka miesięcy temu, kiedy Fundacja Kupuj Odpowiedzialnie nawoływała klientów do podpisywania apelu do właścicieli sieci. Do tej pory list do Lidla wysłało prawie 70 tysięcy osób z całej Europy."Lidl promuje się jako firma odpowiedzialna, ale nasi lokalni partnerzy donoszą o nieludzkich warunkach panujących na plantacjach, które zaopatrują Lidla w owoce" - twierdzi Maria Huma z Fundacji Kupuj Odpowiedzialnie.Lidl przesłał Strefie Biznesu swoje stanowisko w tej sprawie: "Jako firma odpowiedzialna społecznie Lidl Polska obliguje wszystkich swoich dostawców do podpisania przyjętego przez nas kodeksu etycznego będącego integralną częścią każdej umowy. Zgodnie z postanowieniami w nim zawartymi wszyscy nasi dostawcy zobowiązują się do zachowania najwyższych standardów etycznych w swoich działaniach, w tym przestrzegania przepisów ustawowych, zakazu pracy dzieci, zakazu pracy przymusowej, zapewnienie godnych warunków wynagrodzenia, zakazu dyskryminacji, zasad bezpieczeństwa i higieny w miejscu pracy oraz przepisów dotyczących ochrony środowiska.  Firma Lidl jest liderem w swojej branży w zakresie gwarantowanych wysokich standardów pracy. Etyczne podejście do pracowników jest podstawą naszego działania dlatego też oczekujemy, że firmy dostarczające produkty do naszej sieci będą kierowały się takimi samymi zasadami w swoim postępowaniu.  Czujemy się odpowiedzialni za otoczenie, w którym funkcjonujemy dlatego też m. in dokładamy starań, aby wiele z naszych produktów wyróżnionych zostało certyfikatami świadczącymi o wysokich standardach społecznych oraz ochronie środowiska naturalnego takimi jak: EU ORGANIC BIO LOGO, Rainforest Alliance, UTZ oraz MSC. Każdego dnia oferujemy naszym klientom gamę produktów posiadającą te oznaczenia dla przykładu są to EU ORGANIC BIO LOGO np. banany, jabłka, marchew, produkty mleczne marki Biotrend, Rainforest Alliance np. wszystkie ananasy dostępne w sklepach naszej sieci czy też czekolada z migdałami marki Bellarom, certyfikat UTZ - wiele produktów marek  własnych Lidl zawierających kakao lub masę kakaową np. czekolady Fin Carre, oraz MSC - sezonowo w naszej ofercie dostępne są liczne produkty rybne z tym certyfikatem. Warto podkreślić, że aktywnie wspieramy wzrost świadomości ekologicznej wśród konsumentów. Przekazujemy informacje dotyczące znaczenia proekologicznych certyfikatów oraz dobrych praktyk w zakresie ekologii m.in. prowadziliśmy kampanię edukacyjną tłumaczącą znaczenie certyfikacji UTZ na Facebooku oraz na stronie www.lidl.pl, a także w gazetkach reklamowych. Jesteśmy świadomi, że praca w zakresie zrównoważonego rozwoju jest procesem długofalowym co obliguje nas do ciągłej pracy w tych obszarach". Rozpowszechnianie niniejszego artykułu możliwe jest tylko i wyłącznie
+                  zgodnie z postanowieniami „Regulaminu
+                  korzystania z artykułów prasowych” i po wcześniejszym uiszczeniu należności, zgodnie
+                  z cennikiem.
+                
+AAAAAA 
+19 października, 09:56
+
+
+  
+Ktosik 
+18 października, 21:02
+
+
+                      Czytam te posty i stwierdzam, że piszący to chyba gimbaza, nie mająca pojęcia o sytuacji na rynku! 1. U szwaba nie kupuję? Toć większość produktów to polskie produkty w tym te pierwszej potrzeby to prawie wszystkie! 2. Banany są drogie? To ile powinny kosztować jabłka, które w tym roku [...]                       
+Mad 
+18 października, 18:32
+
+
+                      W Irlandii Lidl lub Aldi w porównaniu z lokalnymi sklepami są jak Biedronka w Polsce, najtańsze produkty i artykuły spożywcze są do kupienia własnie w tych dwóch sklepach. Niestety tylko w Polsce mają tak kosmiczne ceny.                       
+Damianek1958 
+18 października, 17:15
+
+
+                      Moje zdanie takie,że największe lenie zawsze najwięcej chcą za darmo-patrz pośrednicy.                        
+benek 
+18 października, 16:32
+
+
+                      banany są drogie i mało ludzi teraz je kupuje...problem nie leży w tym że mają być droższe bo już są drogie,problem cały leży w pośrednikach i tym którzy płacą grosze pracownikom wciskając im kit że jest za tanio i baronom bananowym mało płacą                        Debiut gry Space Pioneer w sklepie Apple App Store to pierwsza z trzech zapowiedzianych na ten rok premier bydgoskiej firmy Vivid Games.
+Polacy tłumnie ruszyli po obligacje skarbowe, które pozwalają wygrać nawet 10 tys. złotych. Papiery premiowe to nowy sposób Państwa żeby nakłonić Polaków do zakupu papierów dłużnych. Jeśli komuś uda się wylosować premię, to w praktyce oprocentowanie jego obligacji zamiast 1,5% może wzrosnąć do ponad 13%, 120%, 1200%, czy nawet bajońskich 12000% w skali roku – wynika z wyliczeń Open Finance.Urząd Ochrony Konkurencji i Konsumentów otrzymuje wiele skarg i zapytań w sprawie Profi Credit Polska. Z informacji od konsumentów wynika, że pożyczkodawca pobierał opłaty przewyższające pożyczoną kwotę oraz bez wiedzy konsumentów wypłacał kolejne pożyczki.  
+        tel.: (52) 32-63-186
+agnieszka.domka@pomorska.pl
+
+                      tel.: 52 32 63 281
+dzial.reklamy@pomorska.pl
+Gazeta Pomorska jest częścią:
+
+Polska Press Sp. z o.o.
+            informuje, że wszystkie treści ukazujące się w serwisie Gazeta Pomorska podlegają ochronie.
+      Dowiedz się więcej.
+      Jesteś zainteresowany kupnem treści? Dowiedz się więcej.
+    © 2000 - 2018 Polska Press Sp. z o.o.

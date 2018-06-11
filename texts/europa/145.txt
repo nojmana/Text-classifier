@@ -1,0 +1,51 @@
+126Premier Węgier Viktor Orban zapowiedział, że jesienią rozpoczną się prace nad dużymi zmianami w konstytucji. Mówił o tym w wywiadzie dla Radia Kossuth. 
+
+Zdjęcie
+
+
+
+
+Viktor Orban
+/Attila Kisbenedek /AFP
+
+
+Szef rządu oznajmił, że prace nad nowelizacją ustawy zasadniczej mogą się rozpocząć we wrześniu i potrwać półtora roku.
+
+Wideo
+
+var xlink251ec34a=document.createElement("script");xlink251ec34a.setAttribute("type","application/javascript"),xlink251ec34a.setAttribute("class","XlinkEmbedScript"),xlink251ec34a.setAttribute("data-url","//get.x-link.pl/277ac718-f18b-e782-028a-1d6f405bbac6,6157f54c-949b-c8f3-a55a-22c89861308f,embed.html"),xlink251ec34a.setAttribute("data-width","575"),xlink251ec34a.setAttribute("data-height","350"),xlink251ec34a.setAttribute("src","//js.iplsc.com/inpl.xnews/1.0.1/xlink-i.js"),xlink251ec34a.setAttribute("async",!0),xlink251ec34a.onload=function(){var a=document.createElement("script");a.src="//js.iplsc.com/inpl.resize-xnews/1.0.0/inpl.resize-xnews.js",document.getElementsByTagName("head")[0].appendChild(a)};document.getElementsByClassName('xlink251ec34a')[0].appendChild(xlink251ec34a); 
+
+
+
+"Prawa strona Sejmu jest czerwona ze wstydu". Parlament przegłosował nowy podatek paliwowy
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Szef rządu oznajmił, że prace nad nowelizacją ustawy zasadniczej mogą się rozpocząć we wrześniu i potrwać półtora roku.FaktyEuroSportFaktywww.rmf24.plwww.rmf24.plFaktywww.rmf24.plFaktyFaktyŚwiat serialiwww.rmf24.plmenwayEuroSportEuroSportFaktywww.rmf24.pl
+                                                                            Produkcja reklam i spotów reklamowych!                                                                    
+                                                                            Porady związane z finansami i prawem                                                                    
+                                                                            Poznaj świat motoryzacji                                                                    
+                                                                            Przepisy na makowiec                                                                    
+                                                                            Szukasz tanich noclegów w Krakowie?                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

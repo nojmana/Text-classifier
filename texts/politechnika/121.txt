@@ -1,0 +1,49 @@
+Przyklejone wpisyblog 2 lata temu
+  Zapowiadany trzy miesiące temu koniec właśnie nastąpił. Pozostawiam jeszcze na jakiś czas
+  możliwość zalogowania się do panelu administracyjnego i wyeksportowania wpisów.
+
+  Powiem wam że zrobiło mi się bardzo, bardzo smutno i łza się w oku kręci, ale ta chwila musiała
+  kiedyś nastąpić. [*]
+
+  Pozdrawiam wszystkich, którzy to jeszcze czytają. Może kiedyś jak będziemy już dziadkami i
+  babciami przypomni nam się, że kiedyś było coś takiego jak jogger.pl z mnóstwem wspaniałych
+  ludzi! Trzymajcie się!
+
+  Robert "Sparrow" Wróbel
+
+  PS. Proszę o kontakt w sprawie
+  przekierowania subdomen .jogger.pl na własne domeny
+31 komentarzydeetah 2 lata temu
+  Po wczorajszym wpisie otrzymałem kontakt od szczecińskiego lvlup.pro i dzięki ich pomocy udało mi
+  się szybko postawić jogger2wordpress.pl. Dziękuję także Dandysowi za bite trzy godziny betatestów serwisu :)
+
+  Niniejszym ogłaszam wszem i wobec, że strona https://jogger2wordpress.pl dostępna jest dla wszystkich. Aby z
+  niej skorzystać, należy pobrać eksport swojego Joggera, po czym podać na jogger2wordpress.pl
+  adres swojego Wordpressowego bloga (z końcówką /xmlrpc.php), login i hasło do niego (po
+  zakończeniu importu można je bez problemu zmienić), a także wyeksportowany plik. Proces może
+  trwać dużo czasu, więc dobrze uzbroić się w cierpliwość ;)
+
+  Dla zainteresowanych, kod backendu i frontendu dostępne są tutaj: https://github.com/d33tah/joggerpl-tools/tree/master/wordpress-import
+74 komentarzeblog 2 lata temu
+  Dziś mija dokładnie 13 lat od kiedy Jogger.pl po raz pierwszy pojawił się w internecie. Wtedy
+  jeszcze na znalezionym w sieci skrypcie, surowy, w klimacie wczesnego internetu. Niestety jest to
+  również dzień, w którym musimy się również pożegnać.
+
+  Jogger.pl miał swoje lepsze oraz gorsze lata. W pewnym okresie było to miejsce, w którym
+  przewinęło się mnóstwo interesujących ludzi. Wymienialiśmy się pomysłami, dyskutowaliśmy na
+  trudne tematy i tworzyliśmy zrębki wczesnego polskiego internetu. Niestety nic co dobre nie trwa
+  wiecznie, co zauważyli już wielokrotnie ludzie, którzy przenieśli się z Joggera na inne
+  platformy.
+
+  Jak zapewne wszyscy już zauważyliście, serwis od dłuższego czasu jest w stanie umierającym. Kod
+  źródłowy nie jest już w żaden sposób aktualizowany ani modyfikowany, a jakiś czas temu przestała
+  również działać ReCaptcha. Niestety żaden z nas nie może już poświęcić więcej czasu i energii na
+  dalszy rozwój tego serwisu. Ze względu na dużą ilość danych prywatnych i osobistych, nie jesteśmy
+  również gotowi na sprzedanie serwisu lub oddanie go komuś do dalszego prowadzenia.
+
+  Serwis zostanie ostatecznie wyłączony na początku kwietnia. Pamiętajcie, żeby wyeksportować swoje
+  dane, inaczej nie będziemy odpowiadać za to, żeby pozostały dostępne.
+
+  Dziękujemy wam za wspólne lata.
+  Robert "Sparrow" Wróbel i Michał "D4rky" Matyas
+211 komentarzyLogowanieNota: Musisz mieć założone i skonfigurowane konto na Jogger.pl aby użyć OpenID.Na górę

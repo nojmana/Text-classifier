@@ -1,0 +1,20 @@
+Kierowcy w Kalifornii już wkrótce mogą otrzymać nowe, całkiem cyfrowe tablice rejestracyjne. Pierwsze testy odbędą się w stolicy słonecznego stanu, Sacramento.  
+
+Zdjęcie
+
+
+
+
+Cyfrowe tablice rejestracyjne
+/YouTube
+
+
+Nowoczesne tablice na pierwszy rzut oka wyglądają niemal identycznie jak dobrze nam znane metalowe odpowiedniki. Główną różnicę stanowi w nich cyfrowy wyświetlacz działający na podobnej zasadzie co ekrany montowane w czytnikach e-booków. 
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            } W plastikowej obudowie zawarto niewielką baterię oraz komputer wraz z modułem łączności bezprzewodowej. Dzięki temu na urządzeniu poza numerem rejestracyjnym pojazdu można wyświetlać także krótkie komunikaty i wiadomości przesyłane bezpośrednio przez kierowcę pojazdu lub właściciela floty. 
+  Poza funkcją komunikacji, tablice posiadają także swój własny lokalizator, który automatycznie poinformuje policję lub właściciela o ich położeniu. Może to mocno ułatwić odnalezienie pojazdu w przypadku jego skradzenia.
+  Sacramento będzie pierwszym miastem, które otrzyma okazje do przetestowania nowych tablic w ruchu codziennym. Jeśli rozwiązanie zostanie ciepło przyjęte przez mieszkańców, być może niebawem trafi na ulice innych miast. Nowoczesne tablice na pierwszy rzut oka wyglądają niemal identycznie jak dobrze nam znane metalowe odpowiedniki. Główną różnicę stanowi w nich cyfrowy wyświetlacz działający na podobnej zasadzie co ekrany montowane w czytnikach e-booków.  W plastikowej obudowie zawarto niewielką baterię oraz komputer wraz z modułem łączności bezprzewodowej. Dzięki temu na urządzeniu poza numerem rejestracyjnym pojazdu można wyświetlać także krótkie komunikaty i wiadomości przesyłane bezpośrednio przez kierowcę pojazdu lub właściciela floty.   Poza funkcją komunikacji, tablice posiadają także swój własny lokalizator, który automatycznie poinformuje policję lub właściciela o ich położeniu. Może to mocno ułatwić odnalezienie pojazdu w przypadku jego skradzenia.  Sacramento będzie pierwszym miastem, które otrzyma okazje do przetestowania nowych tablic w ruchu codziennym. Jeśli rozwiązanie zostanie ciepło przyjęte przez mieszkańców, być może niebawem trafi na ulice innych miast.Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

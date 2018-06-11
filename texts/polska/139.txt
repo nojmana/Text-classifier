@@ -1,0 +1,82 @@
+Zarzut usiłowania zabójstwa 3-letniego Maksymiliana postawiła w czwartek Prokuratura Okręgowa w Przemyślu ojcu chłopca. Mężczyźnie grozi kara dożywotniego więzienia. 
+
+Zdjęcie
+
+
+
+
+Film wygląda dramatycznie...
+/ 
+
+
+
+
+
+
+
+
+
+
+
+ Przerażające. Z dzieckiem na ręku wchodził przed samochody
+ 
+ 
+
+
+ Z dotychczasowych ustaleń wynika, że mężczyzna chciał popełnić tzw. samobójstwo rozszerzone, czyli zabić siebie i dziecko.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }    Jak poinformowała PAP zastępca prokuratura okręgowego w Przemyślu Beata Starzecka-Skrzypiec, 36-letni Rafał B. dwukrotnie z dzieckiem na rękach wychodził na jezdnię pod jadące samochody. Za pierwszym razem jadące auto zdołało wyhamować, za drugim razem mężczyznę z dzieckiem potrącił autobus (tak naprawdę mężczyzna wchodził przynajmniej trzy razy, na nagraniu  widać, że najpierw manewr omijania udał się samochodowi dostawczemu,  potem wyhamowała osobówka z kamerą - przyp. red.).. Obaj trafili do szpitala.
+    Chłopczyk ma złamaną nogę, pękniętą czaszkę i stłuczenia na całym ciele. Nadal przebywa w szpitalu.
+    Podejrzany Rafał B. także przebywa w szpitalu. Został wybudzony ze śpiączki. Lekarze zezwolili prokuratorowi na jego przesłuchanie.
+    Prokurator przedstawił mu w czwartek zarzut usiłowania pozbawienia życia małoletniego dziecka.
+    B. usłyszał też zarzut zmuszania przemocą i groźbą swojego ojca do tego, aby zawiózł jego i Maksymiliana samochodem we wskazane przez siebie miejsce. Mężczyzna w trakcie jazdy samochodem miał wyciągnąć nóż i zmusić swojego ojca, by ten zawiózł go do Skołoszowa. Jak wyjawiła prokurator, starszy mężczyzna wykorzystując chwilę nieuwagi swojego syna, gdy ten zajął się płaczącym dzieckiem, uciekł z samochodu.
+    "Rafał B. nie ustosunkował się do treści zarzutów, nie oświadczył, czy się przyznaje, czy nie, skorzystał z prawa do odmowy wyjaśnień i odmówił podpisania protokołu i postanowienia o przedstawieniu zarzutów" - podała prok. Starzecka-Skrzypiec.
+    Rafał B. został formalnie zatrzymany; w szpitalu przebywa pod dozorem policji. Prokuratura w piątek skieruje do sądu wniosek o jego aresztowanie na trzy miesiące.
+    Prokurator zapowiedziała, że na późniejszym etapie śledztwa mężczyzna zostanie poddany badaniom sądowo-psychiatrycznym.
+    Ponadto wobec mężczyzny toczy się też postępowanie dotyczące znęcania się nad konkubiną i dziećmi. Prok. Starzecka-Skrzypiec dodała, że to postępowanie zostanie połączone ze śledztwem dotyczącym usiłowania zabójstwa.
+    Rafałowi B. grozi kara nie mniejsza niż 8 lat pozbawienia wolności, 25 lat lub dożywocie. Prokuratura podejmie też czynności ukierunkowane na zmianę zarządzenia opiekuńczego wobec dzieci.
+    Do potrącenia przez autobus ojca z dzieckiem na rękach doszło w poniedziałek rano na drodze krajowej nr 77 w miejscowości Skołoszów.
+    Jak informowała wówczas policja, idący prawym poboczem drogi w kierunku Radymna mężczyzna niosąc na rękach 3-letniego syna, wszedł na jezdnię i został potrącony przez autobus.
+ W wyniku zdarzenia 36-letni mieszkaniec Przemyśla i chłopiec z obrażeniami ciała trafili do szpitala. Kierowca autobusu oraz pasażerowie nie odnieśli obrażeń. Kierujący autobusem był trzeźwy. 
+
+Wideo
+
+ 
+
+
+
+Próba rozszerzonego samobójstwa
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+  Z dotychczasowych ustaleń wynika, że mężczyzna chciał popełnić tzw. samobójstwo rozszerzone, czyli zabić siebie i dziecko.    Jak poinformowała PAP zastępca prokuratura okręgowego w Przemyślu Beata Starzecka-Skrzypiec, 36-letni Rafał B. dwukrotnie z dzieckiem na rękach wychodził na jezdnię pod jadące samochody. Za pierwszym razem jadące auto zdołało wyhamować, za drugim razem mężczyznę z dzieckiem potrącił autobus (tak naprawdę mężczyzna wchodził przynajmniej trzy razy, na nagraniu  widać, że najpierw manewr omijania udał się samochodowi dostawczemu,  potem wyhamowała osobówka z kamerą - przyp. red.).. Obaj trafili do szpitala.    Chłopczyk ma złamaną nogę, pękniętą czaszkę i stłuczenia na całym ciele. Nadal przebywa w szpitalu.    Podejrzany Rafał B. także przebywa w szpitalu. Został wybudzony ze śpiączki. Lekarze zezwolili prokuratorowi na jego przesłuchanie.    Prokurator przedstawił mu w czwartek zarzut usiłowania pozbawienia życia małoletniego dziecka.    B. usłyszał też zarzut zmuszania przemocą i groźbą swojego ojca do tego, aby zawiózł jego i Maksymiliana samochodem we wskazane przez siebie miejsce. Mężczyzna w trakcie jazdy samochodem miał wyciągnąć nóż i zmusić swojego ojca, by ten zawiózł go do Skołoszowa. Jak wyjawiła prokurator, starszy mężczyzna wykorzystując chwilę nieuwagi swojego syna, gdy ten zajął się płaczącym dzieckiem, uciekł z samochodu.    "Rafał B. nie ustosunkował się do treści zarzutów, nie oświadczył, czy się przyznaje, czy nie, skorzystał z prawa do odmowy wyjaśnień i odmówił podpisania protokołu i postanowienia o przedstawieniu zarzutów" - podała prok. Starzecka-Skrzypiec.    Rafał B. został formalnie zatrzymany; w szpitalu przebywa pod dozorem policji. Prokuratura w piątek skieruje do sądu wniosek o jego aresztowanie na trzy miesiące.    Prokurator zapowiedziała, że na późniejszym etapie śledztwa mężczyzna zostanie poddany badaniom sądowo-psychiatrycznym.    Ponadto wobec mężczyzny toczy się też postępowanie dotyczące znęcania się nad konkubiną i dziećmi. Prok. Starzecka-Skrzypiec dodała, że to postępowanie zostanie połączone ze śledztwem dotyczącym usiłowania zabójstwa.    Rafałowi B. grozi kara nie mniejsza niż 8 lat pozbawienia wolności, 25 lat lub dożywocie. Prokuratura podejmie też czynności ukierunkowane na zmianę zarządzenia opiekuńczego wobec dzieci.    Do potrącenia przez autobus ojca z dzieckiem na rękach doszło w poniedziałek rano na drodze krajowej nr 77 w miejscowości Skołoszów.    Jak informowała wówczas policja, idący prawym poboczem drogi w kierunku Radymna mężczyzna niosąc na rękach 3-letniego syna, wszedł na jezdnię i został potrącony przez autobus. W wyniku zdarzenia 36-letni mieszkaniec Przemyśla i chłopiec z obrażeniami ciała trafili do szpitala. Kierowca autobusu oraz pasażerowie nie odnieśli obrażeń. Kierujący autobusem był trzeźwy. Kobietawww.rmf24.plKobietapomponik.plwww.rmf24.plEuroSportwww.rmf24.plŚwiat serialiMotoryzacjaEuroSportMotoryzacjastylEuroSportKobietaFilmFilm
+                                                                            Nie daj się zaskoczyć pogodzie! U nas sprawdzić kiedy ubrać kalosze, a kiedy będziesz potrzebować...                                                                    
+                                                                            Chcesz poznać najnowsze promocje i wyprzedaże sieci handlowych? Sprawdź je na Okazjum.pl.                                                                    
+                                                                            Jedna z najpiękniejszych muzycznych aranżacji na Boże Narodzenie.                                                                    
+                                                                            Dowiedz się jak dbać o zdrowie dziecka                                                                    
+                                                                            Inspiracje dla kobiet                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

@@ -1,0 +1,81 @@
+By
+
+Rod Ardehali For Mailonline
+
+Published:
+  08:51 BST, 1 June 2018
+
+ | 
+Updated:
+  16:04 BST, 1 June 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+e-mail
+
+
+
+
+
+          var twitterVia = 'MailOnline';
+          DM.later('bundle', function(){
+            DM.has('shareLinkTop', 'shareLinks', {
+                    'id': '5794357',
+                    'title': 'Road rage cyclist armed with a huge \'zombie knife\' attacks motorist',
+                    'url': 'http://www.dailymail.co.uk/news/article-5794357/Terrifying-moment-cyclist-armed-huge-zombie-knife-tries-smash-motorists-window.html',
+                    'eTwitterStatus': ' https://dailym.ai/2xzqfra via @' + twitterVia,
+                    'articleChannelFollowButton': 'MailOnline',
+                    'isChannel': false,
+                    'hideEmail': true,
+                    'placement': 'top',
+                    'anchor': 'tl'});
+          });
+
+
+            
+
+
+
+55k
+shares
+
+ 
+        2.6k
+View  comments
+
+
+        DM.later('bundle', function(){
+            DMS.Article.init('top');
+        });
+
+
+    
+
+        2.6kView  commentsA cyclist wielding a huge 'zombie' knife tried to smash a motorist's window during a terrifying rush hour road rage attack in front of stunned London commuters.Dashcam footage captures the horrifying moment the young man sprinted after a Volkswagen Polo on a busy high street in Croydon, before trying to break through the driver's side window in a frenzied assault.The Volkswagen almost hits the cyclist while trying to pull out into traffic which appears to start the confrontation. Dashcam footage captures the horrifying moment the young man sprinted after a Volkswagen Polo on a busy high street in Croydon before trying to break through the driver's side window in a frenzied attackApparently enraged at the near miss, the cyclist jumps off his bike and gives chase as the panicked driver, 19, careers into another car, bringing him to a halt.The man then pulls out a blade appearing to be more than 10 inches long typically used for survival or hunting purposes.He then throws at least ten blows at both passenger and driver windows while kicking the back doors and trying to get into the rear.A crowd of commuters watch on in horror as the violent thug continues his brazen attack while the driver cowers  inside, the car seemingly unable to reverse.The Volkswagen almost hits the cyclist while trying to pull out which appears to start the confrontation. Apparently enraged at the near miss, the cyclist jumps off his bike and gives chase as the panicked driver careers into another car, bringing him to a haltIn a brazen lack of the man then pulls out a blade appearing to be more than 10 inches long typically used for survival or hunting purposes. He then throws at least ten blows at both passenger and driver windows while kicking the back doors and trying to get into the rearEventually the attacker breaks in via the passenger door and the driver flees from his side door, sprinting up the street.In the meantime two other boys sprint to the scene, though there is no suggestion they knew either of the two.The chilling attack comes amid a knife crime epidemic in London that has so far claimed 43 lives this year. A crowd of commuters watch on in horror as the violent thug continues his brazen attack while the driver cowers inside, the car seemingly unable to reverseEventually the attacker breaks in via the passenger door and the driver flees from his side, sprinting up the streetThe chilling attack comes amid a knife crime epidemic in London that has so far claimed 43 lives this yearA Met Police spokeswoman said: 'Police were called on Wednesday, 30 May at around 17:00 hours to reports of males smashing a car window in London Road, Croydon. 'Officers attended and established that the driver of the car was approached by a male in possession of a knife who smashed his window. 'The victim, a 19-year-old man in an attempt to escape collided with another vehicle, exiting on foot. He was followed by the suspect. 'The victim later returned to his car after the suspect made off. No reported injuries. Enquiries continue.' Published by Associated Newspapers LtdPart of the Daily Mail, The Mail on Sunday & Metro Media GroupREKLAMAAngela Merkelźródło: ShutterStockKanclerz Niemiec Angela Merkel oświadczyła w środę, że Europejczycy mimo wycofania się USA będą respektować postanowienia umowy nuklearnej z Iranem i "zrobią wszystko", by Teheran pozostał w układzie.REKLAMA"Będziemy respektować umowę i zrobimy wszystko, by Iran trzymał się swoich zobowiązań" zawartych w porozumieniu nuklearnym - powiedziała niemiecka kanclerz.We wtorek prezydent USA Donald Trump ogłosił, że USA wycofują się z tego międzynarodowego porozumienia zawartego w 2015 r. między Teheranem a sześcioma mocarstwami (USA, Francją, Wielką Brytanią, Chinami, Rosją i Niemcami). W reakcji duchowo-polityczny przywódca Iranu ajatollah Ali Chamenei zażądał od Europejczyków gwarancji co do przyszłości umowy.Kanclerz Merkel oświadczyła, że umowa z Iranem nie powinna być kwestionowana, ale należy odbyć rozmowy na temat porozumienia szerszego niż obowiązujący obecnie układ.Dodała, że decyzję Trumpa przyjęła ze smutkiem i zaniepokojeniem, podkreślając, że Iran wypełnia postanowienia umowy.Z kolei szef niemieckiego MSZ Heiko Maas zauważył w środę, że Trump po wycofaniu się z obecnego porozumienia nie zaoferował alternatywy, by powstrzymać Iran od produkcji broni atomowej. "Jest całkowicie niejasne, co mają na myśli USA, mówiąc o alternatywie dla porozumienia" - powiedział.Również on podkreślił, że "porozumienie działa". Minister spraw zagranicznych Niemiec dodał, że w interesie Iranu nie leży utrata okazji stworzonych przez układ nuklearny."Będziemy również musieli przeanalizować konsekwencje, jakie pociągnie za sobą dla europejskich firm wycofanie się Iranu oraz zastanowić się, jak możemy w Europie wspólnie na nie zareagować" - dodał.Jednocześnie agencja AP podaje, że zdaniem niemieckiej Izby Przemysłu i Handlu decyzja Trumpa może znacząco zaszkodzić niemieckiej gospodarce. Jej szef Eric Schweitzer ocenił w środę, że "jednostronne działania amerykańskiego rządu budzą znaczne wątpliwości w niemieckim biznesie" ze względu na sankcje, jakimi niemieckie firmy mogą zostać objęte ze strony USA.Ogłaszając swoją decyzję, prezydent Trump mówił we wtorek, że porozumienie nuklearne z Iranem "było w swej istocie nieudane". Oświadczył, że "potężne sankcje" wobec Iranu natychmiast wchodzą w życie.Ta zawarta w lipcu 2015 roku umowa miała na celu ograniczenie programu nuklearnego tego kraju w zamian za stopniowe znoszenie sankcji. Wyjście USA z tego układu było jedną ze sztandarowych obietnic Trumpa przed wyborami prezydenckimi w 2016 roku.W ostatnich tygodniach przedstawiciele władz Wielkiej Brytanii, Francji i Niemiec starali się odwieść prezydenta USA od realizacji tego planu.>>> Czytaj też: Francja: układ z Iranem "nie upadł". Londyn, Berlin i Paryż będą broniły umowy Jajko(2018-05-09 15:12)
+Zgłoś naruszenie
+98Mutti Merkel boi się że sankcje wpłyną negatywnie na Europejską gospodarkę.Sam Airbas ma zamówienie na 120 samolotów pasażerskich (akcjonariat przedsiębiorstwa jest niemiecko-francuski, kontrakt wart 22mld).Niemcy zaangażowały się w projekty infrastrukturalne w Iranie ,w tym budowę metra.Teheran nie chętnie spogląda na towary -made im USA ,uważając je za wytwór szata.na,za to Rosyjskie i Europejskie (Niemieckie ,Francuskie)są pożądane.Sankcje doprowadzą do wzrostu cen surowców,waluty już drożeją.Polski program- Go Iran też dostanie w tyłe,k.Niemcy pod pretekstem pokojowych rozwiązań dyplomatycznych dbają o swoją gospodarkę. prawda(2018-05-09 16:23)
+Zgłoś naruszenie
+75Merkel jest mądra i pragmatyczna w odróżnieniu od co niektórych. Podczas ostatniego kryzysu obniżyła podatki , by obywatel niemiecki nie rezygnował z konsumpcji a gospodarka nie hamowała. Jedynym jej błędem było przyjęcie zbyt dużej ilości emigrantów. Soundtrack(2018-05-10 08:59)
+Zgłoś naruszenie
+01Jako polityk zawsze jest świadoma realiów i zagrożeń. Dobrze że potrafi przewidywać i szybko ocenić sytuację.
+Na pewno wie jakie gospodarcze skutki niesie każde słowo.Twój komentarz został dodany.
+Aby go zobaczyć przejdź do strony z najnowszymi komentarzami.
+Błąd podczas dodawania komentarza - nie zostały uzupełnione wszystkie wymagane pola.Dodawanie komentarzy z Twojego adresu IP zostało zablokowane.Zanim dodasz komentarz - zapoznaj się z zasadami komentowania artykułów.
+Widzisz naruszenie regulaminu?
+Zgłoś je!Copyright INFOR BIZNES SP. z o.o.RSS |
+Reklama |
+Kariera |
+Ochrona prywatności |
+Regulamin |
+Komunikaty |
+Kontakt

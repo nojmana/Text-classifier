@@ -1,5 +1,8 @@
+import glob
+import os
+
 import numpy as np
-from nltk import word_tokenize
+from nltk import word_tokenize, re
 from gensim.models import Word2Vec
 
 
@@ -10,57 +13,63 @@ def readTags():
     return tags
 
 
-def postsToAveEmbeddings(post, embeddings):
+def postsToAveEmbeddings(post, embeddings, stopwords):
     post = post.lower()
     mean_vec = [0 for _ in range(100)]
-    wordTokenized = word_tokenize(post) # wszystkie slowa z calego dokumentu
+    wordTokenized = word_tokenize(post)  # wszystkie slowa z calego dokumentu
+    wordTokenizedLength = 0
     for token in wordTokenized:
+        if token in stopwords:
+            continue
+        wordTokenizedLength += 1
         if token in embeddings:
             mean_vec += embeddings[token]
-    mean_vec /= len(wordTokenized) # zawiera vector policzony tylko dla jednego dokumentu
+    mean_vec /= len(wordTokenized)  # zawiera vector policzony tylko dla jednego dokumentu
 
     return mean_vec
 
 
 def main():
-
+    from nltk.corpus import stopwords
+    stopwords = set(stopwords.words('polish'))
+    stopwords.update(['zgłoś', 'naruszenie', 'wczytuję', 'działam'])
+    for i in range(100):
+        stopwords.update(np.arange(0, 100))
     np.random.seed(0)
     fNames = readTags()
     numberLabels = {}
     for i in range(len(fNames)):
         numberLabels[fNames[i]] = i
-    extension = '.txt'
 
-    learnSet = open("learnset.csv", 'w')
-    testSet = open("testset.csv", 'w')
+    dataSet = open("dataSet.csv", 'w')
     model = Word2Vec.load('embeddings.bin')
 
     for name in fNames:
         print('creating data set for tag:', name)
-        with open('texts_cleaned/' + name + extension) as f:
-            postVecs = []
-            for line in f:
-                postVecs.append(postsToAveEmbeddings(line, model))
+        ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+        allArticlesForTag = glob.glob(ROOT_DIR + '/texts/' + name + '/*.txt')
+        for article in allArticlesForTag:
+            with open(article) as f:
+                text = ''
+                for line in f:
+                    if len(line) > 200:
+                        text += line
+                postVecs = []
+                if len(text) > 0:
+                    if len(text) > 2000:
+                        texts = re.split('\s{4,}', text)
+                        for i in texts:
+                            if len(i) > 50:
+                                postVecs.append(postsToAveEmbeddings(i, model, stopwords))
+                    else:
+                        postVecs.append(postsToAveEmbeddings(text, model, stopwords))
 
-            trainIndices = np.random.rand(
-                len(postVecs)) < 0.7  # wylosuj 70% wierszy, które znajdą się w zbiorze treningowym
-            train = [postVecs[i] for i in range(len(postVecs)) if
-                     trainIndices[i] == 1]  # wybierz zbior treningowy (70%)
-            test = [postVecs[i] for i in range(len(postVecs)) if
-                    trainIndices[i] == 0]  # wybierz zbiór testowy (dopełnienie treningowego - 30%)
-
-            for v in train:
+            for v in postVecs:
                 for x in v:
-                    learnSet.write(str(x) + ',')
-                learnSet.write(str(numberLabels[name]) + '\n')
+                    dataSet.write(str(x) + ',')
+                dataSet.write(str(numberLabels[name]) + '\n')
 
-            for v in test:
-                for x in v:
-                    testSet.write(str(x) + ',')
-                testSet.write(str(numberLabels[name]) + '\n')
-
-    learnSet.close()
-    testSet.close()
+    dataSet.close()
 
 
 if __name__ == '__main__':

@@ -1,0 +1,63 @@
+1873Victor Orban zaapelował o rewizję polityki NATO wobec Kijowa. – Na Ukrainie zrodził się niebezpieczny poziom niestabilności, zagrażający sąsiadom – ocenia węgierski premier i wnioskuje o przeanalizowanie pomocy niesionej Kijowowi. 
+
+Zdjęcie
+
+
+
+
+Premier Węgier Viktor Orban
+/Attila Kisbenedek /AFP
+
+
+Sekretarz Generalny Sojuszu Północnoatlantyckiego Jens Stoltenberg otrzymał z Budapesztu formalną notę w sprawie polityki NATO wobec Ukrainy. Dokument nosi tytuł "Memorandum: Inicjatywa mająca na celu ustalenie nowej polityki NATO wobec Ukrainy" i trafił do rządów państw będących członkami Sojuszu.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }  Nota zawiera ostrą ocenę działań ukraińskich władz, z winy których "reformy na Ukrainie upadły". Konkluzja - należy zaprzestać pomocy dla Ukrainy, bowiem środki przekazywane Kijowowi są co najmniej marnotrawione.
+  "Rząd ukraiński osłabił się do takiego poziomu, że obecnie nie jest w stanie wypełniać podstawowych obowiązków, w tym ochrony praworządności czy wdrażania skutecznej kontroli ekonomicznej, socjalnej i politycznej" - czytamy w węgierskiej nocie. W efekcie Ukraina "nie jest w stanie spełnić swoich zobowiązań wobec różnych organizacji międzynarodowych".
+  "Memorandum" wskazuje również, że Kijów - pomimo "bezprecedensowej, niespotykanej wcześniej pomocy finansowej i politycznego wsparcia" - nie jest w stanie osiągnąć spodziewanego sukcesu.
+  Najmocniejszy zarzut ze strony Budapesztu to jednak stwierdzenie, że Ukraina "jest niebezpieczna dla sąsiadów". "W celu zapewnienia stabilności w regionie na wschodniej flance Sojuszu, NATO powinno dostosować politykę wobec Ukrainy do nowych okoliczności" - czytamy.
+  Skąd tak nagły atak Budapesztu na Kijów? Więcej światła na sprawę rzuca ten fragment noty: "Brak reform, połączony z ustawicznymi atakami na prawa mniejszości (...) skutkują niebezpiecznym poziomem niestabilności (...). Kijów kroczy drogę, która prowadzi do naruszenia istniejących praw mniejszości". Przypomnijmy, że relacje węgiersko-ukraińskie są napięte z powodu polityki Kijowa wobec mniejszości węgierskiej zamieszkującej ukraińskie Zakarpacie. Ukraiński parlament uchwalił ustawę, która znacząco ogranicza możliwość nauki języków przez mniejszości narodowe. Dodatkowo, na Zakarpaciu doszło do kilku antywęgierskich incydentów. Tymczasem Orban prowadzi aktywną politykę wspierania węgierskiej diaspory w państwach sąsiednich. 
+Czy powyższy dokument jest próbą wywarcia nacisku na Kijów? Polityka Węgier wobec Ukrainy różni się na przykład od tej prowadzonej przez Polskę. O ile Warszawa uznaje Kijów za ważny element hamowania wpływów Rosji na wschodzie Europy, to Budapeszt w tej kwestii ma zupełnie odmienne spojrzenie. Zwłaszcza, że Victor Orban nie traktuje Władimira Putina jako przeciwnika. Wręcz odwrotnie. Stawia to Polskę - najbliższego współpracownika Węgier w ramach Unii Europejskiej - w kłopotliwej sytuacji.
+ArWr
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Stoltenberg: NATO popiera i będzie popierać Ukrainę
+AFP
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2349033-6653917');
+                var $embed = jQuery('#player2349033-6653917').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ Sekretarz Generalny Sojuszu Północnoatlantyckiego Jens Stoltenberg otrzymał z Budapesztu formalną notę w sprawie polityki NATO wobec Ukrainy. Dokument nosi tytuł "Memorandum: Inicjatywa mająca na celu ustalenie nowej polityki NATO wobec Ukrainy" i trafił do rządów państw będących członkami Sojuszu.  Nota zawiera ostrą ocenę działań ukraińskich władz, z winy których "reformy na Ukrainie upadły". Konkluzja - należy zaprzestać pomocy dla Ukrainy, bowiem środki przekazywane Kijowowi są co najmniej marnotrawione.  "Rząd ukraiński osłabił się do takiego poziomu, że obecnie nie jest w stanie wypełniać podstawowych obowiązków, w tym ochrony praworządności czy wdrażania skutecznej kontroli ekonomicznej, socjalnej i politycznej" - czytamy w węgierskiej nocie. W efekcie Ukraina "nie jest w stanie spełnić swoich zobowiązań wobec różnych organizacji międzynarodowych".  "Memorandum" wskazuje również, że Kijów - pomimo "bezprecedensowej, niespotykanej wcześniej pomocy finansowej i politycznego wsparcia" - nie jest w stanie osiągnąć spodziewanego sukcesu.  Najmocniejszy zarzut ze strony Budapesztu to jednak stwierdzenie, że Ukraina "jest niebezpieczna dla sąsiadów". "W celu zapewnienia stabilności w regionie na wschodniej flance Sojuszu, NATO powinno dostosować politykę wobec Ukrainy do nowych okoliczności" - czytamy.  Skąd tak nagły atak Budapesztu na Kijów? Więcej światła na sprawę rzuca ten fragment noty: "Brak reform, połączony z ustawicznymi atakami na prawa mniejszości (...) skutkują niebezpiecznym poziomem niestabilności (...). Kijów kroczy drogę, która prowadzi do naruszenia istniejących praw mniejszości". Przypomnijmy, że relacje węgiersko-ukraińskie są napięte z powodu polityki Kijowa wobec mniejszości węgierskiej zamieszkującej ukraińskie Zakarpacie. Ukraiński parlament uchwalił ustawę, która znacząco ogranicza możliwość nauki języków przez mniejszości narodowe. Dodatkowo, na Zakarpaciu doszło do kilku antywęgierskich incydentów. Tymczasem Orban prowadzi aktywną politykę wspierania węgierskiej diaspory w państwach sąsiednich. Czy powyższy dokument jest próbą wywarcia nacisku na Kijów? Polityka Węgier wobec Ukrainy różni się na przykład od tej prowadzonej przez Polskę. O ile Warszawa uznaje Kijów za ważny element hamowania wpływów Rosji na wschodzie Europy, to Budapeszt w tej kwestii ma zupełnie odmienne spojrzenie. Zwłaszcza, że Victor Orban nie traktuje Władimira Putina jako przeciwnika. Wręcz odwrotnie. Stawia to Polskę - najbliższego współpracownika Węgier w ramach Unii Europejskiej - w kłopotliwej sytuacji.ArWrEuroSportFaktyEuroSportFaktywww.rmf24.plwww.rmf24.plFaktywww.rmf24.plFaktyFaktyŚwiat serialiwww.rmf24.plmenwayEuroSportEuroSportFakty
+                                                                            Ciekawe przepisy kulinarne                                                                    
+                                                                            Przepisy na karpia                                                                    
+                                                                            Najpiękniejsze książki dla dzieci.                                                                    
+                                                                            Oglądaj Świat przez czyste Okna                                                                    
+                                                                            Najlepsze stoły do ping-ponga tylko w Sport-shop                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

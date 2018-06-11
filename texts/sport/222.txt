@@ -1,0 +1,146 @@
+- To fatalna sytuacja dla wizerunku ligi - przyznał właściciel i prezes Legii Warszawa Dariusz Mioduski po wydarzeniach, jakie miały miejsce podczas meczu w Poznaniu. Spotkanie zostało przerwane przy stanie 2-0 dla gości, którzy zostali mistrzem Polski.
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Legia Warszawa. Dean Klafurić po meczu z Lechem Poznań (3-0). Wideo
+INTERIA.TV
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2521356-6943365');
+                var $embed = jQuery('#player2521356-6943365').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+W 77. minucie spotkania Lecha z Legią z trybuny zajmowanej przez najbardziej zagorzałych fanów "Kolejorza" na murawę poleciały race. Sędzia Daniel Stefański przerwał zawody, a piłkarze w pośpiechu opuścili murawę. Kibice Lecha po chwili zaczęli napierać na ogrodzenie i po chwili kilkudziesięciu z nich pojawiło się na boisku. Do akcji wkroczyło ok. 200 policjantów, którzy przegonili chuliganów z powrotem na sektor i opanowali sytuację.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }Atmosfera była jednak nadal napięta i wojewoda wielkopolski Zbigniew Hoffmann zadecydował o przerwaniu meczu. Jeszcze w niedzielę wieczorem Komisja Ligi Ekstraklasy ogłosiła walkower dla Legii, która tym samym została mistrzem Polski.
+Właściciel warszawskiego klubu przyznał, że te zamieszki to "fatalna sytuacja dla wizerunku ligi i całej piłki".
+"Zamiast mówić o tym, że jest fajny mecz na szczycie, to prawdopodobnie wszystkie telewizje będą pokazywały te wydarzenia. To nie służy nikomu. Poziom polskiej piłki moim zdaniem nie jest taki zły, jak wszyscy mówią. Wielu trenerów do nas przyjeżdżających mówi, że ciężko wygrać naszą ligę. My natomiast zamiast podnosić poziom produktu i poprawiać jego wizerunek go deprecjonujemy. A to przekłada się na trybuny. W ten sposób nigdy nie podniesiemy poziomu piłki klubowej w Polsce" - powiedział Mioduski.
+Odniósł się on również do zamieszania związanego z ceremonią dekoracji, która powinna odbyć się w Poznaniu po zakończeniu meczu. Lech nie był chętny do przeprowadzenia uroczystości na swoim stadionie i już w wcześniej zadecydowano, że legioniści w przypadku zdobycia tytułu odbiorą medale w poniedziałek w Warszawie.
+"Najlepiej to wyrazili nasi kibice, którzy przygotowali własne medale oraz puchar i wręczyli zawodnikom po meczu. Był to może trochę żart, ale pokazujący, że powinno być tak, jak jest wszędzie. Zespół wygrywający mistrzostwo, powinien dostać medale zaraz po zakończeniu meczu, a nie na drugi dzień" - skomentował.
+Szef warszawskiego klubu przyznał, że nie był spokojny przed spotkaniem, choć jego drużyna miała bardzo dobrą sytuację wyjściową.
+"Nigdy nie jestem spokojny. Jagiellonia pokazała, że potrafi wygrywać, a tu mogło być różnie. Chłopcy mieli może jeden słabszy moment w tym meczu, ale poza nim kontrolowali grę. Pokazaliśmy to, o czym wszyscy mówią, czyli, że mamy gen zwycięzcy. W trudnych chwilach potrafimy wygrywać" - ocenił.
+
+
+
+
+
+Przerwany mecz Lech Poznań - Legia Warszawa. Galeria
+
+
+
+
+
+
+
+
+
+1
+28
+
+
+                                    Przerwany mecz Lech Poznań - Legia Warszawa                                
+
+Autor zdjęcia:
+Jakub Kaczmarczyk
+Źródło:
+PAP
+
+
+
+
+
+
+
+   
+komentuj
+Zobacz zdjęcia
+
+
+
+28
+
+
+
+
+Jego zdaniem zakończony w niedzielę sezon był wyjątkowo trudny dla niego i dla klubu.
+"To był sezon rewolucji i zmian w każdym aspekcie funkcjonowania klubu. Te główne zmiany są już za nami, wiemy, w którym kierunku zmierzamy. To mistrzostwo było nam bardzo potrzebne, żeby zapewnić sobie spokój i móc działać zgodnie ze swoją wizją. Gdyby nie było tytułu, mielibyśmy znów wiele myślenia, czy trzeba coś zmieniać" - podkreślił.
+Pytany o losy szkoleniowca Deana Klafuricia, przyznał, że jest poważnym kandydatem do prowadzenia drużyny w kolejnym sezonie.
+"Trener Klafurić zrobił niesamowitą robotę. Nie tylko on, ale cały sztab. Usiądziemy w przyszłym tygodniu i będziemy rozmawiać. Na pewno jest poważnym kandydatem, by zostać szkoleniowcem na kolejny sezon. Myślę, że decyzje zapadną w ciągu dwóch tygodni" - zaznaczył Mioduski.
+Piłkarze Legii mogą liczyć na wysokie premie za mistrzostwo, Puchar Polski oraz odzyskają "zamrożone" tzw. wyjściówki. Łącznie kwota na zespół może wynieść ok. 6,5 mln złotych.
+Wyniki ostatniej kolejki i końcowa tabela grupy mistrzowskiej Ekstraklasy
+Wyniki ostatniej kolejki i końcowa tabela grupy spadkowej Ekstraklasy
+
+
+Zdjęcie
+
+
+
+
+Michał Pazdan, Dariusz Mioduski i Radosław Cierzniak
+/Jakub Kaczmarczyk /PAP
+
+
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Lech Poznań. Rzecznik "Kolejorza" po meczu z Legią Warszawa (0-3). Wideo
+INTERIA.TV
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2521357-7471133');
+                var $embed = jQuery('#player2521357-7471133').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ W 77. minucie spotkania Lecha z Legią z trybuny zajmowanej przez najbardziej zagorzałych fanów "Kolejorza" na murawę poleciały race. Sędzia Daniel Stefański przerwał zawody, a piłkarze w pośpiechu opuścili murawę. Kibice Lecha po chwili zaczęli napierać na ogrodzenie i po chwili kilkudziesięciu z nich pojawiło się na boisku. Do akcji wkroczyło ok. 200 policjantów, którzy przegonili chuliganów z powrotem na sektor i opanowali sytuację.Atmosfera była jednak nadal napięta i wojewoda wielkopolski Zbigniew Hoffmann zadecydował o przerwaniu meczu. Jeszcze w niedzielę wieczorem Komisja Ligi Ekstraklasy ogłosiła walkower dla Legii, która tym samym została mistrzem Polski.Właściciel warszawskiego klubu przyznał, że te zamieszki to "fatalna sytuacja dla wizerunku ligi i całej piłki"."Zamiast mówić o tym, że jest fajny mecz na szczycie, to prawdopodobnie wszystkie telewizje będą pokazywały te wydarzenia. To nie służy nikomu. Poziom polskiej piłki moim zdaniem nie jest taki zły, jak wszyscy mówią. Wielu trenerów do nas przyjeżdżających mówi, że ciężko wygrać naszą ligę. My natomiast zamiast podnosić poziom produktu i poprawiać jego wizerunek go deprecjonujemy. A to przekłada się na trybuny. W ten sposób nigdy nie podniesiemy poziomu piłki klubowej w Polsce" - powiedział Mioduski.Odniósł się on również do zamieszania związanego z ceremonią dekoracji, która powinna odbyć się w Poznaniu po zakończeniu meczu. Lech nie był chętny do przeprowadzenia uroczystości na swoim stadionie i już w wcześniej zadecydowano, że legioniści w przypadku zdobycia tytułu odbiorą medale w poniedziałek w Warszawie."Najlepiej to wyrazili nasi kibice, którzy przygotowali własne medale oraz puchar i wręczyli zawodnikom po meczu. Był to może trochę żart, ale pokazujący, że powinno być tak, jak jest wszędzie. Zespół wygrywający mistrzostwo, powinien dostać medale zaraz po zakończeniu meczu, a nie na drugi dzień" - skomentował.Szef warszawskiego klubu przyznał, że nie był spokojny przed spotkaniem, choć jego drużyna miała bardzo dobrą sytuację wyjściową."Nigdy nie jestem spokojny. Jagiellonia pokazała, że potrafi wygrywać, a tu mogło być różnie. Chłopcy mieli może jeden słabszy moment w tym meczu, ale poza nim kontrolowali grę. Pokazaliśmy to, o czym wszyscy mówią, czyli, że mamy gen zwycięzcy. W trudnych chwilach potrafimy wygrywać" - ocenił.Jego zdaniem zakończony w niedzielę sezon był wyjątkowo trudny dla niego i dla klubu."To był sezon rewolucji i zmian w każdym aspekcie funkcjonowania klubu. Te główne zmiany są już za nami, wiemy, w którym kierunku zmierzamy. To mistrzostwo było nam bardzo potrzebne, żeby zapewnić sobie spokój i móc działać zgodnie ze swoją wizją. Gdyby nie było tytułu, mielibyśmy znów wiele myślenia, czy trzeba coś zmieniać" - podkreślił.Pytany o losy szkoleniowca Deana Klafuricia, przyznał, że jest poważnym kandydatem do prowadzenia drużyny w kolejnym sezonie."Trener Klafurić zrobił niesamowitą robotę. Nie tylko on, ale cały sztab. Usiądziemy w przyszłym tygodniu i będziemy rozmawiać. Na pewno jest poważnym kandydatem, by zostać szkoleniowcem na kolejny sezon. Myślę, że decyzje zapadną w ciągu dwóch tygodni" - zaznaczył Mioduski.Piłkarze Legii mogą liczyć na wysokie premie za mistrzostwo, Puchar Polski oraz odzyskają "zamrożone" tzw. wyjściówki. Łącznie kwota na zespół może wynieść ok. 6,5 mln złotych.Wyniki ostatniej kolejki i końcowa tabela grupy mistrzowskiej EkstraklasyWyniki ostatniej kolejki i końcowa tabela grupy spadkowej EkstraklasyKobietawww.rmf24.plKobietapomponik.plwww.rmf24.plEuroSportwww.rmf24.plŚwiat serialiEuroSportstylEuroSportEuroSportKobietapomponik.plstylEuroSport
+                                                                            Szukasz interesujących ofert pracy? Zaglądnij!                                                                    
+                                                                            Prestiżowy turniej tenisa ziemnego - zobacz zdjęcia z Australian Open!                                                                    
+                                                                            Dowiedz się kiedy następuje zmiana czasu! Koniecznie przestaw zegarek.                                                                    
+                                                                            Smartwatche w sklepie swiss.com.pl                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

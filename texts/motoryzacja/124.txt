@@ -1,0 +1,33 @@
+Według unijnej komisarz do spraw rynku wewnętrznego i usług afera Dieselgate była punktem przełomowym dla początku końca silników Diesla.Podczas rozmowy z agencją Bloomberg Elżbieta Bieńkowska, unijna komisarz ds. rynku wewnętrznego i usług stwierdziła, że ujawnienie afery Dieselgate w 2015 roku było „przełomowym momentem” dla Unii Europejskiej, która już wcześniej stopniowo wprowadzała przepisy mające na celu obniżenie emisji spalin w pojazdach na terenie Wspólnoty. „To mocno wpłynęło na społeczne oczekiwania na temat kierunku zmian dotyczących emisji spalin i czystszych samochodów. Samochody z silnikami diesla są skończone. Za kilka lat całkowicie znikną. To technologia przeszłości” – uważa Bieńkowska.Komisarz UE wezwała w szczególności kraje Europy Środkowo-Wschodniej należące do Unii o szybsze wycofywanie pojazdów niespełniających standardów dotyczących emisji spalin. „Mamy takie państwa członkowskie jak Rumunia, Słowacja i Polska, gdzie wskaźnik wycofania jest bardzo niski. Nie chcemy, aby ta część Europy była pełna starych samochodów z silnikami wysokoprężnymi” – dodała Bieńkowska.Jak zapewnia, KE wspiera rozwój baterii do samochodów elektrycznych m.in. poprzez finansowanie badań koncernów motoryzacyjnych. „To rodzaj projektu, na który nie może sobie pozwolić jedno państwo członkowskie” – stwierdziła Bieńkowska.Przypomnijmy, że we wrześniu 2015 r. Volkswagen przyznał, że silniki nie spełniające norm emisji spalin oraz wyposażone w nielegalne oprogramowanie fałszujące pomiary (defeat device – urządzenie udaremniające) zamontowano w 11 milionach samochodów z silnikami Diesla sprzedanych na całym świecie. Oprogramowanie to w celach oszczędnościowych wyłączało system neutralizowania tlenków azotu podczas normalnej eksploatacji samochodu i włączało go po rozpoznaniu, że silnik poddawany jest testom.W wyniku afery producent zaoferował blisko 30 miliardów dolarów rekompensaty amerykańskim nabywcom. Europejscy klienci mieli otrzymać poprawkę oprogramowania samochodów. Do tej pory akcji serwisowej zostało poddanych 6,28 miliona samochodów (stan na 30 października 2017), czyli ok. 70 procent klientów w całej Europie.
+źródło: https://www.motofaktor.pl/50,2/AKTUALNOSCI/E-Bienkowska-to-juz-koniec-Diesli-,8923.html
+
+			#gallery-2 {
+				margin: auto;
+			}
+			#gallery-2 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-2 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-2 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+
+
+1 czerwca 2018
+Stowarzyszenie Osób Poszkodowanych
+przez Spółki Grupy Volkswagen AG
+ul. Bagatela 11/3, 00-585 Warszawa
+tel. +48 794 222 410 (pn.-pt. w godz. 9:00–17:00)
+KRS: 0000602320

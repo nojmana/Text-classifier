@@ -1,0 +1,202 @@
+Front page layoutSite themeSign up or login to join the discussions!
+Chris Lee
+    -  May 21, 2018 4:34 pm UTC
+It was bound to happen eventually. A group of researchers that may actually be competent and well-funded is investigating alternative thrust concepts. This includes our favorite, the WTF-thruster EM-drive, as well as something called a Mach-Effect thruster. The results, presented at Space Propulsion 2018, are pretty much as expected: a big fat meh.The key motivation behind all of this is that rocket technology largely sucks for getting people around the Solar System. And it sucks even worse as soon as you consider the problem of interstellar travel. The result is that good people spend a lot of time eliminating even the most far-fetched ideas. The EM-drive is a case in point. It's basically a truncated hollow copper cone that you feed electromagnetic radiation into. The radiation bounces around in the cone. And, by some physics-defying magic, unicorns materialize to push you through space.Well, that explanation is at least as plausible as any of the others. There is no physics explaining how this could work, but some people at NASA have claimed that it does.Up until now, the people behind these ideas have basically funded their work off scraps and haven't had a solid testing setup, so the experimental data was all over the place. There was absolutely no consistent relationship between thrust and power nor between different setups. The experiments had progressively eliminated possible sources of noise, but, as they did so, they introduced new sources of noise, or the amount of thrust kept falling off.The key problem seemed to be that the main proponents of crazy space thrusters may actually be pretty bad at doing experiments. All in all, I would have moved on, but others are more thorough than I am.A group of German scientists has now gotten a reasonable amount of money under the rubric of testing all the things. Basically, because the various space agencies have whispered that no idea is too silly to ignore, we need an effective way to quickly test all the stupid space stuff on the Internet. The Germans are currently building something that is designed to do all that testing. It is an awesome bit of equipment.First, everything is done in vacuum. And, not just the poor vacuum that you might get by attaching a Hoover to a leaky box—they can get down to a respectable billionth of atmospheric pressure. This is not world-class vacuum, but it is certainly overkill for testing the various WTF-thrusters.Inside the vacuum, the researchers use a torsion balance attached to a calibrated spring to measure thrust. They’ve got the whole thing automated, so they can level the balance, change the tension of the spring, run calibrations on the torsion bar (they have two methods of calibration), and do tests without ever opening the box. They can even rotate the thruster during the test. Being automated, they can repeat the same measurement under the same conditions multiple times and take the average. The current system is sensitive to around 10nN (nano-Newtons) of force.During tests, they also measure temperature and can, based on a model, compensate for temperature drifts that change the mass distribution on the balance. It gets better, though. Many of these thrusters rely on driving something at resonance (like pushing on a swing, you need to push at the right time). That's tricky, because the resonance frequency of most resonators changes with temperature. The researchers' setup automatically tracks the resonance frequency and adjusts the drive appropriately. This eliminates the possibility of identifying some transient response as “thrust” and then claiming that it is transient because the resonator and drive were no longer in tune.To prevent extra electromagnetic interference between the drive, power amplifier, and the rest of the electronics, they are shielded from each other. The last remaining factor that the researchers mention is the Earth’s magnetic field. Here, you need to use something called mu metal. A box made of mu metal will effectively create a region with only a tiny, tiny fraction of the Earth’s magnetic field inside. Unfortunately, the researchers did not have sufficient mu metal to shield all the cables and electronics. Installing more mu metal is a planned upgrade.Instead of getting ahold of someone else’s EM drive, or Mach-effect device, the researchers created their own, along with the driving electronics. Let’s start with the EM drive.The researchers used precision machining and polishing to obtain a microwave cavity that was much better than those previously published. If anything was going to work, this would be the one. The researchers built up a very nice driving circuit that was capable of supplying 50W of power to the cavity. However, the amplifier mountings still needed to be worked on. So, to keep thermal management problems under control, they limited themselves to a couple of Watts in the current tests.The researchers also inserted an enormous attenuator. This meant that they could, without physically changing the setup, switch on all the electronics and have the amplifiers working at full noise, and all the power would either go to the EM drive or be absorbed in the attenuator. That gives them much more freedom to determine if the thrust was coming from the drive or not.And the winner is… Physics, without much doubt. Even with a power of just a couple of Watts, the EM-drive generates thrust in the expected direction (e.g., the torsion bar twists in the right direction). If you reverse the direction of the thruster, the balance swings back the other way: the thrust is reversed. Unfortunately, the EM drive also generates the thrust when the thruster is directed so that it cannot produce a torque on the balance (e.g., the null test also produces thrust). And likewise, that “thrust” reverses when you reverse the direction of the thruster.The best part is that the results are the same when the attenuator is put into the circuit. In this case, there is basically no radiation in the microwave cavity, yet the WTF-thruster thrusts on.So, where does the force come from? The Earth’s magnetic field, most likely. The cables that carry the current to the microwave amplifier run along the arm of the torsion bar. Although the cable is shielded, it is not perfect (because the researchers did not have enough mu metal). The current in the cable experiences a force due to the Earth’s magnetic field that is precisely perpendicular to the torsion bar. And, depending on the orientation of the thruster, the direction of the current will reverse and the force will reverse. The researchers made some calculations, based on the location of the experiment and the amplifier current, and got a torque that agreed quite well with the measured torque.This is, of course, not the final word. But it is an excellent cautionary tale. The thrust that the researchers measured with just a couple of Watts of power was the same as that measured previously with 50W of power. And that was all due to a shielding problem. When the amplifiers are properly mounted and the shielding is in place, it will be even more difficult to detect the thrust, because the effects of noise will grow as well. I expect a flood of null results in the next year.I must admit that I treasured my ignorance of the Mach-effect thruster. And I will not pretend to give an explanation for how it works here. Essentially, the idea is that if a mass is vibrated vigorously, it interacts gravitationally with the entire Universe. You supposedly get thrust because, if you take a linear version of Einstein’s equations, this interaction leads to a time-averaged non-zero force on the mass. At least there is some math involved, so it is possible to argue about the physics and the reasonableness of the underlying assumptions.Again, the researchers built their own Mach-effect test unit. Essentially, it’s a stack of piezo-electric crystals that expand and contract in response to an applied electric field. The stack of crystals is attached to a brass mass that, according to the concept, is supposed to amplify the expected thrust. The electronics are an impressive pair of high-voltage, high-power amplifiers that operate at frequencies just beyond the range of audio amplifiers. The drive electronics are much better suited to testing the Mach-effect thruster than previous attempts. And, as with the EM-drive test, the drive frequency tracked the resonance frequency of the piezo stack.And the result? Well, a bit more promising, but still most likely noise. The main finding is that the thrust is in the right direction, and the null positions produce no thrust. The thrust, however, is about 100 times more than expected from the math. And manually flipping the thruster did not reverse the thrust as expected. This indicates that there is probably still some hidden bias in the experiment because the difference between rotating the orientation using the stepper motor and manually flipping the orientation is that the cabling flips in one case and not in the other.I know I tend to be flippant about these alternative thrusters. But frankly, physics is physics, and there are a lot of physicists working really hard to understand the Universe. I think we are now beyond the point where a couple of dudes with a copper cone and an amplifier can find a huge hole in the underpinnings of modern physics, and that makes me very suspicious of these claims. And, even though I respect the effort in testing them, I cannot help feeling that we might be able to apply a better filter to these ideas.I like the researchers' conclusions best, though: “At least, SpaceDrive [the name of the test setup] is an excellent educational project by developing highly demanding test setups, evaluating theoretical models and possible experimental errors. It’s a great learning experience with the possibility to find something that can drive space exploration into its next generation.” Yes, even something as utterly unphysical as the WTF-thruster is an excellent teaching tool.In honor of the 50th anniversary of the beginning of the Apollo Program, Ars Technica brings you an in depth look at the Apollo missions through the eyes of the participants.You must login or create an account to comment.Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.49-letnia kobieta z zaawansowaną postacią raka z przerzutami została całkowicie wyleczona dzięki nowej metodzie immunoterapii (zdjęcie ilustracyjne przedstawia radiologa analizującego wyniki mammografii, która jest jednym z podstawowych badań pozwalających wykryć raka piersi) (Fot. Piotr Skórnicki/AG)W magazynie Nature Medicine pojawiła się publikacja, w której opisano niezwykły przypadek Judy Perkins cierpiącej na zaawansowaną postać raka piersi (sutka). Choroba rozwinęła się u 52-latki do stanu, w którym lekarze nie dają pacjentom więcej niż kilka, kilkanaście tygodni życia. Co gorsza, organizm pacjentki nie reagował na chemioterapię ani inne sposoby leczenia.Mimo to specjalistom udało się doprowadzić do całkowitej remisji raka i kobieta już od ponad 22 miesięcy jest zdrowa. Jak to zrobili? Dzięki nowej metodzie immunoterapii. Sama immunoterapia polega na aktywacji układu odpornościowego pacjenta po to, by użył własnych mechanizmów obronnych do zwalczenia nowotworu, alergii lub innych chorób.W przypadku raka wciąż jest to stosunkowo nowy rodzaj terapii sam w sobie, który jednak szybko zyskuje na popularności ze względu na swoją skuteczność. Specjaliści, którzy zajęli się 52-latką, zdecydowali się na wykorzystanie jednej z metod immunoterapii. Wybrali tę, która bazuje na wszczepieniu do organizmu specjalnie zmutowanych komórek odpornościowych. Chodzi głównie o limfocyty T, które są najbardziej skuteczne w walce z nowotworami czy infekcjami. W przypadku raka układ odpornościowy zawodzi, bo organizm nie rozpoznaje komórek rakowych. Stąd limfocyty T trzeba odpowiednio "wytresować" albo dobrać te najlepsze tak, by je zauważały, atakowały i zwalczały.To właśnie zrobili eksperci, którzy doprowadzili do remisji raka u Judy. By tego dokonać, pobrali od niej wycinki guza, które posłużyły do dwóch celów:Następnie specjaliści w skomplikowanym procesie, który wymaga użycia "katalogu" konkretnych białek (takich, które odpowiadają profilowi mutacji obserwowanych w guzie), zidentyfikowali komórki odpornościowe o największym potencjale i skuteczności.Mając taką "bazę najlepszych z najlepszych" limfocytów T, powielili je i stworzyli miliardy ich "kopii". Po tym wystarczyło ponownie wprowadzić je do organizmu 52-latki razem z dodatkowymi elementami, w tym przeciwciałem o nazwie anty-PD1 i IL2-cytokiną (cytokiny to białka, które wpływają na wzrost i pobudzenie komórek biorących udział w reakcji odpornościowej), które są wykorzystywane w terapiach leczących nowotwory.Taki spersonalizowany "koktajl" komórek i leków sprawił, że u Amerykanki z Florydy nastąpiła remisja choroby, a wszystkie guzy zniknęły w ciągu roku od rozpoczęcia terapii. Teraz, po niemal dwóch latach, pacjentka jest wciąż obserwowana i zdrowa.Z punktu widzenia nauki to bardzo ważny, choć wyjątkowy przypadek. Oprócz niej w ostatnich latach udało się w podobny sposób uratować dwójkę innych pacjentów, z których jeden cierpiał na zaawansowaną formę raka wątroby, a drugi jelita. Poza tym specjaliści próbowali leczyć tą metodą też kilku innych chorych, jednak tylko w przypadku 52-latki terapia zadziałała w 100 procentach.Dlaczego? To wymaga dalszych badań, ale całkowite wyleczenie Amerykanki wyznacza nowy kierunek w poszukiwaniach skutecznych metod walki z rakiem. I to tym najgroźniejszym, bo z przerzutami (naukowcy opisujący przypadek 52-latki zaznaczają, że immunoterapia polegająca na "hodowaniu" skutecznych limfocytów T jest bardziej efektywna w przypadku nowotworów, które zaatakowały również inne organy).Samo przeciwciało anty-PD1 czy IL2-cytokina są stosowane w leczeniu raka już od jakiegoś czasu, ale ich historia pokazuje, że nie zawsze są efektywne. Dlatego historia Judy Perkins, u której nastąpiła remisja tak zaawansowanej postaci raka piersi, może się okazać nową nadzieją dla innych chorych.Źródła: Nature Medicine, Reddit, Washington Post.Zobacz też:
+			
+			  milarama
+			
+			
+
+			Oceniono 65 razy
+
+                              49
+			
+
+
+
+
+
+                        
+                          
+                          
+                            A moja ciotka witaminami, dietą i modlitwą raka piersi leczyła. Niestety ta metoda okazała się korzystna jedynie dla księdza i sprzedawcy witamin.
+                          
+                        
+                      
+Pokaż odpowiedzi (3)Odpowiedz
+			
+			  a-lfa
+			
+			
+
+			Oceniono 34 razy
+
+                              16
+			
+
+
+
+
+
+                        
+                          
+                          
+                            No jak można się w ogóle leczyć. Przecież to niezgodne z Boskim planem. Jeśli ktoś ma wyzdrowieć wyzdrowieje bez leczenia. Śmieszne? Niestety nie to podejście panujące w wielu środowiskach w Polsce.
+                          
+                        
+                      
+Pokaż odpowiedzi (3)Odpowiedz
+			
+			  ironic77
+			
+			
+
+			Oceniono 21 razy
+
+                              13
+			
+
+
+
+
+
+                        
+                          
+                          
+                            A gdzie "Klauzula Sumienia"?... Nam mówią o "cywilizacji śmierci" a jak ty Polaku wybieraj się do szpitala to tego nie ma, tamtego NFZ nie refunduje... profilaktyka antynowotworowa kuleje... ech...
+                          
+                        
+                      Odpowiedz
+			
+			  larsek
+			
+			
+
+			Oceniono 19 razy
+
+                              9
+			
+
+
+
+
+
+                        
+                          
+                          
+                            Cudem nazywają takie sytuacje watykańscy przedstawiciele by jeszcze bardziej namieszać w głowach swym poddanym i wyciągnąć jeszcze więcej pieniędzy. To jest wiedza i zdobycie umiejętności, a nie czary!
+                          
+                        
+                      Odpowiedz
+			
+			  art_102
+			
+			
+
+			Oceniono 14 razy
+
+                              8
+			
+
+
+
+
+
+                        
+                          
+                          
+                            ...a gdyby tak jeszcze piszący ten artykuł na podstawie innych artykułów, raczył napisać GDZIE to miało miejsce: państwo, miasto, Instytut, a może jeszcze kilka nazwisk naukowców, bo nazwisko pacjentki jest tu najmniej ważne. 
+Coraz słabsze te artykuły w GW...
+                          
+                        
+                      
+Pokaż odpowiedzi (3)Odpowiedz
+			
+			  tonz2
+			
+			
+
+			Oceniono 6 razy
+
+                              6
+			
+
+
+
+
+
+                        
+                          
+                          
+                            Niedawno opisywano przeciwnowotworowe działanie połączenia szczepionki na grypę z sildenafilem (Viagra), działanie polega na pobudzeniu układu immunologicznego chorego
+                          
+                        
+                      Odpowiedz
+			
+			  sommers
+			
+			
+
+			Oceniono 7 razy
+
+                              5
+			
+
+
+
+
+
+                        
+                          
+                          
+                            Cudem będzie, jak uda się to samo zrobić w naszym NFZ.
+
+Pacjent, któremu zostały dwa tygodnie życia, nie ma szans w zderzeniu z wieloletnimi terminami oczekiwania na leczenie...
+                          
+                        
+                      
+Pokaż odpowiedzi (1)Odpowiedz
+			
+			  lukasz_patrykus
+			
+			
+
+			Oceniono 23 razy
+
+                              5
+			
+
+
+
+
+
+                        
+                          
+                          
+                            E tam imunoterapia,... Różaniec jest dobry na wszystko i całowanie trupich kości... Reszta to fanaberie
+                          
+                        
+                      Odpowiedz
+			
+			  hubba-hubba
+			
+			
+
+			Oceniono 4 razy
+
+                              4
+			
+
+
+
+
+
+                        
+                          
+                          
+                            Takie efekty immunologiczne, wprawdzie bardzo rzadko, zdarzają się też w sposób naturalny - i wtedy mamy tzw. "cud".
+                          
+                        
+                      Odpowiedz
+Pokaż wszystkie komentarze
+Aby ocenić zaloguj się lub zarejestrujX

@@ -1,0 +1,107 @@
+Hodowca maszyn wirtualnych i psów, poza tym stary linuksiarz, bonvivant i śmieszek. W 2012 roku napisał na DP o algorytmie haszowania Keccak i wciąż pamięta, jak on działa.Po dwóch ostatnich tygodniach obcowania z Internetem poddanym
+reżimowi RODO, można by było pomyśleć, że prywatność jest
+najważniejszą wartością Zjednoczonej Europy. A jednak nie.
+Istnieje wartość ważniejsza od prywatności – to ochrona praw
+autorskich. Tak przynajmniej uważa Maciej Szpunar, rzecznik
+generalny Trybunału Sprawiedliwości Unii Europejskiej.Historia jakich wiele – ktoś gdzieś udostępnił w internecie
+chronione prawem autorskim treści, zaś właściciel praw autorskich
+pociągnął udostępniającego do odpowiedzialności. Gdyby działo
+się to w USA, konsekwencje byłyby jasne. Działo się to jednak w
+Niemczech, gdzie prawo do prywatności jest rzeczą świętą, sprawa
+więc przybrała nieoczekiwany obrót.8 maja 2010 roku niejaki Michael Strotzer był posiadaczem łącza
+internetowego, poprzez który udostępniony został w sieci
+peer-to-peer audiobook, do którego prawa autorskie miało niemieckie
+wydawnictwo Bastei Lübbe. Biegły stwierdził w sposób nie
+podlegający wątpliwości, że adres IP należał wówczas do pana
+Strotzera.28 października 2010 roku spółka Bastei Lübbe wysłała do
+Michaela Strotzera pismo, w którym wezwała go do zaniechania
+naruszenia prawa autorskiego. Odpowiedzi nie otrzymała, więc
+wystąpiła do sądu rejonowego w Monachium z powództwem o
+odszkodowanie pieniężne od p. Strotzera jako posiadacza adresu IP. 
+Podczas procesu Michael Strotzer zaprzeczył, jakoby udostępniał
+tego audiobooka, oraz zapewnił, że jego łącze internetowe było
+wystarczająco zabezpieczone. Skoro jednak biegły wykazał, że to z
+jego IP audiobook był udostępniany, to czy wszystko nie jest jasne?
+Nie do końca. Otóż Strotzer stwierdził, że do tego łącza
+dostęp mieli także jego rodzice, z którymi pozostaje w tym samym
+gospodarstwie domowym. Z tego jednak co mu wiadome, ani nie mieli
+audiobooka na swoim komputerze, ani nigdy nie używali oprogramowania
+do wymiany plików P2P. Co więcej, ich komputer miał być wyłączony
+w chwili naruszenia praw autorskiego.Z tego właśnie powodu sąd rejonowy w Monachium oddalił
+powództwo spółki Bastei Lübbe. Stwierdzono, że niemożliwe jest
+wykazanie, że to Michael Strotzer popełnił zarzucany mu czyn,
+skoro wskazano, że mogli to też zrobić też jego rodzice. Od tego
+zaskakującego wyroku powód się oczywiście odwołał do sądu
+okręgowego w Monachium. Ten skłonił się do uznania odpowiedzialności
+Michaela Strotzera jako sprawcy zarzucanego mu naruszenia prawa
+autorskiego, ponieważ z jego wyjaśnień nie wynikało, aby w
+momencie dokonania naruszenia z łącza internetowego korzystała
+osoba trzecia. Wszystko jasne? 
+A jednak nie wszystko. Sąd apelacyjny zauważył bowiem, że w
+Niemczech obowiązuje orzecznictwo, jakie wiele lat wcześniej
+przedstawił Federalny Trybunał Sprawiedliwości
+(Bundesgerichtshof). Wynika z niego, że to powód musi przedstawić
+okoliczności faktyczne i dowody naruszenia prawa autorskiego. Co
+więcej, domniemanie faktyczne przemawia za sprawstwem posiadacza
+łącza internetowego tylko wtedy, jeżeli w momencie naruszenia
+prawa inne osoby nie mogły korzystać z tego łącza. Zarazem jednak
+z orzecznictwa tego wynika, że na posiadaczu łącza internetowego
+spoczywa wtórny ciężar dowodu – musi on wskazać, które inne
+osoby miały niezależny dostęp do jego łącza internetowego.Skoro jednak istnieje podejrzenie, że mogli to być rodzice
+pozwanego, to wyjaśnień żadnych przedstawiać w tym wypadku nie
+trzeba. Artykuł 7 Karty praw podstawowych Unii Europejskiej
+gwarantuje bowiem stosowanie zasady ochrony prywatności życia
+rodziny. W tym wypadku obowiązek ujawnienia działań rodziców
+Michaela Strotzera stanowiłby nieuzasadnioną ingerencję w jego
+sferę rodzinną.Nie wiedząc co z tym fantem zrobić, sąd okręgowy w Monachium
+zawiesił postępowanie i zwrócił się do Trybunału
+Sprawiedliwości Unii Europejskiej z zapytaniem,
+jak interpretować dyrektywy unijne dotyczące ochrony własności
+intelektualne, które mówią o skutecznych i odstraszających
+sankcjach, w sytuacji, gdy ochrona prywatności wyłącza możliwość
+sankcji takich zastosowania. 
+Swoją opinię w tej sprawie wydał
+w tym tygodniu rzecznik generalny Trybunału Sprawiedliwości, Maciej
+Szpunar. Opinie rzecznika nie są wyrokami, nie są wiążące, ale z
+orzecznictwa wynika, że są zawsze brane pod uwagę. 
+Całe analizy prawne, a następnie rekomendację, jaką ten
+ekspert przedstawił, można streścić następująco. Otóż
+Trybunał Sprawiedliwości powinien stwierdzić, że prawo
+europejskie nie wymaga na poziomie krajowym domniemania
+odpowiedzialności posiadacza łącza internetowego za naruszenia
+prawa autorskiego popełnione z wykorzystaniem. Jeśli jednak prawo
+krajowe traktuje takie domniemanie jako element ochrony praw
+autorskich, to należy korzystać z instrumentu domniemania w sposób
+spójny, by zagwarantować skuteczną ochronę praw autorskich.W tym sensie, zdaniem rzecznika Trybunału, prawo do prywatności
+życia rodzinnego wynikające z Karty praw podstawowych nie może być
+interpretowane w sposób pozbawiający właścicieli praw autorskich
+jakiejkolwiek skutecznej możliwości ochrony swojej własności.
+Ochrona własności intelektualnej jest bowiem również nakazana
+przez Kartę praw podstawowych (w artykule 17).Innymi słowy, prawo niemieckie, które przenosi cały ciężar
+dowodu na powoda nie może być interpretowane w sposób, który
+powodowi uniemożliwi ochronę swoich praw ze względu na wyłaniający
+się konflikt z prawem do prywatności życia rodzinnego. Jeśli
+zbadanie warunków życia rodzinnego jest ze względu na kartę praw
+podstawowych niemożliwe, to należy uznać posiadacza łącza
+internetowego za winnego naruszenia praw autorskich, jako że ich
+właściciel nie ma żadnych innych środków zidentyfikowania
+sprawców.Zaskoczeni taką opinią nie jesteśmy. Dr hab. Maciej Szpunar znany jest przecież z przekonania o kluczowej roli ochrony praw autorskich. W jednej ze swoich opinii dopuścił przecież blokowanie pirackich serwisów, takich jak The Pirate Bay, na terenie całej Unii Europejskiej.Cała sprawa ma jeszcze pewien uroczy aspekt językowy, związany
+z opuszczeniem przez Wielką Brytanię struktur Unii Europejskiej.
+Opinia rzecznika Macieja Szpunara została sporządzona oczywiście
+po francusku,
+tj. języku w którym Trybunał Sprawiedliwości pracuje i w którym
+wydaje wyroki. Następnie została przetłumaczona na 20 innych
+języków, od bułgarskiego po szwedzki (a wśród nich oczywiście
+jest polski). Nie ma oficjalnego tłumaczenia na angielski, co
+wywołało pewną konsternację w anglosaskich mediach.No cóż, wygląda na to, że piszący o sprawach Unii
+Europejskiej dziennikarze zza Wielkiej Wody będą musieli się
+wreszcie nauczyć jakichś unijnych języków, a nie tylko żyć w
+błogim przekonaniu, że angielski wystarczy każdemu do wszystkiego.Uber ma na koncie już ponad 5 miliardów kursów na całym świecie. Jednakże to tylko jeden z nielicznych powodów do zadowolenia. Firma ma poważne problemy wizerunkowe, a także coraz częściej musi… Literówka, błąd lub inny problem z treścią publikacji? Będziemy wdzięczni za przesłanie informacji za pośrednictwem poniższego formularza:
+Aktualności
+Blog czytelników
+Sprzęt
+Gry
+Wszystkie publikacje
+Programy dla Windows (wersje stabilne)
+Programy dla Windows (wersje rozwojowe)
+Ostatnie tematy na forum

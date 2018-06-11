@@ -1,0 +1,111 @@
+Bez Jakuba Świerczoka i Tarasa Romanczuka, za to z Szymonem Żurkowskim, Sebastianem Szymańskim i Krzysztofem Piątkiem! Selekcjoner reprezentacji Polski Adam Nawałka ogłosił nazwiska 35 zawodników, którzy znaleźli się w szerokiej kadrze na piłkarskie mistrzostwa świata. Na rozpoczynający się 14 czerwca mundial do Rosji Nawałka zabierze spośród nich tylko 23 piłkarzy.
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Robert Lewandowski - lider, który rodził się w bólach
+Eurosport
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2502292-3290233');
+                var $embed = jQuery('#player2502292-3290233').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Trudno mówić o rewolucyjnych posunięciach Nawałki, ale są niespodzianki. Wbrew "przeciekom", w kadrze znalazło się miejsce dla napastnika Kamila Wilczka, który imponuje formą strzelecką w duńskim Broendby Kopenhaga.
+
+
+
+Reklama
+
+
+
+    try {
+        if(document.body.offsetWidth <= document.body.offsetWidth){
+            Inpl.Ad.insertAd("news", null, null);
+        }
+    
+    } catch(err) {
+        Inpl.Log.log(err);
+    }
+ 
+
+
+Selekcjoner zrezygnował za to z usług innego snajpera, Jakuba Świerczoka z Łudogorca Razgrad. W kadrze nie znalazł się także Taras Romanczuk z Jagiellonii Białystok, który otrzymał polskie obywatelstwo i w tym roku zadebiutował w kadrze.
+Szkoleniowiec włączył do szerokiej kadry młodą nadzieję Legii Warszawa, Sebastiana Szymańskiego, a także pomocnika Górnika Zabrze, Szymona Żurkowskiego. Jest także najlepszy polski strzelec bieżącego sezonu Ekstraklasy, Krzysztof Piątek z Cracovii.
+W ekipie znalazło się 11 przedstawicieli Ekstraklasy, w tym czterech legionistów, trzech graczy Górnika i po jednym z Cracovii, Jagiellonii, Lecha i Lechii.
+21 maja, a więc dzień po zakończeniu rozgrywek ligowych, ekipa "Biało-Czerwonych" spotka się na zgrupowaniu regeneracyjnym w Juracie, które potrwa do 26 maja. Jeszcze przed tym obozem kadra ma zostać uszczuplona, prawdopodobnie do 28 nazwisk.
+28 maja Orły Nawałki rozpoczną zgrupowanie w Arłamowie. Potrwa ono do 7 czerwca. 4 czerwca selekcjoner ogłosi ostateczną, 23-osobową, kadrę na mundial w Rosji.
+8 czerwca czeka Polaków mecz towarzyski z Chile w Poznaniu, a 12 czerwca - spotkanie z Litwą w Warszawie. Dzień później Orły wylecą do swojej bazy w Soczi.
+W fazie grupowej mundialu Polska zagra z: Senegalem (19 czerwca, 17.00, Moskwa), Kolumbią (24 czerwca, 20.00, Kazań) i Japonią (28 czerwca, 16.00, Wołgograd).
+Szeroka kadra Polski na mundial w Rosji: 
+Bramkarze: Bartosz Białkowski (Ipswich), Łukasz Fabiański (Swansea), Łukasz Skorupski (Roma), Wojciech Szczęsny (Juventus Turyn).
+Obrońcy: Jan Bednarek (Southampton), Bartosz Bereszyński (Sampdoria), Thiago Cionek (SPAL), Kamil Glik (Monaco), Artur Jędrzejczyk  (Legia Warszawa), Marcin  Kamiński (Stuttgart), Tomasz Kędziora (Dynamo Kijów), Michał Pazdan (Legia  Warszawa), Łukasz Piszczek (Borussia Dortmund).
+Pomocnicy: Jakub Błaszczykowski (Wolfsburg), Paweł Dawidowicz (Palermo), Przemysław Frankowski (Jagiellonia Białystok),    Jacek Góralski  (Łudogorec Razgrad), Kamil  Grosicki (Hull City), Damian Kądzior (Górnik Zabrze), Grzegorz Krychowiak (West Bromwich), Rafał Kurzawa  (Górnik Zabrze), Karol Linetty (Sampdoria), Maciej Makuszewski (Lech Poznań), Krzysztof  Mączyński (Legia Warszawa), Sławomir Peszko (Lechia Gdańsk), Maciej Rybus (Lokomotiw Moskwa),  Sebastian Szymański (Legia Warszawa), Piotr Zieliński (Napoli), Szymon Żurkowski (Górnik Zabrze). 
+Napastnicy: Dawid Kownacki (Sampdoria), Robert Lewandowski (Bayern Monachium),  Arkadiusz Milik (Napoli), Krzysztof Piątek  (Cracovia), Łukasz Teodorczyk  (Anderlecht Bruksela), Kamil Wilczek (Broendby Kopenhaga).
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+James Rodriguez - gwiazda Kolumbii
+Eurosport
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2510700-5023793');
+                var $embed = jQuery('#player2510700-5023793').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+
+
+Zdjęcie
+
+
+
+
+Selekcjoner Adam Nawałka i Robert Lewandowski
+/Piotr Matusewicz /Newspix
+
+
+WS Trudno mówić o rewolucyjnych posunięciach Nawałki, ale są niespodzianki. Wbrew "przeciekom", w kadrze znalazło się miejsce dla napastnika Kamila Wilczka, który imponuje formą strzelecką w duńskim Broendby Kopenhaga.Selekcjoner zrezygnował za to z usług innego snajpera, Jakuba Świerczoka z Łudogorca Razgrad. W kadrze nie znalazł się także Taras Romanczuk z Jagiellonii Białystok, który otrzymał polskie obywatelstwo i w tym roku zadebiutował w kadrze.Szkoleniowiec włączył do szerokiej kadry młodą nadzieję Legii Warszawa, Sebastiana Szymańskiego, a także pomocnika Górnika Zabrze, Szymona Żurkowskiego. Jest także najlepszy polski strzelec bieżącego sezonu Ekstraklasy, Krzysztof Piątek z Cracovii.W ekipie znalazło się 11 przedstawicieli Ekstraklasy, w tym czterech legionistów, trzech graczy Górnika i po jednym z Cracovii, Jagiellonii, Lecha i Lechii.21 maja, a więc dzień po zakończeniu rozgrywek ligowych, ekipa "Biało-Czerwonych" spotka się na zgrupowaniu regeneracyjnym w Juracie, które potrwa do 26 maja. Jeszcze przed tym obozem kadra ma zostać uszczuplona, prawdopodobnie do 28 nazwisk.28 maja Orły Nawałki rozpoczną zgrupowanie w Arłamowie. Potrwa ono do 7 czerwca. 4 czerwca selekcjoner ogłosi ostateczną, 23-osobową, kadrę na mundial w Rosji.8 czerwca czeka Polaków mecz towarzyski z Chile w Poznaniu, a 12 czerwca - spotkanie z Litwą w Warszawie. Dzień później Orły wylecą do swojej bazy w Soczi.W fazie grupowej mundialu Polska zagra z: Senegalem (19 czerwca, 17.00, Moskwa), Kolumbią (24 czerwca, 20.00, Kazań) i Japonią (28 czerwca, 16.00, Wołgograd).Szeroka kadra Polski na mundial w Rosji: Bramkarze: Bartosz Białkowski (Ipswich), Łukasz Fabiański (Swansea), Łukasz Skorupski (Roma), Wojciech Szczęsny (Juventus Turyn).Obrońcy: Jan Bednarek (Southampton), Bartosz Bereszyński (Sampdoria), Thiago Cionek (SPAL), Kamil Glik (Monaco), Artur Jędrzejczyk  (Legia Warszawa), Marcin  Kamiński (Stuttgart), Tomasz Kędziora (Dynamo Kijów), Michał Pazdan (Legia  Warszawa), Łukasz Piszczek (Borussia Dortmund).Pomocnicy: Jakub Błaszczykowski (Wolfsburg), Paweł Dawidowicz (Palermo), Przemysław Frankowski (Jagiellonia Białystok),    Jacek Góralski  (Łudogorec Razgrad), Kamil  Grosicki (Hull City), Damian Kądzior (Górnik Zabrze), Grzegorz Krychowiak (West Bromwich), Rafał Kurzawa  (Górnik Zabrze), Karol Linetty (Sampdoria), Maciej Makuszewski (Lech Poznań), Krzysztof  Mączyński (Legia Warszawa), Sławomir Peszko (Lechia Gdańsk), Maciej Rybus (Lokomotiw Moskwa),  Sebastian Szymański (Legia Warszawa), Piotr Zieliński (Napoli), Szymon Żurkowski (Górnik Zabrze). Napastnicy: Dawid Kownacki (Sampdoria), Robert Lewandowski (Bayern Monachium),  Arkadiusz Milik (Napoli), Krzysztof Piątek  (Cracovia), Łukasz Teodorczyk  (Anderlecht Bruksela), Kamil Wilczek (Broendby Kopenhaga).WSKorzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

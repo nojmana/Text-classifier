@@ -1,0 +1,141 @@
+Hodowca maszyn wirtualnych i psów, poza tym stary linuksiarz, bonvivant i śmieszek. W 2012 roku napisał na DP o algorytmie haszowania Keccak i wciąż pamięta, jak on działa.Przez ostatnie lata myśląc o komputerach z procesorami ARM
+skupialiśmy się przede wszystkim na mitycznych MacBookach, których
+sercami miały być wzmocnione wersje znanych z iPhone’a czipów
+A*. Nic w tym dziwnego, pod względem wydajności, ARM-owe procesory
+Apple’a daleko uciekły reszcie świata, ich najnowsze generacje
+dorównują pod wieloma względami ultramobilnym wersjom procesorów
+x86 Intela czy AMD. Jednak to nie Apple przeprowadzi ARM-ową
+rewolucję w komputerach osobistych. Nie zrobi tego nawet Qualcomm,
+którego procesory Snapdragon znalazły zastosowanie w kilku modelach
+komputerków Always-Connected PC ze specjalną wersją Windowsa 10.
+Zrobi to sam ARM, który przedstawiając nowy rdzeń Cortex-A76
+zerwał z przeszłością, otwierając nową erę w rozwoju tej
+architektury.Już kiedyś konsorcjum ARM zrobiło coś takiego. Mało kto o tym
+wie, ale pierwsze wersje rdzeni implementujących tę architekturę
+(ARMv1 i ARMv2) były 26-bitowe, co pozwalało im zaadresować 64 MB
+pamięci. Były to lata 90, pamiętają to tylko ludzie z długimi
+brodami, którzy być może mieli komputery firmy Acorn. Dopiero
+ARMv3 stał się 32-bitowy, zaś ARMv5 całkowicie porzucił ten
+model programowy procesora.Współczesne architektury ARM do tej pory zapewniały pełną
+kompatybilność z 32-bitowym kodem. Nowy rdzeń Cortex-A76 jest
+pierwszym, który uruchomi wyłącznie 64-bitowy kod uprzywilejowany,
+a więc kernel, hiperwizor czy sterowniki. Dla projektantów czipów
+to wielki sukces: wspieranie wyłącznie 64-bitowego modelu
+programowego znacznie upraszcza budowę procesora, zmniejsza jego
+zużycie energii, zwalnia miejsce, które może być wykorzystane na
+coś innego. 
+Kluczowe systemy operacyjne, tj. Linux, Android i Windows są na
+ten krok gotowe, nawet Microsoft już zdołał w całości przepisać
+swój Windows on ARM na 64-bitową architekturę. Użytkownicy nie
+muszą zaś panikować: zwykły nieuprzywilejowany kod 32-bitowy
+wciąż będzie można uruchomić, stare aplikacje będą działały
+na Cortexie-A76 tak jak powinny. 
+I to się akurat długo jeszcze nie zmieni – ilość
+oprogramowania 32-bitowego na urządzenia wbudowane z procesorami ARM
+jest bardzo duża, w wielu wypadkach nikt już nie wie, gdzie jest
+kod źródłowy, nikt nie będzie tego przepisywał. Może też nawet
+nikomu by się nie chciało. 32-bitowy model programowy ARM jest
+bowiem bardzo przyjazny dla programistów. Assembler tych procesorów
+jest bardzo ciekawy – może to zredukowany zestaw
+rozkazów (RISC), ale zarazem dostajemy wiele niespotykanych
+nigdzie indziej możliwości: np. wszystkie instrukcje mogą być
+uruchamiane warunkowo. W rękach wprawnego kodera pozwala to na
+znacznie krótszy i bardziej czytelny kod. Z drugiej jednak strony,
+jak się zawsze skarżyli projektanci czipów, implementacja tych
+programistycznych atrakcji w krzemie jest wyjątkowo trudna.Dlateogo właśnie 64-bitowy model programowy ARM kończy z tymi
+„bajerami” – warunkowe uruchamianie jest już dostępne tylko
+dla pętli i rozgałęzień, tak jak w innych modelach. Zarazem
+ułatwia to implementację nowoczesnych technik optymalizacji kodu,
+takich jak uruchamianie spekulatywne czy przewidywanie rozgałęzień
+(oraz oczywiście co za tym idzie, podatności na słynną lukę
+Spectre).Jak to zawsze bywa przy nowej generacji sprzętu, nowy Cortex-A76
+jest szybszy i energooszczędniejszy.
+O ile? Tego realnie nie da się powiedzieć, wszystko będzie
+zależało od procesu, w jakim finalne procesory zostaną wykonane.
+Tutaj zaś ARM zapowiada, że ten nowy rdzeń znajdzie się w
+procesorach produkowanych w litografii 12 nm i 7 nm oraz w
+przyszłości 5 nm. 
+Jakieś jednak porównanie jest:
+referencyjny Cortex-A76 zrobiony w procesie 7 nm, pracując z
+taktowaniem 3 GHz ma być o 35% szybszy od rdzenia Cortex-A75 z
+procesora Qualcomm Snapdragon 845 (proces 10 nm), taktowanego zegarem
+2,8 GHz i ponad 100% szybszy od rdzenia Cortex-A73 w procesie 16 nm.
+Wszystko czywiście przy tym samym zużyciu energii. Wynik został
+uśredniony dla różnych zmienno- i stałoprzecinkowych benchmarków
+SpecInt2K6.Usprawnienia w instrukcjach SIMD
+pozwoliły jednak na jeszcze większą wydajność w dziedzinie
+maszynowego uczenia – ARM obiecuje tu nawet czterokrotnie większą
+wydajność.W samej architekturze rdzenia
+pojawiło się ciekawe rozwiązanie na froncie. Niezależnie od
+siebie działają predyktor rozgałęzień i chwytak instrukcji. Ten
+pierwszy pobiera z pamięci po 32 bajty na cykl procesora, ten drugi
+po 16 bajtów. Predyktor jest więc szybszy, ma więc więcej czasu
+na przygotowanie buforów rdzenia i uruchomienie przewidywanego kodu
+przed faktycznym nadejściem instrukcji. Ogranicza to wystąpienia
+sytuacji, w której rdzeń stanie, nie będąc w stanie zrobić nic
+użytecznego.Miłośnicy bezpieczeństwa
+słusznie pomyślą o zagrożeniach całego tego spekulatywnego
+wykonywania, ale podobno nowa generacja rdzeni ARM ma już sprzętowe
+zabezpieczenia, które będą sobie z tym radziły. Rdzeń ma
+bardziej pilnować kontekstu uruchamiania kodu, utrudniając
+oprogramowaniu śledzenie innych procesów. Warto też przypomnieć,
+że w ARM-ach nie ma HyperThreadingu, nie trzeba się martwić o
+drugi fizyczny wątek w rdzeniu, który by mógł coś zrobić z
+pierwszym.Takich optymalizacji ma być w
+nowym rdzeniu mnóstwo – zbadano dokładnie wszystkie instrukcje
+pod kątem wydajności i energooszczędności potoku ich wykonywania
+(a to jest niebagatelna robota, wykonanie niektórych instrukcji to
+nawet sto etapów w potoku), zoptymalizowano całą hierarchię
+buforów pod kątem opóźnień i przepustowości. Same bufory też
+rozszerzono: Cortex A76 ma 64 KB czterokierunkowego cache L1 na
+instrukcje, 64 KB cache L1 na dane, 256 lub 512 KB cache L2, może
+też korzystać z do 4 MB współdzielonego cache L3 procesora.Obok Cortexa-A76 ARM wprowadził też na rynek nowy
+energooszczędny rdzeń Cortex-A55. Będzie on współpracował z A76
+w architekturze DynamIQ. Tutaj pochwalono się rozbudowaniem pamięci
+cache L2 i daleko posuniętą optymalizacją podsystemu pamięci. 
+Kolejna ważna nowość to procesor graficzny Mali-G76, obiecujący
+30% większą wydajność i 30% wyższą energooszczędność.
+Łącznie Mali-G76 oferuje 20 rdzeni, trzy silniki na rdzeń, osiem
+potoków wykonawczych na silniki – razem 480 potoków, o 25% więcej
+od poprzednika Mali-G72. ARM chwali się też 270% wyższą
+sprawnością w maszynowym uczeniu – zapewne za sprawą
+wprowadzenia szybkiej arytmetyki na 8-bitowych liczbach całkowitych.Całego zestawu dopełnia nowy dekoder wideo V76. Ma on sobie
+radzić z wideo 8K w 60FPS, tak by można było nim sterować ścianą
+2×2 wyświetlaczy 4K, albo ścianą 4×4 wyświetlaczy FullHD.
+Zapewnia też sprzętowe dekodowanie wideo nie tylko dla HEVC, ale
+też dla VP9 (oraz oczywiście starych formatów).Nowe rdzenie powinniśmy zobaczyć w procesorach napędzających
+konkretne urządzenia w jakiś rok od ich premiery – tyle zwykle
+zajmuje licencjobiorcom ARM stworzenie na podstawie dostarczonych
+schematów swoich konstrukcji. Kiedy jednak się pojawią,
+spodziewamy się paniki ze strony Intela i AMD. 
+Pierwsze ultramobilne laptopy z Windowsem i procesorami Qualcomm
+Snapdragon 835 okazały się bowiem bić na głowę sprzęt x86 pod
+względem czasu pracy – 20 godzin odtwarzania wideo non stop nie
+było niczym dziwnym. 
+Jednak z wydajnością było tak sobie, w niektórych wypadkach
+ustępowały one systemom z Celeronami. Oczywiście trochę w tym
+winy Microsoftu – Windows on ARM jest daleko gorzej
+zoptymalizowany, niż normalny Windows x86, dopiero teraz pojawia się
+pełne wsparcie dla aplikacji 64-bit. Można powiedzieć, że
+Always-Connected PC pojawiło się ciut za wcześnie.2019 rok wygląda jednak na rok ARM na laptopie. Możemy się
+spodziewać ultralekkich komputerków z Windowsem 10, które będą w
+stanie pracować pod pełnym obciążeniem ponad dobę na baterii,
+zapewniając wydajność porównywalną z mobilnymi wersjami
+procesorów Intel Core i znacznie lepsze możliwości graficzne. Kto
+wie, może sam Microsoft zastanowi się nad produkcją kolejnych
+urządzeń Surface z takimi szybkimi ARM-ami?Przyszły rok powinien też przynieść znaczący wzrost
+możliwości smartfonów. Flagowce korzystające z Cortexa-A76 będą
+już na tyle wydajne, by mogły transformować się w komputery
+osobiste po podłączeniu do stacji dokującej spinającej je z
+monitorem, klawiaturą i myszą – takiej choćby jak Samsung DeX.
+Rozwiązanie Koreańczyków do tej pory pozostawało ciekawostką,
+brakowało temu mocy. Z nowymi rdzeniami ARM-a powinno się to
+zmienić.O Windowsie 10 przeznaczonym dla urządzeń z architekturą ARM mówi się już od dłuższego czasu. Pojawia się w związku z nim coraz więcej plotek, ale również informacji, które w sposób jednoznaczny… Literówka, błąd lub inny problem z treścią publikacji? Będziemy wdzięczni za przesłanie informacji za pośrednictwem poniższego formularza:
+Aktualności
+Blog czytelników
+Sprzęt
+Gry
+Wszystkie publikacje
+Programy dla Windows (wersje stabilne)
+Programy dla Windows (wersje rozwojowe)
+Ostatnie tematy na forum

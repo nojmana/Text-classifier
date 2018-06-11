@@ -1,0 +1,92 @@
+Płonąca ciężarówka i ogromny słup czarnego dymu nad A4 na Opolszczyźnie. W Gogolinie zapalił się tir przewożący granulat z tworzyw sztucznych. Sygnał w tej sprawie dostaliśmy od Słuchaczy na Gorącą Linię RMF FM. Tą samą drogą otrzymaliśmy film z miejsca zdarzenia. Zobaczcie!Paliła się przyczepa na pasie w stronę Katowic. Tam jeszcze trwa akcja. Pas w stronę Katowic jest zablokowany i samochody stoją, zero ruchu - relacjonował Słuchacz, których kilkanaście minut po godzinie 14:00 zadzwonił na 600 700 800
+Jak poinformował oficer dyżurny Komendy Wojewódzkiej Państwowej Straży Pożarnej w Opolu, z nieznanych dotąd przyczyn doszło do pożaru granulatu tworzywa sztucznego przewożonego na naczepie przez ciągnik siodłowy. Kierowca, który zauważył ogień, zdążył odczepić ciągnik. Sytuacja jest już opanowana, a ruch na autostradzie powinien być już przywrócony. Na miejscu zdarzenia, którego przyczyny będzie wyjaśniać policja, jest jeszcze jeden zastęp strażaków - powiedział dyżurny KW PSP. 
+Również na Gorącą Linię RMF FM dostaliśmy od Słuchaczki film, na którym widać płonącą ciężarówkę. Zobaczcie!
+
+
+
+
+
+
+
+                
+                     var pvideo=false;
+                    pvideo = videojs('video-rmf24-player-0007EBA1XGGV6421', { controls: true, muted:false, language:'pl' });    
+                    pvideo.vastClient({
+                      adTagUrl: "/vast-wrapper,place,3",
+                      playAdAlways: false,
+                      adCancelTimeout: 2000,
+                      adsEnabled: false,
+                      preferredTech: 'html5',
+              
+                      vpaidFlashLoaderPath: "/j/videojs/VPAIDFlash.swf",
+                    });
+                    pvideo.ready(function(){  
+                      player = this;
+                     var vid = document.getElementById('video-rmf24-player-0007EBA1XGGV6421_html5_api');
+                     var title='Płonąca ciężarówka i ogromny słup czarnego dymu nad A4 na Opolszczyźnie. Film od Słuchaczki RMF FM!';
+                     var mediaName = 'http://v.iplsc.com/-/0007EBA1XGGV6421-V1.mp4';  
+                    player.on('vast.contentStart', function() { 
+                       _gaq.push(['b._trackEvent', 'EmbedWideoStart', title ,mediaName]);
+                    }); 
+                    player.on('vast.firstPlay', function() { 
+                      _gaq.push(['b._trackEvent', 'EmbedWideoPlay', title ,mediaName]);
+                    });   
+                    var previousTime = 0;
+                    var currentTime = 0;
+                    var seekStart = null;
+                    var total=0;
+                    var startTime=0;
+                    player.on('timeupdate', function() {
+                      previousTime = (currentTime);
+                      currentTime= Math.floor(vid.currentTime); 
+                    }); 
+                    player.on('seeking', function() {
+                        if(seekStart === null) {
+                            seekStart = previousTime;
+                            total= seekStart- startTime;
+                            _gaq.push(['b._trackEvent', 'EmbedWideoTimeWatched', title ,mediaName, total]);
+                            startTime=null;
+                        }
+                    });
+                    player.on('seeked', function() {
+                         seekStart = null;
+                         startTime=  currentTime;
+                    });
+                    player.on('pause', function() { 
+                      if(startTime !==null){
+                          total= currentTime- startTime;
+                          _gaq.push(['b._trackEvent', 'EmbedWideoTimeWatched', title ,mediaName, total]);
+                      }
+                      if(seekStart ===null && currentTime>0) {
+                        _gaq.push(['b._trackEvent', 'EmbedWideoPause', title ,mediaName, currentTime]);
+                      }
+                    });
+                   /* player.on('vast.contentEnd', function () {      console.log('koniec');
+                        setTimeout(function () {   console.log('koniec2');
+                        // player.trigger('vast.reset');
+                         player.trigger('vast.adStart');
+                         player.trigger('vast.firstPlay');
+                     //    pvideo.play();
+                        }, 0);
+                      }); */
+                  });
+                  
+
+
+
+
+Płonąca ciężarówka i ogromny słup czarnego dymu nad A4 na Opolszczyźnie. Film od Słuchaczki RMF FM!
+Gorąca Linia RMF FM
+
+
+
+
+
+
+
+Gorąca Linia RMF FM jest do Waszej dyspozycji! Przez całą dobę czekamy na informacje od Was, zdjęcia i filmy.Możecie dzwonić, wysyłać SMS-y lub MMS-y na numer 600 700 800, pisać na adres mailowy fakty@rmf.fm albo skorzystać z formularza WWW.
+
+
+
+(e)
+Paliła się przyczepa na pasie w stronę Katowic. Tam jeszcze trwa akcja. Pas w stronę Katowic jest zablokowany i samochody stoją, zero ruchu - relacjonował Słuchacz, których kilkanaście minut po godzinie 14:00 zadzwonił na 600 700 800Jak poinformował oficer dyżurny Komendy Wojewódzkiej Państwowej Straży Pożarnej w Opolu, z nieznanych dotąd przyczyn doszło do pożaru granulatu tworzywa sztucznego przewożonego na naczepie przez ciągnik siodłowy. Kierowca, który zauważył ogień, zdążył odczepić ciągnik. Sytuacja jest już opanowana, a ruch na autostradzie powinien być już przywrócony. Na miejscu zdarzenia, którego przyczyny będzie wyjaśniać policja, jest jeszcze jeden zastęp strażaków - powiedział dyżurny KW PSP. Również na Gorącą Linię RMF FM dostaliśmy od Słuchaczki film, na którym widać płonącą ciężarówkę. Zobaczcie!(e)Nie przegap ważnej informacjiSkorzystaj z naszego bota >>   Korzystanie z portalu oznacza akceptację Regulaminu. Polityka Cookies. Prywatność. Copyright by Radio Muzyka Fakty Grupa RMF sp. z o.o. sp. k. 2009-2018. Wszystkie prawa zastrzeżone.

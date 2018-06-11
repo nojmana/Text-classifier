@@ -1,0 +1,68 @@
+Leia Display System to  opatentowany przez Polaków ekran, umożliwiający wyświetlanie obrazu w powietrzu. Pozwala on na projekcję dowolnej treści na cienkiej warstwie pary wodnej, pełniącej rolę medium. Projekcja aktywnie reaguje na dotyk. Umożliwia to wchodzenie w interakcję z zawieszonym w przestrzeni obrazem za pomocą ruchów i gestów. Jest to technologia najbardziej zbliżona do filmowych hologramów. 
+
+Zdjęcie
+
+
+
+
+Leia Display System to technologia najbardziej zbliżona do filmowych hologramów.
+/materiały prasowe
+
+
+Film Georga Lucasa "Gwiezdne Wojny" był inspiracją do powstania wielu wynalazków i nowych technologii na całym świecie. Do dziś technologia nie jest w stanie sprostać wyobraźni twórców filmowych gadżetów. Powoli się to jednak zmienia, między innymi za sprawą jednej z polskich firm, która wyprodukowała i opatentowała ekran rodem z filmów science fiction. W jednej ze scen wspomnianego filmu R2D2 (mały przyjazny robot) wyświetla wiszący w powietrzu hologram księżniczki Lei, która błaga o pomoc. Właśnie ta scena była inspiracją do stworzenia "Leia Display System". Urządzenie umożliwia wyświetlanie obrazu z projektora w powietrzu. Widz może próbować dotknąć obraz lub nawet przejść przez niego. Widok takiego zjawiska robi oszałamiające wrażenie. Najlepiej widać to na filmach prezentujących pracę urządzeń:
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }Jak to możliwe? 
+Urządzenia LDS emitują bardzo cienką warstwę mgły, która jest nośnikiem obrazu. Jest ona niemal niewidoczna i niewyczuwalna. Dzięki temu widzimy obraz, który wydaje się wisieć w powietrzu. Istniejące już rozwiązania wyświetlające obraz na parze wodnej używają kurtyny gęstego dymu, na której daje się co prawda wyświetlić obraz, jednak jest on zamazany i nieczytelny. Leia jest pierwszym na świecie systemem z prawdziwie przezroczystym i stabilnym nośnikiem obrazu.  
+Daniel Skutela, główny konstruktor urządzenia i współwłaściciel firmy, która je opatentowała wyjaśnia: "Tworząc urządzenie zależało nam na tym aby wiązka mgły była możliwie długo laminarna (czyli nieturbulentna, nieskłębiona). Tylko w takiej postaci pozostaje niemal niewidoczna i jednocześnie świetnie oddaje nawet najmniejsze detale obrazu. Mogę śmiało powiedzieć, że nasze rozwiązanie jest najbliższą prawdziwemu hologramowi technologią na świecie".
+
+Wideo
+
+ 
+
+
+
+Leia Display Systems
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+
+Dwie wielkości ekranu: Leia Standard i XL 
+Producenci dysponują w tej chwili ekranami o dwóch wielkościach: Standard i XL. W wersji XL rozmiar obrazu osiąga 3 m x 2,5 m. Ekrany można ze sobą zestawiać krótszym bokiem tworząc w praktyce nieograniczenie długie powierzchnie. Takie rozmiary dają olbrzymie możliwości na rynku eventowym, estradzie, teatrze, w muzeach i innych instalacjach związanych z nowymi technologiami. Czujniki ruchu sprawiają, że ekran może zamienić się w gigantyczny ekran dotykowy w powietrzu lub reagować na ruch ludzi znajdujących się w okolicy. Taki sposób interakcji nasuwa skojarzenia z filmami science fiction takimi jak "Raport mniejszości" i "Iron Man".  
+Wersja standard skierowana jest przede wszystkim na rynek reklamowy. Ekran zamontowany jest na mobilnej podstawie, dodatkowo sprawiając, że obraz o rozmiarach 65 cm x 65 cm znajduje się na wysokości wzroku widza. Ta forma prezentacji przykuwa uwagę klienta już od pierwszego spojrzenia. Oryginalnością i niepowtarzalnością przekazu pozwala markom wyróżnić się w wymagającym otoczeniu i buduje w użytkownikach poczucie obcowania z technologią jutra.
+  "Leia jest kolejnym krokiem w ewolucji urządzeń elektronicznych. Kontrolery takie jak Kinect i Leap Motion sprawiają, że już niedługo zapomnimy o myszy i klawiaturze. Leia natomiast sprawia, że tradycyjne ekrany komputerowe i telewizory wydają się nudne i przestarzałe. Myślę, że z czasem zostaną wyparte przez rozwiązania holograficzne. Łatwo sobie wyobrazić, że niedługo każdy ekran, przez który nie możesz przełożyć ręki, a treści na nim nie reagują na Twój ruch będzie passé" - mówi Marcin Panek, współkonstruktor odpowiedzialny za interakcję.
+Zastosowania 
+Trzeba przyznać, że na żywo urządzenia robią jeszcze większe wrażenie niż zaprezentowane wyżej filmy. Już niedługo zobaczymy je wszędzie tam, gdzie firmy chcą wyróżnić się oryginalnością przekazu i zaangażować klienta - na targach, premierach, w centrach handlowych i dużych wydarzeniach, a także tam, gdzie przede wszystkim liczą się doznania odwiedzających, tj. pokazach mody, w klubach, programach telewizyjnych i luksusowych wnętrzach.
+  Każde z tych zastosowań można zrealizować na wiele sposobów. Dla przykładu Leię XL podwieszamy na scenie teatru. Sylwetka aktora stojącego w linii ekranu, przed lub za nim, jest śledzona i animowana. Można doczepić mu skrzydła, sprawić, że się pali, zamienia w drzewo lub wypuszcza z rąk gołębie. Może on również wchodzić w interakcje z obiektami pokazanymi na ekranie, np. otwierać dotykiem zamknięte drzwi, kruszyć bariery, albo krzyknąć na zwierzę lub przedmiot, które na ten krzyk zareaguje. Tradycyjne ekrany nie są przeważnie wykorzystywane w teatrze, ponieważ są zbyt "zwykłe". Leia jest inna, dużo bardziej magiczna.
+  Ważne jest to, że Polacy po raz kolejny wyróżniają się na globalnym rynku pomysłowością i jakością technologii. Śmiało możemy przestać wstydzić się opóźnienia względem zachodu i zacząć być dumni z polskiej myśli technologicznej.
+ Film Georga Lucasa "Gwiezdne Wojny" był inspiracją do powstania wielu wynalazków i nowych technologii na całym świecie. Do dziś technologia nie jest w stanie sprostać wyobraźni twórców filmowych gadżetów. Powoli się to jednak zmienia, między innymi za sprawą jednej z polskich firm, która wyprodukowała i opatentowała ekran rodem z filmów science fiction. W jednej ze scen wspomnianego filmu R2D2 (mały przyjazny robot) wyświetla wiszący w powietrzu hologram księżniczki Lei, która błaga o pomoc. Właśnie ta scena była inspiracją do stworzenia "Leia Display System". Urządzenie umożliwia wyświetlanie obrazu z projektora w powietrzu. Widz może próbować dotknąć obraz lub nawet przejść przez niego. Widok takiego zjawiska robi oszałamiające wrażenie. Najlepiej widać to na filmach prezentujących pracę urządzeń:Jak to możliwe? Urządzenia LDS emitują bardzo cienką warstwę mgły, która jest nośnikiem obrazu. Jest ona niemal niewidoczna i niewyczuwalna. Dzięki temu widzimy obraz, który wydaje się wisieć w powietrzu. Istniejące już rozwiązania wyświetlające obraz na parze wodnej używają kurtyny gęstego dymu, na której daje się co prawda wyświetlić obraz, jednak jest on zamazany i nieczytelny. Leia jest pierwszym na świecie systemem z prawdziwie przezroczystym i stabilnym nośnikiem obrazu.  Daniel Skutela, główny konstruktor urządzenia i współwłaściciel firmy, która je opatentowała wyjaśnia: "Tworząc urządzenie zależało nam na tym aby wiązka mgły była możliwie długo laminarna (czyli nieturbulentna, nieskłębiona). Tylko w takiej postaci pozostaje niemal niewidoczna i jednocześnie świetnie oddaje nawet najmniejsze detale obrazu. Mogę śmiało powiedzieć, że nasze rozwiązanie jest najbliższą prawdziwemu hologramowi technologią na świecie".Dwie wielkości ekranu: Leia Standard i XL Producenci dysponują w tej chwili ekranami o dwóch wielkościach: Standard i XL. W wersji XL rozmiar obrazu osiąga 3 m x 2,5 m. Ekrany można ze sobą zestawiać krótszym bokiem tworząc w praktyce nieograniczenie długie powierzchnie. Takie rozmiary dają olbrzymie możliwości na rynku eventowym, estradzie, teatrze, w muzeach i innych instalacjach związanych z nowymi technologiami. Czujniki ruchu sprawiają, że ekran może zamienić się w gigantyczny ekran dotykowy w powietrzu lub reagować na ruch ludzi znajdujących się w okolicy. Taki sposób interakcji nasuwa skojarzenia z filmami science fiction takimi jak "Raport mniejszości" i "Iron Man".  Wersja standard skierowana jest przede wszystkim na rynek reklamowy. Ekran zamontowany jest na mobilnej podstawie, dodatkowo sprawiając, że obraz o rozmiarach 65 cm x 65 cm znajduje się na wysokości wzroku widza. Ta forma prezentacji przykuwa uwagę klienta już od pierwszego spojrzenia. Oryginalnością i niepowtarzalnością przekazu pozwala markom wyróżnić się w wymagającym otoczeniu i buduje w użytkownikach poczucie obcowania z technologią jutra.  "Leia jest kolejnym krokiem w ewolucji urządzeń elektronicznych. Kontrolery takie jak Kinect i Leap Motion sprawiają, że już niedługo zapomnimy o myszy i klawiaturze. Leia natomiast sprawia, że tradycyjne ekrany komputerowe i telewizory wydają się nudne i przestarzałe. Myślę, że z czasem zostaną wyparte przez rozwiązania holograficzne. Łatwo sobie wyobrazić, że niedługo każdy ekran, przez który nie możesz przełożyć ręki, a treści na nim nie reagują na Twój ruch będzie passé" - mówi Marcin Panek, współkonstruktor odpowiedzialny za interakcję.Zastosowania Trzeba przyznać, że na żywo urządzenia robią jeszcze większe wrażenie niż zaprezentowane wyżej filmy. Już niedługo zobaczymy je wszędzie tam, gdzie firmy chcą wyróżnić się oryginalnością przekazu i zaangażować klienta - na targach, premierach, w centrach handlowych i dużych wydarzeniach, a także tam, gdzie przede wszystkim liczą się doznania odwiedzających, tj. pokazach mody, w klubach, programach telewizyjnych i luksusowych wnętrzach.  Każde z tych zastosowań można zrealizować na wiele sposobów. Dla przykładu Leię XL podwieszamy na scenie teatru. Sylwetka aktora stojącego w linii ekranu, przed lub za nim, jest śledzona i animowana. Można doczepić mu skrzydła, sprawić, że się pali, zamienia w drzewo lub wypuszcza z rąk gołębie. Może on również wchodzić w interakcje z obiektami pokazanymi na ekranie, np. otwierać dotykiem zamknięte drzwi, kruszyć bariery, albo krzyknąć na zwierzę lub przedmiot, które na ten krzyk zareaguje. Tradycyjne ekrany nie są przeważnie wykorzystywane w teatrze, ponieważ są zbyt "zwykłe". Leia jest inna, dużo bardziej magiczna.  Ważne jest to, że Polacy po raz kolejny wyróżniają się na globalnym rynku pomysłowością i jakością technologii. Śmiało możemy przestać wstydzić się opóźnienia względem zachodu i zacząć być dumni z polskiej myśli technologicznej.www.rmf24.plwww.rmf24.plEuroSportstylEuroSportKobietaFilmFilmpomponik.plstylEuroSportEuroSportKobietawww.rmf24.plEuroSportŚwiat seriali
+                                                                            Planujesz wyjazd wakacyjny? Sprawdź prognozę pogody. U nas zawsze się sprawdza.                                                                    
+                                                                            Lubisz pogaduchy, także i te internetowe? Skorzystaj z naszego czatu, porozmawiaj z ludźmi z...                                                                    
+                                                                            Bądź na bieżąco z kursami walut dzięki aplikacji.                                                                    
+                                                                            Systemy it firmy Comarch - profesjonalizm dla Ciebie.                                                                    
+                                                                            Autoryzowany partner i sklep Microsoft Office.                                                                    
+                                                                            Oficjalny dystrybutor programów firmy Microsoft                                                                    Dedykowane oprogramowanie w finansachSport i zdrowie mężczyznyZłóż wyjątkowe życzeniaNie masz pomysłu na relaks? Posłuchaj naszych muzycznych...Ta świąteczna piosenka nigdy nie wychodzi z mody! Sprawdź...Najwięcej wiadomości z dziedziny nauki. Doniesienia z...Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

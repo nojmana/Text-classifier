@@ -1,0 +1,33 @@
+
+zaloguj się
+Naukowcy z amerykańskiego Narodowego Instytutu Standardów i Technologii (NIST) przeprowadzili najdokładniejszy test podstawowego założenia ogólnej teorii względności Einsteina, które to założenie opisuje powiązanie grawitacji z czasem i przestrzenią. Test wykonano porównując różne typy zegarów atomowych, a jego przeprowadzenie było możliwe dzięki temu, że urządzenia te są ciągle udoskonalane. Podczas testu uzyskano rekordowo niski wynik dla słynnego eksperymentu myślowego Einsteina ze spadającą windą. Einstein teoretyzował, że wszystkie obiekty znajdujące się w takiej windzie będą jednakowo przyspieszały tak, jakby znajdowały się w jednorodnym polu grawitacyjnym lub jakby grawitacja na nie nie oddziaływała. Innymi słowy, względne właściwości takich obiektów wobec siebie pozostaną takie same podczas swobodnego spadku windy.Uczeni z NIST wykorzystali Układ Słoneczny, a ich windą była Ziemia spadająca w polu grawitacyjnym Słońca. W celu zbadania względnych właściwości obiektów porównali dane z dwóch typów zegarów atomowych na przestrzeni 14 lat ich pracy, by sprawdzić, czy pozostawały one ze sobą zsynchronizowane, nawet w obliczu zmian oddziaływania grawitacyjnego Słońca na Ziemię. Dane pochodziły z lat 1999-2014 z 12 zegarów. Cztery z nich to wodorowe masery, których właścicielem jest NIST, a 8 kolejnych to najdokładniejsze na świecie cezowe zegary atomowe znajdujące się w laboratoriach w USA, Wielkiej Brytanii, Francji, Niemczech i Włoszech.Podczas jednego z takich pomiarów porównywano częstotliwości promieniowania elektromagnetycznego zegarów. Pomiary wykazały naruszenie einsteinowskiej zasady rzędu 0,00000022 (±0,00000025). To najmniejszy uzyskany dotychczas wynik, oznaczający brak naruszenia. Oznacza to ni mniej ni więcej, że stosunek częstotliwości wodoru do częstotliwości cezu pozostawał identyczny w swobodnie spadającej windzie. Tym samym NIST pobił swój własny rekord pomiaru z 2007 roku. Niepewność obecnego pomiaru jest 5-krotnie mniejsza niż wówczas.Jak powiedział Bijunath Patla z NIST, osiągnięcie takie było możliwe dzięki coraz dokładniejszym zegarom cezowym udoskonaleniu procesu transferu danych pomiędzy zegarami, dzięki czemu mogą one porównywać swoje sygnały oraz dokładniejszemu obliczeniu pozycji i prędkości Ziemi.Naukowcy uważają, że mało prawdopodobne jest, by udało się dokładniej przetestować założenia Einsteina za pomocą zegarów wodorowych i cezowych. Będzie to możliwe za pomocą przyszłych generacji zegarów optycznych. NIST już posiada takie zegary bazujące na atomach iterbu i strontu.Autor: Mariusz BłońskiŹródło:
+                                                PhysOrg
+Einstein teoria względności spadająca windadajmon, 6 czerwca 2018, 10:03
+	To jest dopiero względność: "Niepewność obecnego pomiaru jest 5-krotnie mniejsza niż obecnie."
+Przemek Kobel, 6 czerwca 2018, 10:25
+	Rekurencyjna. Dokładniej się nie da, no chyba że przepełnimy stos albo coś...
+thikim, 6 czerwca 2018, 16:53
+	To jest złe tłumaczenie.
+
+	Chodziło o dotychczasowe pomiary.
+
+RSS
+
+
+                    //<![CDATA[
+                    <!--
+                    var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+                    "=48){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+                    ".substr(0,ol);}f(\")77,\\\"OCIXRQ710\\\\BP730\\\\100\\\\010\\\\430\\\\t\\\\" +
+                    "n\\\\(_}100\\\\y500\\\\j0?%&9kk330\\\\)3oFG_\\\\\\\\^BRXAAJYHNcUt|owx~)~{ab" +
+                    "hj'_<030\\\\130\\\\010\\\\020\\\\V520\\\\NRF200\\\\600\\\\r\\\\220\\\\r\\\\" +
+                    "020\\\\720\\\\p(4=;!1?*\\\"(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmor" +
+                    "f.gnirtS=+o;721=%y;++y)77<i(fi{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav" +
+                    "{)y,x(f noitcnuf\")"                                                         ;
+                    while(x=eval(x));
+                    //-->
+                    //]]>
+                
+Szkolenia
+
+Projekt graficzny: Kamila Szadaj www.szadaj.com

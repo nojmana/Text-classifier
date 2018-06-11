@@ -8,7 +8,7 @@ from selenium.webdriver.common.keys import Keys
 
 class Crawler:
 
-    numberOfArticles = 100
+    numberOfArticles = 300
 
     @staticmethod
     def readParagraphs(url):
@@ -26,10 +26,10 @@ class Crawler:
     def crawl(self, tag):
         browser = webdriver.Firefox(r'/home/kinga/Programs/selenium_driver/geckodriver-v0.20.1-linux64')
 
-        browser.get('https://www.wykop.pl/tag/znaleziska/' + tag + '/najlepsze')
+        browser.get('https://www.wykop.pl/tag/znaleziska/' + tag + '/wszystkie')
         time.sleep(1)
         elem = browser.find_element_by_tag_name("body")
-        no_of_pagedowns = 200
+        no_of_pagedowns = 500
 
         while no_of_pagedowns:
             elem.send_keys(Keys.PAGE_DOWN)
@@ -45,11 +45,14 @@ class Crawler:
             and not link['href'].startswith('https://www.youtube.com') and not link['href'].startswith('https://youtu.be'):
                 articles.add(link['href'])
 
-        text = ''
         articlesList = list(articles)
+        print('Found: ', len(articlesList), 'articles')
         for article in articlesList[:self.numberOfArticles]:
+            text = ''
+            file = open('texts/' + tag + '/' + str(articlesList.index(article)) + '.txt', 'a')
             print('Loading data from:', article)
             text += self.readParagraphs(article)
+            file.write(text)
         browser.close()
         return text
 
@@ -64,11 +67,9 @@ def readTags():
 if __name__ == '__main__':
     crawler = Crawler()
     tags = readTags()
-
+    tags = ['europa']
     for tag in tags:
         print('Downloading data for tag:', tag)
         text = crawler.crawl(tag)
-        file = open('texts/' + tag + '.txt', 'a')
-        file.write(text)
 
     print('Finished')

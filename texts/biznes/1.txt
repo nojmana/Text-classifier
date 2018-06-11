@@ -1,0 +1,50 @@
+Rządzący co krok dają do zrozumienia, że póki co nie ma szans na zwiększenie kwoty wolnej od podatku dochodowego, o jego zniesieniu nawet nie wspominając. Jednocześnie rząd nie może sobie poradzić z rosnącą emigracją, nie tylko indywidualną, ale także biznesową, o której w debacie publicznej w ogóle się mówi. Tymczasem informacje o 1,25 mln Polaków zamierzających wyjechać z kraju w ciągu najbliższego roku mają swoje odbicie wśród przedsiębiorców, którzy także szykują się do opuszczenia Polski. 
+
+Tylko jedna z firm doradczych pomagających przedsiębiorcom przeprowadzić się za granicę szacuje, że w 2015 roku przeniesie blisko 1000 podmiotów z sektora MSP, a takich firm doradczych jest w Polsce setki.Pod względem przychylności systemu prawno-skarbowego wobec firm daleko nam jeszcze do innych krajów, niekoniecznie bardziej rozwiniętych gospodarczo. Potwierdzają to coroczne raporty międzynarodowych instytucji i firm doradczych, jak "Paying Taxes" od PwC - raport oceniający przyjazność systemu podatkowego lub "Doing Business" Banku Światowego podsumowujący ogólny klimat prawno-podatkowy wokół przedsiębiorców w danym kraju. To, że jesteśmy daleko z tyłu potwierdził także ostatni raport PwC z marca 2015 "Praca w UE - podatki i składki". Polska w raporcie jest na 20. miejscu spośród 28 krajów Unii pod względem wysokości stawek PIT, licząc stawki w najwyższym progu. W raporcie zwrócono także szczególna uwagę na fakt, że w ponad połowie krajów UE kwota wolna od podatku jest znacznie wyższa niż w Polsce.Tak jak w przypadku każdych nadchodzących wyborów, tak i w tym przypadku, temat podatku dochodowego zyskał ostatnio na popularności. Wielkimi krokami zbliżają się wybory prezydenckie, więc obniżenia lub nawet likwidacji tego obciążenia chce większość kandydatów. Jak to się skończy, można tylko podejrzewać, ale to nie jedyna z podatkowych zapowiedzi, która swój finał znajdzie najpewniej w koszu. Wyląduje tam zapewne także projekt ustawy wprowadzający ochronę przed skarbówkami i nakaz stosowania zasady in dubio pro tributario, czyli obowiązek rozstrzygania sporów prawnych na korzyść podatnika, kiedy zachodzi trudność w interpretacji przepisów. Negatywną opinię o projekcie wyraziło już Ministerstwo Finansów i Stały Komitet Rady Ministrów (SKRM) - organ Rady Ministrów, którego zadaniem jest wydawanie opinii i przygotowywanie projektów prawnych dla rządu. Krytykę pomysłu poparło także Rządowe Centrum Legislacji, Kancelaria Ewy Kopacz oraz UOKiK, których przedstawiciele wchodzą w skład SKRM. W kwestii podatków w Polsce zmieni się więc w najbliższych latach niewiele, o ile oczywiście nie wzrosną.Jakby tego było mało pod dużym znakiem zapytania stoi także powrót do 22 proc. stawki podatku VAT, którą rząd podniósł w 2011 roku, a która miała obowiązywać do końca przyszłego roku. W opinii wielu ekonomistów nie pozwoli na to deficyt finansów publicznych. Jeśli nawet spełni się prognoza Międzynarodowego Funduszu Walutowego i Polska osiągnie na koniec bieżącego roku deficyt na poziomie 2,9 proc. PKB, to różnica pomiędzy 3 proc. deficytu wymaganego przez Unię będzie tak mała, że powrót do stawki 22 proc. szybko spowoduje ponowny wzrost powyżej wymaganych 3 proc. Jeśli to nastąpi Polska będzie podlegać procedurze nadmiernego deficytu i trafi pod lupę Brukseli, co w ostateczności może zakończyć się sankcjami, a o wprowadzeniu unijnej waluty nie będzie nawet mowy. W związku z tym poziom deficytu balansujący na granicy 3 proc. może sprawić, że rząd utrzyma stawki na tym samym poziomie, czyli po raz kolejny w kwestii podatków, zarówno dochodowego, jak i VAT, nie zmieni się nic.Jeśli chodzi o obecny rząd i kwestię podwyższenia kwoty wolnej od podatku, ostatecznie odrzucono ten pomysł w Sejmie 6 lutego 2015 roku. Na dziś jest więc pewne, że kwota wolna pozostaje na tym samym poziomie co przez ostatnie 7 lat, czyli 3 091 zł. Ostatni raz wzrosła w 2008 roku z 3 089 zł, czyli o całe 2 zł, a rok wcześniej odnotowano wzrost o 75,63 zł. W ciągu ostatnich 15 lat kwota ta wzrosła o jedyne 795,21 zł!
+
+
+
+
+
+sas.render('42713');  // Format : Navibox_3 300x250
+
+
+
+
+
+Wielu Polaków ma już jednak dość ciągłych obietnic, a obciążenia fiskalne tylko mały wycinek rzeczywistości, która pomaga podjąć decyzję i motywuje do wyjazdu. Według marcowego badania Millward Brown dla Work Service, aż 1,25 mln Polaków jest zdecydowanych na wyjazd z kraju w ciągu najbliższego roku. To aż 6,4 proc. aktywnych zawodowo Polaków i o blisko 250 tys. więcej niż w 2014 roku. Większość z nich (75 proc.) ma poniżej 35 lat i zamiast budować swoją karierę zawodową w kraju lub założyć tu biznes woli zaryzykować i wyjechać w poszukiwaniu lepszego jutra. To dla nich mniejsze ryzyko, niż próba zrealizowania ambicji w Polsce. Najczęściej wybieranymi kierunkami emigracji są Wielka Brytania (27 proc.), Niemcy (26 proc.) i Norwegia (11 proc.). 
+
+
+
+
+
+sas.render('42700');  // Format : Banner_645x80 645x80
+
+
+
+
+
+Emigracyjne destynacje są zbliżone do tych wybieranych przez przedsiębiorców, uciekających z Polski przed podatkami, rosnącymi kosztami zabezpieczenia społecznego i pracy oraz coraz większą biurokracją. Na szczęście dla przedsiębiorców nie są prowadzone żadne oficjalne statystyki na temat liczby firm zmieniających miejsce rejestracji swojego biznesu. Gdyby tak było, rząd w mgnieniu oka wprowadziłby zapewne odpowiednie przepisy definitywnie zakazujące takiego procederu. Dane o migracjach są jednak dostarczane przez firmy doradcze i tak jak w przypadku emigrantów indywidualnych, wykazują stały wzrost.
+
+
+
+
+1
+2
+
+
+
+Następna
+
+
+
+
+Źródło: Informacja prasowa
+
+
+
+I niech zostaną dziadki,  asfalt i aquaparki .Prawda jest taka, że emigracja to bardzo wygodne wyjście z punktu widzenia władzy. Wyjeżdżają ludzie niezadowoleni z sytuacji w kraju, a nie wychodzą na ulice i nie protestują przeciwko rządowi.Można spokojnie siedzieć na stołkach i czekać na kolejne wybory.Żaden myślący człowiek któremu zależy na rozwoju nie zaglosuje na PO. To partia biernych i wiernych.DZIĘKUJEMY WAM     L E M I N G I    !!!!!Oddajcie dziadkom swoje dowody!Dziadki i babcie też głosują na PO . W grupie znanych mi głosujących na PO średnia wieku koło sześćdziesiątki. Dlatego hasło zabierz babci dowód powinno obowiązywać w drugą stronęwidocznie "twoja" partia jest głupia jak but, skoro ostatnią kampanię nakierowała właśnie na ogłupiałych postperelowską sieczką gówniarzy... ponad to JA nie napisałem, że LEMING to młodość, prawda? LEMING to stan umysłu a nie kategoria wieku. Podziały na: młodzi, nowocześni, "wykształceni" 
+    i starzy zacofani głupcy w moherowych beretach TO ROBOTA "TWOJEJ" PARTII. Dziadki i babcie to również resortowe odpryski PRLu, więc nie ma się co dziwić, że będą głosować na POmiot służb...Jaki  kataklizm  musi  dotknąć  jeszcze  Polskę, by  rządzący przestali piać , jak  jest dobrze i by  zrozumieli , że  są  szkodnikami...?Depopulacja, dlugi czas pracy, kiepski poziom edukacji i opieka zdrowotna jak w sredniowieczu to celowa polityka okraglostolowego ukladu rzadzacego. Czyja bedzie Polska? To sie dopiero musi rozstrzygnac. Rozstrzyga sie na naszych oczach. Teraz. Albo nastapi niedlugo rzeczywista zmiana albo Polska przestanie istniec. W perspektywie 
+    zamieszka tu 5 mln Ukraincow i 8 mln Zydow, ktorzy opuszcza Izrael, bedac stopniowo zalewani przez zywiol arabski. To wlasnie z mysla o tych drugich swiadomie i konsekwentnie prowadzona jest polityka od 25 lat. A zapomnialem - na scianie zachodniej zamieszka tez 5 mln niemieckich emerytow, na ktorych w montowniach vw beda pracowac do 70 polscy obywateleTo bardzo przykre że trzeba wyjechać ale inaczej się nie da. Przez 8 lat rządów PO nie widziałem zmiany na lepsze, najbardziej cierpią przedsiębiorcy. Nawet teraz, każda obietnica i każdy plan rządu odbędzie się kosztem małych i średnich firm. Fajnie jest obiecać wyższą płacę minimalną, przywileje dla 
+    górników, pomaganie frankowiczom itd. ale za to wszystko zapłacą małe firmy. To jakaś paranoja ! I nie wiem skąd ta firma wzięła tę liczbę 1,25mln osób, które planują wyjechać z kraju lub przenieść swój biznes do innego lepszego kraju. Ilekroć rozmawiam ze znajomymi, którzy pracują w Polsce lub prowadzą małe jednoosobowe działalności to każdy powtarza, że jeszcze trochę wytrzyma 
+    i pakuje się bo tak żyło nie będzie, niestety na drugie moje pytanie czy brali kiedykolwiek w takim badaniu nikt nie odpowiedział twierdząco. Wniosek jest taki, że tych osób jest znacznie więcej :) +1 bo ja również :DTermin przekazania sprawozdania do systemu INTRASTAT, za poprzedni miesiąc kalendarzowy, gdy realizowano transakcje wewnątrzwspólnotowe podlegające obciążeniu podatkiem od towarów i usług (VAT).Termin płatności składek oraz złożenia deklaracji przez pracodawców zatrudniających pracowników.Termin zapłaty raty podatku leśnego przez osoby prawne oraz jednostki organizacyjne nie posiadające osobowości prawnej.Termin zapłaty miesięcznej kwoty podatku od nieruchomości przez osoby prawne i jednostki organizacyjne nie posiadające osobowości prawnej.Termin płatności składek oraz złożenia deklaracji przez pracodawców zatrudniających pracowników.Zapłata zryczałtowanego podatku dochodowego od przychodów ewidencjonowanych.Termin zapłaty zaliczki na podatek dochodowy przez osoby prawne.Oblicz wysokość pensji netto, należne składki oraz podatek.Korzystanie z portalu oznacza akceptację regulaminu.  Polityka cookies   |   Polityka prywatności 

@@ -1,0 +1,327 @@
+Napędy pojazdów elektrycznych
+Rower elektryczny z
+silnikiem w piaście koła
+Samochody elektryczne Pana
+Zbigniewa z Gdańska 
+Zdjęcie autobusu elektrycznego,
+używanego w mieście Tarbes we Francji jako BEZPŁATNY środek lokomocji w
+mieście. Autobusy te teoretycznie jeżdżą regularnie co 10 minut na
+trasie z dworca
+kolejowego do centrum miasta. Są chyba tylko dwa takie autobusy
+jeżdzące na tej trasie naprzemiennie. Autobus osiąga prędkość
+maksymalną 30 km/h. Ponieważ w centrum miasta w godzinach szczytu
+samochody nie poruszają się dużo szybciej, autobusik elektryczny mógłby
+być konkurencyjny dla samochodów gdyby miał wydzielony pas ruchu,
+niestety w centrum
+miasta nie ma na to mejsca i w związku z tym jazda tym autobusem
+zajmuje tyle czsu co samochodem. Jednyie w autobusie nie słychać hałasu
+silnika. Trasa, ktora pokonuje wynosi w jedna
+strone okolo 2.5 km. 
+Zdjęcie Melexa, który
+pracuje na dwrcu kolejowym w Lourdes we Francji.
+Stanowisko laboratoryjne
+znajdujące się na
+Politechnice Gdańskiej, którego głównym elementem składowym
+jest silnik elektryczny przeznaczony do napedu roweru.Do napędu np. roweru
+elektrycznego może nadawć się również silnik reluktancyjny
+przełączalny. Tutaj można znaleźć zdjęcia takiego silnika wykonanego na
+Politechnice Gdańskiej.Artykuł z jakiegoś czasopisma o rowerze elektrycznym wykonanym
+na Politechnice Świętokrzyskiej.Artykuły z konferencji International
+Conference on Clean, Efficient & Safe Urban Transport
+CESURA'03 o pojazdach elektrycznych: artykuł 1, artykuł 2, artykuł
+3.Jaki
+silnik wybrać do
+napedu pojazdu elektrycznego?
+Konstruktorzy pojazdów elektrycznych stają w pewnym momencie
+przed pytaniem: jaki silnik wybrać do napędu pojazdu elektrycznego? Do
+budowy pojazdów elektrycznych stosuje sie obecnie silniki:
+1. Prądu stałego:
+    - komutatorowe ze wzbudzeniem elektromagnetycznym,
+    - komutatorowe ze wzbudzeniem magnesami trwałymi.
+2. Prądu zmiennego trójfazowe:
+    - asynchroniczne klatkowe,
+    - synchroniczne z trapezoidalnym kształtem siły
+elektromotorycznej - znane też jako silniki bezszczotkowe, BLDC,
+Brushless DC Mortor,
+    - synchroniczne z sinusoidalnym kształtem
+siły elektromotorycznej - Permanet Magnet Synchronous Motor, PMSM,
+    - synchroniczne reluktancyjne przełączalne.
+Do napędu pojazdu elektrycznego
+nadaje się każdy z tych silników zarówno do napędu bezpośredniego jak i
+pośredniego czyli z użyciem przekładni. Warunkiem jest odpowiedni dobór
+mocy, prędkości i momentu obrotowego silnika. Dobór silnika będzie
+decydował o osiagach pojazdu. 
+Silniki prądu stałego nie wymagają przetwornicy energoelektronicznej,
+można zasilać je bezpośrednio z przełączalnych akumuatorów lub stosując
+oporniki rozruchowe. Ale jest to rozwiązanie bardzo mało praktyczne i
+uniemożliwiające późniejsze kształtowanie parametrów napędu.
+Każdy z  silników prądu zmiennego wymaga przetwornicy
+energoelektronicznej. W praktyce powinna być ta przetwornica sterowana
+mikroprocesorowo bo tylko wtedy jest mozliwość dowolnego kształtowania
+parametrów napędu elektrycznego pojazdu elektrycznego.
+Silniki z magnesami trwałymi mają większą sprawność od silników bez
+magnesów ale tylko w zakresie prędkości od 0 do prędkości znamionowej.
+W takim zakresie prędkości nie muszą pobierać prądu z akumulatorów na
+wzbudzenie silnika. Niestety jeśli chce się wymusić wyższą od
+znamionowej prędkość obrotową silnika to sprawność silnika z magnesami
+trwałymi maleje. Przy prędkościach większych od znamionowej czyli w II
+strefie regulacji musi być pobierany dodatkowy prąd z
+akumulatora, który będzie wytwarzał strumień magnetyczny osłabiający
+strumień pochodzący od magnesów trwałych. 
+Prawidłowo dobrany silnik elektryczny do napędu pojazdu elektrycznego
+powinien mieć możliwość pracy w dwóch srefach regulacji: strefie I
+czyli poniżej prędkości znamionowej oraz w strefie II czyli powyżej
+prędkości znamionowej. Zapewni to dopasowanie silnika do
+charakterystyki momentu oporowego odpowiadjącej pojazdowi
+samochodowemu. 
+Aktualny punkt pracy silnika wynika z
+zadanej prędkości pojazdu oraz z
+aktualnego momentu oporoweg czyli oporu jaki napotyka pojazd. Przy
+prędkości mniejszej od
+znamionowej punkt pracy silnika elektrycznego na charakterystyce
+mechanicznej ograniczony jest maksymalnym momentem silnika - tzw.
+obszar pracy ze stałym momentem. Przy prędkości
+wyższej od znamionowej punkt pracy silnika ograniczony jest maksymalną
+mocą silnika i na charakterystyce mechanicznej ograniczony jest krzywą
+opisaną wzorem M=P/w, gdzie w to predkość silnika przy stałej mocy
+P=const.
+Rozpatrując dopuszczalny obszar pracy sinika trzeba uwzględnić to, że
+ten obszar pracy może się zmieniać z uwagi na to, że silnik elektryczny
+można na pewien czas przeciążyć. W kartach katalogowych silników podaje
+się wartość przciążalności silnika i określa sie czas na jak długo
+można silnik elektryczny przeciążyć. Np. dla silnika asynchronicznego
+klatkowego przeciążalność wynosi około 3 razy moment znamionowy silnika.
+Przechodzenie w II strefę regulacji
+komplikuje układ sterowania ale
+jeśli zrezygnujemy
+z zakresu dużych prądości obrotowych to silnik zastosowany w pojeździe
+będzie przewymiarowany tj. za duży i co za tym idzie za ciężki.
+I tutaj interesującą alternatywą staje się klasyczny silnik
+asynchroniczny. Silnik taki ma sprawnośc około 80%, ale są również
+produkowane silniki asynchroniczne o wysokiej sprawności około 90%. Np.
+produkuje takie silniki firma INDUKTA: http://www.indukta.com.pl/ -
+tzw. silniki o podwyższonej sprawności. 
+Rozważając tak sprawność widać, że silniki z magnesami trwałymi nie są
+wcale tak atrakcyjne jeśli dodatkowo uwzględni się ich wysoką, w
+porówaniu np z silnikami asynchronicznymi klatkowymi, cenę.
+Odnośnie napięcia zasilania silnika to każdy silnik można nawinąć tak
+aby dopasować go do poziomu napięcia zasilania z akumulatorów. Jednak
+najtańszym rozwiązaniem jest użycie silnika na standardowe napięcie
+zasilania. Wydaje się, że najłatwiej jest zastosować napięcie
+akumulatorów 300V i standardowy silnik klatkowy 380/220 połączony w
+trójkąt. Jest wtedy możliwość wykorzystania standardowego falownika z
+tranzystorami IGBT do zasilania silnika asynchronicznego.
+Uwaga 1:
+Przekształtnik do silnika prądu stałego ma większą sprawność niż
+przekształtnik do silnika prądu zmiennego. Wynika to z tego, że w
+przypadku napędu prądu stałego jest włączony tylko jeden tranzystor w
+szereg z uzwojeniem silnika, natomiast w napędzie prądu zmiennego są
+zawsze dwa tranzystory włączone w szereg z uzwojeniem silnika. W
+praktyce jednak oba przekształtniki mają dużą sprawność rzędu 90% i
+bardziej znaczące są w tym przypadku sprawności silników. 
+Uwaga 2:
+Dla konstruktorów, którzy chcą zbudować pojazd elektryczny możliwie
+najtaniej i najprościej właściwe będzie wybranie rozwiązania z
+silnikiem szeregowym z wózka widłowego i przerywacza tranzystorowego
+tak jak to zrobiono w pojazdach:  http://www.samochodyelektryczne.pl/,
+http://atol.wsm.gdynia.pl/ev/index.html,
+http://www.autoelektryczne.com/.
+Moc
+pobierana przez silnik z akumulatorów
+Pak=Ps/sprS=5010 W
+Pobór
+prądu z akumulatorów
+Jak=Pak/Uak=60 A
+Czas
+jazdy samochodu elektrycznego przy prędkości V
+t=Qak/Jak=3 godz
+Zasięg
+jazdy pojadu elektrycznego
+S=V*t=150 kmObliczony zasięg
+jazdy samochodu elektrycznego o parametrach wymienionych w założeniach
+wynosi 150 km. 
+Zapotrzebowanie na energię takiego pojazdy wynosi więc zaledwie 100
+Wh/km!!!
+Uwaga 1:
+Rzeczywisty zasięg jazdy samochodu elektrycznego w podanych warunkach
+bedzie jednak w
+rzeczywistosci mniejszy co wynika z tego, że rzeczywista pojemność
+akumulatorów bedzie mniejsza a pobór pradu większy niż obliczony.
+Wynika to z tego, że
+dla akumulatorów trakcyjnych pojemność akumulatorów podawana jest dla
+rozładowania pradem 20 lub 5 godzinnym a w przykładzie obliczono czas
+rozładowania mniejszy od 3 godz. Przy szybszym rozładowaniu pojemność
+akumulatorów jest mniejsza niż podana w założeniach. Pobór prądu będzie
+większy niż obliczony, gdyż przy obciążeniu akumulatórw napięcie na
+nich jest mniejsze od znamionowego i aby silnik mógł wytworzyć pożądaną
+moc na wale przy niższym napięciu zasilania musi pobrać więcej prądu.
+Trzeba pamiętać też o tym, że nie zna się najczęściej sprawności
+silnika, gdyż ta która podawana jest na tabliczce znamionowej silnika
+jest największą sprawnością, która jest tylko przy obciążeniu
+znamionowym silnika. Przy mniejszym obciążeniu silnika sprawność
+silnika jest mniejsza co należałoby uwzględnić w obliczeniach.
+Uwaga 2:
+Jak można zauważyć duży wpływ na zasięg samochodu ma współczynnik
+tarcia zależny od jakości odrogi ale też od kół pojazdu. Zwiększenie
+ciśnienia w ogumieniu i zastosowanie węższych opon zmniejszy ten
+współczynnik a tym samym wydłuży zasięg pojazdu. Również zmniejszenie
+masy pojazdu pomoże w wydłużeniu zasięgu jazdy oraz zmniejszenie
+współczynnika Cx jednak zarówno masę jak i Cx można praktycznie zmienić
+tylko na etapie projektowania pojazdu.
+Uwaga 1:
+Gdyby do ładowania akumulatorów
+pojazdu wykorzystać prąd w taryfie
+nocnej w przypadku posiadania licznika dwutaryfowego, przy
+którym cena jednostkowa energii wynosi 0.186 zł (III.2007) to wówczas koszt przejechania 100 km
+pojazdem elektrycznym będzie mniejszy i wyniesie zaledwie 1.98 zł.
+Dobrej jakości akumulatory trakcyjne
+utrzymują swoją pojemność przez 500 cykli pracy. Cena jednego dobrej
+jakości akumulatora trakcyjnego o pojemności 180 Ah i napieciu 6 V
+wynosi 370 zł (III.2007). Takich akumulatorów o napięciu 6V musi
+być 14 aby uzyskać
+napięcie 84V. Daje to koszt zakupu akumulatorów 5180 zł. Na jednym
+cyklu
+pracy akumulatorów samochód elektryczny powinien przejechać 150 km,
+więc przez 500
+cykli pracy powinien przejechać 75 tys. km.
+Zatem koszt amortyzacji akumulatorów
+w przeliczeniu na 100 km wyniesie 6.9zł. Uwzględniając zatem
+koszt zużycia energii elektrycznej w nocnej taryfie (1.98 zł za 100km)
+przy ładowaniu akumulatorów oraz
+koszt amortyzacji akumulatorów to otrzyma się koszt przejechania 100 km wynoszący około
+8.9 zł.
+Przy założeniu, że cena benzyny wynosi 3.90 zł (III.2007) to odpowiada
+to użytkowaniu samochodu spalinowego o zużyciu paliwa 2.3 l/100 km.
+Przy samochodzie spalinowym dochodzą jednak jeszcze przynajmniej kosztu
+wymiany oleju silnikowego i przeglądów silnika spalinowego. Stanowi to
+więc o znaczącej konkurencji samochodu elektrycznego w stosunku do
+samochodu
+spalinowego.
+Znalezione w sieci odnośniki
+dla zainteresowanych budową małych pojazdów elektrycznychStrona o pojazdach elektrycznych Pana Zbigniewa Kopcia http://www.samochodyelektryczne.pl/
+(pomoc w przerabianiu pojazdów spalinowych na pojazdy elektryczne,
+sprzedaż części, naprawy)
+Elektryczny Ford - praca dyplomowa studentów  z Akademii Morskiej
+w Gdyni http://ev.am.gdynia.pl/
+Elektryczny Wartburg http://www.autoelektryczne.com/
+Różne pojazdy elektryczne, m.in. samobieżny pojazd elektryczny - napęd
+bezpośredni z dwoma wolnoobrotowymi silnikami asynchronicznymi
+zasilanymi z dwóch falowników tranzystorowych, napięcie akumulatorów
+288V http://www.ely.pg.gda.pl/kane/galeria.html 
+
+Samochody elektryczne http://www.samochody-elektryczne.pl/
+Konwersja aut na EV http://samochody-elektryczne.com
+Samochody elektryczne http://www.samochodyelektryczne.org/
+Elektryczny Fiat 126p http://elbee.pl/
+Wygodne, półpoziome rowery elektryczne http://sites.google.com/site/ergodrive/
+Pojazdy alternatywne elektryczne i hybrydowe http://www.erower.prv.pl
+Chińskie silniki do pojazdów elektrycznych http://www.Crystalyte.com 
+Napędy elektryczne do wszelkiego typu rowerów http://www.ekonapedy.com/
+(dystrybutor napędów rowerowych Crystalyte w Polsce)
+Dystrybutor napędów rowerowych Crystalyte w Nowej Zelandii http://www.nzecobikes.co.nz/
+Strona dr. Litwina z Wydziału Oceanotechniki i Okrętownictwa
+Politechniki Gdańskiej http://www.pg.gda.pl/~wlitwin/
+(Łodzie z napedem elektrycznym zasilane energią słońca, solar powered
+boat, łodzie z napędem mięśniowym, )
+Samochód elektryczno - spalinowy http://www.espa.prv.pl
+Silniki elektryczne małej mocy http://www.elcar.com.pl/
+Kompletne rowery elektryczne z silnikiami pradu stalego z magnesami
+trwalymi o malych mocach 180W, 250W http://www.interbike.com.pl
+Polski samochód elektryczny rodem ze Szwajcarii IMPACT AUTOMOTIVE (Trójkołowy,
+dwuosobowy elektryczny pojazd SAMII w układzie tandem) 
+Riksze www.workbike.org/zero/index.html
+
+Rowery poziome   republika.pl/poziome/techno3.htm
+
+Rowery poziome   republika.pl/poziome/index.html
+
+Rower trójkołowy http://rydze.internetdsl.pl/trixo/index.htm
+
+Trókołowce poziome         www.windcheetah.co.uk 
+Electric Bikes - linki         www.electric-bikes.com 
+Elementy do rowerów i skuterów elektrycznych (m.in. silniki) http://www.electricbikessys.com/
+
+Lekkie silniki i prądnice z wirnikiem tarczowym do pojazdów
+elektrycznych http://www.perm-motor.de/
+Lekkie silniki DC z komutatorem i magnesami trwałymi (silnik E-Tek) http://www.greenspeed.us/electric_scooter_e-tek_motor.htm 
+http://www.specialtyvehiclesonline.com/eprints/briggsandstratton.htm
+
+Napęd ręczno-nożny         www.rowbike.com 
+Porady rowerowe         www.rowery.org.pl/porady.htm
+
+Rowery Poziome         www.rowerypoziome.z.pl 
+Rower elektryczny http://www.e-rower.kod.com.pl/
+Trzykołowy pojazd napędzany elektrycznie TWIKE 
+- dwie osoby siedzące obok siebie i możliwość wspomagania napędem
+mięśniowym
+Bardzo ciekawy trzykołowy pojazd napędzany elektrycznie CREE - dwie osoby w układzie tandem
+Pojazdy elektryczne z USA SPARROW , MERLIN
+Motory, motorowery i rowery elektryczne z USA  http://www.greenspeed.us/
+Producent rowerów z napędem elektrycznym Charger Electric Bicycles
+Miniskuter z napędem elektrycznym Citybug
+Szybki rower elekryczny Slipstream
+Electric
+Bike
+Chińskie rowery elektryczne http://www.china-ebike.com/
+Wolnoobrotowe silniki bezszczotkowe http://www.hsk.com.pl/silniki_main.html
+Warsztat rowerów nietypowych w Sierakowicach http://www.trop.prv.pl/
+Regulatory prędkości do silników AC i DC w pojazdach
+elektrycznych http://www.curtisinst.com
+
+Wyposażenie do pojazdów z zasilaniem akumulatorowym http://www.sevcon.com/
+Polski producent elektrycznych wózków golfowych http://www.melex.com.pl
+Skup i przedaż używanych melexów  http://www.melexem.com
+  lub http://www.melexem.republika.pl/
+Napędy elektryczne do wszelkiego typu rowerów http://www.ekonapedy.com/ 
+Ekologiczne pojazdy http://darmowa-energia.eko.org.pl/pliki/ekoauto.html
+
+Darmowa energia http://darmowa-energia.eko.org.pl/
+
+Forum konstruktorów pojazdów elektrycznych http://forum.arbiter.pl/
+Baterie przemysłowe http://www.baterie.com.pl/
+
+O pojazdach elektrycznych http://www.xdave.webpark.pl/
+
+Własne konstrukcje pojazdów elektrycznych w Polsce http://www.xlabs.anubisdev.com/polskiepoj.html
+Pojazdy elektryczne http://ueiep.iee.put.poznan.pl/absolwenci2002/fdankowski/
+
+Rowerem po szynach http://rrbike.freeservers.com/
+
+Fabryka Maszyn w Leżajsku - producent przemysłowych wózków
+elektrycznych http://www.fml.intertele.pl/
+Dane silników stosowanych w Melexach i przemysłowych wózkach
+elektrycznych (silniki są polskie najprawdopodobniej z firmy BISON-BIAL ale jedyne dane jakie
+znalazłem są na stonie sprzedawcy w Rosji) http://www.oktais.ru/engines/_index.htm
+Amerykańskie wózki golfowe http://www.lincolngolf.com/index.htm
+Elektryczny rower górski http://www.users.freenetname.co.uk/~cookm/noisy/bike.htm
+Różne pojazdy elektryczne fabryczne, modyfikowane i całkowicie własnej
+produkcji http://www.austinev.org/evalbum/index.html
+Zbiór różnych rowerów elektrycznych http://electric-bicycle-experiments.com/
+Elektryczny dragster http://www.elteknik.chalmers.se/~dragster/
+Części do różnych wóżków golfowych, m.in. mocniejsze silniki DC do
+Melexa http://www.cartszone.com/
+Forum elektryczne i elektroniczne, m.in. o pojazdach elektrycznych http://www.elektroda.pl/
+Amerykańskie wózki golfowe Club Car - dystrubutor w Polsce http://www.electrocar.pl/
+Prototypy samochodów elektrycznych http://www.elweb.info/data/prototypen.htm
+Mitsubishi z silnikami elektrycznymi w kołach http://www.elweb.info/data/mitsubishi/lancer2005/
+Autobusy elektryczne z bateriami litowymi http://www.thunder-sky.com/en/vehicle.htm
+Zasięgi pojazdów elektrycznych http://pubs.acs.org/hotartcl/cenear/971013/electric.html
+Silnik elektryczny w kole samochodu http://www.e-traction.com/TheWheel.htm
+Pojazdy elektryczne w UK http://www.evuk.co.uk/
+m.in. super rowerek elektryczny http://www.evuk.co.uk/hotwires/rawstuff/art58.html
+opisany dokładniej również tutaj http://www.austinev.org/evalbum/465.html
+Hiszpańska strona o pojazdach elektrycznych http://www.adts.info/rallysolar2003/participans.htm
+Pojazdy elektryczne i mięśniowe http://www.didik.com/
+
+Niemieckie napędy do rowerów elektrycznych Heinzmann 
+Elektryczne samochodziki,
+motorowery, rowery itp. ZAP
+Electric Bikes
+Amerykańskie baterie trakcyjne m.in. stosowane w Melexach http://www.trojanbattery.com/
+Amerykańska strona o pojazdach
+elektrycznych http://www.ev-america.com
+Program ADVISOR do symulacji m.in. pojazdów elektrycznych i
+hybrydowych z wykorzystaniem Matlaba i Simulinka http://www.ctts.nrel.gov/analysis/
+Symulator do pojazdów elektrycznych ETDSim http://www.enigmaindustries.com/EDTSim.htm
+Bardzo szczegółowy opis konwersji napędu samochodu spalinowego na
+elektryczny z Nowej Zelandii http://www.kiwiev.com/

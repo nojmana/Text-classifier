@@ -1,0 +1,101 @@
+W niedzielne popołudnie (3 czerwca) na lubuskim odcinku drogi S3 doszło do pożaru samochodu osobowego. Na wyróżnienie zasługuje reakcja kierowców jadących tą drogą, którzy zjeżdżając na bok stworzyli tzw. "korytarz życia", dzięki czemu służby ratunkowe dojechały szybko na miejsce zdarzenia. 
+
+Zdjęcie
+
+
+
+
+Brawa dla kierowców. Świetnie wiedzieli, jak się zachować
+/ 
+
+
+
+
+
+
+
+
+
+
+
+Felietony
+ Czy ty też nie umiesz ułatwić przejazdu karetce?
+ 
+ 
+
+
+Na szczęście nikt nie ucierpiał. Ta sytuacja pokazuje jak ważna jest pomoc i ułatwienie służbom ratunkowym w sprawnym dotarciu do osób, które będą potrzebować pomocy - kierowcy w lubuskim wiedzą jak się zachować.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }Do pożaru samochodu doszło w niedzielne popołudnie (3 czerwca) na lubuskim odcinku drogi ekspresowej S3 w okolicach Międzyrzecza. Na miejsce natychmiast skierowano policyjne patrole, załogi straży pożarnej. Na wyróżnienie i słowa pochwały zasługuje reakcja kierowców jadących jezdnią na której doszło do pożaru. Chcąc pomóc straży pożarnej czy policji w szybkim dotarciu do miejsca zdarzenia zjechali na boki, tworząc tzw. "korytarz życia". Dzięki niemu straż pożarna szybko dotarła na miejsca i rozpoczęła gasić pożar. Na szczęście w zdarzeniu nikt nie ucierpiał, a kierowca osobowego renault i pasażer zdążyli opuścić pojazd i odejść w bezpieczne miejsce.
+Czas odgrywa bardzo ważną rolę działaniach ratowniczych. Szybkie, sprawne dotarcie na miejsce policji, straży pożarnej czy pogotowia ratunkowego i udzielenie pomocy może decydować o czyimś zdrowiu czy życiu. Zwłaszcza w kontekście wypadków drogowym, gdy poszkodowani mogą być zakleszczeni w autach i oczekiwać na pomoc. W przypadku wystąpienia wypadku na drodze robi się korek, który zwłaszcza na autostradach czy drogach ekspresowych może zatamować ruch na wiele godzin. 
+
+
+Zdjęcie
+
+
+
+
+Tak należy tworzyć korytarz życia
+/ 
+
+
+
+
+
+
+
+
+
+
+
+ Korytarz życia będzie prawnie uregulowany
+ 
+ 
+
+
+Jako kierowcy pamiętajmy, że swoim zachowaniem możemy pomóc służbom ratunkowym w szybkim dotarciu na miejsce zdarzenia. "Korytarz życia" jest stosowany w wielu europejskich państwach, coraz częściej także w Polsce. Jeśli jesteś kierowcą i widzisz, że droga przed Tobą zaczyna się korkować - zjedź na pobocze, pozostawiając między autami przestrzeń umożliwiającą przejazd pojazdów służb ratunkowych. W przypadku, gdy droga ma dwa pasy, kierowcy na lewym zjeżdżają zawsze - na lewo, kierowcy na pozostałych pasach - na prawo. W ten sposób tworzy się szeroki pas, którym służby ratunkowe mogą dojechać do poszkodowanych i poruszać się w obu kierunkach. W tego typu sytuacjach istotne jest również czujne obserwowanie otoczenia. Kierowca powinien zerkać w lusterka, sprawdzając czy nie nadjeżdża pojazd uprzywilejowany. Pamiętajmy o naszym bezpieczeństwie i bezpieczeństwie pasażerów jadących z nami.
+Sytuacja z niedzieli pokazuje, jak ważna jest pomoc i ułatwienie służbom ratunkowym w sprawnym dotarciu do osób, które będą potrzebować pomocy - kierowcy w lubuskim wiedzą jak się zachować.
+
+Wideo
+
+Odtwarzacz wideo wymaga uruchomienia obsługi JavaScript w przeglądarce. 
+
+
+
+Korytarz życia
+Policja
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('player2491630-3659503');
+                var $embed = jQuery('#player2491630-3659503').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ Na szczęście nikt nie ucierpiał. Ta sytuacja pokazuje jak ważna jest pomoc i ułatwienie służbom ratunkowym w sprawnym dotarciu do osób, które będą potrzebować pomocy - kierowcy w lubuskim wiedzą jak się zachować.Do pożaru samochodu doszło w niedzielne popołudnie (3 czerwca) na lubuskim odcinku drogi ekspresowej S3 w okolicach Międzyrzecza. Na miejsce natychmiast skierowano policyjne patrole, załogi straży pożarnej. Na wyróżnienie i słowa pochwały zasługuje reakcja kierowców jadących jezdnią na której doszło do pożaru. Chcąc pomóc straży pożarnej czy policji w szybkim dotarciu do miejsca zdarzenia zjechali na boki, tworząc tzw. "korytarz życia". Dzięki niemu straż pożarna szybko dotarła na miejsca i rozpoczęła gasić pożar. Na szczęście w zdarzeniu nikt nie ucierpiał, a kierowca osobowego renault i pasażer zdążyli opuścić pojazd i odejść w bezpieczne miejsce.Czas odgrywa bardzo ważną rolę działaniach ratowniczych. Szybkie, sprawne dotarcie na miejsce policji, straży pożarnej czy pogotowia ratunkowego i udzielenie pomocy może decydować o czyimś zdrowiu czy życiu. Zwłaszcza w kontekście wypadków drogowym, gdy poszkodowani mogą być zakleszczeni w autach i oczekiwać na pomoc. W przypadku wystąpienia wypadku na drodze robi się korek, który zwłaszcza na autostradach czy drogach ekspresowych może zatamować ruch na wiele godzin. Jako kierowcy pamiętajmy, że swoim zachowaniem możemy pomóc służbom ratunkowym w szybkim dotarciu na miejsce zdarzenia. "Korytarz życia" jest stosowany w wielu europejskich państwach, coraz częściej także w Polsce. Jeśli jesteś kierowcą i widzisz, że droga przed Tobą zaczyna się korkować - zjedź na pobocze, pozostawiając między autami przestrzeń umożliwiającą przejazd pojazdów służb ratunkowych. W przypadku, gdy droga ma dwa pasy, kierowcy na lewym zjeżdżają zawsze - na lewo, kierowcy na pozostałych pasach - na prawo. W ten sposób tworzy się szeroki pas, którym służby ratunkowe mogą dojechać do poszkodowanych i poruszać się w obu kierunkach. W tego typu sytuacjach istotne jest również czujne obserwowanie otoczenia. Kierowca powinien zerkać w lusterka, sprawdzając czy nie nadjeżdża pojazd uprzywilejowany. Pamiętajmy o naszym bezpieczeństwie i bezpieczeństwie pasażerów jadących z nami.Sytuacja z niedzieli pokazuje, jak ważna jest pomoc i ułatwienie służbom ratunkowym w sprawnym dotarciu do osób, które będą potrzebować pomocy - kierowcy w lubuskim wiedzą jak się zachować.MuzykaŚwiat serialiwww.rmf24.plKobietaEuroSportKobietaKobietaEuroSportKobietaKobietaKobietawww.rmf24.plEuroSportKobietapomponik.plwww.rmf24.pl
+                                                                            Wydajne sprężarki przemysłowe CompAir.                                                                    
+                                                                            Internetowe ABC pierwszej pomocy. Byłeś świadkiem wypadku? Nie wiesz jak zachować się w takiej...                                                                    
+                                                                            Z nami wszystkie drogi prowadzą do Warszawy! Nie zgub się w stolicy.                                                                    
+                                                                            Nie wiesz kiedy zaplanować urlop? Nasza pogoda długoterminowa pomoże Ci podjąć decyzję!                                                                    
+                                                                            Jesteś fanem NBA? Zobacz najświeższe relacje.                                                                    
+                                                                            Tu znajdziesz najświeższe, nowe wyniki losowania lotto i dużego lotka.                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

@@ -1,0 +1,91 @@
+(fot. Radio Wrocław)– Zapaleniu uległy samochody, zgromadzone na placu – mówi młodszy kapitan Krzysztof Zakrzewski, oficer prasowy Państwowej Straży Pożarnej w Jeleniej Górze.
+
+
+
+
+
+play
+pause
+stop
+
+
+
+
+
+
+
+																Aby odsłuchać załączonego dźwięku zaktualizuj przeglądarkę lub/i wtyczkę Adobe Flash Player.
+															
+
+$(document).ready(function(){
+														var myPlayer = $("#jquery_jplayer_rptrv37f1"),
+															myPlayerData,
+															options = {
+																ready: function (event) {
+																	if(event.jPlayer.status.noVolume) {
+																		$(".jp-gui").addClass("jp-no-volume");
+																	}
+																	$(this).jPlayer("setMedia", {
+																		mp3: "http://www.radiowroclaw.pl/img/articles/78006/Jelenia-Gora-Pozar-na-terenie-firmy-recyklingowej-1.mp3"
+																	});
+																},
+																timeupdate: function(event) {
+																	myControl.progress.slider("value", event.jPlayer.status.currentPercentAbsolute);
+																},
+																swfPath: "/js/jplayer",
+																supplied: "mp3",
+																cssSelectorAncestor: "#jp_container_rptrv37f1",
+																wmode: "window",
+																keyEnabled: true
+															},
+															myControl = {
+																progress: $(options.cssSelectorAncestor + " .jp-progress-slider"),
+															};
+
+															myPlayer.jPlayer(options);
+
+															myPlayerData = myPlayer.data("jPlayer");
+
+															var wwidth = $(options.cssSelectorAncestor).closest("div.jqplayer").width();
+																													
+															$("div.jplayer_player").width(wwidth);
+															$("div.jp-gui").width(wwidth-12);
+															var pwidth = wwidth;
+															$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+																																													
+															$(".jp-gui ul li").hover(
+																function() { $(this).addClass("ui-state-hover"); },
+																function() { $(this).removeClass("ui-state-hover"); }
+															);
+
+															myControl.progress.slider({
+																animate: "fast",
+																max: 100,
+																range: "min",
+																step: 0.1,
+																value : 0,
+																slide: function(event, ui) {
+																	var sp = myPlayerData.status.seekPercent;
+																	if(sp > 0) {
+																		myPlayer.jPlayer("playHead", ui.value * (100 / sp));
+																	} else {
+																		setTimeout(function() {
+																			myControl.progress.slider("value", 0);
+																		}, 0);
+																	}
+																}
+															});
+
+															$( window ).resize(function() {
+																var wwidth = $("#contentContainer #content .mainArticleContainer .articleContent").width();
+																$("div.jplayer_player").width(wwidth);
+																$("div.jp-gui").width(wwidth-12);
+																var pwidth = wwidth;
+																$(options.cssSelectorAncestor + " .jp-progress-slider").width(pwidth - 100);
+															});
+														
+														});
+														
+Na miejscu pożaru jest policja i inspekcja ochrony środowiska. Śledczy ustalają przyczyny pożaru, nie wyklucza się podpalenia.#PILNE: Pożar na terenie skupu złomu przy ulicy Karola Miarki w Jeleniej Górze.Foto. Jelenia Góra 998 pic.twitter.com/QZK9fhLlhs
+
+(fot. JeleniaGora998)LipiecWrzesieńzamknijStrona korzysta z plików cookies w celu realizacji usług i zgodnie z Polityką Plików Cookies. Możesz określić warunki przechowywania lub dostępu do plików cookies w Twojej przeglądarce.500+ to nic, na zachodzie dają więcej!Co ciekawe, w większości przypadków zasiłek można pobierać nawet na dzieci, które przebywają w Polsce, ALE nie łączy się on z polskimi świadczeniami. Jeśli rodzicom przysługuje zasiłek rodzinny lub 500+ w Polsce, kraj zachodni wypłaca jedynie różnicę między kwotą polskich zasiłków, a kwotą oferowaną za granicą.Źródło: Pracuj w Unii

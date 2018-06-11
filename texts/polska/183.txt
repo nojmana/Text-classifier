@@ -1,0 +1,56 @@
+Pokaż wszystkie miniatury
+Agata Maksymiuk
+
+
+          Data dodania:          
+            06.06.2018, 19:09
+          
+
+
+            Ostatnia aktualizacja:            
+              06.06.2018, 20:57
+            
+
+Zobacz galerięW ośmiopiętrowym obiekcie znajduje się 67 apartamentów i 2 tys. mkw powierzchni komercyjnej. Wejścia do nich pilnuje Concierge, którego zadaniem jest opieka nad obiektem i pomoc jego mieszkańcom i pracownikom w codziennych sprawach. To nowość na rynku szczecińskim - Cena metra kwadratowego w „Black Pearl” zaczyna się od 7700 złotych - mówi  Iwona Zielińska Członek Zarządu spółki Idea-Inwes. - Wpływ na to mają materiały użyte do budowy i wykończenia budynku.Dumą obiektu jest apartament na 8 piętrze o powierzchni 156 mkw, łączący się z 40 metrowym tarasem na dachu. Przestrzeń zajmuje całą ostatnią kondygnację. Winda docierająca na szczyt "Perły" jest dedykowana wyłącznie właścicielom tego lokalu.- Jesteśmy od początku naszej działalności mocno związani ze Szczecinem - opowiada Iwona Zielińska. - Dzięki budowie mamy okazję „oddać” miastu odtworzoną, historyczną ulicę Szczytową - deptak łączący aleję Niepodległości z ulicą Tkacką.Latem w pasażu „Szczytow” mają pojawić się ogródki gastronomiczne.   
+         PPAds.queue.push(function () {         var slot = PPAds.app.getSlot('srodek1');                            slot.appendResolution(300, 250);                                         });             Płaca minimalna znów wzrośnie. Wiemy ile więcej zaproponuje rząd!         10 czerwca ważne zmiany w rozkładzie PKP. Musisz je znać!        Sklepy otwarte w niedziele i zamknięte CZERWIEC 2018 WYKAZ NIEDZIEL    
+       var csRekomendacje = new ListaContentStream({         selector: {           boks: '.recomendations',           reklamy: '.recomendations li.cs'         },         szablon: '<a href="#href" title="#title">' +         '<figure class="image-box" >' +         '<img src="#src" alt="#title">' +         '</figure>' +         '<div class="title-cs">' +         '<h3 class="title">#title</h3>' +         '#add' +         '</div>' +         '</a>',         szablonReklama: '<span class="mark">sponsorowane</span>',         ile: 1       });     
+          {           'onsuccessFunctionName' : 'csRekomendacje.emisjaSukces',           'onerrorFunctionName' : 'csRekomendacje.emisjaBlad'         }        
+Zobacz także: Czarna Perła już na finiszu. Apartamentowiec robi wrażenie [ZDJĘCIA]
+
+        6 zdjęć         Czarna Perła już na finiszu. Apartamentowiec robi wrażenie [ZDJĘCIA]   fot. Sebastian Wołosz                                  
+        19 zdjęć         Tak wygląda centrum Szczecina z dachu Czarnej Perły [ZDJĘCIA]   fot. Andrzej Szkocki       
+
+        6 zdjęć         Czarna Perła już na finiszu. Apartamentowiec robi wrażenie [ZDJĘCIA]   fot. Sebastian Wołosz                                  
+        19 zdjęć         Tak wygląda centrum Szczecina z dachu Czarnej Perły [ZDJĘCIA]   fot. Andrzej Szkocki       
+Rozpowszechnianie niniejszego artykułu możliwe jest tylko i wyłącznie
+                  zgodnie z postanowieniami „Regulaminu
+                  korzystania z artykułów prasowych” i po wcześniejszym uiszczeniu należności, zgodnie
+                  z cennikiem.
+                
+art-b 
+ 7 czerwca, 06:36
+
+
+                      Wygląda jak stary, komunistyczny biurowiec i jeszcze ten szpetny widok z okien.                         
+Bartek S 
+ 6 czerwca, 23:11
+
+
+                      Twój stary pali gumę z bletek, przecież maratonu nie zburzą bo jest wpisany do UNESCO.                       
+gg 
+ 6 czerwca, 19:32
+
+
+                      budynek moglbyc sporo dluzszy gdyby nie janusz biznesu od hurtowni obuwia, masakra   ,450 tysieczne miasto, centrum XXI a tam takie cos, no i ten bar tez do zaorania, przeciez oni mogli dalej te pseudo biznesy prowadzic w parterze budynku a tak mamy powietrze                        Tak jak przewidywaliśmy, na posiedzeniu Rady Ministrów w najbliższy wtorek -12 czerwca - rząd zdecyduje o wysokości minimalnego wynagrodzenia za pracę począwszy od 1 stycznia 2019 r. Jak ustaliliśmy, minister pracy będzie proponować podwyżkę o 150 zł. Oznacza to, że nowa stawka najniższego wynagrodzenia za pracę od nowego roku będzie wynosić co najmniej 2 250 zł, a minimalne wynagrodzenie godzinowe - 14,70 zł (czyli o 1 zł więcej niż obecnie).Kto wyrusza w podróż teraz i przez wakacje, musi być przygotowany na duże zmiany w rozkładach jazdy PKP. W niedzielę, 10 czerwca wprowadzone zostaną zmiany w rozkładzie jazdy pociągów. Korekta rozkładu umożliwi optymalną organizację ruchu kolejowego oraz realizację prac inwestycyjnych. Informacje o zmianach są dostępne na portalpasazera.pl, wkrótce będą dostępne na stacjach. PKP Intercity przygotowało nowe, wakacyjne połączenia do...Na lipcowej sesji Rady Miasta ma zostać przyjęty nowy plan zagospodarowania przestrzennego dla wyspy, na której znajduje się Plaża Mieleńska. 
+        tel.: 91 4813300
+jaroslaw.dziedzic@gs24.pl
+
+                      tel.: 697 770 133
+mateusz.dziuk@polskapress.pl
+Głos Szczeciński jest częścią:
+
+Polska Press Sp. z o.o.
+            informuje, że wszystkie treści ukazujące się w serwisie Głos Szczeciński podlegają ochronie.
+      Dowiedz się więcej.
+      Jesteś zainteresowany kupnem treści? Dowiedz się więcej.
+    © 2000 - 2018 Polska Press Sp. z o.o.

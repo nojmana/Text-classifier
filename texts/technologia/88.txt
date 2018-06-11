@@ -1,0 +1,36 @@
+Nie masz jeszcze konta? Mo¿esz zarejestrowaæ siê za darmo! Zapamiêtaj mnie | Zapomnia³em has³aNie masz jeszcze konta? Mo¿esz zarejestrowaæ siê za darmo! Zapamiêtaj mnie | Zapomnia³em has³a Kiedy¶ w latach 70 tak przystêpnie t³umaczono prawo Ohma. Znacie podobne obrazki? ¬ród³o:https://imgur.com/gallery/FUT5KmDTakie nijakie ale ...Hydrauliczne analogie tranzystorów  ¬ród³a:http://wortal.majsterkowicza.pl/wp-content/uploads/2010/02/tranzystory-hydraulika.gif http://avrkwiat.nstrefa.pl/omnie/zdjecia/tranzystor.jpgDobrych ilustracji dzia³ania takich zjawisk jest ma³o, ale mo¿na co¶ znale¼æ:Rezystancja i moc Regu³a prawej d³oni Regu³a lewej d³oni gulson napisa³: Kiedy¶ w latach 70 tak przystêpnie t³umaczono prawo Ohma. No na kursie na ¶wiadectwo kwalifikacji elektryczne (potocznie SEP) pan instruktor wla¶nie tym obrazkiem t³umaczy³ poniektórym co to napiêcie, pr±d czy rezystancja.W sumie mam wra¿enie, ¿e ten obrazek wiêcej Internetu zwiedzi³ ni¿ ja ¶wiata Jest te¿ kilka nowszych wersji:https://engineersforfuture.wordpress.com/2017/01/30/ohms-law/ http://www.murcal.com/resources/resources_advice_ohms_law.html https://www.ecigarettedirect.co.uk/ashtray-bl...ntent/uploads/2014/09/join-the-resistance.jpg https://www.ecigarettedirect.co.uk/ashtray-blog/2015/02/voltage-watts-ohms-vapers.html http://memebase.cheezburger.com/puns/tag/ohm  Tutaj moc w wersji komiksowej:https://xkcd.com/643/ Przyda³o by siê na elektrodzie takie co¶ raz na jaki¶ czas, tylko pytanie kto mo¿e pochwaliæ siê zdolno¶ciami rysunkowymi. gulson napisa³: Znacie podobne obrazki?  Sporo by³o takich rysunków w "Elektronika ³atwiejsza ni¿ przypuszczasz".Kilka skanów wrzuci³em tu:https://www.elektroda.pl/rtvforum/viewtopic.php?p=15644172#15644172  Warto do tego wracaæ, skoro nawet absolwenci szkó³ technicznych nie czaj± Ohma, Kirchoffa i innych ziomków... MiernikZKauflanda napisa³: W sumie mam wra¿enie, ¿e ten obrazek wiêcej Internetu zwiedzi³ ni¿ ja ¶wiata   Byæ mo¿e z jakiej¶ ksi±¿ki zapo¿yczy³em swój avatar, nie pamiêtam. Za du¿o tego przerzuca³em. £opatologicznie zagadnienia t³umaczyli ¿o³nierzom, niestety kursy po angielsku.https://www.youtube.com/playlist?list=PLAA9B0175C3E15B47 zgierzman napisa³: Warto do tego wracaæ, skoro nawet absolwenci szkó³ technicznych nie czaj± Ohma, Kirchoffa i innych ziomków...  W masowej kulturze, i powtarzaj± ten kretynizm ludzie uchodz±cy za elektroników / elektryków prawo Ohma jest wersji "pr±d rozchodzi siê po linii najmniejszego oporu", albo jeszcze bardziej "po najmniejszej linii oporu". Tu na elektrodzie te¿ dosta³em OPR od takich znawców. JacekCz napisa³: pr±d rozchodzi siê po linii najmniejszego oporu To niedobrze, ¿e dochodzi do nadinterpretacji, a wskutek nawet do ró¿nych herezji. Pó³ biedy kiedy powie tak uczeñ gimnazjum/liceum, ale nie zawodowy elektronik.  JacekCz napisa³: W masowej kulturze W masowej kulturze panuje ci±gle przekonanie, ¿e pr±d i napiêcie to jest to samo. Wy¿ej wspomniane zdanie to ju¿ science-fiction  MiernikZKauflanda napisa³:  JacekCz napisa³: pr±d rozchodzi siê po linii najmniejszego oporu To niedobrze, ¿e dochodzi do nadinterpretacji, a wskutek nawet do ró¿nych herezji.  Dok³adnie, spotyka³em siê z pogl±dem, ¿e pr±d bêdzie p³yn±³ TYLKO przez mniejszy z dwóch równoleg³ych rezystorów  Pozdrawiam 1repcaK napisa³:  MiernikZKauflanda napisa³:  JacekCz napisa³: pr±d rozchodzi siê po linii najmniejszego oporu To niedobrze, ¿e dochodzi do nadinterpretacji, a wskutek nawet do ró¿nych herezji.  Dok³adnie, spotyka³em siê z pogl±dem, ¿e pr±d bêdzie p³yn±³ TYLKO przez mniejszy z dwóch równoleg³ych rezystorów  Pozdrawiam   Czasem w samym ¶rodku nauk technicznych BARDZO mi siê cos skojarzy z humanistyk±. Zaiste ich retoryka by³a a¿ nazbyt parciana(Marek Tulliusz obraca³ siê w grobie)³añcuchy tautologii parê pojêæ jak cepydialektyka oprawców ¿adnej dystynkcji w rozumowaniusk³adnia pozbawiona urody koniunktiwu  Gustav Robert Kirchhoff przewraca siê grobie.Od 30 lat ten wiersz ma dla mnie wymiar mo¿na powiedzieæ kanoniczny czy biblijny, a szczególnie ten koniuktiw 1repcaK napisa³: Dok³adnie, spotyka³em siê z pogl±dem, ¿e pr±d bêdzie p³yn±³ TYLKO przez mniejszy z dwóch równoleg³ych rezystorów  Pozdrawiam Mniejszy - rozmiar, czy rezystancja ?Jak rozmiar to:Kto¶ móg³ mieæ racjê - w uk³adach Wcz, jak i w przetwornicach gdzie wystêpuj± szpilki o krótkim czasie, to przy rezystorach o tej samej rezystancji, ale ró¿nym rozmiarze lub mocy bêdzie du¿a ró¿nica, wp³yw na to ma indukcyjno¶æ rezystora  A je¶li chodzi o ró¿n± rezystancjê to ró¿nie mo¿e bywaæ, mo¿e wyst±piæ odwrotna sytuacja.A no racja, ale wtedy chodzi³o o inn± sytuacjê Wypowiedzi takich moich "studentów":1. Schemat ten sk³ada siê - rezystora przy, którym jest napiêcie i drugi rezystor. Dwustopniowy nastawienie napiêcia poniewa¿ rezystor (1) powoduje ¿e napiêcie maleje w tym uk³adzie2. Do rezystorów jest przy³±czony pr±d który powoduje spadek pr±du w obwodzie3. Pytanie jak to po³±czyæ? O: KablemP: Kablem??? Jakim kablem?O: Bezprzewodowym.
+wg mnie ma na to wp³yw moc wydzielana na ¿arówce,Na pewno zale¿y od przekroju przewodnika.
+
+Kiedy¶ o tym czyta³em.
+
+Opór ¿arnika w temperaturze po...
+
+(3)
+
+Teraz bêdziemy zajmowaæ siê prostymi obliczeniami. Bêd± nam do tego potrzebne nastêpuj±ce wzory:
+I = U / R - prawo Ohma
+P = I * U
+
+I - pr±d (ampe...
+
+(1)
+
+Witam wszystkich w drugiej czê¶ci kursu z serii "Pocz±tki elektroniki". Dzi¶ zajmiemy siê wszystkim, co zwi±zane jest z prawem Ohma czyli: oporem, nap...
+
+(4)
+
+Je¿eli chodzi o p³ynno¶æ ruchów (odwzorowanie zachowania owada) to nie widzia³em lepiej zrobionego robota ni¿ A-POD -> dla ciekawych link - s± w sprz...
+
+(4)
+
+
+
+W artykule tym, bêd±cym czê¶ci± cyklu "Podstawy uk³adów DAC" przyjrzymy si,ê dwóm, mocno zwi±zanym z sob± parametrom dynamicznym uk³adów przetw...
+
+(4)
+
+Moore'a, teoria, która jest mniej lub bardziej przydatna i prawdziwa dla przemys³u pó³przewodnikowego koñczy 50 lat.
+
+W opublikowanym 19 kwietnia 1...
+
+(1)

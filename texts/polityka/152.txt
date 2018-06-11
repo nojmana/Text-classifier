@@ -1,0 +1,16 @@
+Cze 08, 2018, 07:14Urząd podległy Mateuszowi Morawieckiemu próbuje tłumaczyć wzrost zatrudnienia realizacją nowych zadań czy przeniesieniem obowiązków, ale liczby mówią wszystko. Dobrosław Dobiat-Urbański – szef służby cywilnej podaje, że zatrudnienie w ośrodkach podległych premierowi znacznie wzrosło:– Rząd PO–PSL utrzymywał mniej więcej stałą liczbę urzędników w ministerstwach (12,3 – 12,5 tys. osób). Jeszcze w 2015 roku zatrudnienie w ministerstwach i KPRM wynosiło 12 345 osób, obecnie 12 847 osób – mówi w odpowiedzi na pytanie wicemarszałka Sejmu Stanisława Tyszki z Kukiz’15.Wedle „Rzeczpospolitej”, liczba pracowników w urzędach centralnych i na placówkach zagranicznych w czasie rządów PiS wzrosło w niewielkim stopniu. Z kolei w innych urzędach administracji rządowe pracuje teraz mniej urzędników.Mocno rozbudowuje się Kancelaria Premiera; od czasów ustąpienia Ewy Kopacz pracuje tam o 73 osoby więcej i liczba urzędników bezpośredniego zaplecza doszła do 604. Politolog, prof. Jarosław Flis z Uniwersytetu Jagiellońskiego mówi, że rozrost biurokracji ma stanowić swego rodzaju pokaz wpływów danego polityka:– Politycy przekonują się, że z biurokracją najłatwiej walczyć werbalnie, z ław opozycji. Gorzej, gdy ma się to zrobić w realu. Wynika to głównie stąd, że po dojściu do władzy trzeba „pomóc” wielu kolegom działaczom. Rangę polityka poznaje się po tym, ilu ludzi jest w stanie urządzić – komentuje w rozmowie z „Rzeczpospolitą”.Gazeta zaznacza, że rząd PiS zatrudnił również rekordową liczbę sekretarzy i podsekretarzy stanu – 96 osób. Dziennik przypomina, że działania te całkowicie rozmijają się z obietnicami: „PiS, choć krytykował rząd PO za nadużywanie liczby pełnomocników, w rządzie po dwóch latach rządów stał się rekordzistą w ich powoływaniu”. Ponadto, „Rzeczpospolita” zaznacza, że choć premier Mateusz Morawiecki zmniejszył liczbę wiceministrów o 20 proc., to część z nich pozostała w rządzie w randze pełnomocnika, ale z pensją wiceministra.za: onet.pl
+
+
+
+  var __nc_widgets = __nc_widgets || [];
+  var __nc_j = __nc_j || null;
+
+  __nc_widgets.push(['88F6-7C87-7DBF-DB1D-1esrNl', 'dzienniknarodowy.pl', 'recommendation', 1, 1]);
+
+  (function() {
+    var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';
+    __nc.src = '//nextclick.pl/widget/widget.recommendation.1.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);
+  })();
+
+

@@ -1,0 +1,67 @@
+1012Minister handlu USA Wilbur Ross oświadczył w czwartek, że jego kraj nakłada 25-proc. cła na stal i 10-proc. cła na aluminium na Unię Europejską, Kanadę i Meksyk. Taryfy będą obowiązywać od północy w piątek czasu w USA (godz. 6 rano w Polsce). 
+
+Zdjęcie
+
+
+
+
+Wilbur Ross (w środku)
+/AFP
+
+
+Podczas briefingu telefonicznego Ross cytowany przez agencję Reutera oznajmił, że gdy któraś ze stron podejmie kroki odwetowe, nie oznacza to, że nie będzie dalszych negocjacji. Minister dodał, że w czasie rozmów z europejskimi przywódcami osiągnięto w tej sprawie postęp, jednak niewystarczający, by UE nadal była wyłączona z wprowadzonych w marcu ceł.
+Reklamaif(typeof googletag != "undefined") {googletag.cmd.push(function () {googletag.display('dfp-rectangle');});}if (Inpl && typeof Inpl.adsSidebar === "function") {
+                Inpl.adsSidebar().pushAd({
+                    place: "dfp_rectangle",
+                    element: document.querySelector("#dfp-rectangle").parentElement
+                }).markAsLoaded();
+            }    "Czekamy na dalsze negocjacje, z jednej strony z Kanadą i Meksykiem, z drugiej z Komisją Europejską, ponieważ są inne sprawy, które również trzeba rozwiązać" - mówił Ross. 
+Wartość europejskich ceł nałożonych na produkty z USA ma wynieść 3 miliardy 300 milionów dolarów. Stany Zjednoczone importują z Europy 5 milionów ton stali rocznie. Amerykańskie cła zaporowe najbardziej uderzą w Niemcy, które eksportują do USA stal o wartości 1,8 miliarda dolarów. Skutki ceł odczują także Włochy, Wielka Brytania, Francja i Holandia. Eksport polskiej stali do USA jest niewielki i wynosi zaledwie 10 milionów dolarów rocznie. 
+
+
+Zdjęcie
+
+
+
+
+Huta aluminium w Biesheim we Francji
+/AFP
+
+
+
+Wideo
+
+var xlinkb493a9bd=document.createElement("script");xlinkb493a9bd.setAttribute("type","application/javascript"),xlinkb493a9bd.setAttribute("class","XlinkEmbedScript"),xlinkb493a9bd.setAttribute("data-url","//get.x-link.pl/2198f013-cf0d-e403-7018-28477411b2ab,72709f29-1e8c-585f-a37f-c400e0a55233,embed.html"),xlinkb493a9bd.setAttribute("data-width","575"),xlinkb493a9bd.setAttribute("data-height","350"),xlinkb493a9bd.setAttribute("src","//js.iplsc.com/inpl.xnews/1.0.1/xlink-i.js"),xlinkb493a9bd.setAttribute("async",!0),xlinkb493a9bd.onload=function(){var a=document.createElement("script");a.src="//js.iplsc.com/inpl.resize-xnews/1.0.0/inpl.resize-xnews.js",document.getElementsByTagName("head")[0].appendChild(a)};document.getElementsByClassName('xlinkb493a9bd')[0].appendChild(xlinkb493a9bd); 
+
+
+
+Szef MSZ Niemiec o polityce zagranicznej USA: Zachód się skurczył, Europa musi wzmocnić swoją pozycję
+
+
+
+        window.addEventListener('load', function() {
+                if (!(Inpl && Inpl.Video && Inpl.Video.getInstance && jQuery)) {
+                        return;
+                }
+
+                var player = Inpl.Video.getInstance('');
+                var $embed = jQuery('#').parents('.embed-video').eq(0);
+                var $title = $embed.find('.embed-work-detail-file-title');
+                var $source = $embed.find('.embed-work-detail-source');
+                if (!player || $title.length !== 1 || $source.length !== 1 ) {
+                        return;
+                }
+                player.on('trackindexchange', function () {
+                        var currentTrack = this.getCurrentTrack();
+                        if (currentTrack.isAd()) {
+                                return;
+                        }
+                        $title.html(currentTrack.param('title'));
+                        $source.html(currentTrack.param('srcsign'));
+                });
+        });
+ Podczas briefingu telefonicznego Ross cytowany przez agencję Reutera oznajmił, że gdy któraś ze stron podejmie kroki odwetowe, nie oznacza to, że nie będzie dalszych negocjacji. Minister dodał, że w czasie rozmów z europejskimi przywódcami osiągnięto w tej sprawie postęp, jednak niewystarczający, by UE nadal była wyłączona z wprowadzonych w marcu ceł.    "Czekamy na dalsze negocjacje, z jednej strony z Kanadą i Meksykiem, z drugiej z Komisją Europejską, ponieważ są inne sprawy, które również trzeba rozwiązać" - mówił Ross. Wartość europejskich ceł nałożonych na produkty z USA ma wynieść 3 miliardy 300 milionów dolarów. Stany Zjednoczone importują z Europy 5 milionów ton stali rocznie. Amerykańskie cła zaporowe najbardziej uderzą w Niemcy, które eksportują do USA stal o wartości 1,8 miliarda dolarów. Skutki ceł odczują także Włochy, Wielka Brytania, Francja i Holandia. Eksport polskiej stali do USA jest niewielki i wynosi zaledwie 10 milionów dolarów rocznie. EuroSportFaktyEuroSportFaktywww.rmf24.plwww.rmf24.plFaktywww.rmf24.plFaktyFaktyŚwiat serialiwww.rmf24.plmenwayEuroSportEuroSportFakty
+                                                                            Chcesz poznać najnowsze promocje i wyprzedaże sieci handlowych? Sprawdź je na Okazjum.pl                                                                    
+                                                                            Przepisy kulinarne                                                                    
+                                                                            Dowiedz się jak oszczędzać                                                                    
+                                                                            Inspiracje dla kobiet                                                                    Korzystanie z portalu oznacza akceptację Regulaminu.   Prywatność. Copyright by INTERIA.PL 1999-2018. Wszystkie prawa zastrzeżone.

@@ -1,0 +1,18 @@
+
+Wietnamska policja zatrzymała w niedzielę w stolicy kraju Hanoi kilkunastu demonstrantów i rozpędziła protesty w innych miastach przeciwko planom utworzenia nowych specjalnych stref ekonomicznych.
+
+
+Protestujący obawiają się, że nowe strefy ekonomiczne zostaną zdominowane przez chińskich inwestorów.W maju zeszłego roku władze Wietnamu poinformowały, że planują uruchomić trzy specjalne strefy ekonomiczne oferujące inwestorom więcej zachęt i mniej ograniczeń niż obecnie w Wietnamie.Projekt ustawy w tej sprawie nie określa potencjalnych inwestorów zagranicznych, którzy mogą np. dzierżawić ziemię w nowo utworzonych strefach do 99 lat, ale protestujący obawiają się, że sfera ta zostanie zdominowana przez sąsiednie Chiny.Na niedzielnej demonstracji w Hanoi jej uczestnicy nieśli transparenty z antychińskimi hasłami: "Nie dla dzierżawy ziemi przez Chiny nawet na jeden dzień". W pewnym momencie policja zatrzymała kilkunastu protestujących, wsadziła ich do radiowozów i odjechała - podaje agencja Reutera.
+
+
+
+
+sas.cmd.push(function() {
+sas.render('44836');  // Format : m.Navibox_2 0x0
+});
+
+
+
+
+
+Podobne demonstracje miały miejsce w niedzielę w innych miastach w całym kraju, w tym w stolicy gospodarczej mieście Ho Chi Minh, ale zostały rozpędzone przez policję - poinformowali działacze w mediach społecznościowych. Nie jest jasne, czy w innych miastach także zatrzymano protestujących. W sobotę rząd oświadczył, że zwrócił się do parlamentu o przesunięcie głosowania nad projektem ustawy, aby umożliwić jego dalszą analizę. "Projekt ustawy ma na celu znaczne wzmocnienie rozwoju trzech specjalnych jednostek administracyjnych i gospodarczych, w tym Van Don w prowincji Quang Ninh (w regionie Północno-Wschodnim), Bac Van Phong w prowincji Khanh Hoa (w regionie Wybrzeża Południowo-Środkowego) i Phu Quoc w prowincji Kien Giang (...) (w Delcie Mekongu)" - oświadczył rząd. Wstępny projekt ustawy przewiduje, że ziemia w strefach może być wydzierżawiona na okres do 99 lat, ale premier Nguyen Xuan Phuc powiedział lokalnym agencjom w zeszłym tygodniu, że okres ten zostanie skrócony; nie ujawnił jednak do ilu lat.Do niedzielnych protestów doszło w czasie narastających napięć na spornych wodach Morza Południowochińskiego. Do większości tego akwenu, przez który rocznie transportowane są towary i surowce o szacowanej wartości ponad 5 bln dolarów, prawa roszczą sobie Chiny. Komunistyczny Wietnam jest regularnie krytykowany za naruszanie wolności prasy i łamanie praw człowieka. Według ostatnich obliczeń Amnesty International w więzieniach w tym kraju przebywa 97 więźniów politycznych. Według nowojorskiej organizacji Human Rights Watch za kratkami przebywa obecnie ponad 100 obrońców praw człowieka, w tym blogerów.cyk/Copyright © Bankier.pl
